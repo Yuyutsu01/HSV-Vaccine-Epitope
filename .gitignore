@@ -1,6 +1,7 @@
-# Binary executables
-hsv_curated_dataset/bin/*.exe
+# Binary executables and tools
+hsv_curated_dataset/bin/
 *.exe
+*.zip
 
 # Ephemeral HyPhy pipeline scratch files and cache dumps
 hsv_curated_dataset/07_qc_reports/hyphy/_tmp/

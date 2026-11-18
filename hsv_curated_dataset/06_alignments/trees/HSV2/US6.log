@@ -1,0 +1,136 @@
+IQ-TREE multicore version 2.4.0 for Windows 64-bit built Feb  7 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    YUYUTSU (AVX512, FMA3, 15 GB RAM)
+Command: hsv_curated_dataset/bin/iqtree/iqtree-2.4.0-Windows/bin/iqtree2.exe -s hsv_curated_dataset/06_alignments/HSV2\US6_aligned.fasta -m GTR+I+G4 --fast -T 4 --prefix hsv_curated_dataset/06_alignments/trees/HSV2\US6 --seqtype DNA -redo
+Seed:    972837 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Oct 28 20:24:02 2026
+Kernel:  AVX+FMA - 4 threads (16 CPU cores detected)
+
+Reading alignment file hsv_curated_dataset/06_alignments/HSV2\US6_aligned.fasta ... Fasta format detected
+Reading fasta file: done in 0.0019278 secs
+Alignment most likely contains DNA/RNA sequences
+Alignment has 54 sequences with 1179 columns, 49 distinct patterns
+17 parsimony-informative, 29 singleton sites, 1133 constant sites
+WARNING: Some sequence names are changed as follows:
+PZ135825|US6|51-SV_uncultured|USA|2021.0||False|False|cluster_size=18|collapsed=PZ135825,PZ135824,PZ135823,PQ065511,PQ065507...(+13) -> PZ135825|US6|51-SV_uncultured|USA|2021.0||False|False|cluster_size_18|collapsed_PZ135825_PZ135824_PZ135823_PQ065511_PQ065507...__13_
+PX242236|US6|MCL-24-H-4740||||False|False|cluster_size=133|collapsed=PX242236,PV972685,PV798441,PQ065522,PQ065517...(+128) -> PX242236|US6|MCL-24-H-4740||||False|False|cluster_size_133|collapsed_PX242236_PV972685_PV798441_PQ065522_PQ065517...__128_
+PQ065521|US6|HSV2/USA/WA-UW-2R5/2020||||False|False|cluster_size=22|collapsed=PQ065521,PQ065518,PQ065508,KF781518,PP100078...(+17) -> PQ065521|US6|HSV2/USA/WA-UW-2R5/2020||||False|False|cluster_size_22|collapsed_PQ065521_PQ065518_PQ065508_KF781518_PP100078...__17_
+PQ065520|US6|HSV2/USA/WA-UW-2R2/2020||||False|False|cluster_size=4|collapsed=PQ065520,PP100066,MH790633,KP334095 -> PQ065520|US6|HSV2/USA/WA-UW-2R2/2020||||False|False|cluster_size_4|collapsed_PQ065520_PP100066_MH790633_KP334095
+PQ065519|US6|HSV2/USA/WA-UW-2Q7/2020||||False|False|cluster_size=1|collapsed=PQ065519 -> PQ065519|US6|HSV2/USA/WA-UW-2Q7/2020||||False|False|cluster_size_1|collapsed_PQ065519
+PQ065515|US6|HSV2/USA/WA-UW-2P4/2020||||False|False|cluster_size=1|collapsed=PQ065515 -> PQ065515|US6|HSV2/USA/WA-UW-2P4/2020||||False|False|cluster_size_1|collapsed_PQ065515
+PQ065513|US6|HSV2/USA/WA-UW-2P2/2020||||False|False|cluster_size=33|collapsed=PQ065513,PQ065510,PQ065501,PQ065500,PQ065499...(+28) -> PQ065513|US6|HSV2/USA/WA-UW-2P2/2020||||False|False|cluster_size_33|collapsed_PQ065513_PQ065510_PQ065501_PQ065500_PQ065499...__28_
+PQ065509|US6|HSV2/USA/WA-UW-2N8/2020||||False|False|cluster_size=1|collapsed=PQ065509 -> PQ065509|US6|HSV2/USA/WA-UW-2N8/2020||||False|False|cluster_size_1|collapsed_PQ065509
+PQ065505|US6|HSV2/USA/WA-UW-2L6/2020||||False|False|cluster_size=1|collapsed=PQ065505 -> PQ065505|US6|HSV2/USA/WA-UW-2L6/2020||||False|False|cluster_size_1|collapsed_PQ065505
+PQ065502|US6|HSV2/USA/WA-UW-2J9/2019||||False|False|cluster_size=12|collapsed=PQ065502,PP100004,KX574871,KR135325,PP100084...(+7) -> PQ065502|US6|HSV2/USA/WA-UW-2J9/2019||||False|False|cluster_size_12|collapsed_PQ065502_PP100004_KX574871_KR135325_PP100084...__7_
+PQ065498|US6|HSV2/USA/WA-UW-2I8/2019||||False|False|cluster_size=16|collapsed=PQ065498,PP099997,MH790599,KX574863,PP100012...(+11) -> PQ065498|US6|HSV2/USA/WA-UW-2I8/2019||||False|False|cluster_size_16|collapsed_PQ065498_PP099997_MH790599_KX574863_PP100012...__11_
+PQ065492|US6|HSV2/USA/WA-UW-2D4/2019||||False|False|cluster_size=3|collapsed=PQ065492,MH790666,MH790612 -> PQ065492|US6|HSV2/USA/WA-UW-2D4/2019||||False|False|cluster_size_3|collapsed_PQ065492_MH790666_MH790612
+PP100069|US6|1||||False|False|cluster_size=3|collapsed=PP100069,MH790567,MF510267 -> PP100069|US6|1||||False|False|cluster_size_3|collapsed_PP100069_MH790567_MF510267
+PP100060|US6|70||||False|False|cluster_size=5|collapsed=PP100060,MH790647,KR135311,MH790626,MF510350 -> PP100060|US6|70||||False|False|cluster_size_5|collapsed_PP100060_MH790647_KR135311_MH790626_MF510350
+MH790654|US6|2002-8734||||False|False|cluster_size=2|collapsed=MH790654,MH790629 -> MH790654|US6|2002-8734||||False|False|cluster_size_2|collapsed_MH790654_MH790629
+MT364888|US6|||||False|False|cluster_size=1|collapsed=MT364888 -> MT364888|US6|||||False|False|cluster_size_1|collapsed_MT364888
+KY922726|US6|HSV2-H12212|USA|||False|False|cluster_size=1|collapsed=KY922726 -> KY922726|US6|HSV2-H12212|USA|||False|False|cluster_size_1|collapsed_KY922726
+KY922725|US6|HSV2-H12211|USA|||False|False|cluster_size=1|collapsed=KY922725 -> KY922725|US6|HSV2-H12211|USA|||False|False|cluster_size_1|collapsed_KY922725
+KX574897|US6|2011-21761||||False|False|cluster_size=1|collapsed=KX574897 -> KX574897|US6|2011-21761||||False|False|cluster_size_1|collapsed_KX574897
+KX574893|US6|2009-4550||||False|False|cluster_size=1|collapsed=KX574893 -> KX574893|US6|2009-4550||||False|False|cluster_size_1|collapsed_KX574893
+KX574880|US6|2007-39712||||False|False|cluster_size=1|collapsed=KX574880 -> KX574880|US6|2007-39712||||False|False|cluster_size_1|collapsed_KX574880
+KX574874|US6|2007-38627||||False|False|cluster_size=11|collapsed=KX574874,PP100036,MH790648,MH790607,MH790552...(+6) -> KX574874|US6|2007-38627||||False|False|cluster_size_11|collapsed_KX574874_PP100036_MH790648_MH790607_MH790552...__6_
+KR135330|US6|HSV-2/US/BID-G1929/BethesdaP5||||False|False|cluster_size=3|collapsed=KR135330,MH790641,KY922722 -> KR135330|US6|HSV-2/US/BID-G1929/BethesdaP5||||False|False|cluster_size_3|collapsed_KR135330_MH790641_KY922722
+KR135327|US6|HSV-2/JP/BID-G32591/JA7||||False|False|cluster_size=1|collapsed=KR135327 -> KR135327|US6|HSV-2/JP/BID-G32591/JA7||||False|False|cluster_size_1|collapsed_KR135327
+KR135326|US6|HSV-2/JP/BID-G32590/JA6||||False|False|cluster_size=4|collapsed=KR135326,KR135324,KR135323,MH790581 -> KR135326|US6|HSV-2/JP/BID-G32590/JA6||||False|False|cluster_size_4|collapsed_KR135326_KR135324_KR135323_MH790581
+KR135322|US6|HSV-2/JP/BID-G32586/JA1||||False|False|cluster_size=4|collapsed=KR135322,PP100095,PP099994,MH790650 -> KR135322|US6|HSV-2/JP/BID-G32586/JA1||||False|False|cluster_size_4|collapsed_KR135322_PP100095_PP099994_MH790650
+KR135320|US6|HSV-2/ZA/BID-G19093/SD66/1995||||False|False|cluster_size=1|collapsed=KR135320 -> KR135320|US6|HSV-2/ZA/BID-G19093/SD66/1995||||False|False|cluster_size_1|collapsed_KR135320
+KR135317|US6|HSV-2/UG/BID-G19089/A76832/2007||||False|False|cluster_size=6|collapsed=KR135317,KR135316,KR135315,KR135306,KR135300...(+1) -> KR135317|US6|HSV-2/UG/BID-G19089/A76832/2007||||False|False|cluster_size_6|collapsed_KR135317_KR135316_KR135315_KR135306_KR135300...__1_
+KR135309|US6|HSV-2/US/BID-G19081/44-419851/2007||||False|False|cluster_size=1|collapsed=KR135309 -> KR135309|US6|HSV-2/US/BID-G19081/44-419851/2007||||False|False|cluster_size_1|collapsed_KR135309
+KR135303|US6|HSV-2/UG/BID-G44423/L22861/2007||||False|False|cluster_size=1|collapsed=KR135303 -> KR135303|US6|HSV-2/UG/BID-G44423/L22861/2007||||False|False|cluster_size_1|collapsed_KR135303
+KR135302|US6|HSV-2/UG/BID-G19074/M1119/2007||||False|False|cluster_size=1|collapsed=KR135302 -> KR135302|US6|HSV-2/UG/BID-G19074/M1119/2007||||False|False|cluster_size_1|collapsed_KR135302
+KR135298|US6|HSV-2/US/BID-G19070/8937-1-3336/2003||||False|False|cluster_size=1|collapsed=KR135298 -> KR135298|US6|HSV-2/US/BID-G19070/8937-1-3336/2003||||False|False|cluster_size_1|collapsed_KR135298
+PP100082|US6|44||||False|False|cluster_size=2|collapsed=PP100082,MH790554 -> PP100082|US6|44||||False|False|cluster_size_2|collapsed_PP100082_MH790554
+PP100081|US6|22||||False|False|cluster_size=1|collapsed=PP100081 -> PP100081|US6|22||||False|False|cluster_size_1|collapsed_PP100081
+PP100065|US6|63||||False|False|cluster_size=5|collapsed=PP100065,MF510357,MF510351,MF510300,MF510291 -> PP100065|US6|63||||False|False|cluster_size_5|collapsed_PP100065_MF510357_MF510351_MF510300_MF510291
+PP100063|US6|64||||False|False|cluster_size=3|collapsed=PP100063,MH790646,MH790571 -> PP100063|US6|64||||False|False|cluster_size_3|collapsed_PP100063_MH790646_MH790571
+PP100058|US6|69||||False|False|cluster_size=3|collapsed=PP100058,MH790574,MH790558 -> PP100058|US6|69||||False|False|cluster_size_3|collapsed_PP100058_MH790574_MH790558
+PP100034|US6|92||||False|False|cluster_size=2|collapsed=PP100034,MH790669 -> PP100034|US6|92||||False|False|cluster_size_2|collapsed_PP100034_MH790669
+PP100014|US6|104||||False|False|cluster_size=1|collapsed=PP100014 -> PP100014|US6|104||||False|False|cluster_size_1|collapsed_PP100014
+PP099999|US6|117||||False|False|cluster_size=2|collapsed=PP099999,MF510306 -> PP099999|US6|117||||False|False|cluster_size_2|collapsed_PP099999_MF510306
+PP099986|US6|122||||False|False|cluster_size=2|collapsed=PP099986,MF510356 -> PP099986|US6|122||||False|False|cluster_size_2|collapsed_PP099986_MF510356
+MF621254|US6|2005-37403||||False|False|cluster_size=2|collapsed=MF621254,MF510362 -> MF621254|US6|2005-37403||||False|False|cluster_size_2|collapsed_MF621254_MF510362
+MH899846|US6|2006-15095||||False|False|cluster_size=1|collapsed=MH899846 -> MH899846|US6|2006-15095||||False|False|cluster_size_1|collapsed_MH899846
+MH790615|US6|2004-43128||||False|False|cluster_size=6|collapsed=MH790615,MF510328,MF510319,MF510307,MF510288...(+1) -> MH790615|US6|2004-43128||||False|False|cluster_size_6|collapsed_MH790615_MF510328_MF510319_MF510307_MF510288...__1_
+MH790592|US6|2008-36694||||False|False|cluster_size=1|collapsed=MH790592 -> MH790592|US6|2008-36694||||False|False|cluster_size_1|collapsed_MH790592
+MF510317|US6|2015-2427||||False|False|cluster_size=1|collapsed=MF510317 -> MF510317|US6|2015-2427||||False|False|cluster_size_1|collapsed_MF510317
+MH790658|US6|2006-16150CAM||||False|False|cluster_size=1|collapsed=MH790658 -> MH790658|US6|2006-16150CAM||||False|False|cluster_size_1|collapsed_MH790658
+MF510347|US6|2009_3488||||False|False|cluster_size=2|collapsed=MF510347,KX574905 -> MF510347|US6|2009_3488||||False|False|cluster_size_2|collapsed_MF510347_KX574905
+MF510312|US6|2009_2246||||False|False|cluster_size=1|collapsed=MF510312 -> MF510312|US6|2009_2246||||False|False|cluster_size_1|collapsed_MF510312
+MF510303|US6|2009_406||||False|False|cluster_size=1|collapsed=MF510303 -> MF510303|US6|2009_406||||False|False|cluster_size_1|collapsed_MF510303
+MF510296|US6|2009_3539||||False|False|cluster_size=1|collapsed=MF510296 -> MF510296|US6|2009_3539||||False|False|cluster_size_1|collapsed_MF510296
+MF510283|US6|2012_9333||||False|False|cluster_size=2|collapsed=MF510283,KX574906 -> MF510283|US6|2012_9333||||False|False|cluster_size_2|collapsed_MF510283_KX574906
+MF510280|US6|2009_3495||||False|False|cluster_size=1|collapsed=MF510280 -> MF510280|US6|2009_3495||||False|False|cluster_size_1|collapsed_MF510280
+KX574862|US6|2006-19390||||False|False|cluster_size=1|collapsed=KX574862 -> KX574862|US6|2006-19390||||False|False|cluster_size_1|collapsed_KX574862
+
+Analyzing sequences: done in 1.6e-005 secs
+Creating fast initial parsimony tree by random order stepwise addition...
+0.01 seconds, parsimony score: 58 (based on 46 sites)
+
+NOTE: 0 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.50)
+1. Initial log-likelihood: -2090.89
+2. Current log-likelihood: -2045.51
+3. Current log-likelihood: -2044.79
+Optimal log-likelihood: -2044.76
+Rate parameters:  A-C: 0.83876  A-G: 4.57343  A-T: 0.00010  C-G: 0.09850  C-T: 5.79685  G-T: 1.00000
+Warning! Some parameters hit the boundaries
+Base frequencies:  A: 0.188  C: 0.373  G: 0.271  T: 0.169
+Proportion of invariable sites: 0.485
+Gamma shape alpha: 0.020
+Parameters optimization took 3 rounds (0.029 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0052786 secs using 1184% CPU
+Computing ML distances took 0.005407 sec (of wall-clock time) 0.062500 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.0001218 secs
+Computing RapidNJ tree took 0.000454 sec (of wall-clock time) 0.000000 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -2045.991
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 2: -2044.036
+Finish initializing candidate tree set (3)
+Current best tree score: -2044.036 / CPU time: 0.027
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -2044.036
+Optimal log-likelihood: -2044.011
+Rate parameters:  A-C: 0.84447  A-G: 4.58335  A-T: 0.00010  C-G: 0.09837  C-T: 5.82037  G-T: 1.00000
+Warning! Some parameters hit the boundaries
+Base frequencies:  A: 0.188  C: 0.373  G: 0.271  T: 0.169
+Proportion of invariable sites: 0.490
+Gamma shape alpha: 0.020
+Parameters optimization took 1 rounds (0.007 sec)
+BEST SCORE FOUND : -2044.011
+Total tree length: 0.054
+
+Total number of iterations: 2
+CPU time used for tree search: 0.094 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.027 sec (0h:0m:0s)
+Total CPU time used: 0.391 sec (0h:0m:0s)
+Total wall-clock time used: 0.116 sec (0h:0m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                hsv_curated_dataset/06_alignments/trees/HSV2\US6.iqtree
+  Maximum-likelihood tree:       hsv_curated_dataset/06_alignments/trees/HSV2\US6.treefile
+  Likelihood distances:          hsv_curated_dataset/06_alignments/trees/HSV2\US6.mldist
+  Screen log file:               hsv_curated_dataset/06_alignments/trees/HSV2\US6.log
+
+Date and Time: Wed Oct 28 20:24:03 2026

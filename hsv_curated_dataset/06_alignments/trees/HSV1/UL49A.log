@@ -1,0 +1,113 @@
+IQ-TREE multicore version 2.4.0 for Windows 64-bit built Feb  7 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    YUYUTSU (AVX512, FMA3, 15 GB RAM)
+Command: hsv_curated_dataset/bin/iqtree/iqtree-2.4.0-Windows/bin/iqtree2.exe -s hsv_curated_dataset/06_alignments/HSV1\UL49A_aligned.fasta -m GTR+I+G4 --fast -T 4 --prefix hsv_curated_dataset/06_alignments/trees/HSV1\UL49A --seqtype DNA -redo
+Seed:    669091 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Oct 28 20:24:43 2026
+Kernel:  AVX+FMA - 4 threads (16 CPU cores detected)
+
+Reading alignment file hsv_curated_dataset/06_alignments/HSV1\UL49A_aligned.fasta ... Fasta format detected
+Reading fasta file: done in 0.0003055 secs
+Alignment most likely contains DNA/RNA sequences
+Alignment has 32 sequences with 273 columns, 45 distinct patterns
+8 parsimony-informative, 49 singleton sites, 216 constant sites
+WARNING: Some sequence names are changed as follows:
+PZ347688|UL49A|HSV1-1981-H186||||False|False|cluster_size=189|collapsed=PZ347688,PZ169720,PZ169719,PZ169717,PZ169716...(+184) -> PZ347688|UL49A|HSV1-1981-H186||||False|False|cluster_size_189|collapsed_PZ347688_PZ169720_PZ169719_PZ169717_PZ169716...__184_
+PZ169710|UL49A|D_d12_skin|USA|2009.0||False|False|cluster_size=2|collapsed=PZ169710,PZ169709 -> PZ169710|UL49A|D_d12_skin|USA|2009.0||False|False|cluster_size_2|collapsed_PZ169710_PZ169709
+PZ169691|UL49A|Y_d9_plasma||||False|False|cluster_size=3|collapsed=PZ169691,PZ169690,PZ169689 -> PZ169691|UL49A|Y_d9_plasma||||False|False|cluster_size_3|collapsed_PZ169691_PZ169690_PZ169689
+PZ169687|UL49A|X_d8_skin|USA|2009.0||False|False|cluster_size=34|collapsed=PZ169687,PZ169686,OP431878,OP431906,OP431903...(+29) -> PZ169687|UL49A|X_d8_skin|USA|2009.0||False|False|cluster_size_34|collapsed_PZ169687_PZ169686_OP431878_OP431906_OP431903...__29_
+PZ169684|UL49A|A_d8_CSF||||False|False|cluster_size=7|collapsed=PZ169684,PZ169683,PZ169682,PZ169681,PZ169679...(+2) -> PZ169684|UL49A|A_d8_CSF||||False|False|cluster_size_7|collapsed_PZ169684_PZ169683_PZ169682_PZ169681_PZ169679...__2_
+QP771543|UL49A|||||False|False|cluster_size=19|collapsed=QP771543,PX911520,PX911519,PX837190,PX763612...(+14) -> QP771543|UL49A|||||False|False|cluster_size_19|collapsed_QP771543_PX911520_PX911519_PX837190_PX763612...__14_
+PV146402|UL49A|SJZ196/2019|China|2019.0||False|False|cluster_size=1|collapsed=PV146402 -> PV146402|UL49A|SJZ196/2019|China|2019.0||False|False|cluster_size_1|collapsed_PV146402
+OP431899|UL49A|HSV1-v67_d345_gen||||False|False|cluster_size=2|collapsed=OP431899,OP297885 -> OP431899|UL49A|HSV1-v67_d345_gen||||False|False|cluster_size_2|collapsed_OP431899_OP297885
+OR833067|UL49A|HSV1/USA/WA-UW-2K2/2019||||False|False|cluster_size=2|collapsed=OR833067,OQ724934 -> OR833067|UL49A|HSV1/USA/WA-UW-2K2/2019||||False|False|cluster_size_2|collapsed_OR833067_OQ724934
+OR833065|UL49A|HSV1/USA/WA-UW-2J7/2019||||False|False|cluster_size=1|collapsed=OR833065 -> OR833065|UL49A|HSV1/USA/WA-UW-2J7/2019||||False|False|cluster_size_1|collapsed_OR833065
+OR771695|UL49A|HSV1/USA/WA-UW-2R8/2020||||False|False|cluster_size=8|collapsed=OR771695,OP297886,MN159381,MN159380,MN159379...(+3) -> OR771695|UL49A|HSV1/USA/WA-UW-2R8/2020||||False|False|cluster_size_8|collapsed_OR771695_OP297886_MN159381_MN159380_MN159379...__3_
+OR771691|UL49A|HSV1/USA/WA-UW-2Q6/2020||||False|False|cluster_size=1|collapsed=OR771691 -> OR771691|UL49A|HSV1/USA/WA-UW-2Q6/2020||||False|False|cluster_size_1|collapsed_OR771691
+OR771687|UL49A|HSV1/USA/WA-UW-2N3/2020||||False|False|cluster_size=1|collapsed=OR771687 -> OR771687|UL49A|HSV1/USA/WA-UW-2N3/2020||||False|False|cluster_size_1|collapsed_OR771687
+OQ724937|UL49A|BP-L10||||False|False|cluster_size=1|collapsed=OQ724937 -> OQ724937|UL49A|BP-L10||||False|False|cluster_size_1|collapsed_OQ724937
+OQ724894|UL49A|BP-K9|USA|2011.0||False|False|cluster_size=1|collapsed=OQ724894 -> OQ724894|UL49A|BP-K9|USA|2011.0||False|False|cluster_size_1|collapsed_OQ724894
+OQ724890|UL49A|BP-K4|USA|2009.0||False|False|cluster_size=3|collapsed=OQ724890,OQ724867,OQ724835 -> OQ724890|UL49A|BP-K4|USA|2009.0||False|False|cluster_size_3|collapsed_OQ724890_OQ724867_OQ724835
+OQ724866|UL49A|BP-C14|USA|2015.0||False|False|cluster_size=1|collapsed=OQ724866 -> OQ724866|UL49A|BP-C14|USA|2015.0||False|False|cluster_size_1|collapsed_OQ724866
+OQ724868|UL49A|BP-K1|USA|2002.0||False|False|cluster_size=1|collapsed=OQ724868 -> OQ724868|UL49A|BP-K1|USA|2002.0||False|False|cluster_size_1|collapsed_OQ724868
+OQ102003|UL49A|352/08||||False|False|cluster_size=2|collapsed=OQ102003,HM585509 -> OQ102003|UL49A|352/08||||False|False|cluster_size_2|collapsed_OQ102003_HM585509
+OP297870|UL49A|HSV1-v58_d1_cu_gen_les|USA|||False|False|cluster_size=1|collapsed=OP297870 -> OP297870|UL49A|HSV1-v58_d1_cu_gen_les|USA|||False|False|cluster_size_1|collapsed_OP297870
+OP297869|UL49A|HSV1-v42_d338_cu_gen_les||||False|False|cluster_size=5|collapsed=OP297869,ON007160,ON007156,ON007147,ON007135 -> OP297869|UL49A|HSV1-v42_d338_cu_gen_les||||False|False|cluster_size_5|collapsed_OP297869_ON007160_ON007156_ON007147_ON007135
+OP297864|UL49A|HSV1-v56_d6_cu_gen_les||||False|False|cluster_size=1|collapsed=OP297864 -> OP297864|UL49A|HSV1-v56_d6_cu_gen_les||||False|False|cluster_size_1|collapsed_OP297864
+OP297862|UL49A|HSV1-v73_d4_cu_gen_les|USA|||False|False|cluster_size=1|collapsed=OP297862 -> OP297862|UL49A|HSV1-v73_d4_cu_gen_les|USA|||False|False|cluster_size_1|collapsed_OP297862
+ON783214|UL49A|B^3x1.1A|USA|2015.0||False|False|cluster_size=1|collapsed=ON783214 -> ON783214|UL49A|B_3x1.1A|USA|2015.0||False|False|cluster_size_1|collapsed_ON783214
+ON960061|UL49A|HSV1-Atlanta-USA-1965-E377|USA|1965.0||False|False|cluster_size=1|collapsed=ON960061 -> ON960061|UL49A|HSV1-Atlanta-USA-1965-E377|USA|1965.0||False|False|cluster_size_1|collapsed_ON960061
+ON960055|UL49A|HSV1-San-Francisco-USA-1982-H193-BB|USA|1982.0||False|False|cluster_size=2|collapsed=ON960055,ON960054 -> ON960055|UL49A|HSV1-San-Francisco-USA-1982-H193-BB|USA|1982.0||False|False|cluster_size_2|collapsed_ON960055_ON960054
+ON007153|UL49A|v40_y14_oral1||||False|False|cluster_size=3|collapsed=ON007153,ON007154,ON007132 -> ON007153|UL49A|v40_y14_oral1||||False|False|cluster_size_3|collapsed_ON007153_ON007154_ON007132
+MN925871|UL49A|Sample4_DOCK8|USA|2015.0||False|False|cluster_size=1|collapsed=MN925871 -> MN925871|UL49A|Sample4_DOCK8|USA|2015.0||False|False|cluster_size_1|collapsed_MN925871
+MN159382|UL49A|s17pp22a||||False|False|cluster_size=1|collapsed=MN159382 -> MN159382|UL49A|s17pp22a||||False|False|cluster_size_1|collapsed_MN159382
+MH999845|UL49A|HSV-H12117|USA|||False|False|cluster_size=1|collapsed=MH999845 -> MH999845|UL49A|HSV-H12117|USA|||False|False|cluster_size_1|collapsed_MH999845
+LT594105|UL49A|172/2010|Germany|2010.0|SAMEA4017987|False|False|cluster_size=1|collapsed=LT594105 -> LT594105|UL49A|172/2010|Germany|2010.0|SAMEA4017987|False|False|cluster_size_1|collapsed_LT594105
+HM585511|UL49A|E19||||False|False|cluster_size=1|collapsed=HM585511 -> HM585511|UL49A|E19||||False|False|cluster_size_1|collapsed_HM585511
+
+Analyzing sequences: done in 1.6e-005 secs
+Creating fast initial parsimony tree by random order stepwise addition...
+0.00 seconds, parsimony score: 63 (based on 57 sites)
+
+NOTE: 0 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.50)
+1. Initial log-likelihood: -740.49
+2. Current log-likelihood: -731.20
+Optimal log-likelihood: -730.91
+Rate parameters:  A-C: 0.77902  A-G: 2.98155  A-T: 0.44785  C-G: 1.08345  C-T: 1.28922  G-T: 1.00000
+Base frequencies:  A: 0.134  C: 0.300  G: 0.384  T: 0.182
+Proportion of invariable sites: 0.389
+Gamma shape alpha: 998.418
+Parameters optimization took 2 rounds (0.009 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.001114 secs
+Computing ML distances took 0.001265 sec (of wall-clock time) 0.000000 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 7.29e-005 secs
+Computing RapidNJ tree took 0.000273 sec (of wall-clock time) 0.000000 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -735.271
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -730.665
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 2: -729.608
+Finish initializing candidate tree set (4)
+Current best tree score: -729.608 / CPU time: 0.031
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -729.608
+Optimal log-likelihood: -729.592
+Rate parameters:  A-C: 0.77254  A-G: 2.95198  A-T: 0.44548  C-G: 1.02624  C-T: 1.41913  G-T: 1.00000
+Base frequencies:  A: 0.134  C: 0.300  G: 0.384  T: 0.182
+Proportion of invariable sites: 0.378
+Gamma shape alpha: 998.418
+Parameters optimization took 1 rounds (0.002 sec)
+BEST SCORE FOUND : -729.592
+Total tree length: 0.256
+
+Total number of iterations: 2
+CPU time used for tree search: 0.125 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.031 sec (0h:0m:0s)
+Total CPU time used: 0.281 sec (0h:0m:0s)
+Total wall-clock time used: 0.080 sec (0h:0m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                hsv_curated_dataset/06_alignments/trees/HSV1\UL49A.iqtree
+  Maximum-likelihood tree:       hsv_curated_dataset/06_alignments/trees/HSV1\UL49A.treefile
+  Likelihood distances:          hsv_curated_dataset/06_alignments/trees/HSV1\UL49A.mldist
+  Screen log file:               hsv_curated_dataset/06_alignments/trees/HSV1\UL49A.log
+
+Date and Time: Wed Oct 28 20:24:43 2026

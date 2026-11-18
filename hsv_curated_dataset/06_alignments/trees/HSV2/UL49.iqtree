@@ -1,0 +1,350 @@
+IQ-TREE 2.4.0 built Feb  7 2025
+
+Input file name: hsv_curated_dataset/06_alignments/HSV2\UL49_aligned.fasta
+Type of analysis: tree reconstruction
+Random seed number: 686351
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 119 sequences with 906 nucleotide sites
+Number of constant sites: 240 (= 26.4901% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 240 (= 26.4901% of all sites)
+Number of parsimony informative sites: 593
+Number of distinct site patterns: 264
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+I+G4
+
+Rate parameter R:
+
+  A-C: 0.2500
+  A-G: 0.6694
+  A-T: 0.0001
+  C-G: 0.0650
+  C-T: 2.3201
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.1345
+  pi(C) = 0.4221
+  pi(G) = 0.3298
+  pi(T) = 0.1135
+
+Rate matrix Q:
+
+  A   -0.8093    0.2617    0.5476  2.816e-005
+  C   0.08339     -0.79   0.05321    0.6534
+  G    0.2233   0.06809    -0.573    0.2816
+  T  3.336e-005     2.429    0.8181    -3.247
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.2218
+Gamma shape alpha: 0.7458
+
+ Category  Relative_rate  Proportion
+  0         0              0.2218
+  1         0.1079         0.1946
+  2         0.4939         0.1946
+  3         1.209          0.1946
+  4         3.329          0.1946
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -5400.6112 (s.e. 174.6366)
+Unconstrained log-likelihood (without tree): -4201.2374
+Number of free parameters (#branches + #model parameters): 245
+Akaike information criterion (AIC) score: 11291.2224
+Corrected Akaike information criterion (AICc) score: 11473.8587
+Bayesian information criterion (BIC) score: 12469.4370
+
+Total tree length (sum of branch lengths): 50.2455
+Sum of internal branch lengths: 40.1094 (79.8269% of tree length)
+
+WARNING: 49 near-zero internal branches (<0.0011) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+WARNING: 5 too long branches (>9.8000) should be treated with caution!
+NOTE: Tree is UNROOTED although outgroup taxon 'PZ135825|UL49|51-SV_uncultured|USA|2021.0||False|False|cluster_size_7|collapsed_PZ135825_PZ135824_PZ135823_PP100002_MF510371...__2_' is drawn at root
+
++--PZ135825|UL49|51-SV_uncultured|USA|2021.0||False|False|cluster_size_7|collapsed_PZ135825_PZ135824_PZ135823_PP100002_MF510371...__2_
+|
+|                          +--PX242236|UL49|MCL-24-H-4740||||False|False|cluster_size_2|collapsed_PX242236_PV798441
+|                       +**|
+|                       |  +--MH790560|UL49|2008-7628||||False|False|cluster_size_1|collapsed_MH790560
+|                    +**|
+|                    |  +**PQ065514|UL49|HSV2/USA/WA-UW-2P3/2020||||False|False|cluster_size_33|collapsed_PQ065514_PP100073_PP100000_PP099973_MH790622...__28_
+|                 +--|
+|                 |  +--MH790642|UL49|2007-29227||||False|False|cluster_size_3|collapsed_MH790642_MF510332_MF510305
+|              +--|
+|              |  +--MF510327|UL49|2010-26||||False|False|cluster_size_1|collapsed_MF510327
+|           +**|
+|           |  |                                                                             +**PQ065521|UL49|HSV2/USA/WA-UW-2R5/2020||||False|False|cluster_size_1|collapsed_PQ065521
+|           |  |                                                                          +--|
+|           |  |                                                                          |  |        +**PQ065518|UL49|HSV2/USA/WA-UW-2Q4/2020||||False|False|cluster_size_12|collapsed_PQ065518_PQ065510_PQ065508_PQ065499_KY922725...__7_
+|           |  |                                                                          |  |     +**|
+|           |  |                                                                          |  |     |  |  +--MH790631|UL49|2010-4919||||False|False|cluster_size_1|collapsed_MH790631
+|           |  |                                                                          |  |     |  +**|
+|           |  |                                                                          |  |     |     +--KX574892|UL49|2009-3532||||False|False|cluster_size_1|collapsed_KX574892
+|           |  |                                                                          |  |  +--|
+|           |  |                                                                          |  |  |  +--PP100072|UL49|25||||False|False|cluster_size_1|collapsed_PP100072
+|           |  |                                                                          |  +**|
+|           |  |                                                                          |     |        +**PQ065512|UL49|HSV2/USA/WA-UW-2P1/2020||||False|False|cluster_size_8|collapsed_PQ065512_PP100077_PP100025_MH790651_MH790580...__3_
+|           |  |                                                                          |     |     +--|
+|           |  |                                                                          |     |     |  +--MH790577|UL49|2007-22053||||False|False|cluster_size_1|collapsed_MH790577
+|           |  |                                                                          |     |  +--|
+|           |  |                                                                          |     |  |  |        +--KX574860|UL49|2007-38205||||False|False|cluster_size_1|collapsed_KX574860
+|           |  |                                                                          |     |  |  |     +**|
+|           |  |                                                                          |     |  |  |     |  +**KX574902|UL49|2009-409||||False|False|cluster_size_7|collapsed_KX574902_KX574898_KX574887_KX574885_KX574883...__2_
+|           |  |                                                                          |     |  |  |  +--|
+|           |  |                                                                          |     |  |  |  |  |  +--KX574886|UL49|2008-37744||||False|False|cluster_size_1|collapsed_KX574886
+|           |  |                                                                          |     |  |  |  |  +--|
+|           |  |                                                                          |     |  |  |  |     +**KX574877|UL49|2007-38910||||False|False|cluster_size_1|collapsed_KX574877
+|           |  |                                                                          |     |  |  +**|
+|           |  |                                                                          |     |  |     +**KX574903|UL49|2003-16029||||False|False|cluster_size_1|collapsed_KX574903
+|           |  |                                                                          |     +--|
+|           |  |                                                                          |        |  +--PQ065495|UL49|HSV2/USA/WA-UW-2G8/2019||||False|False|cluster_size_1|collapsed_PQ065495
+|           |  |                                                                          |        +**|
+|           |  |                                                                          |           +--MF510285|UL49|1995-13482||||False|False|cluster_size_1|collapsed_MF510285
+|           |  |                                                                       +**|
+|           |  |                                                                       |  |                                +**PQ065515|UL49|HSV2/USA/WA-UW-2P4/2020||||False|False|cluster_size_1|collapsed_PQ065515
+|           |  |                                                                       |  |                             +--|
+|           |  |                                                                       |  |                             |  +--PP100060|UL49|70||||False|False|cluster_size_3|collapsed_PP100060_MH790647_MH790626
+|           |  |                                                                       |  |                          +**|
+|           |  |                                                                       |  |                          |  |     +--PQ065505|UL49|HSV2/USA/WA-UW-2L6/2020||||False|False|cluster_size_1|collapsed_PQ065505
+|           |  |                                                                       |  |                          |  |  +--|
+|           |  |                                                                       |  |                          |  |  |  +**KR135319|UL49|HSV-2/UG/BID-G19091/D39765/2008||||False|False|cluster_size_10|collapsed_KR135319_KR135317_KR135316_KR135315_KR135307...__5_
+|           |  |                                                                       |  |                          |  +--|
+|           |  |                                                                       |  |                          |     +--PP100059|UL49|67||||False|False|cluster_size_2|collapsed_PP100059_PP100037
+|           |  |                                                                       |  |                       +--|
+|           |  |                                                                       |  |                       |  +**PQ065500|UL49|HSV2/USA/WA-UW-2J4/2019||||False|False|cluster_size_4|collapsed_PQ065500_PQ065496_KR135313_MH790553
+|           |  |                                                                       |  |                    +--|
+|           |  |                                                                       |  |                    |  +**PP100085|UL49|6||||False|False|cluster_size_1|collapsed_PP100085
+|           |  |                                                                       |  |                 +**|
+|           |  |                                                                       |  |                 |  +--KY922724|UL49|HSV2-H1526||||False|False|cluster_size_1|collapsed_KY922724
+|           |  |                                                                       |  |              +**|
+|           |  |                                                                       |  |              |  +**PQ065513|UL49|HSV2/USA/WA-UW-2P2/2020||||False|False|cluster_size_15|collapsed_PQ065513_PQ065501_MH790662_MF621254_MH790667...__10_
+|           |  |                                                                       |  |           +**|
+|           |  |                                                                       |  |           |  |     +--KR135318|UL49|HSV-2/UG/BID-G19090/D39650/2008||||False|False|cluster_size_1|collapsed_KR135318
+|           |  |                                                                       |  |           |  |  +--|
+|           |  |                                                                       |  |           |  |  |  |  +--MH790652|UL49|2012-26422||||False|False|cluster_size_1|collapsed_MH790652
+|           |  |                                                                       |  |           |  |  |  +**|
+|           |  |                                                                       |  |           |  |  |     +**MF510324|UL49|2012-18385||||False|False|cluster_size_1|collapsed_MF510324
+|           |  |                                                                       |  |           |  +--|
+|           |  |                                                                       |  |           |     +**PP100081|UL49|22||||False|False|cluster_size_1|collapsed_PP100081
+|           |  |                                                                       |  |        +--|
+|           |  |                                                                       |  |        |  +**MF510348|UL49|2006_21876||||False|False|cluster_size_1|collapsed_MF510348
+|           |  |                                                                       |  |     +--|
+|           |  |                                                                       |  |     |  +**KX574896|UL49|2010-6416||||False|False|cluster_size_2|collapsed_KX574896_KX574891
+|           |  |                                                                       |  |  +**|
+|           |  |                                                                       |  |  |  |     +**KX574874|UL49|2007-38627||||False|False|cluster_size_3|collapsed_KX574874_KX574865_KX574867
+|           |  |                                                                       |  |  |  |  +**|
+|           |  |                                                                       |  |  |  |  |  +--KX574872|UL49|2007-38249||||False|False|cluster_size_1|collapsed_KX574872
+|           |  |                                                                       |  |  |  +--|
+|           |  |                                                                       |  |  |     +--MH790592|UL49|2008-36694||||False|False|cluster_size_1|collapsed_MH790592
+|           |  |                                                                       |  +--|
+|           |  |                                                                       |     |     +**KX574863|UL49|2006-21832||||False|False|cluster_size_1|collapsed_KX574863
+|           |  |                                                                       |     |  +--|
+|           |  |                                                                       |     |  |  |  +**MF510349|UL49|2012-15074||||False|False|cluster_size_1|collapsed_MF510349
+|           |  |                                                                       |     |  |  +--|
+|           |  |                                                                       |     |  |     +--MF510316|UL49|2013-10248||||False|False|cluster_size_1|collapsed_MF510316
+|           |  |                                                                       |     +--|
+|           |  |                                                                       |        +--MF510274|UL49|2002-7934||||False|False|cluster_size_1|collapsed_MF510274
+|           |  |                                                                    +**|
+|           |  |                                                                    |  +**KX574901|UL49|2012-32825||||False|False|cluster_size_1|collapsed_KX574901
+|           |  |                                                                 +--|
+|           |  |                                                                 |  |                             +**PQ065507|UL49|HSV2/USA/WA-UW-2N6/2020||||False|False|cluster_size_14|collapsed_PQ065507_PP100069_KR135309_PP099974_MH790594...__9_
+|           |  |                                                                 |  |                          +--|
+|           |  |                                                                 |  |                          |  |  +--MF510293|UL49|2013-41862||||False|False|cluster_size_1|collapsed_MF510293
+|           |  |                                                                 |  |                          |  +**|
+|           |  |                                                                 |  |                          |     +--MH790664|UL49|1995-57888||||False|False|cluster_size_2|collapsed_MH790664_MH790588
+|           |  |                                                                 |  |                       +--|
+|           |  |                                                                 |  |                       |  +**KX574904|UL49|2004-20601||||False|False|cluster_size_1|collapsed_KX574904
+|           |  |                                                                 |  |                    +**|
+|           |  |                                                                 |  |                    |  +--PP100014|UL49|104||||False|False|cluster_size_1|collapsed_PP100014
+|           |  |                                                                 |  |                 +--|
+|           |  |                                                                 |  |                 |  +**PQ065502|UL49|HSV2/USA/WA-UW-2J9/2019||||False|False|cluster_size_1|collapsed_PQ065502
+|           |  |                                                                 |  |              +--|
+|           |  |                                                                 |  |              |  +**PQ065497|UL49|HSV2/USA/WA-UW-2H10/2019||||False|False|cluster_size_1|collapsed_PQ065497
+|           |  |                                                                 |  |           +**|
+|           |  |                                                                 |  |           |  +--KR135303|UL49|HSV-2/UG/BID-G44423/L22861/2007||||False|False|cluster_size_1|collapsed_KR135303
+|           |  |                                                                 |  |        +**|
+|           |  |                                                                 |  |        |  +**KR135306|UL49|HSV-2/UG/BID-G19078/A76191/2008||||False|False|cluster_size_2|collapsed_KR135306_MF510280
+|           |  |                                                                 |  |     +--|
+|           |  |                                                                 |  |     |  +--KX574869|UL49|2006-50074||||False|False|cluster_size_2|collapsed_KX574869_KX574868
+|           |  |                                                                 |  |  +**|
+|           |  |                                                                 |  |  |  |     +--KX574893|UL49|2009-4550||||False|False|cluster_size_1|collapsed_KX574893
+|           |  |                                                                 |  |  |  |  +**|
+|           |  |                                                                 |  |  |  |  |  +--KR135321|UL49|HSV-2/US/BID-G19094/89-390/1989||||False|False|cluster_size_2|collapsed_KR135321_KR135320
+|           |  |                                                                 |  |  |  +**|
+|           |  |                                                                 |  |  |     +**KX574871|UL49|2007-38120||||False|False|cluster_size_1|collapsed_KX574871
+|           |  |                                                                 |  +--|
+|           |  |                                                                 |     |                             +--PQ065492|UL49|HSV2/USA/WA-UW-2D4/2019||||False|False|cluster_size_1|collapsed_PQ065492
+|           |  |                                                                 |     |                          +--|
+|           |  |                                                                 |     |                          |  +**PP100028|UL49|85||||False|False|cluster_size_1|collapsed_PP100028
+|           |  |                                                                 |     |                       +--|
+|           |  |                                                                 |     |                       |  |  +--KR135311|UL49|HSV-2/US/BID-G19083/10883-2001-13347/2005||||False|False|cluster_size_1|collapsed_KR135311
+|           |  |                                                                 |     |                       |  +**|
+|           |  |                                                                 |     |                       |     +**MH790552|UL49|2013-35042||||False|False|cluster_size_2|collapsed_MH790552_MF510312
+|           |  |                                                                 |     |                    +--|
+|           |  |                                                                 |     |                    |  +**PP100021|UL49|78||||False|False|cluster_size_8|collapsed_PP100021_MH790563_KY922721_KR135310_MH790620...__3_
+|           |  |                                                                 |     |                 +**|
+|           |  |                                                                 |     |                 |  +**KX574875|UL49|2007-38807||||False|False|cluster_size_1|collapsed_KX574875
+|           |  |                                                                 |     |              +--|
+|           |  |                                                                 |     |              |  +--MF510344|UL49|2006-25060||||False|False|cluster_size_1|collapsed_MF510344
+|           |  |                                                                 |     |           +--|
+|           |  |                                                                 |     |           |  +**KX574862|UL49|2006-19390||||False|False|cluster_size_1|collapsed_KX574862
+|           |  |                                                                 |     |        +--|
+|           |  |                                                                 |     |        |  +--MF510317|UL49|2015-2427||||False|False|cluster_size_1|collapsed_MF510317
+|           |  |                                                                 |     |     +--|
+|           |  |                                                                 |     |     |  +**KX574882|UL49|2007-40807||||False|False|cluster_size_1|collapsed_KX574882
+|           |  |                                                                 |     |  +--|
+|           |  |                                                                 |     |  |  +**KX574880|UL49|2007-39712||||False|False|cluster_size_3|collapsed_KX574880_KX574899_KX574864
+|           |  |                                                                 |     +--|
+|           |  |                                                                 |        +**KR135312|UL49|HSV-2/US/BID-G19084/9335-2005-576/2009||||False|False|cluster_size_1|collapsed_KR135312
+|           |  |                                              +------------------|
+|           |  |                                              |                  |                             +--PQ065519|UL49|HSV2/USA/WA-UW-2Q7/2020||||False|False|cluster_size_1|collapsed_PQ065519
+|           |  |                                              |                  |                          +**|
+|           |  |                                              |                  |                          |  |        +--PQ065504|UL49|HSV2/USA/WA-UW-2L5/2019||||False|False|cluster_size_1|collapsed_PQ065504
+|           |  |                                              |                  |                          |  |     +--|
+|           |  |                                              |                  |                          |  |     |  +**KR135322|UL49|HSV-2/JP/BID-G32586/JA1||||False|False|cluster_size_2|collapsed_KR135322_PP100095
+|           |  |                                              |                  |                          |  |  +**|
+|           |  |                                              |                  |                          |  |  |  +**PQ065503|UL49|HSV2/USA/WA-UW-2K9/2019||||False|False|cluster_size_5|collapsed_PQ065503_KX574897_MF510364_KX574879_KX574873
+|           |  |                                              |                  |                          |  +--|
+|           |  |                                              |                  |                          |     |  +**KR135302|UL49|HSV-2/UG/BID-G19074/M1119/2007||||False|False|cluster_size_2|collapsed_KR135302_KX574894
+|           |  |                                              |                  |                          |     +--|
+|           |  |                                              |                  |                          |        +--KR135300|UL49|HSV-2/UG/BID-G19072/D30613/2007||||False|False|cluster_size_1|collapsed_KR135300
+|           |  |                                              |                  |                       +**|
+|           |  |                                              |                  |                       |  |  +--MF510329|UL49|1994-32289||||False|False|cluster_size_1|collapsed_MF510329
+|           |  |                                              |                  |                       |  +**|
+|           |  |                                              |                  |                       |     +--MH790623|UL49|2006-13847CAM||||False|False|cluster_size_1|collapsed_MH790623
+|           |  |                                              |                  |                    +--|
+|           |  |                                              |                  |                    |  |  +**PQ065516|UL49|HSV2/USA/WA-UW-2P5/2020||||False|False|cluster_size_4|collapsed_PQ065516_PQ065511_MH790568_KX574876
+|           |  |                                              |                  |                    |  +--|
+|           |  |                                              |                  |                    |     |  +--MF510303|UL49|2009_406||||False|False|cluster_size_1|collapsed_MF510303
+|           |  |                                              |                  |                    |     +**|
+|           |  |                                              |                  |                    |        +--KX574870|UL49|2007-22031||||False|False|cluster_size_1|collapsed_KX574870
+|           |  |                                              |                  |                 +--|
+|           |  |                                              |                  |                 |  +**PQ065498|UL49|HSV2/USA/WA-UW-2I8/2019||||False|False|cluster_size_8|collapsed_PQ065498_KR135328_PP100012_PP099979_MH790650...__3_
+|           |  |                                              |                  |              +**|
+|           |  |                                              |                  |              |  +--KR135329|UL49|HSV-2/JP/BID-G32593/JA9||||False|False|cluster_size_5|collapsed_KR135329_KR135326_KR135324_KR135323_MH790581
+|           |  |                                              |                  |           +**|
+|           |  |                                              |                  |           |  +--PP100047|UL49|55||||False|False|cluster_size_2|collapsed_PP100047_MF510369
+|           |  |                                              |                  |        +**|
+|           |  |                                              |                  |        |  +**PP100063|UL49|64||||False|False|cluster_size_3|collapsed_PP100063_MH790646_MH790571
+|           |  |                                              |                  |     +--|
+|           |  |                                              |                  |     |  |     +**MN187895|UL49|HJ12|China|||False|False|cluster_size_10|collapsed_MN187895_KY922726_KR135330_KR135327_KF781518...__5_
+|           |  |                                              |                  |     |  |  +**|
+|           |  |                                              |                  |     |  |  |  |  +--PP100065|UL49|63||||False|False|cluster_size_6|collapsed_PP100065_MF510357_MF510351_MF510300_MF510291...__1_
+|           |  |                                              |                  |     |  |  |  +**|
+|           |  |                                              |                  |     |  |  |     +--KX574905|UL49|2009-2198||||False|False|cluster_size_1|collapsed_KX574905
+|           |  |                                              |                  |     |  +--|
+|           |  |                                              |                  |     |     +--MH790619|UL49|2004-242||||False|False|cluster_size_2|collapsed_MH790619_MH790561
+|           |  |                                              |                  |  +**|
+|           |  |                                              |                  |  |  |     +--PP100029|UL49|86||||False|False|cluster_size_3|collapsed_PP100029_MH790639_MF621257
+|           |  |                                              |                  |  |  |  +--|
+|           |  |                                              |                  |  |  |  |  +--MF510283|UL49|2012_9333||||False|False|cluster_size_2|collapsed_MF510283_KX574906
+|           |  |                                              |                  |  |  +**|
+|           |  |                                              |                  |  |     |  +--KX574895|UL49|2010-21||||False|False|cluster_size_1|collapsed_KX574895
+|           |  |                                              |                  |  |     +--|
+|           |  |                                              |                  |  |        +**KX574888|UL49|2009-1245||||False|False|cluster_size_1|collapsed_KX574888
+|           |  |                                              |                  +**|
+|           |  |                                              |                     |  +--PQ065494|UL49|HSV2/USA/WA-UW-2G1/2019||||False|False|cluster_size_1|collapsed_PQ065494
+|           |  |                                              |                     +--|
+|           |  |                                              |                        +**PP099997|UL49|133||||False|False|cluster_size_10|collapsed_PP099997_MH790654_MH790599_MH790629_MH790613...__5_
+|           |  |                           +------------------|
+|           |  |                           |                  |                     +--PP100004|UL49|102||||False|False|cluster_size_2|collapsed_PP100004_MH790617
+|           |  |                           |                  |                  +--|
+|           |  |                           |                  |                  |  |        +--KR135314|UL49|HSV-2/US/BID-G19086/7444-1996-25809/1996||||False|False|cluster_size_1|collapsed_KR135314
+|           |  |                           |                  |                  |  |     +--|
+|           |  |                           |                  |                  |  |     |  +--PP100084|UL49|11||||False|False|cluster_size_2|collapsed_PP100084_MF510310
+|           |  |                           |                  |                  |  |  +--|
+|           |  |                           |                  |                  |  |  |  +**PP100058|UL49|69||||False|False|cluster_size_7|collapsed_PP100058_MH790636_MH790616_MH790589_MH790574...__2_
+|           |  |                           |                  |                  |  +**|
+|           |  |                           |                  |                  |     +--MF510350|UL49|2007-37750||||False|False|cluster_size_1|collapsed_MF510350
+|           |  |                           |                  +------------------|
+|           |  |                           |                                     +--MH899846|UL49|2006-15095||||False|False|cluster_size_2|collapsed_MH899846_MH790658
+|           |  |        +------------------|
+|           |  |        |                  +------------------PQ065509|UL49|HSV2/USA/WA-UW-2N8/2020||||False|False|cluster_size_2|collapsed_PQ065509_KR135298
+|           |  |     +--|
+|           |  |     |  +**MF510311|UL49|2007-141||||False|False|cluster_size_1|collapsed_MF510311
+|           |  |  +**|
+|           |  |  |  |        +--PQ065520|UL49|HSV2/USA/WA-UW-2R2/2020||||False|False|cluster_size_10|collapsed_PQ065520_KR135325_PP100082_MF621256_MH790648...__5_
+|           |  |  |  |     +**|
+|           |  |  |  |     |  |     +--MF510359|UL49|1996-45513||||False|False|cluster_size_2|collapsed_MF510359_MF510354
+|           |  |  |  |     |  |  +--|
+|           |  |  |  |     |  |  |  +--MF510284|UL49|2015-3877||||False|False|cluster_size_1|collapsed_MF510284
+|           |  |  |  |     |  +--|
+|           |  |  |  |     |     |  +**MF510279|UL49|1998-7600||||False|False|cluster_size_1|collapsed_MF510279
+|           |  |  |  |     |     +--|
+|           |  |  |  |     |        +**MF510271|UL49|2006-36626||||False|False|cluster_size_1|collapsed_MF510271
+|           |  |  |  |  +**|
+|           |  |  |  |  |  +**MF510268|UL49|1995_45410||||False|False|cluster_size_1|collapsed_MF510268
+|           |  |  |  +--|
+|           |  |  |     |  +--PP100036|UL49|94||||False|False|cluster_size_2|collapsed_PP100036_MF510313
+|           |  |  |     +**|
+|           |  |  |        +--MF510347|UL49|2009_3488||||False|False|cluster_size_1|collapsed_MF510347
+|           |  +--|
+|           |     +**MF510286|UL49|2007-49||||False|False|cluster_size_1|collapsed_MF510286
+|        +**|
+|        |  |     +--MF564037|UL49|sample|cluster_size_2|collapsed_MF564037_MF564036
+|        |  |  +--|
+|        |  |  |  |  +**PP099986|UL49|122||||False|False|cluster_size_1|collapsed_PP099986
+|        |  |  |  +**|
+|        |  |  |     +--MF510330|UL49|2009_2254||||False|False|cluster_size_1|collapsed_MF510330
+|        |  +--|
+|        |     |  +--MF510339|UL49|1995-63092||||False|False|cluster_size_1|collapsed_MF510339
+|        |     +**|
+|        |        +--MF510304|UL49|1995-6523||||False|False|cluster_size_1|collapsed_MF510304
+|     +**|
+|     |  +**PQ065522|UL49|HSV2/USA/WA-UW-2R9/2020||||False|False|cluster_size_17|collapsed_PQ065522_PQ065517_PQ065506_PQ065493_MH790605...__12_
+|  +--|
+|  |  +--MT364888|UL49|||||False|False|cluster_size_1|collapsed_MT364888
++--|
+|  +**OM370995|UL49|G|USA|||False|False|cluster_size_5|collapsed_OM370995_PP100066_PP100034_MH790669_MH790633
+|
++**MF564035|UL49|sample|cluster_size_2|collapsed_MF564035_MF564034
+
+Tree in newick format:
+
+(PZ135825|UL49|51-SV_uncultured|USA|2021.0||False|False|cluster_size_7|collapsed_PZ135825_PZ135824_PZ135823_PP100002_MF510371...__2_:0.0012804380,(((((((((PX242236|UL49|MCL-24-H-4740||||False|False|cluster_size_2|collapsed_PX242236_PV798441:0.0012754482,MH790560|UL49|2008-7628||||False|False|cluster_size_1|collapsed_MH790560:0.0012793099):0.0000027957,PQ065514|UL49|HSV2/USA/WA-UW-2P3/2020||||False|False|cluster_size_33|collapsed_PQ065514_PP100073_PP100000_PP099973_MH790622...__28_:0.0000027351):0.0000023283,MH790642|UL49|2007-29227||||False|False|cluster_size_3|collapsed_MH790642_MF510332_MF510305:0.0012861557):0.0025857433,MF510327|UL49|2010-26||||False|False|cluster_size_1|collapsed_MF510327:0.0026420370):0.0013392599,((((((((((PQ065521|UL49|HSV2/USA/WA-UW-2R5/2020||||False|False|cluster_size_1|collapsed_PQ065521:0.0000025603,(((PQ065518|UL49|HSV2/USA/WA-UW-2Q4/2020||||False|False|cluster_size_12|collapsed_PQ065518_PQ065510_PQ065508_PQ065499_KY922725...__7_:0.0000021203,(MH790631|UL49|2010-4919||||False|False|cluster_size_1|collapsed_MH790631:0.0013366219,KX574892|UL49|2009-3532||||False|False|cluster_size_1|collapsed_KX574892:0.0013320956):0.0000020775):0.0000028642,PP100072|UL49|25||||False|False|cluster_size_1|collapsed_PP100072:0.0013320218):0.0013442423,(((PQ065512|UL49|HSV2/USA/WA-UW-2P1/2020||||False|False|cluster_size_8|collapsed_PQ065512_PP100077_PP100025_MH790651_MH790580...__3_:0.0000017299,MH790577|UL49|2007-22053||||False|False|cluster_size_1|collapsed_MH790577:0.0026498906):0.0013247169,(((KX574860|UL49|2007-38205||||False|False|cluster_size_1|collapsed_KX574860:0.0013286984,KX574902|UL49|2009-409||||False|False|cluster_size_7|collapsed_KX574902_KX574898_KX574887_KX574885_KX574883...__2_:0.0000020775):0.0000024409,(KX574886|UL49|2008-37744||||False|False|cluster_size_1|collapsed_KX574886:0.0026895050,KX574877|UL49|2007-38910||||False|False|cluster_size_1|collapsed_KX574877:0.0000027359):0.0013326080):0.0013247197,KX574903|UL49|2003-16029||||False|False|cluster_size_1|collapsed_KX574903:0.0000024738):0.0000021615):0.0013301887,(PQ065495|UL49|HSV2/USA/WA-UW-2G8/2019||||False|False|cluster_size_1|collapsed_PQ065495:0.0013316303,MF510285|UL49|1995-13482||||False|False|cluster_size_1|collapsed_MF510285:0.0013441313):0.0000025851):0.0013441281):0.0000024509):0.0013520829,(((((((((((PQ065515|UL49|HSV2/USA/WA-UW-2P4/2020||||False|False|cluster_size_1|collapsed_PQ065515:0.0000020775,PP100060|UL49|70||||False|False|cluster_size_3|collapsed_PP100060_MH790647_MH790626:0.0013349592):0.0026748726,((PQ065505|UL49|HSV2/USA/WA-UW-2L6/2020||||False|False|cluster_size_1|collapsed_PQ065505:0.0026748980,KR135319|UL49|HSV-2/UG/BID-G19091/D39765/2008||||False|False|cluster_size_10|collapsed_KR135319_KR135317_KR135316_KR135315_KR135307...__5_:0.0000020775):0.0013217361,PP100059|UL49|67||||False|False|cluster_size_2|collapsed_PP100059_PP100037:0.0013159320):0.0013220500):0.0000023014,PQ065500|UL49|HSV2/USA/WA-UW-2J4/2019||||False|False|cluster_size_4|collapsed_PQ065500_PQ065496_KR135313_MH790553:0.0000029742):0.0013188423,PP100085|UL49|6||||False|False|cluster_size_1|collapsed_PP100085:0.0000022791):0.0013188350,KY922724|UL49|HSV2-H1526||||False|False|cluster_size_1|collapsed_KY922724:0.0013214402):0.0000022271,PQ065513|UL49|HSV2/USA/WA-UW-2P2/2020||||False|False|cluster_size_15|collapsed_PQ065513_PQ065501_MH790662_MF621254_MH790667...__10_:0.0000020775):0.0000022239,((KR135318|UL49|HSV-2/UG/BID-G19090/D39650/2008||||False|False|cluster_size_1|collapsed_KR135318:0.0013093047,(MH790652|UL49|2012-26422||||False|False|cluster_size_1|collapsed_MH790652:0.0013116866,MF510324|UL49|2012-18385||||False|False|cluster_size_1|collapsed_MF510324:0.0000020775):0.0000028917):0.0039907187,PP100081|UL49|22||||False|False|cluster_size_1|collapsed_PP100081:0.0000021203):0.0013254228):0.0000022596,MF510348|UL49|2006_21876||||False|False|cluster_size_1|collapsed_MF510348:0.0000020775):0.0026907886,KX574896|UL49|2010-6416||||False|False|cluster_size_2|collapsed_KX574896_KX574891:0.0000029081):0.0027209877,((KX574874|UL49|2007-38627||||False|False|cluster_size_3|collapsed_KX574874_KX574865_KX574867:0.0000021743,KX574872|UL49|2007-38249||||False|False|cluster_size_1|collapsed_KX574872:0.0013407112):0.0000025546,MH790592|UL49|2008-36694||||False|False|cluster_size_1|collapsed_MH790592:0.0026910355):0.0013474693):0.0000023334,((KX574863|UL49|2006-21832||||False|False|cluster_size_1|collapsed_KX574863:0.0000027599,(MF510349|UL49|2012-15074||||False|False|cluster_size_1|collapsed_MF510349:0.0000022419,MF510316|UL49|2013-10248||||False|False|cluster_size_1|collapsed_MF510316:0.0027101625):0.0027839707):0.0013986702,MF510274|UL49|2002-7934||||False|False|cluster_size_1|collapsed_MF510274:0.0041959091):0.0013344961):0.0013538341):0.0000022678,KX574901|UL49|2012-32825||||False|False|cluster_size_1|collapsed_KX574901:0.0000025013):0.0000028798,((((((((((PQ065507|UL49|HSV2/USA/WA-UW-2N6/2020||||False|False|cluster_size_14|collapsed_PQ065507_PP100069_KR135309_PP099974_MH790594...__9_:0.0000020001,(MF510293|UL49|2013-41862||||False|False|cluster_size_1|collapsed_MF510293:0.0013621636,MH790664|UL49|1995-57888||||False|False|cluster_size_2|collapsed_MH790664_MH790588:0.0013618993):0.0000020775):0.0013747435,KX574904|UL49|2004-20601||||False|False|cluster_size_1|collapsed_KX574904:0.0000022424):0.0013747726,PP100014|UL49|104||||False|False|cluster_size_1|collapsed_PP100014:0.0027947945):0.0000027261,PQ065502|UL49|HSV2/USA/WA-UW-2J9/2019||||False|False|cluster_size_1|collapsed_PQ065502:0.0000020775):0.0013676372,PQ065497|UL49|HSV2/USA/WA-UW-2H10/2019||||False|False|cluster_size_1|collapsed_PQ065497:0.0000025136):0.0013758152,KR135303|UL49|HSV-2/UG/BID-G44423/L22861/2007||||False|False|cluster_size_1|collapsed_KR135303:0.0013770642):0.0000028945,KR135306|UL49|HSV-2/UG/BID-G19078/A76191/2008||||False|False|cluster_size_2|collapsed_KR135306_MF510280:0.0000026356):0.0000027696,KX574869|UL49|2006-50074||||False|False|cluster_size_2|collapsed_KX574869_KX574868:0.0013843985):0.0013757375,((KX574893|UL49|2009-4550||||False|False|cluster_size_1|collapsed_KX574893:0.0013603994,KR135321|UL49|HSV-2/US/BID-G19094/89-390/1989||||False|False|cluster_size_2|collapsed_KR135321_KR135320:0.0013607770):0.0000028904,KX574871|UL49|2007-38120||||False|False|cluster_size_1|collapsed_KX574871:0.0000024931):0.0000021494):0.0000022616,((((((((((PQ065492|UL49|HSV2/USA/WA-UW-2D4/2019||||False|False|cluster_size_1|collapsed_PQ065492:0.0013197701,PP100028|UL49|85||||False|False|cluster_size_1|collapsed_PP100028:0.0000021837):0.0013342502,(KR135311|UL49|HSV-2/US/BID-G19083/10883-2001-13347/2005||||False|False|cluster_size_1|collapsed_KR135311:0.0013411079,MH790552|UL49|2013-35042||||False|False|cluster_size_2|collapsed_MH790552_MF510312:0.0000020775):0.0000026268):0.0013342269,PP100021|UL49|78||||False|False|cluster_size_8|collapsed_PP100021_MH790563_KY922721_KR135310_MH790620...__3_:0.0000026769):0.0013348783,KX574875|UL49|2007-38807||||False|False|cluster_size_1|collapsed_KX574875:0.0000020448):0.0000023127,MF510344|UL49|2006-25060||||False|False|cluster_size_1|collapsed_MF510344:0.0040832780):0.0013491552,KX574862|UL49|2006-19390||||False|False|cluster_size_1|collapsed_KX574862:0.0000020577):0.0020684315,MF510317|UL49|2015-2427||||False|False|cluster_size_1|collapsed_MF510317:0.0026965020):0.0020640724,KX574882|UL49|2007-40807||||False|False|cluster_size_1|collapsed_KX574882:0.0000029970):0.0013619099,KX574880|UL49|2007-39712||||False|False|cluster_size_3|collapsed_KX574880_KX574899_KX574864:0.0000023532):0.0013536667,KR135312|UL49|HSV-2/US/BID-G19084/9335-2005-576/2009||||False|False|cluster_size_1|collapsed_KR135312:0.0000027054):0.0013604463):0.0013603996):0.0013582664,((((((((((PQ065519|UL49|HSV2/USA/WA-UW-2Q7/2020||||False|False|cluster_size_1|collapsed_PQ065519:0.0013174281,(((PQ065504|UL49|HSV2/USA/WA-UW-2L5/2019||||False|False|cluster_size_1|collapsed_PQ065504:0.0013404116,KR135322|UL49|HSV-2/JP/BID-G32586/JA1||||False|False|cluster_size_2|collapsed_KR135322_PP100095:0.0000020775):0.0013376845,PQ065503|UL49|HSV2/USA/WA-UW-2K9/2019||||False|False|cluster_size_5|collapsed_PQ065503_KX574897_MF510364_KX574879_KX574873:0.0000020775):0.0000024449,(KR135302|UL49|HSV-2/UG/BID-G19074/M1119/2007||||False|False|cluster_size_2|collapsed_KR135302_KX574894:0.0000020775,KR135300|UL49|HSV-2/UG/BID-G19072/D30613/2007||||False|False|cluster_size_1|collapsed_KR135300:0.0013284546):0.0013312353):0.0013308791):0.0000025565,(MF510329|UL49|1994-32289||||False|False|cluster_size_1|collapsed_MF510329:0.0013164621,MH790623|UL49|2006-13847CAM||||False|False|cluster_size_1|collapsed_MH790623:0.0013188479):0.0000021644):0.0000023575,(PQ065516|UL49|HSV2/USA/WA-UW-2P5/2020||||False|False|cluster_size_4|collapsed_PQ065516_PQ065511_MH790568_KX574876:0.0000028181,(MF510303|UL49|2009_406||||False|False|cluster_size_1|collapsed_MF510303:0.0013309786,KX574870|UL49|2007-22031||||False|False|cluster_size_1|collapsed_KX574870:0.0013309821):0.0000028880):0.0013239974):0.0013308186,PQ065498|UL49|HSV2/USA/WA-UW-2I8/2019||||False|False|cluster_size_8|collapsed_PQ065498_KR135328_PP100012_PP099979_MH790650...__3_:0.0000020048):0.0013454621,KR135329|UL49|HSV-2/JP/BID-G32593/JA9||||False|False|cluster_size_5|collapsed_KR135329_KR135326_KR135324_KR135323_MH790581:0.0054131835):0.0000023556,PP100047|UL49|55||||False|False|cluster_size_2|collapsed_PP100047_MF510369:0.0013536222):0.0000022612,PP100063|UL49|64||||False|False|cluster_size_3|collapsed_PP100063_MH790646_MH790571:0.0000020775):0.0000021485,((MN187895|UL49|HJ12|China|||False|False|cluster_size_10|collapsed_MN187895_KY922726_KR135330_KR135327_KF781518...__5_:0.0000020775,(PP100065|UL49|63||||False|False|cluster_size_6|collapsed_PP100065_MF510357_MF510351_MF510300_MF510291...__1_:0.0013312145,KX574905|UL49|2009-2198||||False|False|cluster_size_1|collapsed_KX574905:0.0026663465):0.0000027406):0.0000025735,MH790619|UL49|2004-242||||False|False|cluster_size_2|collapsed_MH790619_MH790561:0.0013589862):0.0013454241):0.0027908160,((PP100029|UL49|86||||False|False|cluster_size_3|collapsed_PP100029_MH790639_MF621257:0.0040640950,MF510283|UL49|2012_9333||||False|False|cluster_size_2|collapsed_MF510283_KX574906:0.0013661772):0.0013667726,(KX574895|UL49|2010-21||||False|False|cluster_size_1|collapsed_KX574895:0.0013483427,KX574888|UL49|2009-1245||||False|False|cluster_size_1|collapsed_KX574888:0.0000027841):0.0027314333):0.0000020278):0.0000023343,(PQ065494|UL49|HSV2/USA/WA-UW-2G1/2019||||False|False|cluster_size_1|collapsed_PQ065494:0.0027053010,PP099997|UL49|133||||False|False|cluster_size_10|collapsed_PP099997_MH790654_MH790599_MH790629_MH790613...__5_:0.0000021357):0.0013608365):0.0000024851):9.9993677548,((PP100004|UL49|102||||False|False|cluster_size_2|collapsed_PP100004_MH790617:0.0013026781,(((KR135314|UL49|HSV-2/US/BID-G19086/7444-1996-25809/1996||||False|False|cluster_size_1|collapsed_KR135314:0.0012597664,PP100084|UL49|11||||False|False|cluster_size_2|collapsed_PP100084_MF510310:0.0013472078):0.0039910048,PP100058|UL49|69||||False|False|cluster_size_7|collapsed_PP100058_MH790636_MH790616_MH790589_MH790574...__2_:0.0000022903):0.0013173757,MF510350|UL49|2007-37750||||False|False|cluster_size_1|collapsed_MF510350:0.0066084911):0.0000020940):0.0043283625,MH899846|UL49|2006-15095||||False|False|cluster_size_2|collapsed_MH899846_MH790658:0.0110308177):9.9993677546):9.9993677548,PQ065509|UL49|HSV2/USA/WA-UW-2N8/2020||||False|False|cluster_size_2|collapsed_PQ065509_KR135298:9.9993677546):9.9993677548,MF510311|UL49|2007-141||||False|False|cluster_size_1|collapsed_MF510311:0.0000022794):0.0053664555,(((PQ065520|UL49|HSV2/USA/WA-UW-2R2/2020||||False|False|cluster_size_10|collapsed_PQ065520_KR135325_PP100082_MF621256_MH790648...__5_:0.0013004962,((MF510359|UL49|1996-45513||||False|False|cluster_size_2|collapsed_MF510359_MF510354:0.0012544478,MF510284|UL49|2015-3877||||False|False|cluster_size_1|collapsed_MF510284:0.0013348648):0.0041050189,(MF510279|UL49|1998-7600||||False|False|cluster_size_1|collapsed_MF510279:0.0000009999,MF510271|UL49|2006-36626||||False|False|cluster_size_1|collapsed_MF510271:0.0000009999):0.0039885865):0.0026789563):0.0000022815,MF510268|UL49|1995_45410||||False|False|cluster_size_1|collapsed_MF510268:0.0000027977):0.0000021636,(PP100036|UL49|94||||False|False|cluster_size_2|collapsed_PP100036_MF510313:0.0039395309,MF510347|UL49|2009_3488||||False|False|cluster_size_1|collapsed_MF510347:0.0026137963):0.0000022594):0.0013135108):0.0000022762,MF510286|UL49|2007-49||||False|False|cluster_size_1|collapsed_MF510286:0.0000022767):0.0013130547):0.0000022686,((MF564037|UL49|sample|cluster_size_2|collapsed_MF564037_MF564036:0.0027041934,(PP099986|UL49|122||||False|False|cluster_size_1|collapsed_PP099986:0.0000020033,MF510330|UL49|2009_2254||||False|False|cluster_size_1|collapsed_MF510330:0.0012964251):0.0000026661):0.0013037533,(MF510339|UL49|1995-63092||||False|False|cluster_size_1|collapsed_MF510339:0.0013194886,MF510304|UL49|1995-6523||||False|False|cluster_size_1|collapsed_MF510304:0.0013118464):0.0000021028):0.0026271568):0.0000022728,PQ065522|UL49|HSV2/USA/WA-UW-2R9/2020||||False|False|cluster_size_17|collapsed_PQ065522_PQ065517_PQ065506_PQ065493_MH790605...__12_:0.0000028188):0.0000023039,MT364888|UL49|||||False|False|cluster_size_1|collapsed_MT364888:0.0013068921):0.0012997362,OM370995|UL49|G|USA|||False|False|cluster_size_5|collapsed_OM370995_PP100066_PP100034_MH790669_MH790633:0.0000024672):0.0012869151,MF564035|UL49|sample|cluster_size_2|collapsed_MF564035_MF564034:0.0000029747);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t hsv_curated_dataset/06_alignments/trees/HSV2\UL49.treefile -m "GTR{0.249966,0.669415,0.0001,0.0650464,2.32012}+F{0.134505,0.422101,0.329847,0.113548}+I{0.221764}+G4{0.745809}" --length 906
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s hsv_curated_dataset/06_alignments/HSV2\UL49_aligned.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s hsv_curated_dataset/06_alignments/HSV2\UL49_aligned.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Wed Oct 28 20:25:39 2026
+Total CPU time used: 2.79688 seconds (0h:0m:2s)
+Total wall-clock time used: 0.828862 seconds (0h:0m:0s)
+

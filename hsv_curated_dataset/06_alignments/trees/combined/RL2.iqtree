@@ -1,0 +1,636 @@
+IQ-TREE 2.4.0 built Feb  7 2025
+
+Input file name: hsv_curated_dataset/06_alignments/combined\RL2_combined_aligned.fasta
+Type of analysis: tree reconstruction
+Random seed number: 243868
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 262 sequences with 2568 nucleotide sites
+Number of constant sites: 435 (= 16.9393% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 435 (= 16.9393% of all sites)
+Number of parsimony informative sites: 2089
+Number of distinct site patterns: 1829
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+I+G4
+
+Rate parameter R:
+
+  A-C: 0.6769
+  A-G: 0.8071
+  A-T: 0.9920
+  C-G: 0.7958
+  C-T: 1.0273
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.1266
+  pi(C) = 0.4
+  pi(G) = 0.362
+  pi(T) = 0.1114
+
+Rate matrix Q:
+
+  A    -1.175    0.4724    0.5097    0.1928
+  C    0.1495   -0.8518    0.5026    0.1997
+  G    0.1782    0.5554    -0.928    0.1944
+  T    0.2191    0.7169    0.6316    -1.568
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.07738
+Gamma shape alpha: 0.7151
+
+ Category  Relative_rate  Proportion
+  0         0              0.07738
+  1         0.08391        0.2307
+  2         0.4016         0.2307
+  3         1.008          0.2307
+  4         2.842          0.2307
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -56490.9904 (s.e. 913.6907)
+Unconstrained log-likelihood (without tree): -17705.5739
+Number of free parameters (#branches + #model parameters): 531
+Akaike information criterion (AIC) score: 114043.9808
+Corrected Akaike information criterion (AICc) score: 114321.4778
+Bayesian information criterion (BIC) score: 117150.7995
+
+Total tree length (sum of branch lengths): 16.9493
+Sum of internal branch lengths: 15.0747 (88.9398% of tree length)
+
+WARNING: 129 near-zero internal branches (<0.0004) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+WARNING: 1 too long branches (>9.8000) should be treated with caution!
+NOTE: Tree is UNROOTED although outgroup taxon 'HSV1|PZ347688|RL2|HSV1-1981-H186||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PZ347688' is drawn at root
+
++--HSV1|PZ347688|RL2|HSV1-1981-H186||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PZ347688
+|
+|                             +**HSV1|PZ169719|RL2|Z_d40_skin_culture|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_4|collapsed_PZ169719_PZ169717_PZ169716_PZ169713
+|                          +--|
+|                          |  +**HSV1|PZ169715|RL2|Z_d10_plasma||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PZ169715
+|                       +--|
+|                       |  |     +--HSV1|OP431902|RL2|HSV1-v53_d3_gen_les||||False|False|cohort_tier_Tier|cluster_size_3|collapsed_OP431902_OP431886_OP431882
+|                       |  |  +--|
+|                       |  |  |  +--HSV1|LT594457|RL2|132/1998|Germany|1998.0|SAMEA4017978|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594457
+|                       |  +**|
+|                       |     +**HSV1|OR833069|RL2|HSV1/USA/WA-UW-2M3/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833069
+|                    +**|
+|                    |  |           +--HSV1|OR771688|RL2|HSV1/USA/WA-UW-2O2/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OR771688_MH999843
+|                    |  |        +**|
+|                    |  |        |  +--HSV1|OQ724863|RL2|BP-C9|USA|2005.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724863
+|                    |  |     +**|
+|                    |  |     |  +--HSV1|ON960061|RL2|HSV1-Atlanta-USA-1965-E377|USA|1965.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_ON960061
+|                    |  |  +**|
+|                    |  |  |  +--HSV1|OP297882|RL2|HSV1-v76_d266_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297882
+|                    |  +**|
+|                    |     +**HSV1|OQ724867|RL2|BP-C15|USA|2015.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724867
+|                 +**|
+|                 |  +--HSV1|OR771673|RL2|HSV1/USA/WA-UW-2C7/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771673
+|              +**|
+|              |  +--HSV1|OQ724895|RL2|BP-K10|USA|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724895
+|           +**|
+|           |  +**HSV1|OQ724910|RL2|BP-K11|USA|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724910
+|        +**|
+|        |  +**HSV1|OR833067|RL2|HSV1/USA/WA-UW-2K2/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833067
+|     +--|
+|     |  +**HSV1|OQ724932|RL2|BP-L1|USA|2002.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724932
+|  +**|
+|  |  +--HSV1|OQ724934|RL2|BP-L4|USA|2003.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724934
++**|
+|  +**HSV1|OQ724937|RL2|BP-L10||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724937
+|
+|                    +--HSV1|PZ169712|RL2|F_d10_plasma||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PZ169712_PZ169711
+|                 +--|
+|                 |  +--HSV1|OQ724888|RL2|BP-K2|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724888
+|              +--|
+|              |  |                                                                                               +**HSV1|PZ169710|RL2|D_d12_skin|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_9|collapsed_PZ169710_PZ169709_PX911520_PX911519_OP431905...__4_
+|              |  |                                                                                            +**|
+|              |  |                                                                                            |  |           +**HSV1|PX837190|RL2|||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PX837190_PX763612
+|              |  |                                                                                            |  |        +--|
+|              |  |                                                                                            |  |        |  +--HSV1|OR723971|RL2|dsncRNA12|USA|2021.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR723971
+|              |  |                                                                                            |  |     +**|
+|              |  |                                                                                            |  |     |  |  +--HSV1|OQ724938|RL2|BP-L11|USA|2010.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724938
+|              |  |                                                                                            |  |     |  +--|
+|              |  |                                                                                            |  |     |     +--HSV1|OQ724836|RL2|BP-C8|USA|2005.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724836
+|              |  |                                                                                            |  |  +**|
+|              |  |                                                                                            |  |  |  +**HSV1|OP431911|RL2|HSV1-v51_d189_gen_les||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP431911
+|              |  |                                                                                            |  +**|
+|              |  |                                                                                            |     |     +--HSV1|OP431899|RL2|HSV1-v67_d345_gen||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP431899_OP297885
+|              |  |                                                                                            |     |  +**|
+|              |  |                                                                                            |     |  |  |  +--HSV1|OR771695|RL2|HSV1/USA/WA-UW-2R8/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771695
+|              |  |                                                                                            |     |  |  +**|
+|              |  |                                                                                            |     |  |     |  +**HSV1|OR771694|RL2|HSV1/USA/WA-UW-2R7/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771694
+|              |  |                                                                                            |     |  |     +**|
+|              |  |                                                                                            |     |  |        +**HSV1|OR771682|RL2|HSV1/USA/WA-UW-2K10/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771682
+|              |  |                                                                                            |     +**|
+|              |  |                                                                                            |        +**HSV1|OR771693|RL2|HSV1/USA/WA-UW-2R1/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771693
+|              |  |                                                                                         +--|
+|              |  |                                                                                         |  +--HSV1|QP771543|RL2|||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_QP771543
+|              |  |                                                                                      +--|
+|              |  |                                                                                      |  +--HSV1|OR771670|RL2|HSV1/USA/WA-UW-1B2/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771670
+|              |  |                                                                                   +--|
+|              |  |                                                                                   |  |        +**HSV1|MN159382|RL2|s17pp22a||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MN159382
+|              |  |                                                                                   |  |     +**|
+|              |  |                                                                                   |  |     |  |  +**HSV1|MN159381|RL2|s17pp8||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MN159381
+|              |  |                                                                                   |  |     |  +**|
+|              |  |                                                                                   |  |     |     +**HSV1|MN159380|RL2|s17pp7a||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_MN159380_MN159378
+|              |  |                                                                                   |  |  +**|
+|              |  |                                                                                   |  |  |  +**HSV1|MN159377|RL2|s17pp3||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_MN159377_X14112
+|              |  |                                                                                   |  +--|
+|              |  |                                                                                   |     +--HSV1|MN159379|RL2|s17pp5||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MN159379
+|              |  |                                                                                +--|
+|              |  |                                                                                |  +--HSV1|OR771686|RL2|HSV1/USA/WA-UW-2N2/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771686
+|              |  |                                                                             +--|
+|              |  |                                                                             |  |  +**HSV1|OP871848|RL2|INV-22C|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871848
+|              |  |                                                                             |  +--|
+|              |  |                                                                             |     +--HSV1|OP871847|RL2|INV-22B|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871847
+|              |  |                                                                          +**|
+|              |  |                                                                          |  |                    +**HSV1|OP871859|RL2|INV-9B|USA|||False|False|cohort_tier_Tier|cluster_size_11|collapsed_OP871859_OP871858_OP871857_OP871855_OP871852...__6_
+|              |  |                                                                          |  |                 +**|
+|              |  |                                                                          |  |                 |  |           +**HSV1|OP871844|RL2|INV-17A|USA|||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP871844_OP871843
+|              |  |                                                                          |  |                 |  |        +**|
+|              |  |                                                                          |  |                 |  |        |  |  +--HSV1|KX265035|RL2|914-Y2||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265035
+|              |  |                                                                          |  |                 |  |        |  +**|
+|              |  |                                                                          |  |                 |  |        |     +--HSV1|KR011303|RL2|16S||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011303
+|              |  |                                                                          |  |                 |  |     +**|
+|              |  |                                                                          |  |                 |  |     |  +**HSV1|OP871841|RL2|INV-15B|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871841
+|              |  |                                                                          |  |                 |  |  +--|
+|              |  |                                                                          |  |                 |  |  |  +**HSV1|KX265029|RL2|914-N3||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265029
+|              |  |                                                                          |  |                 |  +**|
+|              |  |                                                                          |  |                 |     +--HSV1|KR052507|RL2|78S||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_KR052507_KR011281
+|              |  |                                                                          |  |              +**|
+|              |  |                                                                          |  |              |  +**HSV1|OP871840|RL2|INV-11A|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871840
+|              |  |                                                                          |  |           +**|
+|              |  |                                                                          |  |           |  |  +**HSV1|OP871850|RL2|INV-25C|USA|||False|False|cohort_tier_Tier|cluster_size_3|collapsed_OP871850_OP871846_KX265036
+|              |  |                                                                          |  |           |  +**|
+|              |  |                                                                          |  |           |     +**HSV1|KR011308|RL2|26S||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011308
+|              |  |                                                                          |  |        +--|
+|              |  |                                                                          |  |        |  +**HSV1|KX265039|RL2|20-14-22||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265039
+|              |  |                                                                          |  |     +**|
+|              |  |                                                                          |  |     |  |  +--HSV1|OP871853|RL2|INV-1B||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871853
+|              |  |                                                                          |  |     |  +--|
+|              |  |                                                                          |  |     |     +**HSV1|KX265041|RL2|20-14-1||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265041
+|              |  |                                                                          |  |  +--|
+|              |  |                                                                          |  |  |  |  +**HSV1|OP871845|RL2|INV-20A|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871845
+|              |  |                                                                          |  |  |  +**|
+|              |  |                                                                          |  |  |     |  +**HSV1|KR011295|RL2|5-5-2||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011295
+|              |  |                                                                          |  |  |     +--|
+|              |  |                                                                          |  |  |        +--HSV1|KR011280|RL2|8S||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011280
+|              |  |                                                                          |  +--|
+|              |  |                                                                          |     +--HSV1|LT594106|RL2|2158/2007|Germany|2007.0|SAMEA4017985|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594106
+|              |  |                                                                       +--|
+|              |  |                                                                       |  |           +--HSV1|OP871856|RL2|INV-2C|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871856
+|              |  |                                                                       |  |        +**|
+|              |  |                                                                       |  |        |  +**HSV1|KX265028|RL2|20-14-8||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265028
+|              |  |                                                                       |  |     +--|
+|              |  |                                                                       |  |     |  |     +**HSV1|OP871854|RL2|INV-1G|USA|||False|False|cohort_tier_Tier|cluster_size_5|collapsed_OP871854_KX265042_KX265037_KX265031_KR011296
+|              |  |                                                                       |  |     |  |  +**|
+|              |  |                                                                       |  |     |  |  |  +--HSV1|KX265040|RL2|914-A3||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265040
+|              |  |                                                                       |  |     |  +**|
+|              |  |                                                                       |  |     |     |                    +**HSV1|KR011312|RL2|65M||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011312
+|              |  |                                                                       |  |     |     |                 +**|
+|              |  |                                                                       |  |     |     |                 |  +--HSV1|KR011276|RL2|57M||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011276
+|              |  |                                                                       |  |     |     |              +**|
+|              |  |                                                                       |  |     |     |              |  +**HSV1|KR011307|RL2|82S||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011307
+|              |  |                                                                       |  |     |     |           +**|
+|              |  |                                                                       |  |     |     |           |  +--HSV1|KR011284|RL2|10-6-3||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011284
+|              |  |                                                                       |  |     |     |        +**|
+|              |  |                                                                       |  |     |     |        |  |  +--HSV1|KR011294|RL2|11M||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011294
+|              |  |                                                                       |  |     |     |        |  +**|
+|              |  |                                                                       |  |     |     |        |     +**HSV1|KR011278|RL2|4M||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011278
+|              |  |                                                                       |  |     |     |     +**|
+|              |  |                                                                       |  |     |     |     |  +**HSV1|KR011274|RL2|10-2-3||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011274
+|              |  |                                                                       |  |     |     |  +--|
+|              |  |                                                                       |  |     |     |  |  +--HSV1|KR011283|RL2|CJ994||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011283
+|              |  |                                                                       |  |     |     +**|
+|              |  |                                                                       |  |     |        +**HSV1|KR011300|RL2|76M||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011300
+|              |  |                                                                       |  |  +--|
+|              |  |                                                                       |  |  |  +**HSV1|KX265026|RL2|914-D2||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265026
+|              |  |                                                                       |  +--|
+|              |  |                                                                       |     +--HSV1|ON960057|RL2|HSV1-San-Francisco-USA-1979-DAB1|USA|1979.0||False|False|cohort_tier_Tier|cluster_size_2|collapsed_ON960057_KM222726
+|              |  |                                                                    +**|
+|              |  |                                                                    |  |           +**HSV1|PZ169694|RL2|W_d15_skin|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_3|collapsed_PZ169694_PZ169693_PZ169692
+|              |  |                                                                    |  |        +**|
+|              |  |                                                                    |  |        |  +--HSV1|OR771677|RL2|HSV1/USA/WA-UW-2I2/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771677
+|              |  |                                                                    |  |     +--|
+|              |  |                                                                    |  |     |  +--HSV1|OR771691|RL2|HSV1/USA/WA-UW-2Q6/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771691
+|              |  |                                                                    |  |  +**|
+|              |  |                                                                    |  |  |  |        +**HSV1|OP431878|RL2|HSV1-v55_d382_gen||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP431878
+|              |  |                                                                    |  |  |  |     +--|
+|              |  |                                                                    |  |  |  |     |  +--HSV1|MH999848|RL2|HSV-H1311|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999848
+|              |  |                                                                    |  |  |  |  +**|
+|              |  |                                                                    |  |  |  |  |  +--HSV1|OP431901|RL2|HSV1-v66_d6_gen||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP431901_OP297877
+|              |  |                                                                    |  |  |  +--|
+|              |  |                                                                    |  |  |     +--HSV1|HM585511|RL2|E19||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_HM585511
+|              |  |                                                                    |  +--|
+|              |  |                                                                    |     |        +--HSV1|OP431910|RL2|HSV1-v59_d83_gen_les||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP431910_OP431868
+|              |  |                                                                    |     |     +**|
+|              |  |                                                                    |     |     |  +--HSV1|LT594192|RL2|160/1982|Germany|1982.0|SAMEA4017977|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594192
+|              |  |                                                                    |     |  +**|
+|              |  |                                                                    |     |  |  |  +**HSV1|MG999889|RL2|2011-12742||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MG999889
+|              |  |                                                                    |     |  |  +--|
+|              |  |                                                                    |     |  |     +--HSV1|MG708292|RL2|HSV-v29_site14_day2||||False|False|cohort_tier_Tier|cluster_size_7|collapsed_MG708292_MG708290_MG708289_MG708288_MG708287...__2_
+|              |  |                                                                    |     +**|
+|              |  |                                                                    |        +--HSV1|ON513441|RL2|NIVD4|China|2017.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_ON513441
+|              |  |                                                                 +--|
+|              |  |                                                                 |  |  +--HSV1|OR771689|RL2|HSV1/USA/WA-UW-2O5/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771689
+|              |  |                                                                 |  +--|
+|              |  |                                                                 |     +--HSV1|OR771676|RL2|HSV1/USA/WA-UW-2I1/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771676
+|              |  |                                                              +--|
+|              |  |                                                              |  |     +--HSV1|OR833066|RL2|HSV1/USA/WA-UW-2J8/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833066
+|              |  |                                                              |  |  +--|
+|              |  |                                                              |  |  |  |  +**HSV1|OR771687|RL2|HSV1/USA/WA-UW-2N3/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771687
+|              |  |                                                              |  |  |  +**|
+|              |  |                                                              |  |  |     +--HSV1|MH999840|RL2|Ty25|USA|||False|False|cohort_tier_Tier|cluster_size_4|collapsed_MH999840_MH999839_HM585513_HM585512
+|              |  |                                                              |  +**|
+|              |  |                                                              |     |                                                  +**HSV2|PZ135825|RL2|51-SV_uncultured|USA|2021.0||False|False|cohort_tier_Tier|cluster_size_3|collapsed_PZ135825_PZ135824_PZ135823
+|              |  |                                                              |     |                                               +**|
+|              |  |                                                              |     |                                               |  |        +**HSV2|PQ065522|RL2|HSV2/USA/WA-UW-2R9/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PQ065522_PQ065517
+|              |  |                                                              |     |                                               |  |     +**|
+|              |  |                                                              |     |                                               |  |     |  |  +--HSV2|PQ065520|RL2|HSV2/USA/WA-UW-2R2/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065520
+|              |  |                                                              |     |                                               |  |     |  +**|
+|              |  |                                                              |     |                                               |  |     |     +**HSV2|PQ065506|RL2|HSV2/USA/WA-UW-2L10/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PQ065506_PQ065493
+|              |  |                                                              |     |                                               |  |  +--|
+|              |  |                                                              |     |                                               |  |  |  +--HSV2|MH790655|RL2|2006-15377CAM||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790655
+|              |  |                                                              |     |                                               |  +--|
+|              |  |                                                              |     |                                               |     +--HSV2|PQ065509|RL2|HSV2/USA/WA-UW-2N8/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065509
+|              |  |                                                              |     |                                            +**|
+|              |  |                                                              |     |                                            |  +--HSV2|PQ065502|RL2|HSV2/USA/WA-UW-2J9/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065502
+|              |  |                                                              |     |                                         +--|
+|              |  |                                                              |     |                                         |  |              +--HSV2|PX242236|RL2|MCL-24-H-4740||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PX242236_PV798441
+|              |  |                                                              |     |                                         |  |           +**|
+|              |  |                                                              |     |                                         |  |           |  |  +**HSV2|PQ065514|RL2|HSV2/USA/WA-UW-2P3/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PQ065514_PQ065512
+|              |  |                                                              |     |                                         |  |           |  +**|
+|              |  |                                                              |     |                                         |  |           |     +--HSV2|KY922720|RL2|HSV2-H1226|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KY922720
+|              |  |                                                              |     |                                         |  |        +**|
+|              |  |                                                              |     |                                         |  |        |  +--HSV2|PP100077|RL2|21||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PP100077_MH790580
+|              |  |                                                              |     |                                         |  |     +**|
+|              |  |                                                              |     |                                         |  |     |  +**HSV2|PP100073|RL2|33||||False|False|cohort_tier_Tier|cluster_size_4|collapsed_PP100073_PP100000_MH790622_MH790562
+|              |  |                                                              |     |                                         |  |  +--|
+|              |  |                                                              |     |                                         |  |  |  +--HSV2|MH790654|RL2|2002-8734||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790654
+|              |  |                                                              |     |                                         |  +**|
+|              |  |                                                              |     |                                         |     +**HSV2|PQ065519|RL2|HSV2/USA/WA-UW-2Q7/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065519
+|              |  |                                                              |     |                                      +--|
+|              |  |                                                              |     |                                      |  +**HSV2|PQ065497|RL2|HSV2/USA/WA-UW-2H10/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065497
+|              |  |                                                              |     |                                   +**|
+|              |  |                                                              |     |                                   |  +--HSV2|MF564037|RL2|sample|cohort_tier_Tier|cluster_size_2|collapsed_MF564037_MF564036
+|              |  |                                                              |     |                                +--|
+|              |  |                                                              |     |                                |  |  +--HSV2|PQ065510|RL2|HSV2/USA/WA-UW-2N10/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065510
+|              |  |                                                              |     |                                |  +--|
+|              |  |                                                              |     |                                |     |  +--HSV2|PQ065503|RL2|HSV2/USA/WA-UW-2K9/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065503
+|              |  |                                                              |     |                                |     +**|
+|              |  |                                                              |     |                                |        +**HSV2|MF564035|RL2|sample|cohort_tier_Tier|cluster_size_2|collapsed_MF564035_MF564034
+|              |  |                                                              |     |                             +--|
+|              |  |                                                              |     |                             |  |  +**HSV2|PP100069|RL2|1||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP100069
+|              |  |                                                              |     |                             |  +--|
+|              |  |                                                              |     |                             |     +**HSV2|PP100029|RL2|86||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP100029
+|              |  |                                                              |     |                          +--|
+|              |  |                                                              |     |                          |  +--HSV2|KR135330|RL2|HSV-2/US/BID-G1929/BethesdaP5||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135330
+|              |  |                                                              |     |                       +**|
+|              |  |                                                              |     |                       |  |  +**HSV2|PQ065516|RL2|HSV2/USA/WA-UW-2P5/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065516
+|              |  |                                                              |     |                       |  +**|
+|              |  |                                                              |     |                       |     |        +--HSV2|PQ065492|RL2|HSV2/USA/WA-UW-2D4/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065492
+|              |  |                                                              |     |                       |     |     +--|
+|              |  |                                                              |     |                       |     |     |  +**HSV2|KY922724|RL2|HSV2-H1526||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KY922724
+|              |  |                                                              |     |                       |     |  +--|
+|              |  |                                                              |     |                       |     |  |  |  +--HSV2|KR135316|RL2|HSV-2/UG/BID-G19088/G75809/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135316
+|              |  |                                                              |     |                       |     |  |  +--|
+|              |  |                                                              |     |                       |     |  |     +--HSV2|KR135303|RL2|HSV-2/UG/BID-G44423/L22861/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135303
+|              |  |                                                              |     |                       |     +--|
+|              |  |                                                              |     |                       |        |  +--HSV2|KR135302|RL2|HSV-2/UG/BID-G19074/M1119/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135302
+|              |  |                                                              |     |                       |        +--|
+|              |  |                                                              |     |                       |           +--HSV2|KR135299|RL2|HSV-2/UG/BID-G19071/M22987/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135299
+|              |  |                                                              |     |                    +**|
+|              |  |                                                              |     |                    |  +--HSV2|PQ065513|RL2|HSV2/USA/WA-UW-2P2/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PQ065513_PQ065501
+|              |  |                                                              |     |                 +--|
+|              |  |                                                              |     |                 |  +--HSV2|PQ065494|RL2|HSV2/USA/WA-UW-2G1/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065494
+|              |  |                                                              |     |              +**|
+|              |  |                                                              |     |              |  +**HSV2|PQ065507|RL2|HSV2/USA/WA-UW-2N6/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065507
+|              |  |                                                              |     |           +--|
+|              |  |                                                              |     |           |  |                 +**HSV2|PQ065518|RL2|HSV2/USA/WA-UW-2Q4/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065518
+|              |  |                                                              |     |           |  |              +--|
+|              |  |                                                              |     |           |  |              |  +--HSV2|KR135329|RL2|HSV-2/JP/BID-G32593/JA9||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135329
+|              |  |                                                              |     |           |  |           +--|
+|              |  |                                                              |     |           |  |           |  +--HSV2|PQ065505|RL2|HSV2/USA/WA-UW-2L6/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065505
+|              |  |                                                              |     |           |  |        +--|
+|              |  |                                                              |     |           |  |        |  |        +--HSV2|PQ065511|RL2|HSV2/USA/WA-UW-2O1/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065511
+|              |  |                                                              |     |           |  |        |  |     +**|
+|              |  |                                                              |     |           |  |        |  |     |  +**HSV2|PQ065500|RL2|HSV2/USA/WA-UW-2J4/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065500
+|              |  |                                                              |     |           |  |        |  |  +--|
+|              |  |                                                              |     |           |  |        |  |  |  |  +--HSV2|KY922726|RL2|HSV2-H12212|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KY922726
+|              |  |                                                              |     |           |  |        |  |  |  +--|
+|              |  |                                                              |     |           |  |        |  |  |     |  +--HSV2|KR135324|RL2|HSV-2/JP/BID-G32588/JA3||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135324
+|              |  |                                                              |     |           |  |        |  |  |     +--|
+|              |  |                                                              |     |           |  |        |  |  |        +--HSV2|KR135323|RL2|HSV-2/JP/BID-G32587/JA2||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135323
+|              |  |                                                              |     |           |  |        |  +--|
+|              |  |                                                              |     |           |  |        |     |     +--HSV2|PQ065498|RL2|HSV2/USA/WA-UW-2I8/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065498
+|              |  |                                                              |     |           |  |        |     |  +--|
+|              |  |                                                              |     |           |  |        |     |  |  +--HSV2|OM370995|RL2|G|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OM370995
+|              |  |                                                              |     |           |  |        |     +--|
+|              |  |                                                              |     |           |  |        |        +--HSV2|MT364888|RL2|||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MT364888
+|              |  |                                                              |     |           |  |     +**|
+|              |  |                                                              |     |           |  |     |  +**HSV2|PP099997|RL2|133||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PP099997_MH790599
+|              |  |                                                              |     |           |  |  +--|
+|              |  |                                                              |     |           |  |  |  |  +**HSV2|PP100025|RL2|82||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PP100025_MH790575
+|              |  |                                                              |     |           |  |  |  +**|
+|              |  |                                                              |     |           |  |  |     |     +**HSV2|PP100004|RL2|102||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP100004
+|              |  |                                                              |     |           |  |  |     |  +**|
+|              |  |                                                              |     |           |  |  |     |  |  +**HSV2|KR135304|RL2|HSV-2/UG/BID-G19076/H00066/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135304
+|              |  |                                                              |     |           |  |  |     +**|
+|              |  |                                                              |     |           |  |  |        +--HSV2|KR135309|RL2|HSV-2/US/BID-G19081/44-419851/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135309
+|              |  |                                                              |     |           |  +**|
+|              |  |                                                              |     |           |     +**HSV2|MH790651|RL2|2002-12329||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790651
+|              |  |                                                              |     |        +--|
+|              |  |                                                              |     |        |  |           +--HSV2|PQ065521|RL2|HSV2/USA/WA-UW-2R5/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065521
+|              |  |                                                              |     |        |  |        +**|
+|              |  |                                                              |     |        |  |        |  +--HSV2|KY922725|RL2|HSV2-H12211|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KY922725
+|              |  |                                                              |     |        |  |     +**|
+|              |  |                                                              |     |        |  |     |  +**HSV2|PQ065508|RL2|HSV2/USA/WA-UW-2N7/2020||||False|False|cohort_tier_Tier|cluster_size_6|collapsed_PQ065508_PQ065499_KX574897_KX574871_KX574869...__1_
+|              |  |                                                              |     |        |  |  +--|
+|              |  |                                                              |     |        |  |  |  +**HSV2|PQ065495|RL2|HSV2/USA/WA-UW-2G8/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065495
+|              |  |                                                              |     |        |  +**|
+|              |  |                                                              |     |        |     |  +--HSV2|KR135321|RL2|HSV-2/US/BID-G19094/89-390/1989||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135321
+|              |  |                                                              |     |        |     +**|
+|              |  |                                                              |     |        |        +**HSV2|KR135320|RL2|HSV-2/ZA/BID-G19093/SD66/1995||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135320
+|              |  |                                                              |     |     +**|
+|              |  |                                                              |     |     |  |           +**HSV2|PV972685|RL2|KM-1||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PV972685
+|              |  |                                                              |     |     |  |        +--|
+|              |  |                                                              |     |     |  |        |  +**HSV2|PP099973|RL2|136||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PP099973_MH790606
+|              |  |                                                              |     |     |  |     +--|
+|              |  |                                                              |     |     |  |     |  |           +**HSV2|PQ065515|RL2|HSV2/USA/WA-UW-2P4/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065515
+|              |  |                                                              |     |     |  |     |  |        +**|
+|              |  |                                                              |     |     |  |     |  |        |  +--HSV2|MH790647|RL2|2005-51214||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790647
+|              |  |                                                              |     |     |  |     |  |     +**|
+|              |  |                                                              |     |     |  |     |  |     |  +**HSV2|PQ065496|RL2|HSV2/USA/WA-UW-2H8/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065496
+|              |  |                                                              |     |     |  |     |  |  +--|
+|              |  |                                                              |     |     |  |     |  |  |  +--HSV2|KY922721|RL2|HSV2-H1227|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KY922721
+|              |  |                                                              |     |     |  |     |  +--|
+|              |  |                                                              |     |     |  |     |     |  +--HSV2|KR135325|RL2|HSV-2/JP/BID-G32589/JA5||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135325
+|              |  |                                                              |     |     |  |     |     +--|
+|              |  |                                                              |     |     |  |     |        +--HSV2|KR135310|RL2|HSV-2/US/BID-G19082/44-319857/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135310
+|              |  |                                                              |     |     |  |  +**|
+|              |  |                                                              |     |     |  |  |  +**HSV2|KX574863|RL2|2006-21832||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX574863
+|              |  |                                                              |     |     |  +**|
+|              |  |                                                              |     |     |     +**HSV2|PP100021|RL2|78||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PP100021_MH790563
+|              |  |                                                              |     |  +**|
+|              |  |                                                              |     |  |  |  +**HSV2|MH790605|RL2|2011-16336||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790605
+|              |  |                                                              |     |  |  +--|
+|              |  |                                                              |     |  |     |  +**HSV2|MH790630|RL2|2006-14300CAM||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790630
+|              |  |                                                              |     |  |     +**|
+|              |  |                                                              |     |  |        +--HSV2|KR135312|RL2|HSV-2/US/BID-G19084/9335-2005-576/2009||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135312
+|              |  |                                                              |     +--|
+|              |  |                                                              |        |        +**HSV2|KX574893|RL2|2009-4550||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX574893
+|              |  |                                                              |        |     +**|
+|              |  |                                                              |        |     |  +**HSV2|KX574880|RL2|2007-39712||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX574880
+|              |  |                                                              |        |  +**|
+|              |  |                                                              |        |  |  +**HSV2|KX574874|RL2|2007-38627||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_KX574874_KX574865
+|              |  |                                                              |        +**|
+|              |  |                                                              |           +**HSV2|KX574860|RL2|2007-38205||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX574860
+|              |  |                                                           +--|
+|              |  |                                                           |  |     +**HSV1|QP771544|RL2|||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_QP771544
+|              |  |                                                           |  |  +--|
+|              |  |                                                           |  |  |  +--HSV1|OP297861|RL2|HSV1-v70_d1_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297861
+|              |  |                                                           |  +--|
+|              |  |                                                           |     |     +**HSV1|OP431909|RL2|HSV1-v62_d3_gen_les||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP431909
+|              |  |                                                           |     |  +--|
+|              |  |                                                           |     |  |  +--HSV1|OR771668|RL2|HSV1/USA/WA-UW-1A6/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771668
+|              |  |                                                           |     +--|
+|              |  |                                                           |        +--HSV1|OP297872|RL2|HSV1-v62_d3_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297872
+|              |  |                                                        +--|
+|              |  |                                                        |  |                 +**HSV1|OP431906|RL2|HSV1-v57_d3_gen_les||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP431906
+|              |  |                                                        |  |              +**|
+|              |  |                                                        |  |              |  +**HSV1|OP297868|RL2|HSV1-v46_d349_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_5|collapsed_OP297868_ON007158_ON007151_ON007144_ON007143
+|              |  |                                                        |  |           +**|
+|              |  |                                                        |  |           |  +**HSV1|OP431903|RL2|HSV1-v63_d284_oral||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP431903_OP297879
+|              |  |                                                        |  |        +**|
+|              |  |                                                        |  |        |  |  +**HSV1|OR771672|RL2|HSV1/USA/WA-UW-1B4/2020|USA|2020.0|SAMN38051268|False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771672
+|              |  |                                                        |  |        |  +**|
+|              |  |                                                        |  |        |     +--HSV1|ON960055|RL2|HSV1-San-Francisco-USA-1982-H193-BB|USA|1982.0||False|False|cohort_tier_Tier|cluster_size_2|collapsed_ON960055_ON960054
+|              |  |                                                        |  |     +**|
+|              |  |                                                        |  |     |  +--HSV1|OP297884|RL2|HSV1-v57_d3_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297884
+|              |  |                                                        |  |  +**|
+|              |  |                                                        |  |  |  +**HSV1|OP297875|RL2|v49_d257_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_6|collapsed_OP297875_ON007161_ON007155_ON007149_ON007142...__1_
+|              |  |                                                        |  +--|
+|              |  |                                                        |     |           +**HSV1|MG999838|RL2|2011-31164||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_MG999838_MH999842
+|              |  |                                                        |     |        +**|
+|              |  |                                                        |     |        |  +**HSV1|LT594109|RL2|270/2007|Germany|2007.0|SAMEA4017983|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594109
+|              |  |                                                        |     |     +**|
+|              |  |                                                        |     |     |  +**HSV1|MH999851|RL2|HSV-H1412|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999851
+|              |  |                                                        |     |  +--|
+|              |  |                                                        |     |  |  +**HSV1|MF156584|RL2|K_delta_25/26|not|cohort_tier_Tier|cluster_size_1|collapsed_MF156584
+|              |  |                                                        |     +--|
+|              |  |                                                        |        +--HSV1|KJ847330|RL2|HSV-1/0116209/India/2011|India|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KJ847330
+|              |  |                                                     +--|
+|              |  |                                                     |  |     +--HSV1|OP297862|RL2|HSV1-v73_d4_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297862
+|              |  |                                                     |  |  +--|
+|              |  |                                                     |  |  |  +--HSV1|ON152716|RL2|astronaunt_post_orbit_saliva_HSV_1|USA|||False|False|cohort_tier_Tier|cluster_size_2|collapsed_ON152716_ON152715
+|              |  |                                                     |  +--|
+|              |  |                                                     |     +**HSV1|MH999846|RL2|HSV-H1215|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999846
+|              |  |                                                  +--|
+|              |  |                                                  |  +--HSV1|MH999844|RL2|HSV-H12114|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999844
+|              |  |                                               +--|
+|              |  |                                               |  +--HSV1|MH999845|RL2|HSV-H12117|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999845
+|              |  |                                            +--|
+|              |  |                                            |  +**HSV1|KX424525|RL2|ZW6|China|2013.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX424525
+|              |  |                                         +--|
+|              |  |                                         |  |  +--HSV1|OP431898|RL2|HSV1-v54_d352_gen_les||||False|False|cohort_tier_Tier|cluster_size_7|collapsed_OP431898_OP431896_OP431893_OP431892_OP431888...__2_
+|              |  |                                         |  +--|
+|              |  |                                         |     +**HSV1|OR771669|RL2|HSV1/USA/WA-UW-1A7/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OR771669_OP297870
+|              |  |                                      +--|
+|              |  |                                      |  |                                                      +--HSV2|PQ065504|RL2|HSV2/USA/WA-UW-2L5/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065504
+|              |  |                                      |  +------------------------------------------------------|
+|              |  |                                      |                                                         |  +--HSV2|MN187895|RL2|HJ12|China|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MN187895
+|              |  |                                      |                                                         +--|
+|              |  |                                      |                                                            +--HSV2|KR135322|RL2|HSV-2/JP/BID-G32586/JA1||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135322
+|              |  |                                   +--|
+|              |  |                                   |  |     +--HSV1|OQ724892|RL2|BP-K6|USA|2010.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724892
+|              |  |                                   |  |  +--|
+|              |  |                                   |  |  |  |  +--HSV1|OQ724889|RL2|BP-K3|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724889
+|              |  |                                   |  |  |  +--|
+|              |  |                                   |  |  |     +**HSV1|OQ724834|RL2|BP-C4|USA|2004.0||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OQ724834_OQ724831
+|              |  |                                   |  +--|
+|              |  |                                   |     +--HSV1|HM585509|RL2|E03||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_HM585509
+|              |  |                                +--|
+|              |  |                                |  +**HSV1|OQ102003|RL2|352/08||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ102003
+|              |  |                             +--|
+|              |  |                             |  |           +**HSV1|OR771683|RL2|HSV1/USA/WA-UW-2L1/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771683
+|              |  |                             |  |        +--|
+|              |  |                             |  |        |  +**HSV1|OQ724868|RL2|BP-K1|USA|2002.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724868
+|              |  |                             |  |     +--|
+|              |  |                             |  |     |  |        +--HSV1|OQ724939|RL2|BP-L12|USA|2010.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724939
+|              |  |                             |  |     |  |     +--|
+|              |  |                             |  |     |  |     |  +--HSV1|OQ724914|RL2|BP-K16|USA|2015.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724914
+|              |  |                             |  |     |  |  +**|
+|              |  |                             |  |     |  |  |  +--HSV1|GU734772|RL2|H129|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_GU734772
+|              |  |                             |  |     |  +--|
+|              |  |                             |  |     |     |  +--HSV1|OP297871|RL2|HSV1-v69_d2_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297871
+|              |  |                             |  |     |     +**|
+|              |  |                             |  |     |        +--HSV1|ON960059|RL2|HSV1-San-Francisco-USA-1974-HTZ|USA|1974.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_ON960059
+|              |  |                             |  |  +--|
+|              |  |                             |  |  |  +**HSV1|OQ724833|RL2|BP-C3|USA|2004.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724833
+|              |  |                             |  +--|
+|              |  |                             |     |  +--HSV1|OR771679|RL2|HSV1/USA/WA-UW-2K3/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771679
+|              |  |                             |     +--|
+|              |  |                             |        +--HSV1|LT594105|RL2|172/2010|Germany|2010.0|SAMEA4017987|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594105
+|              |  |                          +--|
+|              |  |                          |  |        +--HSV1|OP431870|RL2|HSV1-v52_d84_gen_les||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP431870_OP297867
+|              |  |                          |  |     +--|
+|              |  |                          |  |     |  |  +--HSV1|OP297866|RL2|HSV1-v71_d395_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297866
+|              |  |                          |  |     |  +--|
+|              |  |                          |  |     |     +--HSV1|HM585508|RL2|CR38||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_HM585508
+|              |  |                          |  |  +--|
+|              |  |                          |  |  |  +--HSV1|OQ724890|RL2|BP-K4|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724890
+|              |  |                          |  +--|
+|              |  |                          |     |  +--HSV1|OQ724941|RL2|BP-L14|USA|2012.0||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OQ724941_OQ724911
+|              |  |                          |     +--|
+|              |  |                          |        +--HSV1|OQ724832|RL2|BP-C2|USA|2004.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724832
+|              |  |                       +--|
+|              |  |                       |  +**HSV1|OR833070|RL2|HSV1/USA/WA-UW-2R6/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833070
+|              |  |                    +**|
+|              |  |                    |  +--HSV1|PZ169684|RL2|A_d8_CSF||||False|False|cohort_tier_Tier|cluster_size_7|collapsed_PZ169684_PZ169683_PZ169682_PZ169681_PZ169679...__2_
+|              |  |                 +--|
+|              |  |                 |  +--HSV1|OR833063|RL2|HSV1/USA/WA-UW-1C4/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833063
+|              |  |              +**|
+|              |  |              |  |        +**HSV1|PP379033|RL2|HSV1-Namibia-2015-oral055||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP379033
+|              |  |              |  |     +**|
+|              |  |              |  |     |  +**HSV1|PP379032|RL2|HSV1-Namibia-2015-oral050||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP379032
+|              |  |              |  |  +--|
+|              |  |              |  |  |  |  +--HSV1|OQ724940|RL2|BP-L13|USA|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724940
+|              |  |              |  |  |  +**|
+|              |  |              |  |  |     +**HSV1|OQ724865|RL2|BP-C12|USA|2010.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724865
+|              |  |              |  +--|
+|              |  |              |     +--HSV1|PP379031|RL2|HSV1-Namibia-2015-oral038||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP379031
+|              |  |           +--|
+|              |  |           |  |           +--HSV1|PV146402|RL2|SJZ196/2019|China|2019.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PV146402
+|              |  |           |  |        +--|
+|              |  |           |  |        |  |  +--HSV1|PV146403|RL2|GZ291/2015|China|2015.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PV146403
+|              |  |           |  |        |  +**|
+|              |  |           |  |        |     +--HSV1|OR833071|RL2|HSV1/USA/WA-UW-2R10/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833071
+|              |  |           |  |     +--|
+|              |  |           |  |     |  |  +**HSV1|OR771675|RL2|HSV1/USA/WA-UW-2G3/2019||||False|False|cohort_tier_Tier|cluster_size_3|collapsed_OR771675_MH999841_MH999838
+|              |  |           |  |     |  +--|
+|              |  |           |  |     |     +--HSV1|KM222727|RL2|H166syn||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KM222727
+|              |  |           |  |  +--|
+|              |  |           |  |  |  |     +--HSV1|OR833065|RL2|HSV1/USA/WA-UW-2J7/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833065
+|              |  |           |  |  |  |  +**|
+|              |  |           |  |  |  |  |  +--HSV1|OP297864|RL2|HSV1-v56_d6_cu_gen_les||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297864
+|              |  |           |  |  |  +--|
+|              |  |           |  |  |     +--HSV1|ON007153|RL2|v40_y14_oral1||||False|False|cohort_tier_Tier|cluster_size_3|collapsed_ON007153_ON007154_ON007132
+|              |  |           |  +**|
+|              |  |           |     +--HSV1|OR405519|RL2|||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR405519
+|              |  |        +**|
+|              |  |        |  |  +**HSV1|PV754022|RL2|HaNa||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PV754022
+|              |  |        |  +**|
+|              |  |        |     |  +--HSV1|OR833068|RL2|HSV1/USA/WA-UW-2K8/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833068
+|              |  |        |     +--|
+|              |  |        |        +--HSV1|OQ724935|RL2|BP-L5|USA|2003.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724935
+|              |  |     +--|
+|              |  |     |  |           +--HSV1|PZ169687|RL2|X_d8_skin|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PZ169687_PZ169686
+|              |  |     |  |        +--|
+|              |  |     |  |        |  +--HSV1|LT594108|RL2|1319/2005|Germany|2005.0|SAMEA4017979|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594108
+|              |  |     |  |     +**|
+|              |  |     |  |     |  |     +--HSV1|OP431891|RL2|HSV1-v61_d308_gen||||False|False|cohort_tier_Tier|cluster_size_3|collapsed_OP431891_OP431883_OP297863
+|              |  |     |  |     |  |  +--|
+|              |  |     |  |     |  |  |  |  +--HSV1|OQ724894|RL2|BP-K9|USA|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724894
+|              |  |     |  |     |  |  |  +--|
+|              |  |     |  |     |  |  |     +--HSV1|MN925871|RL2|Sample4_DOCK8|USA|2015.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MN925871
+|              |  |     |  |     |  +**|
+|              |  |     |  |     |     +--HSV1|OR771690|RL2|HSV1/USA/WA-UW-2O7/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771690
+|              |  |     |  |  +--|
+|              |  |     |  |  |  +--HSV1|HM585510|RL2|E14||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_HM585510
+|              |  |     |  +--|
+|              |  |     |     +--HSV1|OQ724933|RL2|BP-L2|USA|2003.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724933
+|              |  |  +**|
+|              |  |  |  +--HSV1|OR771678|RL2|HSV1/USA/WA-UW-2J3/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771678
+|              |  +**|
+|              |     +**HSV1|OQ724936|RL2|BP-L9|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724936
+|           +**|
+|           |  |     +**HSV1|PZ169706|RL2|C_d10_plasma||||False|False|cohort_tier_Tier|cluster_size_8|collapsed_PZ169706_PZ169705_PZ169703_PZ169702_PZ169688...__3_
+|           |  |  +**|
+|           |  |  |  |     +**HSV1|OR771681|RL2|HSV1/USA/WA-UW-2K5/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771681
+|           |  |  |  |  +**|
+|           |  |  |  |  |  +**HSV1|OQ724835|RL2|BP-C5|USA|2005.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724835
+|           |  |  |  +**|
+|           |  |  |     |  +--HSV1|OP297880|RL2|HSV1-v68_d8_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297880
+|           |  |  |     +**|
+|           |  |  |        +**HSV1|MK952185|RL2|Mother_viremic_blood_HSV_1||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MK952185
+|           |  +**|
+|           |     |  +**HSV1|PZ169698|RL2|B_d9_pharynx|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_3|collapsed_PZ169698_PZ169696_PZ169695
+|           |     +**|
+|           |        |        +--HSV1|OR833062|RL2|HSV1/USA/WA-UW-1C2/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833062
+|           |        |     +**|
+|           |        |     |  |     +--HSV1|OQ724864|RL2|BP-C11|USA|2008.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724864
+|           |        |     |  |  +--|
+|           |        |     |  |  |  +--HSV1|MH999847|RL2|HSV-H12118|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999847
+|           |        |     |  +**|
+|           |        |     |     +**HSV1|OP297881|RL2|v45_d4_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_4|collapsed_OP297881_OP297865_ON007134_ON007145
+|           |        |  +--|
+|           |        |  |  +--HSV1|OQ724912|RL2|BP-K13|USA|2014.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724912
+|           |        +**|
+|           |           +--HSV1|OQ724891|RL2|BP-K5|USA|2010.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724891
+|        +**|
+|        |  +**HSV1|OP297869|RL2|HSV1-v42_d338_cu_gen_les||||False|False|cohort_tier_Tier|cluster_size_5|collapsed_OP297869_ON007160_ON007156_ON007147_ON007135
+|     +**|
+|     |  |     +--HSV1|PZ169691|RL2|Y_d9_plasma||||False|False|cohort_tier_Tier|cluster_size_3|collapsed_PZ169691_PZ169690_PZ169689
+|     |  |  +**|
+|     |  |  |  |  +--HSV1|OR771692|RL2|HSV1/USA/WA-UW-2Q9/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771692
+|     |  |  |  +**|
+|     |  |  |     |  +**HSV1|OR771685|RL2|HSV1/USA/WA-UW-2L9/2020|USA|2020.0|SAMN38051240|False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771685
+|     |  |  |     +--|
+|     |  |  |        +--HSV1|KY922719|RL2|HSV-N-7|USA|||False|False|cohort_tier_Tier|cluster_size_2|collapsed_KY922719_KY922718
+|     |  +**|
+|     |     +**HSV1|OR771680|RL2|HSV1/USA/WA-UW-2K4/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771680
+|  +**|
+|  |  |  +--HSV1|OR771674|RL2|HSV1/USA/WA-UW-2E9/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771674
+|  |  +**|
+|  |     +--HSV1|OP297874|RL2|HSV1-v74_d193_cu_gen|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297874
++**|
+   +--HSV1|OQ724893|RL2|BP-K8|USA|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724893
+
+Tree in newick format:
+
+(HSV1|PZ347688|RL2|HSV1-1981-H186||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PZ347688:0.0014236006,((((((((((HSV1|PZ169719|RL2|Z_d40_skin_culture|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_4|collapsed_PZ169719_PZ169717_PZ169716_PZ169713:0.0000010080,HSV1|PZ169715|RL2|Z_d10_plasma||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PZ169715:0.0000010080):0.0010710451,((HSV1|OP431902|RL2|HSV1-v53_d3_gen_les||||False|False|cohort_tier_Tier|cluster_size_3|collapsed_OP431902_OP431886_OP431882:0.0010677542,HSV1|LT594457|RL2|132/1998|Germany|1998.0|SAMEA4017978|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594457:0.0032203653):0.0007106664,HSV1|OR833069|RL2|HSV1/USA/WA-UW-2M3/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833069:0.0000010080):0.0003537366):0.0010693149,((((HSV1|OR771688|RL2|HSV1/USA/WA-UW-2O2/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OR771688_MH999843:0.0014242835,HSV1|OQ724863|RL2|BP-C9|USA|2005.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724863:0.0007111219):0.0000010080,HSV1|ON960061|RL2|HSV1-Atlanta-USA-1965-E377|USA|1965.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_ON960061:0.0014255458):0.0003548839,HSV1|OP297882|RL2|HSV1-v76_d266_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297882:0.0007104604):0.0000010080,HSV1|OQ724867|RL2|BP-C15|USA|2015.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724867:0.0000010080):0.0000010080):0.0003546911,HSV1|OR771673|RL2|HSV1/USA/WA-UW-2C7/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771673:0.0017799781):0.0003547123,HSV1|OQ724895|RL2|BP-K10|USA|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724895:0.0017818408):0.0000010080,HSV1|OQ724910|RL2|BP-K11|USA|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724910:0.0003551941):0.0000010080,HSV1|OR833067|RL2|HSV1/USA/WA-UW-2K2/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833067:0.0000010080):0.0000010080,HSV1|OQ724932|RL2|BP-L1|USA|2002.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724932:0.0003547292):0.0007114466,HSV1|OQ724934|RL2|BP-L4|USA|2003.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724934:0.0014243567):0.0000024183,HSV1|OQ724937|RL2|BP-L10||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724937:0.0003557358):0.0003551206,(((((((HSV1|PZ169712|RL2|F_d10_plasma||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PZ169712_PZ169711:0.0017772752,HSV1|OQ724888|RL2|BP-K2|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724888:0.0014239586):0.0007107940,((((((((((((((((((((((((((((((((HSV1|PZ169710|RL2|D_d12_skin|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_9|collapsed_PZ169710_PZ169709_PX911520_PX911519_OP431905...__4_:0.0000010080,((((HSV1|PX837190|RL2|||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PX837190_PX763612:0.0000010080,HSV1|OR723971|RL2|dsncRNA12|USA|2021.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR723971:0.0035736657):0.0010686508,(HSV1|OQ724938|RL2|BP-L11|USA|2010.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724938:0.0014289304,HSV1|OQ724836|RL2|BP-C8|USA|2005.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724836:0.0025081940):0.0007100181):0.0000010080,HSV1|OP431911|RL2|HSV1-v51_d189_gen_les||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP431911:0.0003555471):0.0000010080,((HSV1|OP431899|RL2|HSV1-v67_d345_gen||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP431899_OP297885:0.0007117996,(HSV1|OR771695|RL2|HSV1/USA/WA-UW-2R8/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771695:0.0007111526,(HSV1|OR771694|RL2|HSV1/USA/WA-UW-2R7/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771694:0.0000010080,HSV1|OR771682|RL2|HSV1/USA/WA-UW-2K10/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771682:0.0000010080):0.0000010080):0.0003549385):0.0000010080,HSV1|OR771693|RL2|HSV1/USA/WA-UW-2R1/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771693:0.0000010080):0.0000010080):0.0000010080):0.0000021476,HSV1|QP771543|RL2|||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_QP771543:0.0014248198):0.0004982592,HSV1|OR771670|RL2|HSV1/USA/WA-UW-1B2/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771670:0.0009281703):0.0012784584,(((HSV1|MN159382|RL2|s17pp22a||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MN159382:0.0003551762,(HSV1|MN159381|RL2|s17pp8||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MN159381:0.0003552180,HSV1|MN159380|RL2|s17pp7a||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_MN159380_MN159378:0.0000010080):0.0003551593):0.0000010080,HSV1|MN159377|RL2|s17pp3||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_MN159377_X14112:0.0000010080):0.0000010080,HSV1|MN159379|RL2|s17pp5||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MN159379:0.0010695369):0.0006458884):0.0016921959,HSV1|OR771686|RL2|HSV1/USA/WA-UW-2N2/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771686:0.0011703740):0.0011672814,(HSV1|OP871848|RL2|INV-22C|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871848:0.0003546797,HSV1|OP871847|RL2|INV-22B|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871847:0.0007120755):0.0018598918):0.0007230790,(((((((HSV1|OP871859|RL2|INV-9B|USA|||False|False|cohort_tier_Tier|cluster_size_11|collapsed_OP871859_OP871858_OP871857_OP871855_OP871852...__6_:0.0000010080,((((HSV1|OP871844|RL2|INV-17A|USA|||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP871844_OP871843:0.0000010080,(HSV1|KX265035|RL2|914-Y2||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265035:0.0014275043,HSV1|KR011303|RL2|16S||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011303:0.0014238548):0.0000010080):0.0003544068,HSV1|OP871841|RL2|INV-15B|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871841:0.0003544605):0.0003547828,HSV1|KX265029|RL2|914-N3||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265029:0.0000010080):0.0014260282,HSV1|KR052507|RL2|78S||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_KR052507_KR011281:0.0021420503):0.0000010080):0.0000010080,HSV1|OP871840|RL2|INV-11A|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871840:0.0003550076):0.0003549890,(HSV1|OP871850|RL2|INV-25C|USA|||False|False|cohort_tier_Tier|cluster_size_3|collapsed_OP871850_OP871846_KX265036:0.0000010080,HSV1|KR011308|RL2|26S||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011308:0.0003548901):0.0000010080):0.0003550649,HSV1|KX265039|RL2|20-14-22||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265039:0.0000010080):0.0010709919,(HSV1|OP871853|RL2|INV-1B||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871853:0.0010697661,HSV1|KX265041|RL2|20-14-1||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265041:0.0000010080):0.0007130888):0.0003552564,(HSV1|OP871845|RL2|INV-20A|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871845:0.0000023828,(HSV1|KR011295|RL2|5-5-2||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011295:0.0003544402,HSV1|KR011280|RL2|8S||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011280:0.0010719926):0.0007133991):0.0003550505):0.0010236028,HSV1|LT594106|RL2|2158/2007|Germany|2007.0|SAMEA4017985|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594106:0.0011200850):0.0008239064):0.0003068360,((((HSV1|OP871856|RL2|INV-2C|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP871856:0.0014278420,HSV1|KX265028|RL2|20-14-8||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265028:0.0000010080):0.0003548555,((HSV1|OP871854|RL2|INV-1G|USA|||False|False|cohort_tier_Tier|cluster_size_5|collapsed_OP871854_KX265042_KX265037_KX265031_KR011296:0.0000010080,HSV1|KX265040|RL2|914-A3||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265040:0.0010710315):0.0000023972,(((((((HSV1|KR011312|RL2|65M||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011312:0.0003549185,HSV1|KR011276|RL2|57M||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011276:0.0007114696):0.0000017106,HSV1|KR011307|RL2|82S||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011307:0.0000010080):0.0000023824,HSV1|KR011284|RL2|10-6-3||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011284:0.0007128301):0.0003453329,(HSV1|KR011294|RL2|11M||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011294:0.0007135688,HSV1|KR011278|RL2|4M||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011278:0.0000010080):0.0003558065):0.0000013400,HSV1|KR011274|RL2|10-2-3||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011274:0.0003558258):0.0000045696,HSV1|KR011283|RL2|CJ994||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011283:0.0007122860):0.0010691766,HSV1|KR011300|RL2|76M||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR011300:0.0000023850):0.0003550113):0.0000010080):0.0014264628,HSV1|KX265026|RL2|914-D2||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX265026:0.0000023356):0.0011028954,HSV1|ON960057|RL2|HSV1-San-Francisco-USA-1979-DAB1|USA|1979.0||False|False|cohort_tier_Tier|cluster_size_2|collapsed_ON960057_KM222726:0.0021404769):0.0007168424):0.0014073981,((((HSV1|PZ169694|RL2|W_d15_skin|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_3|collapsed_PZ169694_PZ169693_PZ169692:0.0000010080,HSV1|OR771677|RL2|HSV1/USA/WA-UW-2I2/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771677:0.0017880749):0.0003562366,HSV1|OR771691|RL2|HSV1/USA/WA-UW-2Q6/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771691:0.0014346383):0.0007097908,(((HSV1|OP431878|RL2|HSV1-v55_d382_gen||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP431878:0.0003551612,HSV1|MH999848|RL2|HSV-H1311|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999848:0.0017904915):0.0013719563,HSV1|OP431901|RL2|HSV1-v66_d6_gen||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP431901_OP297877:0.0022120786):0.0003520884,HSV1|HM585511|RL2|E19||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_HM585511:0.0028117301):0.0011319219):0.0003619374,(((HSV1|OP431910|RL2|HSV1-v59_d83_gen_les||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP431910_OP431868:0.0014320830,HSV1|LT594192|RL2|160/1982|Germany|1982.0|SAMEA4017977|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594192:0.0025085149):0.0003512390,(HSV1|MG999889|RL2|2011-12742||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MG999889:0.0003546510,HSV1|MG708292|RL2|HSV-v29_site14_day2||||False|False|cohort_tier_Tier|cluster_size_7|collapsed_MG708292_MG708290_MG708289_MG708288_MG708287...__2_:0.0007123099):0.0007127147):0.0003563141,HSV1|ON513441|RL2|NIVD4|China|2017.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_ON513441:0.0010709874):0.0003547443):0.0007027905):0.0003634519,(HSV1|OR771689|RL2|HSV1/USA/WA-UW-2O5/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771689:0.0025046805,HSV1|OR771676|RL2|HSV1/USA/WA-UW-2I1/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771676:0.0035972735):0.0010789295):0.0007460591,((HSV1|OR833066|RL2|HSV1/USA/WA-UW-2J8/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833066:0.0014283659,(HSV1|OR771687|RL2|HSV1/USA/WA-UW-2N3/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771687:0.0000010080,HSV1|MH999840|RL2|Ty25|USA|||False|False|cohort_tier_Tier|cluster_size_4|collapsed_MH999840_MH999839_HM585513_HM585512:0.0007136191):0.0000010080):0.0006830763,(((((((((((((((((HSV2|PZ135825|RL2|51-SV_uncultured|USA|2021.0||False|False|cohort_tier_Tier|cluster_size_3|collapsed_PZ135825_PZ135824_PZ135823:0.0003485221,(((HSV2|PQ065522|RL2|HSV2/USA/WA-UW-2R9/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PQ065522_PQ065517:0.0000010080,(HSV2|PQ065520|RL2|HSV2/USA/WA-UW-2R2/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065520:0.0006963600,HSV2|PQ065506|RL2|HSV2/USA/WA-UW-2L10/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PQ065506_PQ065493:0.0000010080):0.0000010080):0.0003428323,HSV2|MH790655|RL2|2006-15377CAM||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790655:0.0004513644):0.0004457306,HSV2|PQ065509|RL2|HSV2/USA/WA-UW-2N8/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065509:0.0010502708):0.0017908538):0.0003355500,HSV2|PQ065502|RL2|HSV2/USA/WA-UW-2J9/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065502:0.0024856868):0.0003343568,(((((HSV2|PX242236|RL2|MCL-24-H-4740||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PX242236_PV798441:0.0025142780,(HSV2|PQ065514|RL2|HSV2/USA/WA-UW-2P3/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PQ065514_PQ065512:0.0000010080,HSV2|KY922720|RL2|HSV2-H1226|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KY922720:0.0006967721):0.0003486503):0.0000010080,HSV2|PP100077|RL2|21||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PP100077_MH790580:0.0010735343):0.0000010080,HSV2|PP100073|RL2|33||||False|False|cohort_tier_Tier|cluster_size_4|collapsed_PP100073_PP100000_MH790622_MH790562:0.0000025382):0.0000020434,HSV2|MH790654|RL2|2002-8734||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790654:0.0007276455):0.0010002134,HSV2|PQ065519|RL2|HSV2/USA/WA-UW-2Q7/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065519:0.0003420592):0.0000025381):0.0007054671,HSV2|PQ065497|RL2|HSV2/USA/WA-UW-2H10/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065497:0.0000025382):0.0010617002,HSV2|MF564037|RL2|sample|cohort_tier_Tier|cluster_size_2|collapsed_MF564037_MF564036:0.0009923693):0.0003282444,(HSV2|PQ065510|RL2|HSV2/USA/WA-UW-2N10/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065510:0.0023249145,(HSV2|PQ065503|RL2|HSV2/USA/WA-UW-2K9/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065503:0.0010607673,HSV2|MF564035|RL2|sample|cohort_tier_Tier|cluster_size_2|collapsed_MF564035_MF564034:0.0003299870):0.0003305356):0.0006593565):0.0010260955,(HSV2|PP100069|RL2|1||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP100069:0.0000010080,HSV2|PP100029|RL2|86||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP100029:0.0000010080):0.0007633898):0.0005621881,HSV2|KR135330|RL2|HSV-2/US/BID-G1929/BethesdaP5||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135330:0.0020810522):0.0009463288,(HSV2|PQ065516|RL2|HSV2/USA/WA-UW-2P5/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065516:0.0003462409,(((HSV2|PQ065492|RL2|HSV2/USA/WA-UW-2D4/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065492:0.0010211566,HSV2|KY922724|RL2|HSV2-H1526||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KY922724:0.0003533207):0.0006313303,(HSV2|KR135316|RL2|HSV-2/UG/BID-G19088/G75809/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135316:0.0035660044,HSV2|KR135303|RL2|HSV-2/UG/BID-G44423/L22861/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135303:0.0007008779):0.0005580988):0.0007177012,(HSV2|KR135302|RL2|HSV-2/UG/BID-G19074/M1119/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135302:0.0006912034,HSV2|KR135299|RL2|HSV-2/UG/BID-G19071/M22987/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135299:0.0007618994):0.0009400431):0.0015451591):0.0000021839):0.0003883161,HSV2|PQ065513|RL2|HSV2/USA/WA-UW-2P2/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PQ065513_PQ065501:0.0006922185):0.0000010080,HSV2|PQ065494|RL2|HSV2/USA/WA-UW-2G1/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065494:0.0007053068):0.0007770550,HSV2|PQ065507|RL2|HSV2/USA/WA-UW-2N6/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065507:0.0000010080):0.0003886032,((((((HSV2|PQ065518|RL2|HSV2/USA/WA-UW-2Q4/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065518:0.0000021649,HSV2|KR135329|RL2|HSV-2/JP/BID-G32593/JA9||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135329:0.0619608773):0.0937526741,HSV2|PQ065505|RL2|HSV2/USA/WA-UW-2L6/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065505:0.0989720907):0.0312338166,(((HSV2|PQ065511|RL2|HSV2/USA/WA-UW-2O1/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065511:0.0007177344,HSV2|PQ065500|RL2|HSV2/USA/WA-UW-2J4/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065500:0.0000010080):0.0000025835,(HSV2|KY922726|RL2|HSV2-H12212|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KY922726:0.0020779566,(HSV2|KR135324|RL2|HSV-2/JP/BID-G32588/JA3||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135324:0.2593430216,HSV2|KR135323|RL2|HSV-2/JP/BID-G32587/JA2||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135323:0.0019999857):0.0005016224):0.1592317148):0.0935122229,((HSV2|PQ065498|RL2|HSV2/USA/WA-UW-2I8/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065498:0.0025694090,HSV2|OM370995|RL2|G|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OM370995:0.0020415956):0.1770936819,HSV2|MT364888|RL2|||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MT364888:0.0910950752):0.0336940625):0.0277294230):0.0949971621,HSV2|PP099997|RL2|133||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PP099997_MH790599:0.0000023494):0.0003365589,(HSV2|PP100025|RL2|82||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PP100025_MH790575:0.0000010080,((HSV2|PP100004|RL2|102||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP100004:0.0000010080,HSV2|KR135304|RL2|HSV-2/UG/BID-G19076/H00066/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135304:0.0003409570):0.0000060562,HSV2|KR135309|RL2|HSV-2/US/BID-G19081/44-419851/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135309:0.0014091220):0.0000010080):0.0000022051):0.0004061481,HSV2|MH790651|RL2|2002-12329||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790651:0.0000010080):0.0000060267):0.0005080317,((((HSV2|PQ065521|RL2|HSV2/USA/WA-UW-2R5/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065521:0.0007057487,HSV2|KY922725|RL2|HSV2-H12211|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KY922725:0.0010379003):0.0000026744,HSV2|PQ065508|RL2|HSV2/USA/WA-UW-2N7/2020||||False|False|cohort_tier_Tier|cluster_size_6|collapsed_PQ065508_PQ065499_KX574897_KX574871_KX574869...__1_:0.0000010080):0.0000010080,HSV2|PQ065495|RL2|HSV2/USA/WA-UW-2G8/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065495:0.0003481738):0.0005087418,(HSV2|KR135321|RL2|HSV-2/US/BID-G19094/89-390/1989||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135321:0.0010505869,HSV2|KR135320|RL2|HSV-2/ZA/BID-G19093/SD66/1995||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135320:0.0003480959):0.0003480746):0.0000028293):0.0007238618,((((HSV2|PV972685|RL2|KM-1||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PV972685:0.0003464522,HSV2|PP099973|RL2|136||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PP099973_MH790606:0.0003482554):0.0013980577,((((HSV2|PQ065515|RL2|HSV2/USA/WA-UW-2P4/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065515:0.0000010080,HSV2|MH790647|RL2|2005-51214||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790647:0.0006816801):0.0003348208,HSV2|PQ065496|RL2|HSV2/USA/WA-UW-2H8/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065496:0.0000010080):0.0000021379,HSV2|KY922721|RL2|HSV2-H1227|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KY922721:0.0006854444):0.0039469246,(HSV2|KR135325|RL2|HSV-2/JP/BID-G32589/JA5||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135325:0.0067378905,HSV2|KR135310|RL2|HSV-2/US/BID-G19082/44-319857/2007||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135310:0.0006428425):0.0060109910):0.0013707317):0.0005645711,HSV2|KX574863|RL2|2006-21832||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX574863:0.0000020050):0.0000025217,HSV2|PP100021|RL2|78||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PP100021_MH790563:0.0000010080):0.0003751501):0.0000023917,(HSV2|MH790605|RL2|2011-16336||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790605:0.0000022177,(HSV2|MH790630|RL2|2006-14300CAM||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH790630:0.0000010080,HSV2|KR135312|RL2|HSV-2/US/BID-G19084/9335-2005-576/2009||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135312:0.0019468234):0.0000010833):0.0039301970):0.0000012238,(((HSV2|KX574893|RL2|2009-4550||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX574893:0.0003481925,HSV2|KX574880|RL2|2007-39712||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX574880:0.0003482671):0.0000010080,HSV2|KX574874|RL2|2007-38627||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_KX574874_KX574865:0.0000010080):0.0000010080,HSV2|KX574860|RL2|2007-38205||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX574860:0.0003481940):0.0003469657):0.4179749510):0.0000028879):0.1911418732,((HSV1|QP771544|RL2|||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_QP771544:0.0000021610,HSV1|OP297861|RL2|HSV1-v70_d1_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297861:0.1570924909):0.1715218548,((HSV1|OP431909|RL2|HSV1-v62_d3_gen_les||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP431909:0.0000010080,HSV1|OR771668|RL2|HSV1/USA/WA-UW-1A6/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771668:0.0028731779):0.1526310838,HSV1|OP297872|RL2|HSV1-v62_d3_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297872:0.1647743093):0.0488862510):0.0416651031):0.0837697848,((((((HSV1|OP431906|RL2|HSV1-v57_d3_gen_les||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP431906:0.0000010080,HSV1|OP297868|RL2|HSV1-v46_d349_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_5|collapsed_OP297868_ON007158_ON007151_ON007144_ON007143:0.0003558968):0.0000010080,HSV1|OP431903|RL2|HSV1-v63_d284_oral||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP431903_OP297879:0.0000010080):0.0000010080,(HSV1|OR771672|RL2|HSV1/USA/WA-UW-1B4/2020|USA|2020.0|SAMN38051268|False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771672:0.0003559474,HSV1|ON960055|RL2|HSV1-San-Francisco-USA-1982-H193-BB|USA|1982.0||False|False|cohort_tier_Tier|cluster_size_2|collapsed_ON960055_ON960054:0.0021487359):0.0000010080):0.0000010080,HSV1|OP297884|RL2|HSV1-v57_d3_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297884:0.0028644411):0.0000010080,HSV1|OP297875|RL2|v49_d257_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_6|collapsed_OP297875_ON007161_ON007155_ON007149_ON007142...__1_:0.0003563252):0.0003564404,((((HSV1|MG999838|RL2|2011-31164||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_MG999838_MH999842:0.0000010080,HSV1|LT594109|RL2|270/2007|Germany|2007.0|SAMEA4017983|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594109:0.0003572512):0.0000010080,HSV1|MH999851|RL2|HSV-H1412|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999851:0.0003570811):0.0003565927,HSV1|MF156584|RL2|K_delta_25/26|not|cohort_tier_Tier|cluster_size_1|collapsed_MF156584:0.0000023865):0.0007140472,HSV1|KJ847330|RL2|HSV-1/0116209/India/2011|India|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KJ847330:0.0014389281):0.0021653245):0.0985570258):0.0335360078,((HSV1|OP297862|RL2|HSV1-v73_d4_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297862:0.0394419224,HSV1|ON152716|RL2|astronaunt_post_orbit_saliva_HSV_1|USA|||False|False|cohort_tier_Tier|cluster_size_2|collapsed_ON152716_ON152715:0.0347447060):0.0310688231,HSV1|MH999846|RL2|HSV-H1215|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999846:0.0000025435):0.0677658736):0.3531801083,HSV1|MH999844|RL2|HSV-H12114|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999844:0.1081609961):0.1263557486,HSV1|MH999845|RL2|HSV-H12117|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999845:0.0191342625):0.0030317424,HSV1|KX424525|RL2|ZW6|China|2013.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KX424525:0.0000025572):0.2357593538,(HSV1|OP431898|RL2|HSV1-v54_d352_gen_les||||False|False|cohort_tier_Tier|cluster_size_7|collapsed_OP431898_OP431896_OP431893_OP431892_OP431888...__2_:0.0229540539,HSV1|OR771669|RL2|HSV1/USA/WA-UW-1A7/2020||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OR771669_OP297870:0.0002100750):0.0934568322):0.0296374690,(HSV2|PQ065504|RL2|HSV2/USA/WA-UW-2L5/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PQ065504:0.1561065865,(HSV2|MN187895|RL2|HJ12|China|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MN187895:0.0005348901,HSV2|KR135322|RL2|HSV-2/JP/BID-G32586/JA1||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KR135322:0.0008553845):0.0248693005):10.0799807874):0.0056702415,((HSV1|OQ724892|RL2|BP-K6|USA|2010.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724892:0.0029808297,(HSV1|OQ724889|RL2|BP-K3|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724889:0.0014332318,HSV1|OQ724834|RL2|BP-C4|USA|2004.0||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OQ724834_OQ724831:0.0003560219):0.0009674957):0.2302889500,HSV1|HM585509|RL2|E03||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_HM585509:0.0008212608):0.1288426119):0.1036678968,HSV1|OQ102003|RL2|352/08||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ102003:0.0000028137):0.1624356712,((((HSV1|OR771683|RL2|HSV1/USA/WA-UW-2L1/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771683:0.0000010080,HSV1|OQ724868|RL2|BP-K1|USA|2002.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724868:0.0000010080):0.0024999317,(((HSV1|OQ724939|RL2|BP-L12|USA|2010.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724939:0.0014556392,HSV1|OQ724914|RL2|BP-K16|USA|2015.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724914:0.0028841331):0.0014269250,HSV1|GU734772|RL2|H129|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_GU734772:0.0006953807):0.0003808981,(HSV1|OP297871|RL2|HSV1-v69_d2_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297871:0.0017831243,HSV1|ON960059|RL2|HSV1-San-Francisco-USA-1974-HTZ|USA|1974.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_ON960059:0.0010731998):0.0003572005):0.0007122434):0.0008011749,HSV1|OQ724833|RL2|BP-C3|USA|2004.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724833:0.0002725964):0.0737504832,(HSV1|OR771679|RL2|HSV1/USA/WA-UW-2K3/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771679:0.1105409606,HSV1|LT594105|RL2|172/2010|Germany|2010.0|SAMEA4017987|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594105:0.1004619683):0.0393363770):0.4731304440):0.0689316337,(((HSV1|OP431870|RL2|HSV1-v52_d84_gen_les||||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OP431870_OP297867:0.0007227010,(HSV1|OP297866|RL2|HSV1-v71_d395_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297866:0.0010725171,HSV1|HM585508|RL2|CR38||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_HM585508:0.0032287049):0.0014202088):0.0022008867,HSV1|OQ724890|RL2|BP-K4|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724890:0.0006794827):0.0105765876,(HSV1|OQ724941|RL2|BP-L14|USA|2012.0||False|False|cohort_tier_Tier|cluster_size_2|collapsed_OQ724941_OQ724911:0.1970573221,HSV1|OQ724832|RL2|BP-C2|USA|2004.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724832:0.0293344584):0.4160159811):0.0300076118):0.0198033829,HSV1|OR833070|RL2|HSV1/USA/WA-UW-2R6/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833070:0.0000023643):0.2003772761,HSV1|PZ169684|RL2|A_d8_CSF||||False|False|cohort_tier_Tier|cluster_size_7|collapsed_PZ169684_PZ169683_PZ169682_PZ169681_PZ169679...__2_:0.0025020010):0.0000023629,HSV1|OR833063|RL2|HSV1/USA/WA-UW-1C4/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833063:0.0032237302):0.0007103805,(((HSV1|PP379033|RL2|HSV1-Namibia-2015-oral055||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP379033:0.0000010080,HSV1|PP379032|RL2|HSV1-Namibia-2015-oral050||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP379032:0.0000010080):0.0003549633,(HSV1|OQ724940|RL2|BP-L13|USA|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724940:0.0007111072,HSV1|OQ724865|RL2|BP-C12|USA|2010.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724865:0.0003549627):0.0000010080):0.0010684022,HSV1|PP379031|RL2|HSV1-Namibia-2015-oral038||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PP379031:0.0014266562):0.0010662121):0.0000022243,((((HSV1|PV146402|RL2|SJZ196/2019|China|2019.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PV146402:0.0010477496,(HSV1|PV146403|RL2|GZ291/2015|China|2015.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PV146403:0.0010731368,HSV1|OR833071|RL2|HSV1/USA/WA-UW-2R10/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833071:0.0021613071):0.0003734256):0.0007083165,(HSV1|OR771675|RL2|HSV1/USA/WA-UW-2G3/2019||||False|False|cohort_tier_Tier|cluster_size_3|collapsed_OR771675_MH999841_MH999838:0.0000010080,HSV1|KM222727|RL2|H166syn||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_KM222727:0.0007118496):0.0024835848):0.0014538521,((HSV1|OR833065|RL2|HSV1/USA/WA-UW-2J7/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833065:0.0011684767,HSV1|OP297864|RL2|HSV1-v56_d6_cu_gen_les||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297864:0.0016901227):0.0003562435,HSV1|ON007153|RL2|v40_y14_oral1||||False|False|cohort_tier_Tier|cluster_size_3|collapsed_ON007153_ON007154_ON007132:0.0013273204):0.0008111760):0.0021449507,HSV1|OR405519|RL2|||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR405519:0.0007196277):0.0003531411):0.0007091273,(HSV1|PV754022|RL2|HaNa||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_PV754022:0.0003554761,(HSV1|OR833068|RL2|HSV1/USA/WA-UW-2K8/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833068:0.0028617301,HSV1|OQ724935|RL2|BP-L5|USA|2003.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724935:0.0017857867):0.0007095357):0.0003572966):0.0003549545,((((HSV1|PZ169687|RL2|X_d8_skin|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_2|collapsed_PZ169687_PZ169686:0.0017855578,HSV1|LT594108|RL2|1319/2005|Germany|2005.0|SAMEA4017979|False|False|cohort_tier_Tier|cluster_size_1|collapsed_LT594108:0.0014277398):0.0007124843,((HSV1|OP431891|RL2|HSV1-v61_d308_gen||||False|False|cohort_tier_Tier|cluster_size_3|collapsed_OP431891_OP431883_OP297863:0.0007122524,(HSV1|OQ724894|RL2|BP-K9|USA|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724894:0.0010684061,HSV1|MN925871|RL2|Sample4_DOCK8|USA|2015.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MN925871:0.0010678763):0.0007125748):0.0014292373,HSV1|OR771690|RL2|HSV1/USA/WA-UW-2O7/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771690:0.0017839423):0.0003555572):0.0000025381,HSV1|HM585510|RL2|E14||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_HM585510:0.0021417129):0.0007127396,HSV1|OQ724933|RL2|BP-L2|USA|2003.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724933:0.0017836170):0.0007148799):0.0007135215,HSV1|OR771678|RL2|HSV1/USA/WA-UW-2J3/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771678:0.0010702109):0.0003513326,HSV1|OQ724936|RL2|BP-L9|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724936:0.0003543510):0.0000023837):0.0010656394,((HSV1|PZ169706|RL2|C_d10_plasma||||False|False|cohort_tier_Tier|cluster_size_8|collapsed_PZ169706_PZ169705_PZ169703_PZ169702_PZ169688...__3_:0.0000010080,((HSV1|OR771681|RL2|HSV1/USA/WA-UW-2K5/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771681:0.0003540544,HSV1|OQ724835|RL2|BP-C5|USA|2005.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724835:0.0003541274):0.0000010080,(HSV1|OP297880|RL2|HSV1-v68_d8_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297880:0.0007092414,HSV1|MK952185|RL2|Mother_viremic_blood_HSV_1||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MK952185:0.0003543150):0.0000010080):0.0000010080):0.0000010080,(HSV1|PZ169698|RL2|B_d9_pharynx|USA|2009.0||False|False|cohort_tier_Tier|cluster_size_3|collapsed_PZ169698_PZ169696_PZ169695:0.0003540384,(((HSV1|OR833062|RL2|HSV1/USA/WA-UW-1C2/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR833062:0.0014207277,((HSV1|OQ724864|RL2|BP-C11|USA|2008.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724864:0.0007110236,HSV1|MH999847|RL2|HSV-H12118|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_MH999847:0.0007119754):0.0010658518,HSV1|OP297881|RL2|v45_d4_cu_gen_les|USA|||False|False|cohort_tier_Tier|cluster_size_4|collapsed_OP297881_OP297865_ON007134_ON007145:0.0003537761):0.0000010080):0.0003541255,HSV1|OQ724912|RL2|BP-K13|USA|2014.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724912:0.0007098854):0.0007108489,HSV1|OQ724891|RL2|BP-K5|USA|2010.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724891:0.0010690430):0.0003536217):0.0000023881):0.0003541925):0.0000021170,HSV1|OP297869|RL2|HSV1-v42_d338_cu_gen_les||||False|False|cohort_tier_Tier|cluster_size_5|collapsed_OP297869_ON007160_ON007156_ON007147_ON007135:0.0000010080):0.0003543754,((HSV1|PZ169691|RL2|Y_d9_plasma||||False|False|cohort_tier_Tier|cluster_size_3|collapsed_PZ169691_PZ169690_PZ169689:0.0010659210,(HSV1|OR771692|RL2|HSV1/USA/WA-UW-2Q9/2020||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771692:0.0010656917,(HSV1|OR771685|RL2|HSV1/USA/WA-UW-2L9/2020|USA|2020.0|SAMN38051240|False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771685:0.0000010080,HSV1|KY922719|RL2|HSV-N-7|USA|||False|False|cohort_tier_Tier|cluster_size_2|collapsed_KY922719_KY922718:0.0021513272):0.0010662478):0.0003542601):0.0000010080,HSV1|OR771680|RL2|HSV1/USA/WA-UW-2K4/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771680:0.0003552419):0.0000022053):0.0003546054,(HSV1|OR771674|RL2|HSV1/USA/WA-UW-2E9/2019||||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OR771674:0.0035773746,HSV1|OP297874|RL2|HSV1-v74_d193_cu_gen|USA|||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OP297874:0.0021374236):0.0003536593):0.0003552549,HSV1|OQ724893|RL2|BP-K8|USA|2011.0||False|False|cohort_tier_Tier|cluster_size_1|collapsed_OQ724893:0.0017881851):0.0000020760);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t hsv_curated_dataset/06_alignments/trees/combined\RL2.treefile -m "GTR{0.676902,0.807091,0.992031,0.795834,1.02732}+F{0.126579,0.400002,0.362019,0.111401}+I{0.0773755}+G4{0.715099}" --length 2568
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s hsv_curated_dataset/06_alignments/combined\RL2_combined_aligned.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s hsv_curated_dataset/06_alignments/combined\RL2_combined_aligned.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Wed Oct 28 20:24:56 2026
+Total CPU time used: 25.0781 seconds (0h:0m:25s)
+Total wall-clock time used: 6.85227 seconds (0h:0m:6s)
+

@@ -1,0 +1,442 @@
+alignment_codon_col	ref_residue	ref_present	clinical_occupancy	retained_after_masking	masked_codon_col
+1	1	True	1.0	True	1
+2	2	True	1.0	True	2
+3	3	True	1.0	True	3
+4	4	True	1.0	True	4
+5	5	True	1.0	True	5
+6	6	True	1.0	True	6
+7	7	True	1.0	True	7
+8	8	True	1.0	True	8
+9	9	True	1.0	True	9
+10	10	True	1.0	True	10
+11	11	True	1.0	True	11
+12	12	True	1.0	True	12
+13	13	True	1.0	True	13
+14	14	True	1.0	True	14
+15	15	True	1.0	True	15
+16	16	True	1.0	True	16
+17	17	True	1.0	True	17
+18	18	True	1.0	True	18
+19	19	True	1.0	True	19
+20	20	True	1.0	True	20
+21	21	True	1.0	True	21
+22	22	True	1.0	True	22
+23	23	True	1.0	True	23
+24	24	True	1.0	True	24
+25	25	True	1.0	True	25
+26	26	True	1.0	True	26
+27	27	True	1.0	True	27
+28	28	True	1.0	True	28
+29	29	True	1.0	True	29
+30	30	True	1.0	True	30
+31	31	True	1.0	True	31
+32	32	True	1.0	True	32
+33	33	True	1.0	True	33
+34	34	True	1.0	True	34
+35	35	True	1.0	True	35
+36	36	True	1.0	True	36
+37	37	True	1.0	True	37
+38	38	True	1.0	True	38
+39	39	True	1.0	True	39
+40	40	True	1.0	True	40
+41	41	True	1.0	True	41
+42	42	True	1.0	True	42
+43	43	True	1.0	True	43
+44	44	True	1.0	True	44
+45	45	True	1.0	True	45
+46	46	True	1.0	True	46
+47	47	True	1.0	True	47
+48	48	True	1.0	True	48
+49	49	True	1.0	True	49
+50	50	True	1.0	True	50
+51	51	True	1.0	True	51
+52	52	True	1.0	True	52
+53	53	True	1.0	True	53
+54	54	True	1.0	True	54
+55	55	True	1.0	True	55
+56	56	True	1.0	True	56
+57	57	True	1.0	True	57
+58	58	True	1.0	True	58
+59	59	True	1.0	True	59
+60	60	True	1.0	True	60
+61	61	True	1.0	True	61
+62	62	True	1.0	True	62
+63	63	True	1.0	True	63
+64	64	True	1.0	True	64
+65	65	True	1.0	True	65
+66	66	True	1.0	True	66
+67	67	True	1.0	True	67
+68	68	True	1.0	True	68
+69	69	True	1.0	True	69
+70	70	True	1.0	True	70
+71	71	True	1.0	True	71
+72	72	True	1.0	True	72
+73	73	True	1.0	True	73
+74	74	True	1.0	True	74
+75	75	True	1.0	True	75
+76	76	True	1.0	True	76
+77	77	True	1.0	True	77
+78	78	True	1.0	True	78
+79	79	True	1.0	True	79
+80	80	True	1.0	True	80
+81	81	True	1.0	True	81
+82	82	True	1.0	True	82
+83	83	True	1.0	True	83
+84	84	True	1.0	True	84
+85	85	True	1.0	True	85
+86	86	True	1.0	True	86
+87	87	True	1.0	True	87
+88	88	True	1.0	True	88
+89	89	True	1.0	True	89
+90	90	True	1.0	True	90
+91	91	True	1.0	True	91
+92	92	True	1.0	True	92
+93	93	True	1.0	True	93
+94	94	True	1.0	True	94
+95	95	True	1.0	True	95
+96	96	True	1.0	True	96
+97	97	True	1.0	True	97
+98	98	True	1.0	True	98
+99	99	True	1.0	True	99
+100	100	True	1.0	True	100
+101	101	True	1.0	True	101
+102	102	True	1.0	True	102
+103	103	True	1.0	True	103
+104	104	True	1.0	True	104
+105	105	True	1.0	True	105
+106	106	True	1.0	True	106
+107	107	True	1.0	True	107
+108	108	True	1.0	True	108
+109	109	True	1.0	True	109
+110	110	True	1.0	True	110
+111	111	True	1.0	True	111
+112	112	True	1.0	True	112
+113	113	True	1.0	True	113
+114	114	True	1.0	True	114
+115	115	True	1.0	True	115
+116	116	True	1.0	True	116
+117	117	True	1.0	True	117
+118	118	True	1.0	True	118
+119	119	True	1.0	True	119
+120	120	True	1.0	True	120
+121	121	True	1.0	True	121
+122	122	True	1.0	True	122
+123	123	True	1.0	True	123
+124	124	True	1.0	True	124
+125	125	True	1.0	True	125
+126	126	True	1.0	True	126
+127	127	True	1.0	True	127
+128	128	True	1.0	True	128
+129	129	True	1.0	True	129
+130	130	True	1.0	True	130
+131	131	True	1.0	True	131
+132	132	True	1.0	True	132
+133	133	True	1.0	True	133
+134	134	True	1.0	True	134
+135	135	True	1.0	True	135
+136	136	True	1.0	True	136
+137	137	True	1.0	True	137
+138	138	True	1.0	True	138
+139	139	True	1.0	True	139
+140	140	True	1.0	True	140
+141	141	True	1.0	True	141
+142	142	True	1.0	True	142
+143	143	True	1.0	True	143
+144	144	True	1.0	True	144
+145	145	True	1.0	True	145
+146	146	True	1.0	True	146
+147	147	True	1.0	True	147
+148	148	True	1.0	True	148
+149	149	True	1.0	True	149
+150	150	True	1.0	True	150
+151	151	True	1.0	True	151
+152	152	True	1.0	True	152
+153	153	True	1.0	True	153
+154	154	True	0.9921	True	154
+155	155	True	1.0	True	155
+156	156	True	1.0	True	156
+157	157	True	1.0	True	157
+158	158	True	1.0	True	158
+159	159	True	1.0	True	159
+160	160	True	1.0	True	160
+161	161	True	1.0	True	161
+162	162	True	1.0	True	162
+163	163	True	1.0	True	163
+164	164	True	1.0	True	164
+165	165	True	1.0	True	165
+166	166	True	1.0	True	166
+167	167	True	1.0	True	167
+168	168	True	1.0	True	168
+169	169	True	1.0	True	169
+170	170	True	1.0	True	170
+171	171	True	1.0	True	171
+172	172	True	1.0	True	172
+173	173	True	1.0	True	173
+174	174	True	1.0	True	174
+175	175	True	1.0	True	175
+176	176	True	1.0	True	176
+177	177	True	1.0	True	177
+178	178	True	1.0	True	178
+179	179	True	1.0	True	179
+180	180	True	1.0	True	180
+181	181	True	1.0	True	181
+182	182	True	1.0	True	182
+183	183	True	1.0	True	183
+184	184	True	1.0	True	184
+185	185	True	1.0	True	185
+186	186	True	1.0	True	186
+187	187	True	1.0	True	187
+188	188	True	1.0	True	188
+189	189	True	1.0	True	189
+190	190	True	1.0	True	190
+191	191	True	1.0	True	191
+192	192	True	1.0	True	192
+193	193	True	1.0	True	193
+194	194	True	1.0	True	194
+195	195	True	1.0	True	195
+196	196	True	1.0	True	196
+197	197	True	1.0	True	197
+198	198	True	1.0	True	198
+199	199	True	1.0	True	199
+200	200	True	1.0	True	200
+201	201	True	1.0	True	201
+202	202	True	1.0	True	202
+203	203	True	1.0	True	203
+204	204	True	1.0	True	204
+205	205	True	1.0	True	205
+206	206	True	1.0	True	206
+207	207	True	1.0	True	207
+208	208	True	1.0	True	208
+209	209	True	1.0	True	209
+210	210	True	1.0	True	210
+211		False	0.0394	False	
+212		False	0.0394	False	
+213		False	0.0394	False	
+214		False	0.0394	False	
+215		False	0.0394	False	
+216		False	0.0394	False	
+217		False	0.0394	False	
+218		False	0.1811	False	
+219		False	0.1811	False	
+220		False	0.1811	False	
+221		False	0.1811	False	
+222		False	0.1811	False	
+223		False	0.1811	False	
+224		False	0.1811	False	
+225		False	0.4331	False	
+226		False	0.4331	False	
+227		False	0.4331	False	
+228		False	0.0079	False	
+229		False	0.0079	False	
+230		False	0.0079	False	
+231		False	0.0079	False	
+232		False	0.0079	False	
+233		False	0.0551	False	
+234		False	0.063	False	
+235		False	0.063	False	
+236		False	0.063	False	
+237		False	0.063	False	
+238		False	0.063	False	
+239		False	0.063	False	
+240		False	0.4331	False	
+241		False	0.4331	False	
+242		False	0.4331	False	
+243		False	0.4331	False	
+244	211	True	0.8425	True	211
+245	212	True	0.8425	True	212
+246	213	True	0.8425	True	213
+247	214	True	0.8425	True	214
+248	215	True	0.8425	True	215
+249	216	True	0.8425	True	216
+250	217	True	0.8346	True	217
+251	218	True	1.0	True	218
+252	219	True	1.0	True	219
+253	220	True	1.0	True	220
+254	221	True	1.0	True	221
+255	222	True	1.0	True	222
+256	223	True	1.0	True	223
+257	224	True	1.0	True	224
+258		False	0.0079	False	
+259		False	0.0236	False	
+260		False	0.0315	False	
+261		False	0.0551	False	
+262	225	True	0.9843	True	225
+263	226	True	0.9843	True	226
+264	227	True	0.9843	True	227
+265	228	True	0.9843	True	228
+266	229	True	0.9843	True	229
+267	230	True	0.9843	True	230
+268	231	True	0.9843	True	231
+269	232	True	0.9685	True	232
+270	233	True	0.9685	True	233
+271	234	True	1.0	True	234
+272		False	0.0079	False	
+273		False	0.0157	False	
+274		False	0.0157	False	
+275		False	0.0157	False	
+276		False	0.0157	False	
+277		False	0.0157	False	
+278	235	True	0.9764	True	235
+279	236	True	0.9764	True	236
+280	237	True	1.0	True	237
+281	238	True	1.0	True	238
+282	239	True	1.0	True	239
+283	240	True	1.0	True	240
+284	241	True	1.0	True	241
+285	242	True	1.0	True	242
+286	243	True	1.0	True	243
+287	244	True	1.0	True	244
+288	245	True	1.0	True	245
+289	246	True	1.0	True	246
+290	247	True	1.0	True	247
+291	248	True	1.0	True	248
+292	249	True	1.0	True	249
+293		False	0.0079	False	
+294		False	0.0079	False	
+295		False	0.0079	False	
+296		False	0.0079	False	
+297		False	0.0079	False	
+298		False	0.0079	False	
+299		False	0.0079	False	
+300	250	True	1.0	True	250
+301	251	True	1.0	True	251
+302	252	True	1.0	True	252
+303	253	True	1.0	True	253
+304	254	True	1.0	True	254
+305	255	True	1.0	True	255
+306	256	True	1.0	True	256
+307	257	True	1.0	True	257
+308	258	True	1.0	True	258
+309	259	True	1.0	True	259
+310	260	True	1.0	True	260
+311	261	True	1.0	True	261
+312	262	True	1.0	True	262
+313	263	True	1.0	True	263
+314	264	True	1.0	True	264
+315	265	True	1.0	True	265
+316	266	True	1.0	True	266
+317	267	True	1.0	True	267
+318	268	True	1.0	True	268
+319	269	True	1.0	True	269
+320	270	True	1.0	True	270
+321	271	True	1.0	True	271
+322	272	True	1.0	True	272
+323	273	True	1.0	True	273
+324	274	True	1.0	True	274
+325	275	True	1.0	True	275
+326	276	True	1.0	True	276
+327	277	True	1.0	True	277
+328	278	True	1.0	True	278
+329	279	True	1.0	True	279
+330	280	True	1.0	True	280
+331	281	True	1.0	True	281
+332	282	True	1.0	True	282
+333	283	True	1.0	True	283
+334	284	True	1.0	True	284
+335	285	True	1.0	True	285
+336	286	True	1.0	True	286
+337	287	True	1.0	True	287
+338	288	True	1.0	True	288
+339	289	True	1.0	True	289
+340	290	True	1.0	True	290
+341	291	True	1.0	True	291
+342	292	True	1.0	True	292
+343	293	True	1.0	True	293
+344	294	True	1.0	True	294
+345	295	True	1.0	True	295
+346	296	True	1.0	True	296
+347	297	True	1.0	True	297
+348	298	True	1.0	True	298
+349	299	True	1.0	True	299
+350	300	True	1.0	True	300
+351	301	True	1.0	True	301
+352	302	True	1.0	True	302
+353	303	True	1.0	True	303
+354	304	True	1.0	True	304
+355	305	True	1.0	True	305
+356	306	True	1.0	True	306
+357	307	True	1.0	True	307
+358	308	True	1.0	True	308
+359	309	True	1.0	True	309
+360	310	True	1.0	True	310
+361	311	True	1.0	True	311
+362	312	True	1.0	True	312
+363	313	True	1.0	True	313
+364	314	True	1.0	True	314
+365	315	True	1.0	True	315
+366	316	True	1.0	True	316
+367	317	True	1.0	True	317
+368	318	True	1.0	True	318
+369	319	True	1.0	True	319
+370	320	True	1.0	True	320
+371	321	True	1.0	True	321
+372	322	True	1.0	True	322
+373	323	True	1.0	True	323
+374	324	True	1.0	True	324
+375	325	True	1.0	True	325
+376	326	True	1.0	True	326
+377	327	True	1.0	True	327
+378	328	True	1.0	True	328
+379	329	True	1.0	True	329
+380	330	True	1.0	True	330
+381	331	True	1.0	True	331
+382	332	True	1.0	True	332
+383	333	True	1.0	True	333
+384	334	True	1.0	True	334
+385	335	True	1.0	True	335
+386	336	True	1.0	True	336
+387	337	True	1.0	True	337
+388	338	True	1.0	True	338
+389	339	True	1.0	True	339
+390	340	True	1.0	True	340
+391	341	True	1.0	True	341
+392	342	True	1.0	True	342
+393	343	True	1.0	True	343
+394		False	0.0079	False	
+395	344	True	1.0	True	344
+396	345	True	1.0	True	345
+397	346	True	1.0	True	346
+398	347	True	1.0	True	347
+399	348	True	1.0	True	348
+400	349	True	1.0	True	349
+401	350	True	1.0	True	350
+402	351	True	1.0	True	351
+403	352	True	1.0	True	352
+404	353	True	1.0	True	353
+405	354	True	1.0	True	354
+406	355	True	1.0	True	355
+407	356	True	1.0	True	356
+408	357	True	1.0	True	357
+409	358	True	1.0	True	358
+410	359	True	1.0	True	359
+411	360	True	1.0	True	360
+412	361	True	1.0	True	361
+413	362	True	1.0	True	362
+414	363	True	1.0	True	363
+415	364	True	1.0	True	364
+416	365	True	1.0	True	365
+417	366	True	1.0	True	366
+418	367	True	1.0	True	367
+419	368	True	1.0	True	368
+420	369	True	1.0	True	369
+421	370	True	1.0	True	370
+422	371	True	1.0	True	371
+423	372	True	0.9921	True	372
+424	373	True	1.0	True	373
+425	374	True	1.0	True	374
+426	375	True	1.0	True	375
+427	376	True	1.0	True	376
+428	377	True	1.0	True	377
+429	378	True	1.0	True	378
+430	379	True	1.0	True	379
+431	380	True	1.0	True	380
+432	381	True	1.0	True	381
+433	382	True	1.0	True	382
+434	383	True	1.0	True	383
+435	384	True	1.0	True	384
+436	385	True	1.0	True	385
+437	386	True	1.0	True	386
+438	387	True	1.0	True	387
+439	388	True	1.0	True	388
+440	389	True	1.0	True	389
+441	390	True	1.0	True	390
