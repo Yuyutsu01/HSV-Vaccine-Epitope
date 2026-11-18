@@ -1,0 +1,1306 @@
+accession	virus	isolate	strain	country	collection_year	host	isolation_source	is_cns_encephalitis	passage_history	sequencing_technology	BioSample	BioProject	submitter	release_date	lab_strain_flag	recombinant_flag	computational_type_assignment	database_type_label
+PZ347688	HSV-1	HSV1-1981-H186				Human		False						2026/07/21	False	False	HSV-1	HSV-1
+PZ169720	HSV-1	Z_d40_skin				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169719	HSV-1	Z_d40_skin_culture		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169718	HSV-1	Z_d39_plasma				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169717	HSV-1	Z_d10_skin		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169716	HSV-1	Z_d10_culture		USA		Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169715	HSV-1	Z_d10_plasma				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169714	HSV-1	Z_d9_eye				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169713	HSV-1	Z_d9_eye_culture		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169712	HSV-1	F_d10_plasma				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169711	HSV-1	F_d10_plasma_culture		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169710	HSV-1	D_d12_skin		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169709	HSV-1	D_d12_skin_culture		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169708	HSV-1	D_d12_rectum				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169707	HSV-1	D_d12_eye				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169706	HSV-1	C_d10_plasma				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169705	HSV-1	C_d10_plasma_culture				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169704	HSV-1	C_d10_liver				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169703	HSV-1	C_d10_liver_culture				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169702	HSV-1	C_d10_eye				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169701	HSV-1	E_d25_skin				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169700	HSV-1	E_d12_plasma				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169699	HSV-1	B_d9_rectum				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169698	HSV-1	B_d9_pharynx		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169697	HSV-1	B_d9_eye				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169696	HSV-1	B_d8_plasma		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169695	HSV-1	B_d8_plasma_culture		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169694	HSV-1	W_d15_skin		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169693	HSV-1	W_d15_skin_culture		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169692	HSV-1	W_d15_plasma				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169691	HSV-1	Y_d9_plasma				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169690	HSV-1	Y_d8_skin		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169689	HSV-1	Y_d8_skin_culture		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169688	HSV-1	Y_d8_eye		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169687	HSV-1	X_d8_skin		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169686	HSV-1	X_d8_skin_culture				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169685	HSV-1	X_d8_plasma				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169684	HSV-1	A_d8_CSF				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169683	HSV-1	A_d7_plasma		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169682	HSV-1	A_d7_eye				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169681	HSV-1	A_d7_eye_culture		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169680	HSV-1	A_d6_swab				Human		False						2026/06/17	False	False	HSV-1	HSV-1
+PZ169679	HSV-1	A_d6_swab_culture		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169678	HSV-1	A_d6_skin		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PZ169677	HSV-1	A_d6_skin_culture		USA	2009	Human		False					Penn State, Department of Biology and Biochemistry and Molecular Biology	2026-06-17T00:00:00Z	False	False	HSV-1	HSV-1
+PV754022	HSV-1	HaNa				Human		False						2026/06/01	False	False	HSV-1	HSV-1
+QS368914	HSV-1					Human		False						2026/05/16	True	False	HSV-1	HSV-1
+QS392184	HSV-1					Human		False						2026/05/16	True	False	HSV-1	HSV-1
+QQ274048	HSV-1					Human		False						2026/05/16	False	False	HSV-1	HSV-1
+QP771544	HSV-1					Human		False						2026/05/16	False	False	HSV-1	HSV-1
+QP771543	HSV-1					Human		False						2026/05/16	False	False	HSV-1	HSV-1
+PX911520	HSV-1					Human		False						2026/05/06	False	False	HSV-1	HSV-1
+PX911519	HSV-1					Human		False						2026/05/06	False	False	HSV-1	HSV-1
+PX969520	HSV-1			USA		Human		False					Cedars-Sinai Health Sciences University, Surgery	2026-03-30T00:00:00Z	True	False	HSV-1	HSV-1
+PX712187	HSV-1	HSV-1/Spain/ADA41/2023				Human		False						2026/04/02	False	False	HSV-1	HSV-1
+PX837190	HSV-1					Human		False						2026/03/20	False	False	HSV-1	HSV-1
+PX763612	HSV-1			USA		Human		False					Cedars-Sinai Health Sciences University, Surgery	2026-03-18T00:00:00Z	False	False	HSV-1	HSV-1
+OZ349004	HSV-1	139		Germany		Chlorocebus sabaeus		False			SAMEA120222668	PRJEB91485	CVG, Institute of Virology - clinical virus genomics, Herrmann-Herder-Str 11, 79104 Freiburg	2025-10-31T00:00:00Z	False	False	HSV-1	HSV-1
+OZ348992	HSV-1	136		Germany		Chlorocebus sabaeus		False			SAMEA120222665	PRJEB91485	CVG, Institute of Virology - clinical virus genomics, Herrmann-Herder-Str 11, 79104 Freiburg	2025-10-31T00:00:00Z	False	False	HSV-1	HSV-1
+OZ348988	HSV-1	140		Germany		Chlorocebus sabaeus		False			SAMEA120222669	PRJEB91485	CVG, Institute of Virology - clinical virus genomics, Herrmann-Herder-Str 11, 79104 Freiburg	2025-10-31T00:00:00Z	False	False	HSV-1	HSV-1
+OZ348811	HSV-1	138		Germany		Chlorocebus sabaeus		False			SAMEA120222667	PRJEB91485	CVG, Institute of Virology - clinical virus genomics, Herrmann-Herder-Str 11, 79104 Freiburg	2025-10-31T00:00:00Z	False	False	HSV-1	HSV-1
+OZ348666	HSV-1	137		Germany		Chlorocebus sabaeus		False			SAMEA120222666	PRJEB91485	CVG, Institute of Virology - clinical virus genomics, Herrmann-Herder-Str 11, 79104 Freiburg	2025-10-31T00:00:00Z	False	False	HSV-1	HSV-1
+PV146402	HSV-1	SJZ196/2019		China	2019	Human		False					Academy of Military Medical Sciences, State Key Laboratory of Pathogen and Biosecurity	2025-08-31T00:00:00Z	False	False	HSV-1	HSV-1
+PV146403	HSV-1	GZ291/2015		China	2015	Human		False					Academy of Military Medical Sciences, State Key Laboratory of Pathogen and Biosecurity	2025-08-25T00:00:00Z	False	False	HSV-1	HSV-1
+PP379034	HSV-1	HSV1-Namibia-2016-oral309combined				Human		False						2025/03/08	False	False	HSV-1	HSV-1
+PP379033	HSV-1	HSV1-Namibia-2015-oral055				Human		False						2025/03/08	False	False	HSV-1	HSV-1
+PP379032	HSV-1	HSV1-Namibia-2015-oral050				Human		False						2025/03/08	False	False	HSV-1	HSV-1
+PP379031	HSV-1	HSV1-Namibia-2015-oral038				Human		False						2025/03/08	False	False	HSV-1	HSV-1
+PQ569920	HSV-1	MacIntyre	MacIntyre	Spain	2007	Human		False					Vircell S.L., I+D, Molecular Diagnostics	2024-12-16T00:00:00Z	True	False	HSV-1	HSV-1
+OP431913	HSV-1	HSV1-v55_d381_gen				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431912	HSV-1	v59_d119_gen_les				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431911	HSV-1	HSV1-v51_d189_gen_les				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431907	HSV-1	HSV1-v64_d94_gen				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431900	HSV-1	HSV1-v64_d73_gen				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431898	HSV-1	HSV1-v54_d352_gen_les				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431896	HSV-1	HSV1-v54_d363_gen_les				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431893	HSV-1	HSV1-v54_d74_gen				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431892	HSV-1	HSV1-v54_d74_gen_les				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431888	HSV-1	HSV1-v54_d67_gen_les				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431887	HSV-1	HSV1-v51_d2_gen_les				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431885	HSV-1	HSV1-v55_d383_gen				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431878	HSV-1	HSV1-v55_d382_gen				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431873	HSV-1	HSV1-v54_d353_gen_les				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431871	HSV-1	HSV1-v54_d363_gen				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431876	HSV-1	HSV1-v54_d352_gen				Human		False						2024/10/04	False	False	HSV-1	HSV-1
+OP431910	HSV-1	HSV1-v59_d83_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431909	HSV-1	HSV1-v62_d3_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431908	HSV-1	HSV1-v53_d85_gen				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431906	HSV-1	HSV1-v57_d3_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431905	HSV-1	HSV1-v60_d349_oral				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431904	HSV-1	HSV1-v59_d120_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431903	HSV-1	HSV1-v63_d284_oral				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431902	HSV-1	HSV1-v53_d3_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431901	HSV-1	HSV1-v66_d6_gen				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431899	HSV-1	HSV1-v67_d345_gen				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431897	HSV-1	HSV1-v56_d6_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431895	HSV-1	HSV1-v54_d353_gen				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431894	HSV-1	HSV1-v50_d142_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431891	HSV-1	HSV1-v61_d308_gen				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431890	HSV-1	HSV1-v63_d84_oral				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431889	HSV-1	HSV1-v54_d67_gen				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431886	HSV-1	HSV1-v53_d36_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431884	HSV-1	HSV1-v59_d121_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431883	HSV-1	HSV1-v61_d2_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431882	HSV-1	HSV1-v53_d96_oral				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431881	HSV-1	HSV1-v55_d384_gen				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431880	HSV-1	HSV1-v61_d309_gen				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431879	HSV-1	HSV1-v52_d2_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431877	HSV-1	HSV1-v58_d354_gen				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431875	HSV-1	HSV1-v50_d0_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431874	HSV-1	HSV1-v57_d101_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431872	HSV-1	HSV1-v65_d323_oral				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431870	HSV-1	HSV1-v52_d84_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431869	HSV-1	HSV1-v54_d169_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+OP431868	HSV-1	HSV1-v59_d84_gen_les				Human		False						2024/10/03	False	False	HSV-1	HSV-1
+PP680711	HSV-1					Human		False						2024/04/22	True	False	HSV-1	HSV-1
+OQ077661	HSV-1					Human		False						2023/12/12	False	False	HSV-1	HSV-1
+OR833071	HSV-1	HSV1/USA/WA-UW-2R10/2020				Human		False						2023/12/06	False	False	HSV-1	HSV-1
+OR833070	HSV-1	HSV1/USA/WA-UW-2R6/2020				Human		False						2023/12/06	False	False	HSV-1	HSV-1
+OR833069	HSV-1	HSV1/USA/WA-UW-2M3/2020				Human		False						2023/12/06	False	False	HSV-1	HSV-1
+OR833068	HSV-1	HSV1/USA/WA-UW-2K8/2019				Human		False						2023/12/06	False	False	HSV-1	HSV-1
+OR833067	HSV-1	HSV1/USA/WA-UW-2K2/2019				Human		False						2023/12/06	False	False	HSV-1	HSV-1
+OR833066	HSV-1	HSV1/USA/WA-UW-2J8/2019				Human		False						2023/12/06	False	False	HSV-1	HSV-1
+OR833065	HSV-1	HSV1/USA/WA-UW-2J7/2019				Human		False						2023/12/06	False	False	HSV-1	HSV-1
+OR833064	HSV-1	HSV1/USA/WA-UW-2F3/2019				Human		False						2023/12/06	False	False	HSV-1	HSV-1
+OR833063	HSV-1	HSV1/USA/WA-UW-1C4/2020				Human		False						2023/12/06	False	False	HSV-1	HSV-1
+OR833062	HSV-1	HSV1/USA/WA-UW-1C2/2020				Human		False						2023/12/06	False	False	HSV-1	HSV-1
+OR771695	HSV-1	HSV1/USA/WA-UW-2R8/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771694	HSV-1	HSV1/USA/WA-UW-2R7/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771693	HSV-1	HSV1/USA/WA-UW-2R1/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771692	HSV-1	HSV1/USA/WA-UW-2Q9/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771691	HSV-1	HSV1/USA/WA-UW-2Q6/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771690	HSV-1	HSV1/USA/WA-UW-2O7/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771689	HSV-1	HSV1/USA/WA-UW-2O5/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771688	HSV-1	HSV1/USA/WA-UW-2O2/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771687	HSV-1	HSV1/USA/WA-UW-2N3/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771686	HSV-1	HSV1/USA/WA-UW-2N2/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771685	HSV-1	HSV1/USA/WA-UW-2L9/2020		USA	2020	Human		False			SAMN38051240	PRJNA1034094	UW Virology, Laboratory Medicine	2023-11-18T00:00:00Z	False	False	HSV-1	HSV-1
+OR771684	HSV-1	HSV1/USA/WA-UW-2L3/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771683	HSV-1	HSV1/USA/WA-UW-2L1/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771682	HSV-1	HSV1/USA/WA-UW-2K10/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771681	HSV-1	HSV1/USA/WA-UW-2K5/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771680	HSV-1	HSV1/USA/WA-UW-2K4/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771679	HSV-1	HSV1/USA/WA-UW-2K3/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771678	HSV-1	HSV1/USA/WA-UW-2J3/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771677	HSV-1	HSV1/USA/WA-UW-2I2/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771676	HSV-1	HSV1/USA/WA-UW-2I1/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771675	HSV-1	HSV1/USA/WA-UW-2G3/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771674	HSV-1	HSV1/USA/WA-UW-2E9/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771673	HSV-1	HSV1/USA/WA-UW-2C7/2019				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771672	HSV-1	HSV1/USA/WA-UW-1B4/2020		USA	2020	Human		False			SAMN38051268	PRJNA1034094	UW Virology, Laboratory Medicine	2023-11-18T00:00:00Z	False	False	HSV-1	HSV-1
+OR771671	HSV-1	HSV1/USA/WA-UW-1B3/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771670	HSV-1	HSV1/USA/WA-UW-1B2/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771669	HSV-1	HSV1/USA/WA-UW-1A7/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR771668	HSV-1	HSV1/USA/WA-UW-1A6/2020				Human		False						2023/11/18	False	False	HSV-1	HSV-1
+OR723971	HSV-1	dsncRNA12		USA	2021	Human		False					Cedars Sinai Medical Center, Surgery	2023-11-13T00:00:00Z	False	False	HSV-1	HSV-1
+MH925774	HSV-1	HSV-hepatitis7				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813994	HSV-1	2018-6057				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813993	HSV-1	2018-5967				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813992	HSV-1	2018-5965				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813991	HSV-1	2018-6317				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813990	HSV-1	2018-5974				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813989	HSV-1	2018-5966				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813988	HSV-1	2018-5968				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813987	HSV-1	2018-5971				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813986	HSV-1	2018-5969				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813985	HSV-1	2018-5973				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813984	HSV-1	2018-5970				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813983	HSV-1	2018-6056				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813982	HSV-1	2018-5972				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MH813981	HSV-1	2018-6594				Human		False						2019/03/06	False	False	HSV-1	HSV-1
+MG999887	HSV-1	2006-50683				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999861	HSV-1	1998-7487				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MH160391	HSV-1	HSV1-CULTURE-H8				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160390	HSV-1	HSV1-ORIGINAL-G6				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160389	HSV-1	HSV1-CULTURE-G6				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160388	HSV-1	HSV1-ORIGINAL-G10				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160387	HSV-1	HSV1-CULTURE-I7				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160386	HSV-1	HSV1-CULTURE-G8				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160385	HSV-1	HSV1-CULTURE-H2				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160384	HSV-1	HSV1-ORIGINAL-I5				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160383	HSV-1	HSV1-ORIGINAL-G8				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160382	HSV-1	HSV1-CULTURE-G7				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160381	HSV-1	HSV1-CULTURE-H4				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160380	HSV-1	HSV1-CULTURE-I2				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160378	HSV-1	HSV1-ORIGINAL-H9				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160377	HSV-1	HSV1-ORIGINAL-H2				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160376	HSV-1	HSV1-CULTURE-H7				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160375	HSV-1	HSV1-CULTURE-G10				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160374	HSV-1	HSV1-ORIGINAL-H4				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160373	HSV-1	HSV1-ORIGINAL-H5				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160372	HSV-1	HSV1-CULTURE-I5				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160371	HSV-1	HSV1-ORIGINAL-I6				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160370	HSV-1	HSV1-ORIGINAL-I2				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160369	HSV-1	HSV1-CULTURE-G9				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160368	HSV-1	HSV1-CULTURE-H9				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160367	HSV-1	HSV1-ORIGINAL-H1				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160366	HSV-1	HSV1-ORIGINAL-I7				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160365	HSV-1	HSV1-CULTURE-H3				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160364	HSV-1	HSV1-ORIGINAL-H8				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160363	HSV-1	HSV1-ORIGINAL-H7				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160362	HSV-1	HSV1-CULTURE-H1				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160361	HSV-1	HSV1-ORIGINAL-G7				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160360	HSV-1	HSV1-CULTURE-I6				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160359	HSV-1	HSV1-ORIGINAL-H3				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH160358	HSV-1	HSV1-CULTURE-H5				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+OR405519	HSV-1					Human		False						2023/09/30	False	False	HSV-1	HSV-1
+MN401208	HSV-1	Sammple11_DOCK8				Human		False						2020/02/03	False	False	HSV-1	HSV-1
+MN401207	HSV-1	Sample9_DOCK8				Human		False						2020/02/03	False	False	HSV-1	HSV-1
+MN401206	HSV-1	Sample8_DOCK8				Human		False						2020/02/03	False	False	HSV-1	HSV-1
+MN401205	HSV-1	Sample6_DOCK8				Human		False						2020/02/03	False	False	HSV-1	HSV-1
+MN401204	HSV-1	Sample3_DOCK8				Human		False						2020/02/03	False	False	HSV-1	HSV-1
+MN401203	HSV-1	Sample2_DOCK8				Human		False						2020/02/03	False	False	HSV-1	HSV-1
+MN401202	HSV-1	Sample1_DOCK8				Human		False						2020/02/03	False	False	HSV-1	HSV-1
+MN401201	HSV-1	Brother_DOCK8				Human		False						2020/02/03	False	False	HSV-1	HSV-1
+MG999899	HSV-1	2009-29406				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999898	HSV-1	2011-3153				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999897	HSV-1	2011-1026				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999896	HSV-1	2011-17239				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999895	HSV-1	2007-03494_S436_L001				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999894	HSV-1	2014-32338				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999893	HSV-1	2011-12741				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999892	HSV-1	2011-12689				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999891	HSV-1	2015-30637				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999890	HSV-1	2009-39486				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999889	HSV-1	2011-12742				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999888	HSV-1	2010-28641				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999886	HSV-1	2016-1040				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999885	HSV-1	2007-21335				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999884	HSV-1	2006-57683				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999883	HSV-1	2007-12932				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999882	HSV-1	2011-13906				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999881	HSV-1	2007-16123				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999880	HSV-1	2007-16426				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999879	HSV-1	2011-17275				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999878	HSV-1	1998-6343				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999877	HSV-1	2004-63623				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999876	HSV-1	2011-5438				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999875	HSV-1	2009-20371				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999874	HSV-1	29_2011-12691				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999873	HSV-1	28_2010-32106				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999872	HSV-1	2003-15756				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999871	HSV-1	2009-25015				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999870	HSV-1	2010-32082				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999869	HSV-1	2011-5409				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999868	HSV-1	1996-27502				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999867	HSV-1	2011-12719				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999866	HSV-1	2005-589				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999865	HSV-1	2009-25772				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999864	HSV-1	2012-35807				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999863	HSV-1	2011-31213				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999862	HSV-1	1995-63175				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999860	HSV-1	25_2006-37406				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999859	HSV-1	2011-15240				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999858	HSV-1	2011-21041				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999857	HSV-1	2009-19950				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999856	HSV-1	2011-16318				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999855	HSV-1	1996-13975				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999854	HSV-1	2010-21371				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999853	HSV-1	2010-28683				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999852	HSV-1	2011-12715				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999851	HSV-1	2000-24198				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999850	HSV-1	2010-25244				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999849	HSV-1	1997-5801				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999848	HSV-1	1998-4895				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999847	HSV-1	2007-1997				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999846	HSV-1	1995-75216				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999845	HSV-1	2009-25575				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999844	HSV-1	2011-12717				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999843	HSV-1	2011-12714				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999841	HSV-1	2009-29964				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999840	HSV-1	2006-57630				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999839	HSV-1	2009-39273				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+MG999838	HSV-1	2011-31164				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+OQ724963	HSV-1	CJ858				Human		False						2023/07/25	False	False	HSV-1	HSV-1
+OQ724962	HSV-1	CJ505				Human		False						2023/07/25	False	False	HSV-1	HSV-1
+OQ724957	HSV-1	Ikey				Human		False						2023/07/25	False	False	HSV-1	HSV-1
+OQ724956	HSV-1	CJ515				Human		False						2023/07/25	False	False	HSV-1	HSV-1
+OQ724955	HSV-1	CJ462				Human		False						2023/07/25	False	False	HSV-1	HSV-1
+OQ724954	HSV-1	CJ455				Human		False						2023/07/25	False	False	HSV-1	HSV-1
+OQ724941	HSV-1	BP-L14		USA	2012	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724940	HSV-1	BP-L13		USA	2011	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724939	HSV-1	BP-L12		USA	2010	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724938	HSV-1	BP-L11		USA	2010	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724937	HSV-1	BP-L10				Human		False						2023/07/25	False	False	HSV-1	HSV-1
+OQ724936	HSV-1	BP-L9		USA	2009	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724935	HSV-1	BP-L5		USA	2003	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724934	HSV-1	BP-L4		USA	2003	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724933	HSV-1	BP-L2		USA	2003	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724932	HSV-1	BP-L1		USA	2002	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724914	HSV-1	BP-K16		USA	2015	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724913	HSV-1	BP-K15		USA	2015	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724912	HSV-1	BP-K13		USA	2014	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724911	HSV-1	BP-K12		USA	2012	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724910	HSV-1	BP-K11		USA	2011	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724895	HSV-1	BP-K10		USA	2011	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724894	HSV-1	BP-K9		USA	2011	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724893	HSV-1	BP-K8		USA	2011	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724892	HSV-1	BP-K6		USA	2010	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724891	HSV-1	BP-K5		USA	2010	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724890	HSV-1	BP-K4		USA	2009	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724889	HSV-1	BP-K3		USA	2009	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724888	HSV-1	BP-K2		USA	2009	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724867	HSV-1	BP-C15		USA	2015	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724866	HSV-1	BP-C14		USA	2015	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724865	HSV-1	BP-C12		USA	2010	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724864	HSV-1	BP-C11		USA	2008	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724863	HSV-1	BP-C9		USA	2005	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724836	HSV-1	BP-C8		USA	2005	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724835	HSV-1	BP-C5		USA	2005	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724834	HSV-1	BP-C4		USA	2004	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724833	HSV-1	BP-C3		USA	2004	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724915	HSV-1	BP-K14		USA	2015	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724868	HSV-1	BP-K1		USA	2002	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724832	HSV-1	BP-C2		USA	2004	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OQ724831	HSV-1	BP-C1		USA	2001	Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-07-25T00:00:00Z	False	False	HSV-1	HSV-1
+OP871859	HSV-1	INV-9B		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871858	HSV-1	INV-7E		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871857	HSV-1	INV-7A		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871856	HSV-1	INV-2C		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871855	HSV-1	INV-2B		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871854	HSV-1	INV-1G		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871853	HSV-1	INV-1B				Human		False						2023/06/28	False	False	HSV-1	HSV-1
+OP871852	HSV-1	INV-NN		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871851	HSV-1	INV-25D		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871850	HSV-1	INV-25C		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871849	HSV-1	INV-25B		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871848	HSV-1	INV-22C		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871847	HSV-1	INV-22B		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871846	HSV-1	INV-20C		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871845	HSV-1	INV-20A		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871844	HSV-1	INV-17A		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871843	HSV-1	INV-16E		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871842	HSV-1	INV-16D		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871841	HSV-1	INV-15B		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OP871840	HSV-1	INV-11A		USA		Human		False					University of Wisconsin-Madison, Ophthalmology and Visual Sciences	2023-06-28T00:00:00Z	False	False	HSV-1	HSV-1
+OQ658624	HSV-1	ES				Human		False						2023/06/20	False	False	HSV-1	HSV-1
+OP866822	HSV-1	RV-1013				Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OP866820	HSV-1	RV-760				Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OP866819	HSV-1	RV-726				Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OP866818	HSV-1	RV-502				Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OP866817	HSV-1	RV-494				Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OP866816	HSV-1	RV-411				Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OP866815	HSV-1	RV-336				Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OP866813	HSV-1	RV-154				Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OP866811	HSV-1	RV-103				Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OP866810	HSV-1	RV-91				Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OP950682	HSV-1					Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OP950680	HSV-1					Human		False						2023/05/27	False	False	NON_HSV	HSV-1
+OQ102003	HSV-1	352/08				Human		False						2023/04/19	False	False	HSV-1	HSV-1
+ON023028	HSV-1	AA-41				Human		False						2023/01/14	False	False	HSV-1	HSV-1
+ON513441	HSV-1	NIVD4		China	2017	Human		False					National Institute for Viral Disease Control and Prevention, Department of Viral Morphology	2023-02-14T00:00:00Z	False	False	HSV-1	HSV-1
+OP297886	HSV-1	HSV1-v72_d53_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297885	HSV-1	HSV1-v67_d346_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297884	HSV-1	HSV1-v57_d3_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297883	HSV-1	HSV1-v75_d23_cu_gen_les				Human		False						2022/10/16	False	False	HSV-1	HSV-1
+OP297882	HSV-1	HSV1-v76_d266_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297881	HSV-1	v45_d4_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297880	HSV-1	HSV1-v68_d8_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297879	HSV-1	HSV1-v63_d284_cu_oral		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297878	HSV-1	HSV1-v43_d17_cu_gen_les				Human		False						2022/10/16	False	False	HSV-1	HSV-1
+OP297877	HSV-1	HSV1-v66_d6_cu_gen		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297876	HSV-1	HSV1-v59_d121_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297875	HSV-1	v49_d257_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297874	HSV-1	HSV1-v74_d193_cu_gen		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297873	HSV-1	HSV1-v54_d71_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297872	HSV-1	HSV1-v62_d3_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297871	HSV-1	HSV1-v69_d2_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297870	HSV-1	HSV1-v58_d1_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297869	HSV-1	HSV1-v42_d338_cu_gen_les				Human		False						2022/10/16	False	False	HSV-1	HSV-1
+OP297868	HSV-1	HSV1-v46_d349_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297867	HSV-1	HSV1-v52_d84_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297866	HSV-1	HSV1-v71_d395_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297865	HSV-1	HSV1-v44_d2_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297864	HSV-1	HSV1-v56_d6_cu_gen_les				Human		False						2022/10/16	False	False	HSV-1	HSV-1
+OP297863	HSV-1	HSV1-v61_d2_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297862	HSV-1	HSV1-v73_d4_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297861	HSV-1	HSV1-v70_d1_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+OP297860	HSV-1	HSV1-v60_d3_cu_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-10-16T00:00:00Z	False	False	HSV-1	HSV-1
+ON783217	HSV-1	B^3x1.1D		USA	2015	Chlorocebus sabaeus		False					Albert Einstein college of Medicine, Microbiology and Immunology	2022-08-24T00:00:00Z	False	False	HSV-1	HSV-1
+ON783216	HSV-1	B^3x1.1C		USA	2015	Chlorocebus sabaeus		False					Albert Einstein college of Medicine, Microbiology and Immunology	2022-08-24T00:00:00Z	False	False	HSV-1	HSV-1
+ON783215	HSV-1	B^3x1.1B		USA	2015	Chlorocebus sabaeus		False					Albert Einstein college of Medicine, Microbiology and Immunology	2022-08-24T00:00:00Z	False	False	HSV-1	HSV-1
+ON783214	HSV-1	B^3x1.1A		USA	2015	Chlorocebus sabaeus		False					Albert Einstein college of Medicine, Microbiology and Immunology	2022-08-24T00:00:00Z	False	False	HSV-1	HSV-1
+ON960061	HSV-1	HSV1-Atlanta-USA-1965-E377		USA	1965	Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-08-02T00:00:00Z	False	False	HSV-1	HSV-1
+ON960060	HSV-1	HSV1-San-Francisco-USA-1967-RE	HSV1-San-Francisco-USA-1967-RE	USA	1967	Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-08-02T00:00:00Z	True	False	HSV-1	HSV-1
+ON960059	HSV-1	HSV1-San-Francisco-USA-1974-HTZ		USA	1974	Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-08-02T00:00:00Z	False	False	HSV-1	HSV-1
+ON960058	HSV-1	HSV1-San-Francisco-USA-1979-H144		USA	1979	Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-08-02T00:00:00Z	False	False	HSV-1	HSV-1
+ON960057	HSV-1	HSV1-San-Francisco-USA-1979-DAB1		USA	1979	Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-08-02T00:00:00Z	False	False	HSV-1	HSV-1
+ON960056	HSV-1	HSV1-San-Francisco-USA-1980-EKN		USA	1980	Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-08-02T00:00:00Z	False	False	HSV-1	HSV-1
+ON960055	HSV-1	HSV1-San-Francisco-USA-1982-H193-BB		USA	1982	Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-08-02T00:00:00Z	False	False	HSV-1	HSV-1
+ON960054	HSV-1	HSV1-San-Francisco-USA-1982-H193-CSF		USA	1982	Human	CNS / Encephalitis	True					Pennsylvania State University, Biochemistry/Molecular Biology	2022-08-02T00:00:00Z	False	False	HSV-1	HSV-1
+ON152716	HSV-1	astronaunt_post_orbit_saliva_HSV_1		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-06-13T00:00:00Z	False	False	HSV-1	HSV-1
+ON152715	HSV-1	astronaunt_in_orbit_rash_HSV_1		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-06-13T00:00:00Z	False	False	HSV-1	HSV-1
+ON007164	HSV-1	v42_d339_gen				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007163	HSV-1	v47_d61-79_gen				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007162	HSV-1	v43_d352_gen_les				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007161	HSV-1	v48_d102_oral				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007160	HSV-1	v42_d130_gen_les				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007159	HSV-1	v43_d350_gen_les				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007157	HSV-1	v41_d354_oral				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007156	HSV-1	v43_d137_gen_les				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007155	HSV-1	v48_d100_oral				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007153	HSV-1	v40_y14_oral1				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007152	HSV-1	v43_d350_gen				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007148	HSV-1	v43_d349_gen				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007147	HSV-1	v43_d349_gen_les				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007141	HSV-1	v43_d17_gen_les				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007140	HSV-1	v48_d103_oral				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007139	HSV-1	v41_d100_gen				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007135	HSV-1	v43_d352_gen				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007134	HSV-1	v44_d2_gen_les				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007133	HSV-1	v46_y16_oral				Human		False						2022/04/26	False	False	HSV-1	HSV-1
+ON007158	HSV-1	v46_d349_gen_les1		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007154	HSV-1	v40_y14_oral2		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007151	HSV-1	v46_d349_gen_les3		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007150	HSV-1	v46_d348_gen		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007149	HSV-1	v49_d349_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007146	HSV-1	v46_d349_gen		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007145	HSV-1	v45_d4_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007144	HSV-1	v46_d345_gen		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007143	HSV-1	v46_d349_gen_les2		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007142	HSV-1	v49_d257_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007138	HSV-1	v42_d338_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007137	HSV-1	v42_d131_gen_les		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007136	HSV-1	v48_d101_oral		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+ON007132	HSV-1	v40_unk_gen		USA		Human		False					Pennsylvania State University, Biochemistry/Molecular Biology	2022-04-26T00:00:00Z	False	False	HSV-1	HSV-1
+OL514328	HSV-1	DU_Ad_UL23				Human		False						2022/03/08	False	False	NON_HSV	HSV-1
+OL514326	HSV-1	BO_Od_UL23				Human		False						2022/03/08	False	False	NON_HSV	HSV-1
+OL514325	HSV-1	CO_An_UL23				Human		False						2022/03/08	False	False	NON_HSV	HSV-1
+OL638991	HSV-1	McKrae	McKrae	USA	1965	Human		False					Cedars Sinai Medical Center, Surgery	2022-02-08T00:00:00Z	True	False	HSV-1	HSV-1
+OL638990	HSV-1	dsncRNA1		USA	2018	Human		False					Cedars Sinai Medical Center, Surgery	2022-02-08T00:00:00Z	False	False	HSV-1	HSV-1
+MT876428	HSV-1	6439cm				Human		False						2021/07/23	False	False	HSV-1	HSV-1
+BK012101	HSV-1	17	17	Germany		Human		False					University of Wuerzburg, Institute for Virology and Immunobiology	2020-11-07T00:00:00Z	True	False	HSV-1	HSV-1
+KF498959	HSV-1	RE	RE	USA	1967	Human		False					University of Pittsburgh, Department of Ophthalmology	2013-11-03T00:00:00Z	True	False	HSV-1	HSV-1
+MN925871	HSV-1	Sample4_DOCK8		USA	2015	Human		False				PRJNA562737	University of Washington, Department of Laboratory Medicine	2020-02-19T00:00:00Z	False	False	HSV-1	HSV-1
+MK952185	HSV-1	Mother_viremic_blood_HSV_1				Human		False						2019/10/23	False	False	HSV-1	HSV-1
+MK952184	HSV-1	Neonate_disseminated_blood_HSV_1				Human		False						2019/10/23	False	False	HSV-1	HSV-1
+MK952183	HSV-1	Neonate_disseminated_skin_HSV_1				Human		False						2019/10/23	False	False	HSV-1	HSV-1
+MN159383	HSV-1	Sc16	Sc16			Human		False					University of Surrey, Microbial Sciences	2019-09-30T00:00:00Z	True	False	HSV-1	HSV-1
+MN159382	HSV-1	s17pp22a				Human		False						2019/09/30	False	False	HSV-1	HSV-1
+MN159381	HSV-1	s17pp8				Human		False						2019/09/30	False	False	HSV-1	HSV-1
+MN159380	HSV-1	s17pp7a				Human		False						2019/09/30	False	False	HSV-1	HSV-1
+MN159379	HSV-1	s17pp5				Human		False					University of Surrey, Microbial Sciences	2019-09-30T00:00:00Z	False	False	HSV-1	HSV-1
+MN159378	HSV-1	s17pp4				Human		False					University of Surrey, Microbial Sciences	2019-09-30T00:00:00Z	False	False	HSV-1	HSV-1
+MN159377	HSV-1	s17pp3				Human		False					University of Surrey, Microbial Sciences	2019-09-30T00:00:00Z	False	False	HSV-1	HSV-1
+MN159376	HSV-1	s17pp				Human		False						2019/09/30	False	False	HSV-1	HSV-1
+MN136524	HSV-1	McKrae	McKrae	USA	1965	Human		False					Frederick National Laboratory for Cancer Research, Laboratory of Human Retrovirology and Immunoinformatics, Applied Developmental Research Directorate	2019-08-11T00:00:00Z	True	False	HSV-1	HSV-1
+MN136523	HSV-1	MacIntyre	MacIntyre	USA	1951	Human		False					Frederick National Laboratory for Cancer Research, Laboratory of Human Retrovirology and Immunoinformatics, Applied Developmental Research Directorate	2019-08-11T00:00:00Z	True	False	HSV-1	HSV-1
+MH480513	HSV-1	MCL-18-H-1091		India	2018	Human		False					National Institute of Virology, Maximum Containment Laboratory	2019-06-30T00:00:00Z	False	False	HSV-1	HSV-1
+MH319852	HSV-1	NIV1613762		India	2016	Human		False					National Institue of Virology, Maximum Containment Laboratory	2019-05-06T00:00:00Z	False	False	HSV-1	HSV-1
+KX946970	HSV-1	SC16	SC16			Human		False						2016/10/30	True	False	HSV-1	HSV-1
+MH999851	HSV-1	HSV-H1412		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999850	HSV-1	HSV-H15119		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999849	HSV-1	HSV-H1312		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999848	HSV-1	HSV-H1311		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999847	HSV-1	HSV-H12118		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999846	HSV-1	HSV-H1215		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999845	HSV-1	HSV-H12117		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999844	HSV-1	HSV-H12114		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999843	HSV-1	HSV-H1211				Human		False						2019/01/29	False	False	HSV-1	HSV-1
+MH999842	HSV-1	HSV-H12113		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999841	HSV-1	Ty148		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999840	HSV-1	Ty25		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999839	HSV-1	K86		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2019-01-29T00:00:00Z	False	False	HSV-1	HSV-1
+MH999838	HSV-1	K47				Human		False						2019/01/29	False	False	HSV-1	HSV-1
+MG646679	HSV-1	NIV				Human		False						2018/11/30	False	False	HSV-1	HSV-1
+NC_001806	HSV-1	17	17	United Kingdom		Human		False				PRJNA485481	National Center for Biotechnology Information, NIH	1990-04-03T00:00:00Z	True	False	HSV-1	HSV-1
+MH160379	HSV-1	HSV1-ORIGINAL-G9				Human		False						2018/06/04	False	False	HSV-1	HSV-1
+MH102298	HSV-1	HSV-v29_site16_day1		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2018-07-07T00:00:00Z	False	False	HSV-1	HSV-1
+MG708292	HSV-1	HSV-v29_site14_day2				Human		False						2018/07/02	False	False	HSV-1	HSV-1
+MG708291	HSV-1	HSV-v29_site13_day3				Human		False						2018/07/02	False	False	HSV-1	HSV-1
+MG708290	HSV-1	HSV-v29_site13_day2				Human		False						2018/07/02	False	False	HSV-1	HSV-1
+MG708289	HSV-1	HSV-v29_site12_day3				Human		False						2018/07/02	False	False	HSV-1	HSV-1
+MG708288	HSV-1	HSV-v29_day60_culture3				Human		False						2018/07/02	False	False	HSV-1	HSV-1
+MG708287	HSV-1	HSV-v29_day1_culture2				Human		False						2018/07/02	False	False	HSV-1	HSV-1
+MG708286	HSV-1	HSV-v29_day-90_culture1				Human		False						2018/07/02	False	False	HSV-1	HSV-1
+MG708285	HSV-1	HSV-v29_site18_day2				Human		False						2018/07/02	False	False	HSV-1	HSV-1
+MG708284	HSV-1	HSV-v29_site16_day2				Human		False						2018/07/02	False	False	HSV-1	HSV-1
+MG999842	HSV-1	27_2006-50140				Human		False						2018/06/26	False	False	HSV-1	HSV-1
+LT594457	HSV-1	132/1998		Germany	1998	Human		False			SAMEA4017978	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493	2016-08-25T00:00:00Z	False	False	HSV-1	HSV-1
+LT594192	HSV-1	160/1982		Germany	1982	Human		False			SAMEA4017977	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493	2016-08-25T00:00:00Z	False	False	HSV-1	HSV-1
+LT594112	HSV-1	369/2007		Germany	2007	Human		False			SAMEA4017984	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493	2016-08-25T00:00:00Z	False	False	HSV-1	HSV-1
+LT594111	HSV-1	1394/2005		Germany	2005	Human		False			SAMEA4017980	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493	2016-08-25T00:00:00Z	False	False	HSV-1	HSV-1
+LT594110	HSV-1	66/2007		Germany	2007	Human		False			SAMEA4017982	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493	2016-08-25T00:00:00Z	False	False	HSV-1	HSV-1
+LT594109	HSV-1	270/2007		Germany	2007	Human		False			SAMEA4017983	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493	2016-08-25T00:00:00Z	False	False	HSV-1	HSV-1
+LT594108	HSV-1	1319/2005		Germany	2005	Human		False			SAMEA4017979	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493	2016-08-25T00:00:00Z	False	False	HSV-1	HSV-1
+LT594107	HSV-1	3083/2008		Germany	2008	Human		False			SAMEA4017986	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493	2016-08-25T00:00:00Z	False	False	HSV-1	HSV-1
+LT594106	HSV-1	2158/2007		Germany	2007	Human		False			SAMEA4017985	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493	2016-08-25T00:00:00Z	False	False	HSV-1	HSV-1
+LT594105	HSV-1	172/2010		Germany	2010	Human		False			SAMEA4017987	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493	2016-08-25T00:00:00Z	False	False	HSV-1	HSV-1
+KY922719	HSV-1	HSV-N-7		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2017-09-26T00:00:00Z	False	False	HSV-1	HSV-1
+KY922718	HSV-1	HSV-R-13		USA		Human		False					Pennsylvania State University, Department of Biochemistry and Molecular Biology	2017-09-26T00:00:00Z	False	False	HSV-1	HSV-1
+MF156584	HSV-1	K(delta)25/26		not collected		Human		False			SAMN06927022	PRJNA386147	JCVI, Informatics	2017-07-24T00:00:00Z	False	False	HSV-1	HSV-1
+KX424525	HSV-1	ZW6		China	2013	Human		False					Chinese Academy of Medical Sciences, Institute of medical biology	2017-03-29T00:00:00Z	False	False	HSV-1	HSV-1
+KM222727	HSV-1	H166syn				Human		False						2015/01/21	False	False	HSV-1	HSV-1
+KM222726	HSV-1	H166				Human		False						2015/01/21	False	False	HSV-1	HSV-1
+KM222725	HSV-1	F	F			Human		False						2015/01/21	True	False	HSV-1	HSV-1
+KM222724	HSV-1	F	F			Human		False						2015/01/21	True	False	HSV-1	HSV-1
+KM222723	HSV-1	KOS	KOS			Human		False						2015/01/21	True	False	HSV-1	HSV-1
+KM222722	HSV-1	KOS	KOS			Human		False						2015/01/21	True	False	HSV-1	HSV-1
+KM222721	HSV-1	KOS	KOS			Human		False						2015/01/21	True	False	HSV-1	HSV-1
+AB618031	HSV-1	RH2		Japan		Human		False			SAMD00010721	PRJDB2363	Osaka University Graduate School of Dentistry, Osaka University; yamadaoka1-8, Suita, Osaka 565-0871	2012-12-19T00:00:00Z	False	False	HSV-1	HSV-1
+FJ593289	HSV-1	17	17			Human		False					MRC Virology Unit	2009-02-09T00:00:00Z	True	False	HSV-1	HSV-1
+KU310661	HSV-1	B				Human		False						2016/02/06	False	False	HSV-1	HSV-1
+KU310660	HSV-1	B				Human		False						2016/02/06	False	False	HSV-1	HSV-1
+KU310659	HSV-1	B				Human		False						2016/02/06	False	False	HSV-1	HSV-1
+KU310658	HSV-1	B				Human		False						2016/02/06	False	False	HSV-1	HSV-1
+KU310657	HSV-1	B				Human		False						2016/02/06	False	False	HSV-1	HSV-1
+AH003715	HSV-1	17	17			Human		False						1992/07/10	True	False	NON_HSV	HSV-1
+LT608134	HSV-1	17	17			Human		False						2016/08/19	True	False	HSV-1	HSV-1
+LC114184	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+LC114178	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+LC114174	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+LC114173	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+LC114172	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+LC114171	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+LC114170	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+LC114169	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+LC114168	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+LC114167	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+LC114166	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+LC114165	HSV-1					Human		False						2016/07/08	False	False	NON_HSV	HSV-1
+KX265046	HSV-1	914-R2				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265045	HSV-1	20-14-2				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265044	HSV-1	20-14-23				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265043	HSV-1	914-B				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265042	HSV-1	914-T2				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265041	HSV-1	20-14-1				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265040	HSV-1	914-A3				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265039	HSV-1	20-14-22				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265038	HSV-1	20-14-7				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265037	HSV-1	914-E3				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265036	HSV-1	914-Z				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265035	HSV-1	914-Y2				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265034	HSV-1	IV-1				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265033	HSV-1	20-14-24				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265032	HSV-1	IV-6				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265031	HSV-1	914-H2				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265030	HSV-1	20-14-18				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265029	HSV-1	914-N3				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265028	HSV-1	20-14-8				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265027	HSV-1	IV-7				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265026	HSV-1	914-D2				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265025	HSV-1	914-B2				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265024	HSV-1	914-Q				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265023	HSV-1	IV-2				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+KX265022	HSV-1	914-O2				Human		False						2016/07/02	False	False	HSV-1	HSV-1
+LT576871	HSV-1	17	17			Human		False						2016/05/26	True	False	HSV-1	HSV-1
+LT576870	HSV-1	17	17			Human		False						2016/05/26	True	False	HSV-1	HSV-1
+LT576869	HSV-1	17	17			Human		False						2016/05/26	True	False	HSV-1	HSV-1
+LT576868	HSV-1	17	17			Human		False						2016/05/26	True	False	HSV-1	HSV-1
+LT576867	HSV-1	17	17			Human		False						2016/05/26	True	False	HSV-1	HSV-1
+LT576866	HSV-1	17	17			Human		False						2016/05/26	True	False	HSV-1	HSV-1
+JN555585	HSV-1	17	17	United Kingdom		Human		False					MRC - University of Glasgow Centre for Virus Research	2011-10-24T00:00:00Z	True	False	HSV-1	HSV-1
+KT780616	HSV-1	L2				Human		False						2016/03/07	False	False	HSV-1	HSV-1
+JN420342	HSV-1	OD4				Human		False						2011/11/02	False	False	HSV-1	HSV-1
+KT887224	HSV-1	KOS 1.1	KOS 1.1	USA	1964	Human		False					Harvard Medical School, Department of Microbiology and Immunobiology	2015-11-21T00:00:00Z	True	False	HSV-1	HSV-1
+KT899744	HSV-1	KOS	KOS	USA	1964	Human		False					Harvard Medical School, Department of Microbiology and Immunobiology	2015-11-21T00:00:00Z	True	False	HSV-1	HSV-1
+KT425110	HSV-1	KOS63				Human		False						2015/11/08	False	False	HSV-1	HSV-1
+KT425109	HSV-1	KOS79		USA		Human		False					Pennsylvannia State University	2015-11-08T00:00:00Z	False	False	HSV-1	HSV-1
+KT425108	HSV-1	RDH193				Human		False						2015/11/08	False	False	HSV-1	HSV-1
+KT425107	HSV-1	McKrae	McKrae			Human		False						2015/11/08	True	False	HSV-1	HSV-1
+KR781518	HSV-1	dl1403		USA		Human		False					Washington State University, Veterinary Microbiology and Pathology	2015-06-23T00:00:00Z	False	False	HSV-1	HSV-1
+KR052508	HSV-1	81L				Human		False						2015/05/25	False	False	HSV-1	HSV-1
+KR052507	HSV-1	78S				Human		False						2015/05/25	False	False	HSV-1	HSV-1
+KR011312	HSV-1	65M				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011311	HSV-1	5-4-2				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011310	HSV-1	83M				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011309	HSV-1	10-11-3				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011308	HSV-1	26S				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011307	HSV-1	82S				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011306	HSV-1	10-6-2				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011305	HSV-1	47M				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011304	HSV-1	31XL				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011303	HSV-1	16S				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011302	HSV-1	10-1-2				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011301	HSV-1	10-5-1				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011300	HSV-1	76M				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011299	HSV-1	5-1-1				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011298	HSV-1	12-12-2				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011297	HSV-1	27S				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011296	HSV-1	10-6-1				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011295	HSV-1	5-5-2				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011294	HSV-1	11M				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011293	HSV-1	19Lsyn				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011292	HSV-1	2-5-3				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011291	HSV-1	10-14-1				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011290	HSV-1	10-7-1				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011289	HSV-1	20L				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011288	HSV-1	2-4-2				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011287	HSV-1	10-11-2				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011286	HSV-1	12-12-67				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011285	HSV-1	5-2-1				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011284	HSV-1	10-6-3				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011283	HSV-1	CJ994				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011282	HSV-1	3M				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011281	HSV-1	66S				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011280	HSV-1	8S				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011279	HSV-1	36L				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011278	HSV-1	4M				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011277	HSV-1	10-2-2				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011276	HSV-1	57M				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011275	HSV-1	34L				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KR011274	HSV-1	10-2-3				Human		False						2015/05/13	False	False	HSV-1	HSV-1
+KJ847330	HSV-1	HSV-1/0116209/India/2011		India	2011	Human		False					National Institute of Virology, Encephalitis Group	2015-05-03T00:00:00Z	False	False	HSV-1	HSV-1
+KM222720	HSV-1	MacIntyre	MacIntyre			Human		False						2014/10/05	True	False	HSV-1	HSV-1
+HM585515	HSV-1	R62				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585514	HSV-1	R11				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585513	HSV-1	S25				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585512	HSV-1	S23				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585511	HSV-1	E19				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585510	HSV-1	E14				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585509	HSV-1	E03				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585508	HSV-1	CR38				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585507	HSV-1	E35				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585506	HSV-1	E25				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585505	HSV-1	E23				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585504	HSV-1	E22				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585503	HSV-1	E15				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585502	HSV-1	E13				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585501	HSV-1	E12				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585500	HSV-1	E11				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585499	HSV-1	E10				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585498	HSV-1	E08				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585497	HSV-1	E07				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+HM585496	HSV-1	E06				Human		False						2011/06/30	False	False	HSV-1	HSV-1
+JX392974	HSV-1	UV11_20				Human		False						2012/10/16	False	False	NON_HSV	HSV-1
+JX392972	HSV-1	UV11_18				Human		False						2012/10/16	False	False	NON_HSV	HSV-1
+JX392961	HSV-1	UV11_7				Human		False						2012/10/16	False	False	NON_HSV	HSV-1
+JN415119	HSV-1	HSV328058		Belgium	2006	Human		False					Rega Institute for Medical Research, Microbiology and Immunology	2011-12-21T00:00:00Z	False	False	NON_HSV	HSV-1
+JN415118	HSV-1	RV_179		Belgium	2011	Human		False					Rega Institute for Medical Research, Microbiology and Immunology	2011-12-21T00:00:00Z	False	False	NON_HSV	HSV-1
+JN415117	HSV-1	RV_117		Belgium	2010	Human		False					Rega Institute for Medical Research, Microbiology and Immunology	2011-12-21T00:00:00Z	False	False	NON_HSV	HSV-1
+JQ730035	HSV-1	McKrae	McKrae			Human		False						2012/05/30	True	False	HSV-1	HSV-1
+JX142173	HSV-1	Mckrae	Mckrae			Human		False						2012/08/19	True	False	HSV-1	HSV-1
+GU734772	HSV-1	H129		USA		Human		False				PRJNA43419	Princeton University, Dept. of Molecular Biology and Lewis-Sigler Institute for Integrative Genomics	2010-03-09T00:00:00Z	False	False	HSV-1	HSV-1
+GU734771	HSV-1	F	F	USA		Human		False				PRJNA43419	Princeton University, Dept. of Molecular Biology and Lewis-Sigler Institute for Integrative Genomics	2010-03-09T00:00:00Z	True	False	HSV-1	HSV-1
+JQ673480	HSV-1	KOS	KOS	USA		Human		False					University of Kansas, Department of Molecular Biosciences	2012-03-26T00:00:00Z	True	False	HSV-1	HSV-1
+JQ352285	HSV-1	374/2010				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352278	HSV-1	064/2010				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352277	HSV-1	063/2010				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352276	HSV-1	062/2010				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352274	HSV-1	060/2010				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352272	HSV-1	058/2010				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352270	HSV-1	003/2010				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352269	HSV-1	3624/2009				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352267	HSV-1	3579/2009				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352266	HSV-1	3578/2009				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352263	HSV-1	3573/2009				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352258	HSV-1	2339/2009				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352257	HSV-1	1756/2009				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ352256	HSV-1	1539/2009				Human		False						2012/05/07	False	False	NON_HSV	HSV-1
+JQ780693	HSV-1	KOS	KOS	USA		Human		False					University of Pittsburgh, Ophthalmology	2012-04-24T00:00:00Z	True	False	HSV-1	HSV-1
+JN420341	HSV-1	CJ970				Human		False						2011/11/02	False	False	HSV-1	HSV-1
+JN420340	HSV-1	CJ394				Human		False						2011/11/02	False	False	HSV-1	HSV-1
+JN420339	HSV-1	CJ360				Human		False						2011/11/02	False	False	HSV-1	HSV-1
+JN420338	HSV-1	CJ311				Human		False						2011/11/02	False	False	HSV-1	HSV-1
+JN420337	HSV-1	TFT401				Human		False						2011/11/02	False	False	HSV-1	HSV-1
+JN400093	HSV-1	134				Human		False						2011/11/02	False	False	HSV-1	HSV-1
+EF157315	HSV-1	KOSc				Human		False						2007/01/10	False	False	HSV-1	HSV-1
+EF157314	HSV-1	KOSc				Human		False						2007/01/10	False	False	HSV-1	HSV-1
+DQ889502	HSV-1	HF				Human		False						2006/09/18	False	False	HSV-1	HSV-1
+HQ123162	HSV-1	07051077				Human		False						2010/09/04	False	False	NON_HSV	HSV-1
+HQ123161	HSV-1	07501285				Human		False						2010/09/04	False	False	NON_HSV	HSV-1
+HQ123160	HSV-1	07500611				Human		False						2010/09/04	False	False	NON_HSV	HSV-1
+HQ123159	HSV-1	07350294				Human		False						2010/09/04	False	False	NON_HSV	HSV-1
+HQ123158	HSV-1	10070463				Human		False						2010/09/04	False	False	NON_HSV	HSV-1
+HQ123157	HSV-1	07410371				Human		False						2010/09/04	False	False	NON_HSV	HSV-1
+FV537009	HSV-1					Human		False						2010/03/18	False	False	NON_HSV	HSV-1
+FV537008	HSV-1					Human		False						2010/03/18	False	False	NON_HSV	HSV-1
+FV537007	HSV-1					Human		False						2010/03/18	False	False	NON_HSV	HSV-1
+FV537006	HSV-1					Human		False						2010/03/18	False	False	NON_HSV	HSV-1
+X14112	HSV-1	17				Human		False					McGeoch D.J., MRC Virology Institute, Institute of Virology, Church Street, Glasgow G11 5JR	1990-04-03T00:00:00Z	False	False	HSV-1	HSV-1
+AF251159	HSV-1					Human		False						2000/12/12	False	False	HSV-1	HSV-1
+PZ135825	HSV-2	51-SV_uncultured		USA	2021	Human		False					Lurie Children's Hospital of Chicago, Division of Infectious Diseases	2026-07-24T00:00:00Z	False	False	HSV-2	HSV-2
+PZ135824	HSV-2	51-M_uncultured				Human		False						2026/07/24	False	False	HSV-2	HSV-2
+PZ135823	HSV-2	51-M_cultured				Human		False						2026/07/24	False	False	HSV-2	HSV-2
+MH790662	HSV-2	1998-5562				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+PX259988	HSV-2	MCL-24-H-4739				Human		False						2025/11/09	False	False	HSV-2	HSV-2
+PX259987	HSV-2	MCL-24-H-4741				Human		False						2025/11/09	False	False	HSV-2	HSV-2
+PX259986	HSV-2	MCL-24-H-4738				Human		False						2025/11/09	False	False	HSV-2	HSV-2
+PX242236	HSV-2	MCL-24-H-4740				Human		False						2025/09/15	False	False	HSV-2	HSV-2
+PV972685	HSV-2	KM-1				Human		False						2025/08/16	False	False	HSV-2	HSV-2
+PV798442	HSV-2	MCL-24-H-4741				Human		False						2025/07/14	False	False	HSV-2	HSV-2
+PV798441	HSV-2	MCL-24-H-4740				Human		False						2025/07/14	False	False	HSV-2	HSV-2
+PQ065522	HSV-2	HSV2/USA/WA-UW-2R9/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065521	HSV-2	HSV2/USA/WA-UW-2R5/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065520	HSV-2	HSV2/USA/WA-UW-2R2/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065519	HSV-2	HSV2/USA/WA-UW-2Q7/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065518	HSV-2	HSV2/USA/WA-UW-2Q4/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065517	HSV-2	HSV2/USA/WA-UW-2P6/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065516	HSV-2	HSV2/USA/WA-UW-2P5/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065515	HSV-2	HSV2/USA/WA-UW-2P4/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065514	HSV-2	HSV2/USA/WA-UW-2P3/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065513	HSV-2	HSV2/USA/WA-UW-2P2/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065512	HSV-2	HSV2/USA/WA-UW-2P1/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065511	HSV-2	HSV2/USA/WA-UW-2O1/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065510	HSV-2	HSV2/USA/WA-UW-2N10/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065509	HSV-2	HSV2/USA/WA-UW-2N8/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065508	HSV-2	HSV2/USA/WA-UW-2N7/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065507	HSV-2	HSV2/USA/WA-UW-2N6/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065506	HSV-2	HSV2/USA/WA-UW-2L10/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065505	HSV-2	HSV2/USA/WA-UW-2L6/2020				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065504	HSV-2	HSV2/USA/WA-UW-2L5/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065503	HSV-2	HSV2/USA/WA-UW-2K9/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065502	HSV-2	HSV2/USA/WA-UW-2J9/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065501	HSV-2	HSV2/USA/WA-UW-2J5/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065500	HSV-2	HSV2/USA/WA-UW-2J4/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065499	HSV-2	HSV2/USA/WA-UW-2J2/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065498	HSV-2	HSV2/USA/WA-UW-2I8/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065497	HSV-2	HSV2/USA/WA-UW-2H10/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065496	HSV-2	HSV2/USA/WA-UW-2H8/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065495	HSV-2	HSV2/USA/WA-UW-2G8/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065494	HSV-2	HSV2/USA/WA-UW-2G1/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065493	HSV-2	HSV2/USA/WA-UW-2F7/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PQ065492	HSV-2	HSV2/USA/WA-UW-2D4/2019				Human		False						2024/10/13	False	False	HSV-2	HSV-2
+PP100117	HSV-2	23				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100116	HSV-2	27				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100115	HSV-2	17	17			Human		False						2024/06/10	True	False	HSV-2	HSV-2
+PP100114	HSV-2	26				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100113	HSV-2	4				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100112	HSV-2	5				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100111	HSV-2	13				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100110	HSV-2	37				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100109	HSV-2	43				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100108	HSV-2	34				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100107	HSV-2	24				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100106	HSV-2	9				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100105	HSV-2	39				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100104	HSV-2	38				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100103	HSV-2	8				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100102	HSV-2	40				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100101	HSV-2	45				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100100	HSV-2	31				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100099	HSV-2	46				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100098	HSV-2	28				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100097	HSV-2	19				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100096	HSV-2	16				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100095	HSV-2					Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100094	HSV-2	41				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100093	HSV-2	3				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100092	HSV-2	15				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100091	HSV-2	12				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100090	HSV-2	10				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100089	HSV-2	14				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100088	HSV-2	32				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100087	HSV-2	7				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100086	HSV-2	48				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100085	HSV-2	6				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100084	HSV-2	11				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100083	HSV-2	47				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100082	HSV-2	44				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100081	HSV-2	22				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100080	HSV-2	35				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100079	HSV-2	30				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100078	HSV-2	36				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100077	HSV-2	21				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100076	HSV-2	20				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100075	HSV-2	29				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100074	HSV-2	49				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100073	HSV-2	33				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100072	HSV-2	25				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100071	HSV-2	42				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100070	HSV-2	18				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100069	HSV-2	1				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100068	HSV-2	56				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100067	HSV-2	72				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100066	HSV-2	73				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100065	HSV-2	63				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100064	HSV-2	66				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100063	HSV-2	64				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100062	HSV-2	53				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100061	HSV-2	58				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100060	HSV-2	70				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100059	HSV-2	67				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100058	HSV-2	69				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100057	HSV-2	59				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100056	HSV-2	61				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100055	HSV-2	71				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100054	HSV-2	52				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100053	HSV-2	54				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100052	HSV-2	68				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100051	HSV-2	57				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100050	HSV-2	65				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100049	HSV-2	74				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100048	HSV-2	50				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100047	HSV-2	55				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100046	HSV-2	51				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100045	HSV-2	62				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100044	HSV-2	60				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100043	HSV-2	97				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100042	HSV-2	88				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100041	HSV-2	77				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100040	HSV-2	99				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100039	HSV-2	98				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100038	HSV-2	96				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100037	HSV-2	95				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100036	HSV-2	94				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100035	HSV-2	93				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100034	HSV-2	92				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100033	HSV-2	91				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100032	HSV-2	90				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100031	HSV-2	89				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100030	HSV-2	87				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100029	HSV-2	86				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100028	HSV-2	85				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100027	HSV-2	84				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100026	HSV-2	83				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100025	HSV-2	82				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100024	HSV-2	81				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100023	HSV-2	80				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100022	HSV-2	79				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100021	HSV-2	78				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100020	HSV-2	76				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100019	HSV-2	75				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100018	HSV-2	105				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100017	HSV-2	115				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100016	HSV-2	114				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100015	HSV-2	118				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100014	HSV-2	104				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100013	HSV-2	109				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100012	HSV-2	108				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100011	HSV-2	119				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100010	HSV-2	101				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100009	HSV-2	107				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100008	HSV-2	106				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100007	HSV-2	112				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100006	HSV-2	111				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100005	HSV-2	100				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100004	HSV-2	102				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100003	HSV-2	103				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100002	HSV-2	113				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100001	HSV-2	116				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP100000	HSV-2	110				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099999	HSV-2	117				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099998	HSV-2	134				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099997	HSV-2	133				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099996	HSV-2	132				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099995	HSV-2	131				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099994	HSV-2	130				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099993	HSV-2	129				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099992	HSV-2	128				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099991	HSV-2	127				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099990	HSV-2	126				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099989	HSV-2	125				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099988	HSV-2	124				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099987	HSV-2	123				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099986	HSV-2	122				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099985	HSV-2	121				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099984	HSV-2	120				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099983	HSV-2	135				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099982	HSV-2	138				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099981	HSV-2	143				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099980	HSV-2	141				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099979	HSV-2	142				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099978	HSV-2	139				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099977	HSV-2	145				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099976	HSV-2	144				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099975	HSV-2	140				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099974	HSV-2	137				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP099973	HSV-2	136				Human		False						2024/06/10	False	False	HSV-2	HSV-2
+PP386309	HSV-2	MBC024				Human		False						2024/03/12	False	False	HSV-2	HSV-2
+MH790594	HSV-2	1999-4603				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MF621258	HSV-2	2009-4463				Human		False						2018/06/09	False	False	HSV-2	HSV-2
+MF621256	HSV-2	2007-38113				Human		False						2018/06/09	False	False	HSV-2	HSV-2
+MF621255	HSV-2	2006-46602				Human		False						2018/06/09	False	False	HSV-2	HSV-2
+MF621254	HSV-2	2005-37403				Human		False						2018/06/09	False	False	HSV-2	HSV-2
+MH899846	HSV-2	2006-15095				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790671	HSV-2	2014-8176				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790670	HSV-2	1996-45091				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790669	HSV-2	2009-33886				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790668	HSV-2	2007-15346				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790667	HSV-2	2018-3118				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790665	HSV-2	1996-53309				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790663	HSV-2	2010-3487				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790661	HSV-2	2000-3429				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790660	HSV-2	2008-483				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790657	HSV-2	2012-545				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790654	HSV-2	2002-8734				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790653	HSV-2	2004-51444				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790652	HSV-2	2012-26422				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790651	HSV-2	2002-12329				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790650	HSV-2	2011-6227				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790648	HSV-2	2005-35399				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790647	HSV-2	2005-51214				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790646	HSV-2	2007-43967				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790645	HSV-2	2018-3111				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790644	HSV-2	2009-11820				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790643	HSV-2	2005-42278				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790642	HSV-2	2007-29227				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790641	HSV-2	2013-3040				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790639	HSV-2	2012-33841				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790638	HSV-2	1996-26333				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790637	HSV-2	2012-5447				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790636	HSV-2	2004-1497				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790635	HSV-2	2010-8179				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790634	HSV-2	2000-9815				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790633	HSV-2	2006-57677				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790632	HSV-2	2009-24855				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790631	HSV-2	2010-4919				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790629	HSV-2	1999-10594				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790628	HSV-2	2018-3107				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790627	HSV-2	2006-11821				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790626	HSV-2	2005-51213				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790624	HSV-2	2018-3121				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790622	HSV-2	1999-38470				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790621	HSV-2	1998-5748				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790620	HSV-2	2013-22594				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790619	HSV-2	2004-242				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790618	HSV-2	2011-21768				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790617	HSV-2	2006-57030				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790616	HSV-2	2005-8614				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790615	HSV-2	2004-43128				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790614	HSV-2	1998-8243				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790613	HSV-2	2011-12249				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790611	HSV-2	1995-67203				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790609	HSV-2	2018-3113				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790607	HSV-2	2005-35403				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790606	HSV-2	2015-27216				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790605	HSV-2	2011-16336				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790602	HSV-2	2005-31227				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790601	HSV-2	2013-37246				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790600	HSV-2	2004-16150				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790599	HSV-2	2015-24108				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790598	HSV-2	2008-4122				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790597	HSV-2	2018-3120				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790596	HSV-2	2018-3108				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790592	HSV-2	2008-36694				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790591	HSV-2	2006-200				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790589	HSV-2	2004-2897				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790587	HSV-2	2013-37885				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790586	HSV-2	2016-8369				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790585	HSV-2	2002-14972				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790584	HSV-2	2012-10336				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790583	HSV-2	2003-24998				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790581	HSV-2	2011-5095				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790580	HSV-2	1997-3671				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790579	HSV-2	2018-3109				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790578	HSV-2	2018-3110				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790577	HSV-2	2007-22053				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790575	HSV-2	2007-41207				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790574	HSV-2	2005-48385				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790573	HSV-2	2011-14064				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790572	HSV-2	1998-7832				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790571	HSV-2	2004-46095				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790570	HSV-2	2004-56880				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790569	HSV-2	2010-1114				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790568	HSV-2	2012-4759				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790567	HSV-2	2006-38237				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790565	HSV-2	2009-25036				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790564	HSV-2	2008-29150				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790563	HSV-2	2007-32812				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790562	HSV-2	1996-38251				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790561	HSV-2	2003-27026				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790560	HSV-2	2008-7628				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790559	HSV-2	2012-5456				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790558	HSV-2	2005-48390				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790557	HSV-2	2011-28591				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790556	HSV-2	2012-15948				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790555	HSV-2	2004-41447				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790554	HSV-2	2001-6723				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790553	HSV-2	2005-14172				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790552	HSV-2	2013-35042				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790551	HSV-2	2018-3119				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790550	HSV-2	2011-31810				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MF621257	HSV-2	2008-15116				Human		False						2018/06/09	False	False	HSV-2	HSV-2
+MF510371	HSV-2	2008-83				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510370	HSV-2	2009-143				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510369	HSV-2	2002-9529				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510368	HSV-2	2012-3154				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510366	HSV-2	2012-18588				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510365	HSV-2	2010-49				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510364	HSV-2	1995-74779				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510363	HSV-2	2015-14086				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510360	HSV-2	2013-20710				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510359	HSV-2	1996-45513				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510357	HSV-2	2006-47348				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510356	HSV-2	2014-23324				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510355	HSV-2	2001-33392				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510354	HSV-2	1994-31838				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510353	HSV-2	2009-6972				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510352	HSV-2	2007-225				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510351	HSV-2	2013-7939				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510350	HSV-2	2007-37750				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510349	HSV-2	2012-15074				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510346	HSV-2	1996-63142				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510344	HSV-2	2006-25060				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510342	HSV-2	2013-40864				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510340	HSV-2	2013-44623				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510339	HSV-2	1995-63092				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510338	HSV-2	2015-30814				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510336	HSV-2	2007-36717				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510335	HSV-2	2013-5465				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510334	HSV-2	2007-38191				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510333	HSV-2	2010-19222				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510332	HSV-2	1998-573				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510331	HSV-2	2015-30415				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510329	HSV-2	1994-32289				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510328	HSV-2	2010-147				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510327	HSV-2	2010-26				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510324	HSV-2	2012-18385				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510321	HSV-2	2009-28138				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510319	HSV-2	2010-131				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510318	HSV-2	1994-19218				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510317	HSV-2	2015-2427				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510316	HSV-2	2013-10248				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510314	HSV-2	2000-20217				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510313	HSV-2	2004-35508				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510311	HSV-2	2007-141				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510310	HSV-2	1998-3173				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510308	HSV-2	1995-45304				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510307	HSV-2	2010-21163				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510306	HSV-2	2014-14807				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510305	HSV-2	1997-1262				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510304	HSV-2	1995-6523				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510301	HSV-2	2004-3896				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510300	HSV-2	2007-40102				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510297	HSV-2	2014-7140				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510295	HSV-2	2005-177				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510294	HSV-2	2014-12235				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510293	HSV-2	2013-41862				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510292	HSV-2	2014-14811				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510291	HSV-2	2004-35599				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510290	HSV-2	2009-33613				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510288	HSV-2	2000-24123				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510286	HSV-2	2007-49				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510285	HSV-2	1995-13482				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510284	HSV-2	2015-3877				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510282	HSV-2	2004-8527				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510281	HSV-2	2006-17607				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510279	HSV-2	1998-7600				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510278	HSV-2	2001-13795				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510277	HSV-2	2013-19050				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510276	HSV-2	2012-35322				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510274	HSV-2	2002-7934				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510273	HSV-2	2008-15067				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510272	HSV-2	2004-35598				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510271	HSV-2	2006-36626				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510270	HSV-2	2001-25659				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510267	HSV-2	1994-24134				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+OM370995	HSV-2	G		USA		Human		False					Frederick National Laboratory for Cancer Research, Laboratory of Human Retrovirology and Immunoinformatics	2022-03-02T00:00:00Z	False	False	HSV-2	HSV-2
+MT919989	HSV-2	186	186			Human		False						2021/11/27	True	False	HSV-2	HSV-2
+MT461027	HSV-2	2020-3450AC				Human		False						2021/07/20	False	False	HSV-2	HSV-2
+MT461026	HSV-2	2020-3449AC				Human		False						2021/07/20	False	False	HSV-2	HSV-2
+MT364888	HSV-2					Human		False						2020/08/23	False	False	HSV-2	HSV-2
+MK855052	HSV-2	MS	MS	Spain		Human		False					Centro de Biologia Molecular Severo Ochoa, Virology	2020-05-13T00:00:00Z	True	False	HSV-2	HSV-2
+MN187895	HSV-2	HJ12		China		Human		False					Institute of medical biology	2020-03-08T00:00:00Z	False	False	HSV-2	HSV-2
+MH697501	HSV-2	HSV2_21				Human		False						2019/06/10	False	False	NON_HSV	HSV-2
+MH790666	HSV-2	2006-18141CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790664	HSV-2	1995-57888				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790659	HSV-2	2006-18717CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790658	HSV-2	2006-16150CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790656	HSV-2	2006-15449CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790655	HSV-2	2006-15377CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790649	HSV-2	2006-14337CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790640	HSV-2	2006-14474CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790630	HSV-2	2006-14300CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790625	HSV-2	2006-15867CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790623	HSV-2	2006-13847CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790612	HSV-2	2006-16337CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790610	HSV-2	2006-17947CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790608	HSV-2	2006-13867CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790604	HSV-2	2014-13047				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790603	HSV-2	2006-13869CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790595	HSV-2	2006-14635CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790593	HSV-2	2006-18003CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790590	HSV-2	2006-15771CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790588	HSV-2	1995-56864				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790582	HSV-2	2018-5934				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790576	HSV-2	2006-15840CAM				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MH790566	HSV-2	2013-34209				Human		False						2019/03/06	False	False	HSV-2	HSV-2
+MK106004	HSV-2	SEM18				Human		False						2019/01/30	False	False	HSV-2	HSV-2
+MK106003	HSV-2	SEM13				Human		False						2019/01/30	False	False	HSV-2	HSV-2
+MK106002	HSV-2	SEM02				Human		False						2019/01/30	False	False	HSV-2	HSV-2
+MK106001	HSV-2	DISS29				Human		False						2019/01/30	False	False	HSV-2	HSV-2
+MK106000	HSV-2	DISS14				Human		False						2019/01/30	False	False	HSV-2	HSV-2
+MK105999	HSV-2	CNS17				Human		False						2019/01/30	False	False	HSV-2	HSV-2
+MK105998	HSV-2	CNS15				Human		False						2019/01/30	False	False	HSV-2	HSV-2
+MK105997	HSV-2	CNS12				Human		False						2019/01/30	False	False	HSV-2	HSV-2
+MK105996	HSV-2	CNS11				Human		False						2019/01/30	False	False	HSV-2	HSV-2
+MK105995	HSV-2	CNS03				Human		False						2019/01/30	False	False	HSV-2	HSV-2
+LT799380	HSV-2	9		France		Human		False			SAMEA3941935	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-08T00:00:00Z	False	False	HSV-2	HSV-2
+LT797786	HSV-2	16		France		Human		False			SAMEA3941942	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797682	HSV-2	18		France		Human		False			SAMEA3941944	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797636	HSV-2	17	17	France		Human		False			SAMEA3941943	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	True	False	HSV-2	HSV-2
+LT797635	HSV-2	11		France		Human		False			SAMEA3941937	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797634	HSV-2	14		France		Human		False			SAMEA3941940	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797633	HSV-2	12		France		Human		False			SAMEA3941938	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797632	HSV-2	5		France		Human		False			SAMEA3941931	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797631	HSV-2	3		France		Human		False			SAMEA3941929	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797630	HSV-2	15		France		Human		False			SAMEA3941941	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797629	HSV-2	10		France		Human		False			SAMEA3941936	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797628	HSV-2	4		France		Human		False			SAMEA3941930	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797627	HSV-2	1		France		Human		False			SAMEA3941927	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797626	HSV-2	7		France		Human		False			SAMEA3941933	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797625	HSV-2	8		France		Human		False			SAMEA3941934	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797624	HSV-2	6		France		Human		False			SAMEA3941932	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797623	HSV-2	13		France		Human		False			SAMEA3941939	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LT797622	HSV-2	2		France		Human		False			SAMEA3941928	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	2017-03-04T00:00:00Z	False	False	HSV-2	HSV-2
+LS480640	HSV-2	333	333			Human		False						2018/06/07	True	False	HSV-2	HSV-2
+MF510367	HSV-2	2001_6349				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510362	HSV-2	2005_10915				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510361	HSV-2	2009_2265				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510358	HSV-2	2012_20191				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510348	HSV-2	2006_21876				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510347	HSV-2	2009_3488				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510345	HSV-2	2014_23891				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510343	HSV-2	2009_2139				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510341	HSV-2	2007_22031				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510337	HSV-2	2012_18420				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510330	HSV-2	2009_2254				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510326	HSV-2	1997_1393				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510325	HSV-2	2009_393				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510323	HSV-2	2000_24411				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510322	HSV-2	2006_46019				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510320	HSV-2	2006_46638				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510315	HSV-2	2002_8781				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510312	HSV-2	2009_2246				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510309	HSV-2	2006_20641				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510303	HSV-2	2009_406				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510302	HSV-2	2006_23142				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510299	HSV-2	2009_2222				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510298	HSV-2	2003_18061				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510296	HSV-2	2009_3539				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510289	HSV-2	2009_3425				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510287	HSV-2	2009_2258				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510283	HSV-2	2012_9333				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510280	HSV-2	2009_3495				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510275	HSV-2	2009_4532				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510269	HSV-2	2006_46118				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+MF510268	HSV-2	1995_45410				Human		False						2017/11/22	False	False	HSV-2	HSV-2
+KY922726	HSV-2	HSV2-H12212		USA		Human		False					Pennslyvania State University, Department of Biochemistry and Molecular Biology	2017-09-27T00:00:00Z	False	False	HSV-2	HSV-2
+KY922725	HSV-2	HSV2-H12211		USA		Human		False					Pennslyvania State University, Department of Biochemistry and Molecular Biology	2017-09-27T00:00:00Z	False	False	HSV-2	HSV-2
+KY922724	HSV-2	HSV2-H1526				Human		False						2017/09/27	False	False	HSV-2	HSV-2
+KY922723	HSV-2	HSV2-H1421				Human		False						2017/09/27	False	False	HSV-2	HSV-2
+KY922722	HSV-2	HSV2-H1229				Human		False						2017/09/27	False	False	HSV-2	HSV-2
+KY922721	HSV-2	HSV2-H1227		USA		Human		False					Pennslyvania State University, Department of Biochemistry and Molecular Biology	2017-09-27T00:00:00Z	False	False	HSV-2	HSV-2
+KY922720	HSV-2	HSV2-H1226		USA		Human		False					Pennslyvania State University, Department of Biochemistry and Molecular Biology	2017-09-27T00:00:00Z	False	False	HSV-2	HSV-2
+MF783886	HSV-2	16				Human		False						2017/09/19	False	False	HSV-2	HSV-2
+MF564037	HSV-2	sample 19		USA	2008	Human		False					Saint Louis University, Molecular Microbiology and Immunology	2017-09-19T00:00:00Z	False	False	HSV-2	HSV-2
+MF564036	HSV-2	sample 16		USA	2007	Human		False					Saint Louis University, Molecular Microbiology and Immunology	2017-09-19T00:00:00Z	False	False	HSV-2	HSV-2
+MF564035	HSV-2	sample 14		USA	2004	Human		False					Saint Louis University, Molecular Microbiology and Immunology	2017-09-19T00:00:00Z	False	False	HSV-2	HSV-2
+MF564034	HSV-2	sample 08		USA	2004	Human		False					Saint Louis University, Molecular Microbiology and Immunology	2017-09-19T00:00:00Z	False	False	HSV-2	HSV-2
+KX574906	HSV-2	2012-9333				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574905	HSV-2	2009-2198				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574904	HSV-2	2004-20601				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574903	HSV-2	2003-16029				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574902	HSV-2	2009-409				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574901	HSV-2	2012-32825				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574899	HSV-2	2011-34727				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574898	HSV-2	2011-33490				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574897	HSV-2	2011-21761				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574896	HSV-2	2010-6416				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574895	HSV-2	2010-21				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574894	HSV-2	2009-4556				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574893	HSV-2	2009-4550				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574892	HSV-2	2009-3532				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574891	HSV-2	2009-33778				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574890	HSV-2	2009-31735				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574889	HSV-2	2009-13458				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574888	HSV-2	2009-1245				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574887	HSV-2	2008-7539				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574886	HSV-2	2008-37744				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574885	HSV-2	2008-37496				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574884	HSV-2	2008-16404				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574883	HSV-2	2007-8222				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574882	HSV-2	2007-40807				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574881	HSV-2	2007-39729				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574880	HSV-2	2007-39712				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574879	HSV-2	2007-39521				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574878	HSV-2	2007-39303				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574877	HSV-2	2007-38910				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574876	HSV-2	2007-38901				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574875	HSV-2	2007-38807				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574874	HSV-2	2007-38627				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574873	HSV-2	2007-38606				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574872	HSV-2	2007-38249				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574871	HSV-2	2007-38120				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574870	HSV-2	2007-22031				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574869	HSV-2	2006-50074				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574868	HSV-2	2006-49895				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574867	HSV-2	2006-45028				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574866	HSV-2	2006-30937				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574865	HSV-2	2006-30839				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574864	HSV-2	2006-29060				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574863	HSV-2	2006-21832				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574862	HSV-2	2006-19390				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574861	HSV-2	2004-4373				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574860	HSV-2	2007-38205				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574908	HSV-2	2011-21400				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574907	HSV-2	2006-38659				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KX574900	HSV-2	2011-34957				Human		False						2017/03/26	False	False	HSV-2	HSV-2
+KU310668	HSV-2	G				Human		False						2016/02/06	False	False	HSV-2	HSV-2
+KU310667	HSV-2	4674				Human		False						2016/02/06	False	False	HSV-2	HSV-2
+KU310666	HSV-2	B				Human		False						2016/02/06	False	False	HSV-2	HSV-2
+KU310665	HSV-2	B				Human		False						2016/02/06	False	False	HSV-2	HSV-2
+KU310664	HSV-2	B				Human		False						2016/02/06	False	False	HSV-2	HSV-2
+KU310663	HSV-2	B				Human		False						2016/02/06	False	False	HSV-2	HSV-2
+KU310662	HSV-2	B				Human		False						2016/02/06	False	False	HSV-2	HSV-2
+NC_001798	HSV-2	HG52	HG52	United Kingdom		Human		False				PRJNA15218	National Center for Biotechnology Information, NIH	1997-02-27T00:00:00Z	True	False	HSV-2	HSV-2
+JN561323	HSV-2	HG52	HG52	United Kingdom		Human		False					MRC - University of Glasgow Centre for Virus Research	2011-12-18T00:00:00Z	True	False	HSV-2	HSV-2
+AY038368	HSV-2	RR				Human		False						2001/07/17	False	False	NON_HSV	HSV-2
+KR135331	HSV-2	HSV-2/US/BID-G44422/333-R519	HSV-2/US/BID-G44422/333-R519			Human		False						2015/06/08	True	False	HSV-2	HSV-2
+KR135330	HSV-2	HSV-2/US/BID-G1929/BethesdaP5				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135329	HSV-2	HSV-2/JP/BID-G32593/JA9				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135328	HSV-2	HSV-2/JP/BID-G32592/JA8				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135327	HSV-2	HSV-2/JP/BID-G32591/JA7				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135326	HSV-2	HSV-2/JP/BID-G32590/JA6				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135325	HSV-2	HSV-2/JP/BID-G32589/JA5				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135324	HSV-2	HSV-2/JP/BID-G32588/JA3				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135323	HSV-2	HSV-2/JP/BID-G32587/JA2				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135322	HSV-2	HSV-2/JP/BID-G32586/JA1				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135321	HSV-2	HSV-2/US/BID-G19094/89-390/1989				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135320	HSV-2	HSV-2/ZA/BID-G19093/SD66/1995				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135319	HSV-2	HSV-2/UG/BID-G19091/D39765/2008				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135318	HSV-2	HSV-2/UG/BID-G19090/D39650/2008				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135317	HSV-2	HSV-2/UG/BID-G19089/A76832/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135316	HSV-2	HSV-2/UG/BID-G19088/G75809/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135315	HSV-2	HSV-2/UG/BID-G19087/J32715/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135314	HSV-2	HSV-2/US/BID-G19086/7444-1996-25809/1996				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135313	HSV-2	HSV-2/US/BID-G19085/9335-2007-14/2011				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135312	HSV-2	HSV-2/US/BID-G19084/9335-2005-576/2009				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135311	HSV-2	HSV-2/US/BID-G19083/10883-2001-13347/2005				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135310	HSV-2	HSV-2/US/BID-G19082/44-319857/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135309	HSV-2	HSV-2/US/BID-G19081/44-419851/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135308	HSV-2	HSV-2/US/BID-G19080/44-419851/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135307	HSV-2	HSV-2/UG/BID-G19079/J09622/2008				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135306	HSV-2	HSV-2/UG/BID-G19078/A76191/2008				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135305	HSV-2	HSV-2/UG/BID-G19077/K39924/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135304	HSV-2	HSV-2/UG/BID-G19076/H00066/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135303	HSV-2	HSV-2/UG/BID-G44423/L22861/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135302	HSV-2	HSV-2/UG/BID-G19074/M1119/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135301	HSV-2	HSV-2/UG/BID-G19073/F70764/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135300	HSV-2	HSV-2/UG/BID-G19072/D30613/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135299	HSV-2	HSV-2/UG/BID-G19071/M22987/2007				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KR135298	HSV-2	HSV-2/US/BID-G19070/8937-1-3336/2003				Human		False						2015/06/08	False	False	HSV-2	HSV-2
+KP334097	HSV-2	CtSF				Human		False						2015/04/21	False	False	HSV-2	HSV-2
+KP334096	HSV-2	COH				Human		False						2015/04/21	False	False	HSV-2	HSV-2
+KP334095	HSV-2	1192				Human		False						2015/04/21	False	False	HSV-2	HSV-2
+KP334094	HSV-2	GSC-56				Human		False						2015/04/21	False	False	HSV-2	HSV-2
+KP334093	HSV-2	CtSF-R				Human		False						2015/04/21	False	False	HSV-2	HSV-2
+KP192856	HSV-2	333	333			Human		False						2015/04/20	True	False	HSV-2	HSV-2
+KF781518	HSV-2	SD90e		South Africa	1995	Human		False				PRJNA32415	Harvard Medical School, Department of Microbiology and Immunobiology	2014-01-22T00:00:00Z	False	False	HSV-2	HSV-2
+JN415125	HSV-2	BA_19026589		Belgium	2009	Human		False					Rega Institute for Medical Research, Microbiology and Immunology	2011-12-21T00:00:00Z	False	False	NON_HSV	HSV-2
+JN415124	HSV-2	RV_185		Belgium	2011	Human		False					Rega Institute for Medical Research, Microbiology and Immunology	2011-12-21T00:00:00Z	False	False	NON_HSV	HSV-2
+JN415122	HSV-2	RV_129		Belgium	2010	Human		False					Rega Institute for Medical Research, Microbiology and Immunology	2011-12-21T00:00:00Z	False	False	NON_HSV	HSV-2
+JN415121	HSV-2	RV_101		Belgium	2010	Human		False					Rega Institute for Medical Research, Microbiology and Immunology	2011-12-21T00:00:00Z	False	False	NON_HSV	HSV-2
+JN415120	HSV-2	HSV-44		Belgium	1991	Human		False					Rega Institute for Medical Research, Microbiology and Immunology	2011-12-21T00:00:00Z	False	False	NON_HSV	HSV-2
+JX112656	HSV-2	186	186			Human		False						2012/07/02	True	False	HSV-2	HSV-2
+JQ352300	HSV-2	247/2010				Human		False						2012/05/07	False	False	NON_HSV	HSV-2
+JQ352299	HSV-2	246/2010				Human		False						2012/05/07	False	False	NON_HSV	HSV-2
+EU018128	HSV-2	333	333			Human		False						2007/08/21	True	False	HSV-2	HSV-2
+EU018127	HSV-2	333	333			Human		False						2007/08/21	True	False	HSV-2	HSV-2
+EU018126	HSV-2	333	333			Human		False						2007/08/21	True	False	HSV-2	HSV-2
+EU018104	HSV-2	333	333			Human		False						2007/08/21	True	False	HSV-2	HSV-2
+EU018102	HSV-2	333	333			Human		False						2007/08/21	True	False	HSV-2	HSV-2
+EU018101	HSV-2	333	333			Human		False						2007/08/21	True	False	HSV-2	HSV-2
+EU018100	HSV-2	333	333			Human		False						2007/08/21	True	False	HSV-2	HSV-2
+EU018099	HSV-2	333	333			Human		False						2007/08/21	True	False	HSV-2	HSV-2
+HQ123142	HSV-2	09200631				Human		False						2010/09/04	False	False	NON_HSV	HSV-2
+HQ123141	HSV-2	09130442				Human		False						2010/09/04	False	False	NON_HSV	HSV-2
+HQ123140	HSV-2	08401088				Human		False						2010/09/04	False	False	NON_HSV	HSV-2
+HQ123139	HSV-2	09121229				Human		False						2010/09/04	False	False	NON_HSV	HSV-2
+HQ123138	HSV-2	09040715				Human		False						2010/09/04	False	False	NON_HSV	HSV-2
+HQ123137	HSV-2	08160205				Human		False						2010/09/04	False	False	NON_HSV	HSV-2
+HQ123136	HSV-2	07050655				Human		False						2010/09/04	False	False	NON_HSV	HSV-2
+HQ123135	HSV-2	09510471				Human		False						2010/09/04	False	False	NON_HSV	HSV-2
+HQ123134	HSV-2	08390192				Human		False						2010/09/04	False	False	NON_HSV	HSV-2
+FV537013	HSV-2					Human		False						2010/03/18	False	False	NON_HSV	HSV-2
+FV537012	HSV-2					Human		False						2010/03/18	False	False	NON_HSV	HSV-2
+FV537011	HSV-2					Human		False						2010/03/18	False	False	NON_HSV	HSV-2
+FV537010	HSV-2					Human		False						2010/03/18	False	False	NON_HSV	HSV-2
+AY827229	HSV-2	9947				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827228	HSV-2	9946				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827227	HSV-2	9884				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827226	HSV-2	9847				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827225	HSV-2	9542				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827224	HSV-2	9497				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827223	HSV-2	9383				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827222	HSV-2	9373				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827221	HSV-2	9223				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827220	HSV-2	9191				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827219	HSV-2	8988				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827218	HSV-2	8987				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827217	HSV-2	8906				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827216	HSV-2	8905				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827215	HSV-2	8495				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827214	HSV-2	8484				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827213	HSV-2	8458				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827212	HSV-2	8456				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827211	HSV-2	8185				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827210	HSV-2	8184				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827209	HSV-2	8029				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827208	HSV-2	8028				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827207	HSV-2	10669				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827206	HSV-2	10666				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827205	HSV-2	10605				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827204	HSV-2	10352				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827203	HSV-2	10129				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827202	HSV-2	10059				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AY827201	HSV-2	10045				Human		False						2004/12/12	False	False	HSV-2	HSV-2
+AF141858	HSV-2	VI-453				Human		False						1999/06/02	False	False	HSV-2	HSV-2
+AF141857	HSV-2	VI-4444				Human		False						1999/06/02	False	False	HSV-2	HSV-2
+AF141856	HSV-2	VI-147				Human		False						1999/06/02	False	False	HSV-2	HSV-2
+AF141855	HSV-2	VI-512				Human		False						1999/06/02	False	False	HSV-2	HSV-2
+AF141854	HSV-2	VI-2434				Human		False						1999/06/02	False	False	HSV-2	HSV-2
+Z86099	HSV-2	HG52	HG52			Human		False					A. Dolan, MRC Virology Unit, Church Street, Glasgow, G11 5JR	1997-02-27T00:00:00Z	True	False	HSV-2	HSV-2

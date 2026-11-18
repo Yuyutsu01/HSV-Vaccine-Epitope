@@ -1,0 +1,21 @@
+Gene	Canonical_Symbol	Target_Class	Required	Present_in_File	Total_Count	Full_Length_Keep_Count	Usable_for_Primary_Dataset	Gap_Statement
+gD/US6	US6	Glycoprotein	YES	YES	216	126	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+gB/UL27	UL27	Glycoprotein	YES	YES	484	302	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+gC/UL44	UL44	Glycoprotein	YES	YES	369	261	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+gG/US4	US4	Glycoprotein	YES	YES	635	350	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+gH/UL22	UL22	Glycoprotein	YES	YES	365	271	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+gL/UL1	UL1	Glycoprotein	YES	YES	165	111	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+gE/US8	US8	Glycoprotein	YES	YES	457	247	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+gI/US7	US7	Glycoprotein	YES	YES	486	282	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+gK/UL53	UL53	Glycoprotein	YES	YES	170	117	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+gM/UL10	UL10	Glycoprotein	YES	YES	206	162	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+gN/UL49A	UL49A	Glycoprotein	YES	YES	63	39	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+ICP0/RL2	RL2	T-cell target	YES	YES	1214	308	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+ICP4/RS1	RS1	T-cell target	YES	YES	1139	294	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+ICP27/UL54	UL54	T-cell target	YES	YES	273	137	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+VP16/UL48	UL48	T-cell target	YES	YES	171	119	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+UL46/VP11-12	UL46	T-cell target	YES	YES	384	258	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+UL47/VP13-14	UL47	T-cell target	YES	YES	298	201	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+UL49/VP22	UL49	T-cell target	YES	YES	244	123	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+UL23/TK	UL23	Drug target	YES	YES	840	546	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics
+UL30/polymerase	UL30	Drug target	YES	YES	747	509	YES	100% lacking spatiotemporal metadata (country/year=0%) — impossible for dN/dS or phylodynamics

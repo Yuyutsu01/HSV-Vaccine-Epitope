@@ -1,0 +1,35 @@
+accession	header	file_type	organism	assigned_gene	hsv1_identity	hsv2_identity	category	reason
+ACM62286.2	ACM62286.2 Cre recombinase [BAC cloning vector pBluelox]	HSV-1	BAC cloning vector pBluelox	UL36	70.0	77.78	DROP	Non-HSV contamination
+ACM62285.1	ACM62285.1 beta-galactosidase [BAC cloning vector pBluelox]	HSV-1	BAC cloning vector pBluelox	UL17	100.0	100.0	DROP	Non-HSV contamination
+AAA84883.1	AAA84883.1 BICP27, partial [bovine alphaherpesvirus 1]	HSV-1	bovine alphaherpesvirus 1	UL2	60.0	60.0	DROP	Non-HSV contamination
+AAA84882.1	AAA84882.1 glycoprotein K [bovine alphaherpesvirus 1]	HSV-1	bovine alphaherpesvirus 1	UL53	45.33	42.57	DROP	Non-HSV contamination
+AAA61540.1	AAA61540.1 similar to Herpes simplex virus cell fusion protein glycoprotein K, Swiss-Prot Accession Number P10237 [Gallid alphaherpesvirus 1]	HSV-1	Gallid alphaherpesvirus 1	UL53	47.83	47.83	DROP	Non-HSV contamination
+AAA61539.1	AAA61539.1 similar to Herpes simplex virus transcriptional regulator ICP27, Swiss-Prot Accession Number P28276 [Gallid alphaherpesvirus 1]	HSV-1	Gallid alphaherpesvirus 1	UL54	51.9	49.37	DROP	Non-HSV contamination
+AAF66788.1	AAF66788.1 UL52 [Gallid alphaherpesvirus 2]	HSV-1	Gallid alphaherpesvirus 2	UL52	49.3	48.94	DROP	Non-HSV contamination
+AAB95643.1	AAB95643.1 helicase/primase complex subunit, partial [Gallid alphaherpesvirus 1]	HSV-1	Gallid alphaherpesvirus 1	UL36	66.67	85.71	DROP	Non-HSV contamination
+ABU49739.1	ABU49739.1 UL27 precursor [anatid alphaherpesvirus 1]	HSV-1	anatid alphaherpesvirus 1	UL27	54.65	55.16	DROP	Non-HSV contamination
+ABM92130.1	ABM92130.1 DNA polymerase [anatid alphaherpesvirus 1]	HSV-1	anatid alphaherpesvirus 1	UL30	60.65	60.87	DROP	Non-HSV contamination
+ABM92129.1	ABM92129.1 UL29 protein [anatid alphaherpesvirus 1]	HSV-1	anatid alphaherpesvirus 1	UL29	51.01	50.86	DROP	Non-HSV contamination
+ABM92128.1	ABM92128.1 UL28 protein [anatid alphaherpesvirus 1]	HSV-1	anatid alphaherpesvirus 1	UL28	53.11	53.06	DROP	Non-HSV contamination
+ABM92127.1	ABM92127.1 virion glycoprotein B [anatid alphaherpesvirus 1]	HSV-1	anatid alphaherpesvirus 1	UL27	54.79	55.29	DROP	Non-HSV contamination
+ABM92126.1	ABM92126.1 UL26.5 protein [anatid alphaherpesvirus 1]	HSV-1	anatid alphaherpesvirus 1	UL26.5	84.21	84.21	DROP	Non-HSV contamination
+ABM92125.1	ABM92125.1 UL26 protein [anatid alphaherpesvirus 1]	HSV-1	anatid alphaherpesvirus 1	UL26	54.27	54.7	DROP	Non-HSV contamination
+ABM92124.1	ABM92124.1 capsid associated tegument protein [anatid alphaherpesvirus 1]	HSV-1	anatid alphaherpesvirus 1	UL25	50.23	49.77	DROP	Non-HSV contamination
+AAA61544.1	AAA61544.1 ORF initiated by the first ATG codon downstream of the experimentally determined 5'-end of a 5.2-kb mRNA transcript synthesized in BHV1-infected cells.; homologue of HSV1 UL24; putative [bovine alphaherpesvirus 1]	HSV-1	bovine alphaherpesvirus 1	UL24	51.96	50.47	DROP	Non-HSV contamination
+AAA03610.1	AAA03610.1 BICP4 [bovine alphaherpesvirus 1]	HSV-1	bovine alphaherpesvirus 1	RS1	63.24	64.36	DROP	Non-HSV contamination
+AAK69349.1	AAK69349.1 UL21 tegument protein [Bovine alphaherpesvirus 2]	HSV-1	Bovine alphaherpesvirus 2	UL21	53.78	53.52	DROP	Non-HSV contamination
+AAK63845.1	AAK63845.1 UL55 [Bovine alphaherpesvirus 2]	HSV-1	Bovine alphaherpesvirus 2	UL55	48.54	48.52	DROP	Non-HSV contamination
+AAK63844.1	AAK63844.1 UL4 nuclear protein [Bovine alphaherpesvirus 2]	HSV-1	Bovine alphaherpesvirus 2	UL4	46.96	46.67	DROP	Non-HSV contamination
+AAK63843.1	AAK63843.1 UL3 nuclear phosphoprotein [Bovine alphaherpesvirus 2]	HSV-1	Bovine alphaherpesvirus 2	UL3	75.91	77.37	DROP	Non-HSV contamination
+AAK61420.1	AAK61420.1 virion host shutoff protein [Bovine alphaherpesvirus 2]	HSV-1	Bovine alphaherpesvirus 2	UL41	62.33	63.1	DROP	Non-HSV contamination
+AAK55404.1	AAK55404.1 glycoprotein H [Bovine alphaherpesvirus 2]	HSV-1	Bovine alphaherpesvirus 2	UL22	50.57	49.94	DROP	Non-HSV contamination
+AAK54756.1	AAK54756.1 helicase/primase complex associated protein [Bovine alphaherpesvirus 2]	HSV-1	Bovine alphaherpesvirus 2	UL36	49.64	64.29	DROP	Non-HSV contamination
+AAK18746.1	AAK18746.1 integral membrane protein UL20 [Bovine alphaherpesvirus 2]	HSV-1	Bovine alphaherpesvirus 2	UL20	58.11	58.85	DROP	Non-HSV contamination
+CAB01603.1	CAB01603.1 UL23 [bovine alphaherpesvirus 1]	HSV-1	bovine alphaherpesvirus 1	UL23	48.48	53.54	DROP	Non-HSV contamination
+CAB01601.1	CAB01601.1 UL25 [bovine alphaherpesvirus 1]	HSV-1	bovine alphaherpesvirus 1	UL25	55.87	55.17	DROP	Non-HSV contamination
+6M6G	pdb|6M6G|P Chain P, Coiled coils	HSV-2	Unspecified	NON_HSV	0.0	0.0	DROP	Non-HSV contamination
+6M6G	pdb|6M6G|L Chain L, coiled coils	HSV-2	Unspecified	NON_HSV	0.0	0.0	DROP	Non-HSV contamination
+6M6I	pdb|6M6I|H Chain H, Coiled coils chain 2	HSV-2	Unspecified	NON_HSV	0.0	0.0	DROP	Non-HSV contamination
+6M6I	pdb|6M6I|G Chain G, Coiled coils chain 1	HSV-2	Unspecified	NON_HSV	0.0	0.0	DROP	Non-HSV contamination
+BCD33915.1	BCD33915.1 mCherry [Expression vector precB5R.1]	HSV-2	Expression vector precB5R.1	UL19	100.0	100.0	DROP	Non-HSV contamination
+BCD33914.1	BCD33914.1 xanthine-guanine phosphoribosyltransferase [Expression vector precB5R.1]	HSV-2	Expression vector precB5R.1	UL47	100.0	100.0	DROP	Non-HSV contamination

@@ -1,0 +1,155 @@
+virus	gene_symbol	gene_synonyms	product	protein_id	locus_tag	start	end	strand	copy_number	protein_length_aa	nucleotide_length_nt
+HSV-1	RL1	ICP34.5, neurovirulence factor	neurovirulence protein ICP34.5	YP_009137073.1	HHV1gp00p77	513	1259	+	1	248	747
+HSV-1	RL2	ICP0, IE110, immediate early protein 0	ubiquitin E3 ligase ICP0	YP_009137074.1	HHV1gp00p76	2262	5490	+	1	775	2328
+HSV-1	UL1	gL, glycoprotein L, envelope glycoprotein L	envelope glycoprotein L	YP_009137075.1	HHV1gp00p75	9338	10012	+	1	224	675
+HSV-1	UL2		uracil-DNA glycosylase	YP_009137076.1	HHV1gp00p74	9885	10889	+	1	334	1005
+HSV-1	UL3		nuclear protein UL3	YP_009137077.1	HHV1gp00p73	10991	11665	+	1	224	675
+HSV-1	UL4		nuclear protein UL4	YP_009137078.1	HHV1gp00p71	11824	12423	-	1	199	600
+HSV-1	UL5		helicase-primase helicase subunit	YP_009137079.1	HHV1gp00p72	12484	15132	-	1	882	2649
+HSV-1	UL6		capsid portal protein	YP_009137080.1	HHV1gp00p70	15131	17161	+	1	676	2031
+HSV-1	UL7		tegument protein UL7	YP_009137081.1	HHV1gp00p69	17136	18026	+	1	296	891
+HSV-1	UL8		helicase-primase subunit	YP_009137082.1	HHV1gp00p67	18225	20477	-	1	750	2253
+HSV-1	UL9		DNA replication origin-binding helicase	YP_009137083.1	HHV1gp00p68	20705	23260	-	1	851	2556
+HSV-1	UL10	gM, glycoprotein M, envelope glycoprotein M	envelope glycoprotein M	YP_009137084.1	HHV1gp00p66	23205	24626	+	1	473	1422
+HSV-1	UL11		myristylated tegument protein	YP_009137085.1	HHV1gp00p62	24802	25092	-	1	96	291
+HSV-1	UL12		deoxyribonuclease	YP_009137086.1	HHV1gp00p63	25008	26888	-	1	626	1881
+HSV-1	UL13		tegument serine/threonine protein kinase	YP_009137087.1	HHV1gp00p64	26947	28503	-	1	518	1557
+HSV-1	UL14		tegument protein UL14	YP_009137088.1	HHV1gp00p65	28257	28916	-	1	219	660
+HSV-1	UL15		DNA packaging terminase subunit 1	YP_009137089.1	HHV1gp00p61	29021	34814	+	1	735	2208
+HSV-1	UL16		tegument protein UL16	YP_009137090.1	HHV1gp00p59	30175	31296	-	1	373	1122
+HSV-1	UL17		DNA packaging tegument protein UL17	YP_009137091.1	HHV1gp00p60	31387	33498	-	1	703	2112
+HSV-1	UL18		capsid triplex subunit 2	YP_009137092.1	HHV1gp00p58	35096	36052	-	1	318	957
+HSV-1	UL19		major capsid protein	YP_009137093.1	HHV1gp00p56	36405	40529	-	1	1374	4125
+HSV-1	UL20		envelope protein UL20	YP_009137094.1	HHV1gp00p57	40821	41489	-	1	222	669
+HSV-1	UL21		tegument protein UL21	YP_009137095.1	HHV1gp00p55	42075	43682	+	1	535	1608
+HSV-1	UL22	gH, glycoprotein H, envelope glycoprotein H	envelope glycoprotein H	YP_009137096.1	HHV1gp00p54	43867	46383	-	1	838	2517
+HSV-1	UL23	TK, thymidine kinase	involved in nucleotide metabolism	YP_009137097.1	HHV1gp00p53	46673	47803	-	1	376	1131
+HSV-1	UL24		nuclear protein UL24	YP_009137098.1	HHV1gp00p52	47738	48547	+	1	269	810
+HSV-1	UL25		DNA packaging tegument protein UL25	YP_009137099.1	HHV1gp00p51	48814	50556	+	1	580	1743
+HSV-1	UL26		capsid maturation protease	YP_009137100.1	HHV1gp00p50	50810	52717	+	1	635	1908
+HSV-1	UL26.5		capsid scaffold protein	YP_009137101.1	HHV1gp00p49	51728	52717	+	1	329	990
+HSV-1	UL27	gB, glycoprotein B, envelope glycoprotein B	envelope glycoprotein B	YP_009137102.1	HHV1gp00p48	53081	55795	-	1	904	2715
+HSV-1	UL28		DNA packaging terminase subunit 2	YP_009137103.1	HHV1gp00p47	55803	58160	-	1	785	2358
+HSV-1	UL29		single-stranded DNA-binding protein	YP_009137104.1	HHV1gp00p46	58464	62054	-	1	1196	3591
+HSV-1	UL30	pol, DNA polymerase catalytic subunit	DNA polymerase catalytic subunit	YP_009137105.1	HHV1gp00p45	62807	66514	+	1	1235	3708
+HSV-1	UL31		nuclear egress lamina protein	YP_009137106.1	HHV1gp00p43	66459	67379	-	1	306	921
+HSV-1	UL32		DNA packaging protein UL32	YP_009137107.1	HHV1gp00p44	67372	69162	-	1	596	1791
+HSV-1	UL33		DNA packaging protein UL33	YP_009137108.1	HHV1gp00p42	69161	69553	+	1	130	393
+HSV-1	UL34		nuclear egress membrane protein	YP_009137109.1	HHV1gp00p41	69633	70460	+	1	275	828
+HSV-1	UL35		small capsid protein	YP_009137110.1	HHV1gp00p40	70566	70904	+	1	112	339
+HSV-1	UL36		large tegument protein	YP_009137111.1	HHV1gp00p39	71049	80468	-	1	3139	9420
+HSV-1	UL37		tegument protein UL37	YP_009137112.1	HHV1gp00p38	80713	84084	-	1	1123	3372
+HSV-1	UL38		capsid triplex subunit 1	YP_009137113.1	HHV1gp00p37	84531	85928	+	1	465	1398
+HSV-1	UL39	RR1, ribonucleotide reductase large subunit	ribonucleotide reductase subunit 1	YP_009137114.1	HHV1gp00p36	86443	89856	+	1	1137	3414
+HSV-1	UL40	RR2, ribonucleotide reductase small subunit	ribonucleotide reductase subunit 2	YP_009137115.1	HHV1gp00p35	89925	90947	+	1	340	1023
+HSV-1	UL41		tegument host shutoff protein	YP_009137116.1	HHV1gp00p34	91167	92636	-	1	489	1470
+HSV-1	UL42	DNA polymerase processivity subunit	DNA polymerase processivity subunit	YP_009137117.1	HHV1gp00p33	93112	94578	+	1	488	1467
+HSV-1	UL43		envelope protein UL43	YP_009137118.1	HHV1gp00p32	94799	96052	+	1	417	1254
+HSV-1	UL44	gC, glycoprotein C, envelope glycoprotein C	envelope glycoprotein C	YP_009137119.1	HHV1gp00p31	96312	97847	+	1	511	1536
+HSV-1	UL45		membrane protein UL45	YP_009137120.1	HHV1gp00p30	98033	98551	+	1	172	519
+HSV-1	UL46	VP11/12	tegument protein VP11/12	YP_009137121.1	HHV1gp00p29	98797	100953	-	1	718	2157
+HSV-1	UL47	VP13/14	tegument protein VP13/14	YP_009137122.1	HHV1gp00p28	101036	103117	-	1	693	2082
+HSV-1	UL48	VP16, alpha-TIF, Vmw65	transactivating tegument protein VP16	YP_009137123.1	HHV1gp00p27	103608	105080	-	1	490	1473
+HSV-1	UL49	VP22	tegument protein VP22	YP_009137124.1	HHV1gp00p25	105487	106392	-	1	301	906
+HSV-1	UL49A	gN, glycoprotein N, UL49.5	envelope glycoprotein N	YP_009137125.1	HHV1gp00p26	106719	106994	-	1	91	276
+HSV-1	UL50		deoxyuridine triphosphatase	YP_009137126.1	HHV1gp00p24	107011	108126	+	1	371	1116
+HSV-1	UL51		tegument protein UL51	YP_009137127.1	HHV1gp00p23	108278	109012	-	1	244	735
+HSV-1	UL52		helicase-primase primase subunit	YP_009137128.1	HHV1gp00p22	109049	112225	+	1	1058	3177
+HSV-1	UL53	gK, glycoprotein K, envelope glycoprotein K	envelope glycoprotein K	YP_009137129.1	HHV1gp00p21	112180	113196	+	1	338	1017
+HSV-1	UL54	ICP27, IE63	multifunctional expression regulator	YP_009137130.1	HHV1gp00p20	113735	115273	+	1	512	1539
+HSV-1	UL55		nuclear protein UL55	YP_009137131.1	HHV1gp00p19	115497	116057	+	1	186	561
+HSV-1	UL56		membrane protein UL56	YP_009137132.1	HHV1gp00p18	116222	116926	-	1	234	705
+HSV-1	RL2	ICP0, IE110, immediate early protein 0	contains a RING finger; disrupts ND10; proteasome-dependent degradation of several cellular proteins; involved in gene regulation; involved in cellular protein degradation; involved in latency	YP_009137133.1	HHV1gp00p17	120884	124112	-	2	775	2328
+HSV-1	RL1	ICP34.5, neurovirulence factor	neurovirulence protein ICP34.5	YP_009137134.1	HHV1gp00p16	125115	125861	-	2	248	747
+HSV-1	RS1	ICP4, IE175, transcriptional regulator	transcriptional regulator ICP4	YP_009137135.1	HHV1gp00p15	127235	131131	-	1	1298	3897
+HSV-1	US1	ICP22, IE68	regulatory protein ICP22	YP_009137136.1	HHV1gp00p14	132647	133909	+	1	420	1263
+HSV-1	US2		virion protein US2	YP_009137137.1	HHV1gp00p13	134056	134931	-	1	291	876
+HSV-1	US3	serine/threonine kinase US3	serine/threonine protein kinase US3	YP_009137138.1	HHV1gp00p12	135225	136670	+	1	481	1446
+HSV-1	US4	gG, glycoprotein G, envelope glycoprotein G	envelope glycoprotein G	YP_009137139.1	HHV1gp00p11	136747	137463	+	1	238	717
+HSV-1	US5		envelope glycoprotein J	YP_009137140.1	HHV1gp00p10	137734	138012	+	1	92	279
+HSV-1	US6	gD, glycoprotein D, envelope glycoprotein D	envelope glycoprotein D	YP_009137141.1	HHV1gp00p09	138423	139607	+	1	394	1185
+HSV-1	US7	gI, glycoprotein I, envelope glycoprotein I	envelope glycoprotein I	YP_009137142.1	HHV1gp00p08	139789	140961	+	1	390	1173
+HSV-1	US8	gE, glycoprotein E, envelope glycoprotein E	envelope glycoprotein E	YP_009137143.1	HHV1gp00p07	141247	142899	+	1	550	1653
+HSV-1	US8A		membrane protein US8A	YP_009137144.1	HHV1gp00p06	142748	143227	+	1	159	480
+HSV-1	US9		membrane protein US9	YP_009137145.1	HHV1gp00p05	143317	143589	+	1	90	273
+HSV-1	US10		virion protein US10	YP_009137146.1	HHV1gp00p02	144162	145100	-	1	312	939
+HSV-1	US11		tegument protein US11	YP_009137147.1	HHV1gp00p03	144766	145251	-	1	161	486
+HSV-1	US12	ICP47, TAP inhibitor	TAP transporter inhibitor ICP47	YP_009137148.1	HHV1gp00p04	145316	145582	-	1	88	267
+HSV-1	RS1	ICP4, IE175, transcriptional regulator	transcriptional regulator ICP4	YP_009137149.1	HHV1gp00p01	147066	150962	+	2	1298	3897
+HSV-2	RL1	ICP34.5, neurovirulence factor	neurovirulence protein ICP34.5	YP_009137150.1	HHV2p77	440	1379	+	1	261	786
+HSV-2	RL2	ICP0, IE110, immediate early protein 0	ubiquitin E3 ligase ICP0	YP_009137151.1	HHV2p76	2303	5395	+	1	834	2505
+HSV-2	UL1	gL, glycoprotein L, envelope glycoprotein L	envelope glycoprotein L	YP_009137152.1	HHV2p75	9463	10137	+	1	224	675
+HSV-2	UL2		uracil-DNA glycosylase	YP_009137153.1	HHV2p74	10010	11014	+	1	334	1005
+HSV-2	UL3		nuclear protein UL3	YP_009137154.1	HHV2p73	11102	11770	+	1	222	669
+HSV-2	UL4		nuclear protein UL4	YP_009137155.1	HHV2p71	11970	12575	-	1	201	606
+HSV-2	UL5		helicase-primase helicase subunit	YP_009137156.1	HHV2p72	12642	15287	-	1	881	2646
+HSV-2	UL6		capsid portal protein	YP_009137157.1	HHV2p70	15286	17322	+	1	678	2037
+HSV-2	UL7		tegument protein UL7	YP_009137158.1	HHV2p69	17297	18187	+	1	296	891
+HSV-2	UL8		helicase-primase subunit	YP_009137159.1	HHV2p67	18445	20703	-	1	752	2259
+HSV-2	UL9		DNA replication origin-binding helicase	YP_009137160.1	HHV2p68	20753	23368	-	1	871	2616
+HSV-2	UL10	gM, glycoprotein M, envelope glycoprotein M	envelope glycoprotein M	YP_009137161.1	HHV2p66	23247	24650	+	1	467	1404
+HSV-2	UL11		myristylated tegument protein	YP_009137162.1	HHV2p62	24848	25138	-	1	96	291
+HSV-2	UL12		deoxyribonuclease	YP_009137163.1	HHV2p63	25054	26916	-	1	620	1863
+HSV-2	UL13		tegument serine/threonine protein kinase	YP_009137164.1	HHV2p64	26957	28513	-	1	518	1557
+HSV-2	UL14		tegument protein UL14	YP_009137165.1	HHV2p65	28267	28926	-	1	219	660
+HSV-2	UL15		DNA packaging terminase subunit 1	YP_009137166.1	HHV2p61	29007	34810	+	1	734	2205
+HSV-2	UL16		tegument protein UL16	YP_009137167.1	HHV2p59	30181	31299	-	1	372	1119
+HSV-2	UL17		DNA packaging tegument protein UL17	YP_009137168.1	HHV2p60	31401	33509	-	1	702	2109
+HSV-2	UL18		capsid triplex subunit 2	YP_009137169.1	HHV2p58	35153	36109	-	1	318	957
+HSV-2	UL19		major capsid protein	YP_009137170.1	HHV2p56	36486	40610	-	1	1374	4125
+HSV-2	UL20		envelope protein UL20	YP_009137171.1	HHV2p57	40922	41590	-	1	222	669
+HSV-2	UL21		tegument protein UL21	YP_009137172.1	HHV2p55	42239	43837	+	1	532	1599
+HSV-2	UL22	gH, glycoprotein H, envelope glycoprotein H	envelope glycoprotein H	YP_009137173.1	HHV2p54	44054	46570	-	1	838	2517
+HSV-2	UL23	TK, thymidine kinase	thymidine kinase	YP_009137174.1	HHV2p53	46909	48039	-	1	376	1131
+HSV-2	UL24		nuclear protein UL24	YP_009137175.1	HHV2p52	47941	48786	+	1	281	846
+HSV-2	UL25		DNA packaging tegument protein UL25	YP_009137176.1	HHV2p51	49074	50831	+	1	585	1758
+HSV-2	UL26		capsid maturation protease	YP_009137177.1	HHV2p50	51065	52978	+	1	637	1914
+HSV-2	UL26.5		capsid scaffold protein	YP_009137178.1	HHV2p49	51989	52978	+	1	329	990
+HSV-2	UL27	gB, glycoprotein B, envelope glycoprotein B	envelope glycoprotein B	YP_009137179.1	HHV2p48	53438	56152	-	1	904	2715
+HSV-2	UL28		DNA packaging terminase subunit 2	YP_009137180.1	HHV2p47	56160	58517	-	1	785	2358
+HSV-2	UL29		single-stranded DNA-binding protein	YP_009137181.1	HHV2p46	58892	62482	-	1	1196	3591
+HSV-2	UL30	pol, DNA polymerase catalytic subunit	DNA polymerase catalytic subunit	YP_009137182.1	HHV2p45	63300	67022	+	1	1240	3723
+HSV-2	UL31		nuclear egress lamina protein	YP_009137183.1	HHV2p43	66967	67884	-	1	305	918
+HSV-2	UL32		DNA packaging protein UL32	YP_009137184.1	HHV2p44	67877	69673	-	1	598	1797
+HSV-2	UL33		DNA packaging protein UL33	YP_009137185.1	HHV2p42	69672	70064	+	1	130	393
+HSV-2	UL34		nuclear egress membrane protein	YP_009137186.1	HHV2p41	70154	70984	+	1	276	831
+HSV-2	UL35		small capsid protein	YP_009137187.1	HHV2p40	71096	71434	+	1	112	339
+HSV-2	UL36		large tegument protein	YP_009137188.1	HHV2p39	71601	80969	-	1	3122	9369
+HSV-2	UL37		tegument protein UL37	YP_009137189.1	HHV2p38	81270	84614	-	1	1114	3345
+HSV-2	UL38		capsid triplex subunit 1	YP_009137190.1	HHV2p37	85097	86497	+	1	466	1401
+HSV-2	UL39	RR1, ribonucleotide reductase large subunit	ribonucleotide reductase subunit 1	YP_009137191.1	HHV2p36	87060	90488	+	1	1142	3429
+HSV-2	UL40	RR2, ribonucleotide reductase small subunit	ribonucleotide reductase subunit 2	YP_009137192.1	HHV2p35	90541	91554	+	1	337	1014
+HSV-2	UL41		tegument host shutoff protein	YP_009137193.1	HHV2p34	91833	93311	-	1	492	1479
+HSV-2	UL42	DNA polymerase processivity subunit	DNA polymerase processivity subunit	YP_009137194.1	HHV2p33	93805	95217	+	1	470	1413
+HSV-2	UL43		envelope protein UL43	YP_009137195.1	HHV2p32	95469	96713	+	1	414	1245
+HSV-2	UL44	gC, glycoprotein C, envelope glycoprotein C	envelope glycoprotein C	YP_009137196.1	HHV2p31	97015	98457	+	1	480	1443
+HSV-2	UL45		membrane protein UL45	YP_009137197.1	HHV2p30	98687	99205	+	1	172	519
+HSV-2	UL46	VP11/12	tegument protein VP11/12	YP_009137198.1	HHV2p29	99466	101634	-	1	722	2169
+HSV-2	UL47	VP13/14	tegument protein VP13/14	YP_009137199.1	HHV2p28	101719	103809	-	1	696	2091
+HSV-2	UL48	VP16, alpha-TIF, Vmw65	transactivating tegument protein VP16	YP_009137200.1	HHV2p27	104330	105802	-	1	490	1473
+HSV-2	UL49	VP22	tegument protein VP22	YP_009137201.1	HHV2p25	106283	107185	-	1	300	903
+HSV-2	UL49A	gN, glycoprotein N, UL49.5	envelope glycoprotein N	YP_009137202.1	HHV2p26	107524	107787	-	1	87	264
+HSV-2	UL50		deoxyuridine triphosphatase	YP_009137203.1	HHV2p24	107795	108904	+	1	369	1110
+HSV-2	UL51		tegument protein UL51	YP_009137204.1	HHV2p23	109108	109842	-	1	244	735
+HSV-2	UL52		helicase-primase primase subunit	YP_009137205.1	HHV2p22	109910	113110	+	1	1066	3201
+HSV-2	UL53	gK, glycoprotein K, envelope glycoprotein K	envelope glycoprotein K	YP_009137206.1	HHV2p21	113062	114078	+	1	338	1017
+HSV-2	UL54	ICP27, IE63	multifunctional expression regulator	YP_009137207.1	HHV2p20	114624	116162	+	1	512	1539
+HSV-2	UL55		nuclear protein UL55	YP_009137208.1	HHV2p19	116377	116937	+	1	186	561
+HSV-2	UL56		membrane protein UL56	YP_009137209.1	HHV2p18	117110	117817	-	1	235	708
+HSV-2	RL2	ICP0, IE110, immediate early protein 0	ubiquitin E3 ligase ICP0	YP_009137210.1	HHV2p17	121926	125018	-	2	833	2502
+HSV-2	RL1	ICP34.5, neurovirulence factor	neurovirulence protein ICP34.5	YP_009137211.1	HHV2p16	125942	126881	-	2	261	786
+HSV-2	RS1	ICP4, IE175, transcriptional regulator	transcriptional regulator ICP4	YP_009137212.1	HHV2p15	128146	132102	-	1	1318	3957
+HSV-2	US1	ICP22, IE68	regulatory protein ICP22	YP_009137213.1	HHV2p14	133741	134985	+	1	414	1245
+HSV-2	US2		virion protein US2	YP_009137214.1	HHV2p13	135168	136043	-	1	291	876
+HSV-2	US3	serine/threonine kinase US3	serine/threonine protein kinase US3	YP_009137215.1	HHV2p12	136329	137774	+	1	481	1446
+HSV-2	US4	gG, glycoprotein G, envelope glycoprotein G	envelope glycoprotein G	YP_009137216.1	HHV2p11	137882	139981	+	1	699	2100
+HSV-2	US5		envelope glycoprotein J	YP_009137217.1	HHV2p10	140291	140569	+	1	92	279
+HSV-2	US6	gD, glycoprotein D, envelope glycoprotein D	envelope glycoprotein D	YP_009137218.1	HHV2p09	141016	142197	+	1	393	1182
+HSV-2	US7	gI, glycoprotein I, envelope glycoprotein I	envelope glycoprotein I	YP_009137219.1	HHV2p08	142399	143517	+	1	372	1119
+HSV-2	US8	gE, glycoprotein E, envelope glycoprotein E	envelope glycoprotein E	YP_009137220.1	HHV2p07	143840	145477	+	1	545	1638
+HSV-2	US8A		membrane protein US8A	YP_009137221.1	HHV2p06	145326	145766	+	1	146	441
+HSV-2	US9		membrane protein US9	YP_009137222.1	HHV2p05	145866	146135	+	1	89	270
+HSV-2	US12	ICP47, TAP inhibitor	virion protein US10	YP_009137223.1	HHV2p04	146623	147531	-	1	302	909
+HSV-2	US11		tegument protein US11	YP_009137224.1	HHV2p03	147242	147697	-	1	151	456
+HSV-2	US10		TAP transporter inhibitor ICP47	YP_009137225.1	HHV2p02	147773	148033	-	1	86	261
+HSV-2	RS1	ICP4, IE175, transcriptional regulator	transcriptional regulator ICP4	YP_009137226.1	HHV2p01	149640	153596	+	2	1318	3957

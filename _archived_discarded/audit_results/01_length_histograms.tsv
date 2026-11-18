@@ -1,0 +1,23 @@
+Virus_Type	Length_Bin	Sequence_Count	Fraction_Pct
+HSV-1	1-50 (micro-frag)	265	2.18
+HSV-1	51-150 (frag)	1260	10.35
+HSV-1	151-300 (small)	2114	17.37
+HSV-1	301-400 (medium-small)	2304	18.93
+HSV-1	401-500 (medium)	1142	9.38
+HSV-1	501-700 (medium-large)	1583	13.01
+HSV-1	701-900 (large)	1424	11.7
+HSV-1	901-1200 (very large)	843	6.93
+HSV-1	1201-1500 (extra large)	870	7.15
+HSV-1	1501-3500 (giant/UL36)	365	3.0
+HSV-1	>3500 (chimeric/outlier)	0	0.0
+HSV-2	1-50 (micro-frag)	223	2.12
+HSV-2	51-150 (frag)	1196	11.35
+HSV-2	151-300 (small)	1608	15.26
+HSV-2	301-400 (medium-small)	1670	15.84
+HSV-2	401-500 (medium)	1116	10.59
+HSV-2	501-700 (medium-large)	1612	15.29
+HSV-2	701-900 (large)	1204	11.42
+HSV-2	901-1200 (very large)	997	9.46
+HSV-2	1201-1500 (extra large)	602	5.71
+HSV-2	1501-3500 (giant/UL36)	308	2.92
+HSV-2	>3500 (chimeric/outlier)	4	0.04

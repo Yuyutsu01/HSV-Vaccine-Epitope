@@ -1,0 +1,24 @@
+# Binary executables
+hsv_curated_dataset/bin/*.exe
+*.exe
+
+# Ephemeral HyPhy pipeline scratch files and cache dumps
+hsv_curated_dataset/07_qc_reports/hyphy/_tmp/
+*.cache
+
+# Python bytecode and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# OS and Editor metadata
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/

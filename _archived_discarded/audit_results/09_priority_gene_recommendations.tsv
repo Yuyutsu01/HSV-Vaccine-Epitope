@@ -1,0 +1,21 @@
+Priority_Gene	Canonical_Symbol	Category	Recommendation_Class	Actionable_Cleaning_Notes
+gD/US6	US6	Glycoprotein	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 90 flagged fragments and lab strains
+gB/UL27	UL27	Glycoprotein	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 182 flagged fragments and lab strains
+gC/UL44	UL44	Glycoprotein	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 108 flagged fragments and lab strains
+gG/US4	US4	Glycoprotein	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 285 flagged fragments and lab strains
+gH/UL22	UL22	Glycoprotein	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 94 flagged fragments and lab strains
+gL/UL1	UL1	Glycoprotein	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 54 flagged fragments and lab strains
+gE/US8	US8	Glycoprotein	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 210 flagged fragments and lab strains
+gI/US7	US7	Glycoprotein	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 204 flagged fragments and lab strains
+gK/UL53	UL53	Glycoprotein	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 53 flagged fragments and lab strains
+gM/UL10	UL10	Glycoprotein	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 44 flagged fragments and lab strains
+gN/UL49A	UL49A	Glycoprotein	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 24 flagged fragments and lab strains
+ICP0/RL2	RL2	T-cell target	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 906 flagged fragments and lab strains
+ICP4/RS1	RS1	T-cell target	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 845 flagged fragments and lab strains
+ICP27/UL54	UL54	T-cell target	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 136 flagged fragments and lab strains
+VP16/UL48	UL48	T-cell target	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 52 flagged fragments and lab strains
+UL46/VP11-12	UL46	T-cell target	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 126 flagged fragments and lab strains
+UL47/VP13-14	UL47	T-cell target	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 97 flagged fragments and lab strains
+UL49/VP22	UL49	T-cell target	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 121 flagged fragments and lab strains
+UL23/TK	UL23	Drug target	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 294 flagged fragments and lab strains
+UL30/polymerase	UL30	Drug target	(a) Sufficient for protein-level use (epitope cross-checking) — proceed with KEEP subset	Filter out 238 flagged fragments and lab strains

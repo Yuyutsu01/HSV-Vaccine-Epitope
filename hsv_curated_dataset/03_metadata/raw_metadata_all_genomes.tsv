@@ -1,0 +1,1306 @@
+accession	virus_type	title	genome_length	taxid	create_date	update_date	subtype	subname
+PZ347688	HSV-1	Human alphaherpesvirus 1 isolate HSV1-1981-H186, partial genome	152203	10298	2026/07/21	2026/07/21		
+PZ169720	HSV-1	Human alphaherpesvirus 1 strain Z_d40_skin, partial genome	149745	10298	2026/06/17	2026/06/17		
+PZ169719	HSV-1	Human alphaherpesvirus 1 strain Z_d40_skin_culture, complete genome	150670	10298	2026/06/17	2026/06/17		
+PZ169718	HSV-1	Human alphaherpesvirus 1 strain Z_d39_plasma, partial genome	151240	10298	2026/06/17	2026/06/17		
+PZ169717	HSV-1	Human alphaherpesvirus 1 strain Z_d10_skin, complete genome	150427	10298	2026/06/17	2026/06/17		
+PZ169716	HSV-1	Human alphaherpesvirus 1 strain Z_d10_culture, complete genome	150594	10298	2026/06/17	2026/06/17		
+PZ169715	HSV-1	Human alphaherpesvirus 1 strain Z_d10_plasma, partial genome	150232	10298	2026/06/17	2026/06/17		
+PZ169714	HSV-1	Human alphaherpesvirus 1 strain Z_d9_eye, partial genome	149583	10298	2026/06/17	2026/06/17		
+PZ169713	HSV-1	Human alphaherpesvirus 1 strain Z_d9_eye_culture, complete genome	150753	10298	2026/06/17	2026/06/17		
+PZ169712	HSV-1	Human alphaherpesvirus 1 strain F_d10_plasma, partial genome	150225	10298	2026/06/17	2026/06/17		
+PZ169711	HSV-1	Human alphaherpesvirus 1 strain F_d10_plasma_culture, complete genome	150403	10298	2026/06/17	2026/06/17		
+PZ169710	HSV-1	Human alphaherpesvirus 1 strain D_d12_skin, complete genome	150681	10298	2026/06/17	2026/06/17		
+PZ169709	HSV-1	Human alphaherpesvirus 1 strain D_d12_skin_culture, complete genome	150287	10298	2026/06/17	2026/06/17		
+PZ169708	HSV-1	Human alphaherpesvirus 1 strain D_d12_rectum, partial genome	152605	10298	2026/06/17	2026/06/17		
+PZ169707	HSV-1	Human alphaherpesvirus 1 strain D_d12_eye, partial genome	153908	10298	2026/06/17	2026/06/17		
+PZ169706	HSV-1	Human alphaherpesvirus 1 strain C_d10_plasma, partial genome	150796	10298	2026/06/17	2026/06/17		
+PZ169705	HSV-1	Human alphaherpesvirus 1 strain C_d10_plasma_culture, partial genome	152087	10298	2026/06/17	2026/06/17		
+PZ169704	HSV-1	Human alphaherpesvirus 1 strain C_d10_liver, partial genome	154447	10298	2026/06/17	2026/06/17		
+PZ169703	HSV-1	Human alphaherpesvirus 1 strain C_d10_liver_culture, partial genome	151513	10298	2026/06/17	2026/06/17		
+PZ169702	HSV-1	Human alphaherpesvirus 1 strain C_d10_eye, partial genome	150865	10298	2026/06/17	2026/06/17		
+PZ169701	HSV-1	Human alphaherpesvirus 1 strain E_d25_skin, partial genome	150392	10298	2026/06/17	2026/06/17		
+PZ169700	HSV-1	Human alphaherpesvirus 1 strain E_d12_plasma, partial genome	150229	10298	2026/06/17	2026/06/17		
+PZ169699	HSV-1	Human alphaherpesvirus 1 strain B_d9_rectum, partial genome	150871	10298	2026/06/17	2026/06/17		
+PZ169698	HSV-1	Human alphaherpesvirus 1 strain B_d9_pharynx, complete genome	150642	10298	2026/06/17	2026/06/17		
+PZ169697	HSV-1	Human alphaherpesvirus 1 strain B_d9_eye, partial genome	151166	10298	2026/06/17	2026/06/17		
+PZ169696	HSV-1	Human alphaherpesvirus 1 strain B_d8_plasma, complete genome	151056	10298	2026/06/17	2026/06/17		
+PZ169695	HSV-1	Human alphaherpesvirus 1 strain B_d8_plasma_culture, complete genome	150431	10298	2026/06/17	2026/06/17		
+PZ169694	HSV-1	Human alphaherpesvirus 1 strain W_d15_skin, complete genome	150207	10298	2026/06/17	2026/06/17		
+PZ169693	HSV-1	Human alphaherpesvirus 1 strain W_d15_skin_culture, complete genome	150277	10298	2026/06/17	2026/06/17		
+PZ169692	HSV-1	Human alphaherpesvirus 1 strain W_d15_plasma, partial genome	150673	10298	2026/06/17	2026/06/17		
+PZ169691	HSV-1	Human alphaherpesvirus 1 strain Y_d9_plasma, partial genome	150875	10298	2026/06/17	2026/06/17		
+PZ169690	HSV-1	Human alphaherpesvirus 1 strain Y_d8_skin, complete genome	152426	10298	2026/06/17	2026/06/17		
+PZ169689	HSV-1	Human alphaherpesvirus 1 strain Y_d8_skin_culture, complete genome	150583	10298	2026/06/17	2026/06/17		
+PZ169688	HSV-1	Human alphaherpesvirus 1 strain Y_d8_eye, complete genome	152571	10298	2026/06/17	2026/06/17		
+PZ169687	HSV-1	Human alphaherpesvirus 1 strain X_d8_skin, complete genome	151207	10298	2026/06/17	2026/06/17		
+PZ169686	HSV-1	Human alphaherpesvirus 1 strain X_d8_skin_culture, partial genome	153563	10298	2026/06/17	2026/06/17		
+PZ169685	HSV-1	Human alphaherpesvirus 1 strain X_d8_plasma, partial genome	150254	10298	2026/06/17	2026/06/17		
+PZ169684	HSV-1	Human alphaherpesvirus 1 strain A_d8_CSF, partial genome	150677	10298	2026/06/17	2026/06/17		
+PZ169683	HSV-1	Human alphaherpesvirus 1 strain A_d7_plasma, complete genome	149922	10298	2026/06/17	2026/06/17		
+PZ169682	HSV-1	Human alphaherpesvirus 1 strain A_d7_eye, partial genome	151449	10298	2026/06/17	2026/06/17		
+PZ169681	HSV-1	Human alphaherpesvirus 1 strain A_d7_eye_culture, complete genome	150698	10298	2026/06/17	2026/06/17		
+PZ169680	HSV-1	Human alphaherpesvirus 1 strain A_d6_swab, partial genome	150348	10298	2026/06/17	2026/06/17		
+PZ169679	HSV-1	Human alphaherpesvirus 1 strain A_d6_swab_culture, complete genome	150493	10298	2026/06/17	2026/06/17		
+PZ169678	HSV-1	Human alphaherpesvirus 1 strain A_d6_skin, complete genome	150663	10298	2026/06/17	2026/06/17		
+PZ169677	HSV-1	Human alphaherpesvirus 1 strain A_d6_skin_culture, complete genome	150736	10298	2026/06/17	2026/06/17		
+PV754022	HSV-1	Human alphaherpesvirus 1 isolate HaNa, partial genome	150806	10298	2026/06/01	2026/06/01		
+QS368914	HSV-1	WO 2024071397-A/29: Herpes simplex virus targeted to IL13RA2, and anti-IL13RA2 antibody or antigen-binding fragment thereof	152011	10298	2026/05/16	2026/05/16		
+QS392184	HSV-1	WO 2025187175-A/17: CELL FOR PRODUCING RECOMBINANT HERPES SIMPLEX VIRUS VECTOR, AND METHOD FOR PRODUCING RECOMBINANT HERPES SIMPLEX VIRUS VECTOR	152151	10298	2026/05/16	2026/05/16		
+QQ274048	HSV-1	JP 2024532622-A/857: ENGINEERED ONCOLYTIC HERPESVIRUSES	152476	10298	2026/05/16	2026/05/16		
+QP771544	HSV-1	JP 2025515283-A/2: COMPOSITIONS AND METHODS FOR VIRAL VECTORS	151974	10298	2026/05/16	2026/05/16		
+QP771543	HSV-1	JP 2025515283-A/1: COMPOSITIONS AND METHODS FOR VIRAL VECTORS	151135	10298	2026/05/16	2026/05/16		
+PX911520	HSV-1	UNVERIFIED: Mutant Human alphaherpesvirus 1 clone HSV-1 IL2-Mut, complete sequence	150396	10298	2026/05/06	2026/05/06		
+PX911519	HSV-1	UNVERIFIED: Mutant Human alphaherpesvirus 1 clone HSV-1 IL2, complete sequence	150422	10298	2026/05/06	2026/05/06		
+PX969520	HSV-1	Mutant Human alphaherpesvirus 1 clone McKrae-dsncRNA2, complete genome	152247	10298	2026/03/30	2026/04/03		
+PX712187	HSV-1	Human alphaherpesvirus 1 isolate HSV-1/Spain/ADA41/2023, partial genome	151735	10298	2026/04/02	2026/04/02		
+PX837190	HSV-1	Mutant Human alphaherpesvirus 1 clone GFP-McKrae_v27-29, complete sequence	153679	10298	2026/03/20	2026/03/20		
+PX763612	HSV-1	Mutant Human alphaherpesvirus 1 clone GFP-McKrae_v27, complete genome	153693	10298	2026/03/18	2026/03/19		
+OZ349004	HSV-1	Human alphaherpesvirus 1 isolate 139 genome assembly, complete genome: monopartite	151741	10298	2025/10/31	2025/11/01		
+OZ348992	HSV-1	Human alphaherpesvirus 1 isolate 136 genome assembly, complete genome: monopartite	152154	10298	2025/10/31	2025/11/01		
+OZ348988	HSV-1	Human alphaherpesvirus 1 isolate 140 genome assembly, complete genome: monopartite	151781	10298	2025/10/31	2025/11/01		
+OZ348811	HSV-1	Human alphaherpesvirus 1 isolate 138 genome assembly, complete genome: monopartite	151644	10298	2025/10/31	2025/11/01		
+OZ348666	HSV-1	Human alphaherpesvirus 1 isolate 137 genome assembly, complete genome: monopartite	152155	10298	2025/10/31	2025/11/01		
+PV146402	HSV-1	Human alphaherpesvirus 1 strain SJZ196/2019, complete genome	150552	10298	2025/08/31	2025/08/31		
+PV146403	HSV-1	Human alphaherpesvirus 1 strain GZ291/2015, complete genome	150609	10298	2025/08/25	2025/08/25		
+PP379034	HSV-1	Human alphaherpesvirus 1 isolate HSV1-Namibia-2016-oral309combined, partial genome	148798	10298	2025/03/08	2025/03/08		
+PP379033	HSV-1	Human alphaherpesvirus 1 isolate HSV1-Namibia-2015-oral055, partial genome	153976	10298	2025/03/08	2025/03/08		
+PP379032	HSV-1	Human alphaherpesvirus 1 isolate HSV1-Namibia-2015-oral050, partial genome	150321	10298	2025/03/08	2025/03/08		
+PP379031	HSV-1	Human alphaherpesvirus 1 isolate HSV1-Namibia-2015-oral038, partial genome	151629	10298	2025/03/08	2025/03/08		
+PQ569920	HSV-1	Human alphaherpesvirus 1 isolate MacIntyre, complete genome	151817	10298	2024/12/16	2024/12/17		
+OP431913	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v55_d381_gen genomic sequence	150593	10298	2024/10/04	2024/10/04		
+OP431912	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain v59_d119_gen_les genomic sequence	136366	10298	2024/10/04	2024/10/04		
+OP431911	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v51_d189_gen_les genomic sequence	150410	10298	2024/10/04	2024/10/04		
+OP431907	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v64_d94_gen genomic sequence	135585	10298	2024/10/04	2024/10/04		
+OP431900	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v64_d73_gen genomic sequence	151024	10298	2024/10/04	2024/10/04		
+OP431898	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v54_d352_gen_les genomic sequence	150841	10298	2024/10/04	2024/10/04		
+OP431896	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v54_d363_gen_les genomic sequence	150672	10298	2024/10/04	2024/10/04		
+OP431893	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v54_d74_gen genomic sequence	150282	10298	2024/10/04	2024/10/04		
+OP431892	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v54_d74_gen_les genomic sequence	150786	10298	2024/10/04	2024/10/04		
+OP431888	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v54_d67_gen_les genomic sequence	150799	10298	2024/10/04	2024/10/04		
+OP431887	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v51_d2_gen_les genomic sequence	150377	10298	2024/10/04	2024/10/04		
+OP431885	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v55_d383_gen genomic sequence	150682	10298	2024/10/04	2024/10/04		
+OP431878	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v55_d382_gen genomic sequence	150488	10298	2024/10/04	2024/10/04		
+OP431873	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v54_d353_gen_les genomic sequence	150026	10298	2024/10/04	2024/10/04		
+OP431871	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v54_d363_gen genomic sequence	151172	10298	2024/10/04	2024/10/04		
+OP431876	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain HSV1-v54_d352_gen genomic sequence	150163	10298	2024/10/04	2024/10/04		
+OP431910	HSV-1	Human alphaherpesvirus 1 strain HSV1-v59_d83_gen_les, partial genome	151246	10298	2024/10/03	2024/10/03		
+OP431909	HSV-1	Human alphaherpesvirus 1 strain HSV1-v62_d3_gen_les, partial genome	149590	10298	2024/10/03	2024/10/03		
+OP431908	HSV-1	Human alphaherpesvirus 1 strain HSV1-v53_d85_gen, partial genome	148658	10298	2024/10/03	2024/10/03		
+OP431906	HSV-1	Human alphaherpesvirus 1 strain HSV1-v57_d3_gen_les, partial genome	150210	10298	2024/10/03	2024/10/03		
+OP431905	HSV-1	Human alphaherpesvirus 1 strain HSV1-v60_d349_oral, partial genome	150405	10298	2024/10/03	2024/10/03		
+OP431904	HSV-1	Human alphaherpesvirus 1 strain HSV1-v59_d120_gen_les, partial genome	151865	10298	2024/10/03	2024/10/03		
+OP431903	HSV-1	Human alphaherpesvirus 1 strain HSV1-v63_d284_oral, partial genome	150632	10298	2024/10/03	2024/10/03		
+OP431902	HSV-1	Human alphaherpesvirus 1 strain HSV1-v53_d3_gen_les, partial genome	149153	10298	2024/10/03	2024/10/03		
+OP431901	HSV-1	Human alphaherpesvirus 1 strain HSV1-v66_d6_gen, partial genome	150746	10298	2024/10/03	2024/10/03		
+OP431899	HSV-1	Human alphaherpesvirus 1 strain HSV1-v67_d345_gen, partial genome	150633	10298	2024/10/03	2024/10/03		
+OP431897	HSV-1	Human alphaherpesvirus 1 strain HSV1-v56_d6_gen_les, partial genome	137474	10298	2024/10/03	2024/10/03		
+OP431895	HSV-1	Human alphaherpesvirus 1 strain HSV1-v54_d353_gen, partial genome	150466	10298	2024/10/03	2024/10/03		
+OP431894	HSV-1	Human alphaherpesvirus 1 strain HSV1-v50_d142_gen_les, partial genome	150292	10298	2024/10/03	2024/10/03		
+OP431891	HSV-1	Human alphaherpesvirus 1 strain HSV1-v61_d308_gen, partial genome	150545	10298	2024/10/03	2024/10/03		
+OP431890	HSV-1	Human alphaherpesvirus 1 strain HSV1-v63_d84_oral, partial genome	151335	10298	2024/10/03	2024/10/03		
+OP431889	HSV-1	Human alphaherpesvirus 1 strain HSV1-v54_d67_gen, partial genome	151726	10298	2024/10/03	2024/10/03		
+OP431886	HSV-1	Human alphaherpesvirus 1 strain HSV1-v53_d36_gen_les, partial genome	150093	10298	2024/10/03	2024/10/03		
+OP431884	HSV-1	Human alphaherpesvirus 1 strain HSV1-v59_d121_gen_les, partial genome	135693	10298	2024/10/03	2024/10/03		
+OP431883	HSV-1	Human alphaherpesvirus 1 strain HSV1-v61_d2_gen_les, partial genome	150501	10298	2024/10/03	2024/10/03		
+OP431882	HSV-1	Human alphaherpesvirus 1 strain HSV1-v53_d96_oral, partial genome	150103	10298	2024/10/03	2024/10/03		
+OP431881	HSV-1	Human alphaherpesvirus 1 strain HSV1-v55_d384_gen, partial genome	150385	10298	2024/10/03	2024/10/03		
+OP431880	HSV-1	Human alphaherpesvirus 1 strain HSV1-v61_d309_gen, partial genome	150978	10298	2024/10/03	2024/10/03		
+OP431879	HSV-1	Human alphaherpesvirus 1 strain HSV1-v52_d2_gen_les, partial genome	151053	10298	2024/10/03	2024/10/03		
+OP431877	HSV-1	Human alphaherpesvirus 1 strain HSV1-v58_d354_gen, partial genome	150790	10298	2024/10/03	2024/10/03		
+OP431875	HSV-1	Human alphaherpesvirus 1 strain HSV1-v50_d0_gen_les, partial genome	150257	10298	2024/10/03	2024/10/03		
+OP431874	HSV-1	Human alphaherpesvirus 1 strain HSV1-v57_d101_gen_les, partial genome	153208	10298	2024/10/03	2024/10/03		
+OP431872	HSV-1	Human alphaherpesvirus 1 strain HSV1-v65_d323_oral, partial genome	151305	10298	2024/10/03	2024/10/03		
+OP431870	HSV-1	Human alphaherpesvirus 1 strain HSV1-v52_d84_gen_les, partial genome	150185	10298	2024/10/03	2024/10/03		
+OP431869	HSV-1	Human alphaherpesvirus 1 strain HSV1-v54_d169_gen_les, partial genome	152325	10298	2024/10/03	2024/10/03		
+OP431868	HSV-1	Human alphaherpesvirus 1 strain HSV1-v59_d84_gen_les, partial genome	151100	10298	2024/10/03	2024/10/03		
+PP680711	HSV-1	Mutant Human alphaherpesvirus 1 clone recombinant GFP-McKrae genomic sequence	153717	10298	2024/04/22	2024/04/22		
+OQ077661	HSV-1	Mutant Human alphaherpesvirus 1 clone H129-Syn-G2, complete sequence	163585	10298	2023/12/12	2023/12/12		
+OR833071	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2R10/2020	150673	10298	2023/12/06	2023/12/06		
+OR833070	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2R6/2020	151495	10298	2023/12/06	2023/12/06		
+OR833069	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2M3/2020	151763	10298	2023/12/06	2023/12/06		
+OR833068	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2K8/2019	151785	10298	2023/12/06	2023/12/06		
+OR833067	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2K2/2019	150167	10298	2023/12/06	2023/12/06		
+OR833066	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2J8/2019	152039	10298	2023/12/06	2023/12/06		
+OR833065	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2J7/2019	150681	10298	2023/12/06	2023/12/06		
+OR833064	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2F3/2019	151010	10298	2023/12/06	2023/12/06		
+OR833063	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-1C4/2020	150295	10298	2023/12/06	2023/12/06		
+OR833062	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-1C2/2020	151537	10298	2023/12/06	2023/12/06		
+OR771695	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2R8/2020, partial genome	151527	10298	2023/11/18	2023/11/18		
+OR771694	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2R7/2020, partial genome	152087	10298	2023/11/18	2023/11/18		
+OR771693	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2R1/2020, partial genome	152324	10298	2023/11/18	2023/11/18		
+OR771692	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2Q9/2020, partial genome	151544	10298	2023/11/18	2023/11/18		
+OR771691	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2Q6/2020, partial genome	151113	10298	2023/11/18	2023/11/18		
+OR771690	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2O7/2020, partial genome	151467	10298	2023/11/18	2023/11/18		
+OR771689	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2O5/2020, partial genome	151666	10298	2023/11/18	2023/11/18		
+OR771688	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2O2/2020, partial genome	151877	10298	2023/11/18	2023/11/18		
+OR771687	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2N3/2020, partial genome	149736	10298	2023/11/18	2023/11/18		
+OR771686	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2N2/2020, partial genome	152171	10298	2023/11/18	2023/11/18		
+OR771685	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2L9/2020, complete genome	151357	10298	2023/11/18	2023/11/18		
+OR771684	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2L3/2019, partial genome	151546	10298	2023/11/18	2023/11/18		
+OR771683	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2L1/2019, partial genome	151960	10298	2023/11/18	2023/11/18		
+OR771682	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2K10/2019, partial genome	151281	10298	2023/11/18	2023/11/18		
+OR771681	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2K5/2019, partial genome	151392	10298	2023/11/18	2023/11/18		
+OR771680	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2K4/2019, partial genome	152036	10298	2023/11/18	2023/11/18		
+OR771679	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2K3/2019, partial genome	152032	10298	2023/11/18	2023/11/18		
+OR771678	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2J3/2019, partial genome	151970	10298	2023/11/18	2023/11/18		
+OR771677	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2I2/2019, partial genome	150750	10298	2023/11/18	2023/11/18		
+OR771676	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2I1/2019, partial genome	151712	10298	2023/11/18	2023/11/18		
+OR771675	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2G3/2019, partial genome	151140	10298	2023/11/18	2023/11/18		
+OR771674	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2E9/2019, partial genome	151625	10298	2023/11/18	2023/11/18		
+OR771673	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-2C7/2019, partial genome	151511	10298	2023/11/18	2023/11/18		
+OR771672	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-1B4/2020, complete genome	150875	10298	2023/11/18	2023/11/18		
+OR771671	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-1B3/2020, partial genome	151158	10298	2023/11/18	2023/11/18		
+OR771670	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-1B2/2020, partial genome	152092	10298	2023/11/18	2023/11/18		
+OR771669	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-1A7/2020, partial genome	150861	10298	2023/11/18	2023/11/18		
+OR771668	HSV-1	Human alphaherpesvirus 1 isolate HSV1/USA/WA-UW-1A6/2020, partial genome	151664	10298	2023/11/18	2023/11/18		
+OR723971	HSV-1	Mutant Human alphaherpesvirus 1 isolate dsncRNA12, complete genome	152106	10298	2023/11/13	2023/11/13		
+MH925774	HSV-1	Human alphaherpesvirus 1 strain HSV-hepatitis7, partial genome	151227	10298	2019/03/06	2023/10/27		
+MH813994	HSV-1	Human alphaherpesvirus 1 strain 2018-6057, partial genome	150708	10298	2019/03/06	2023/10/27		
+MH813993	HSV-1	Human alphaherpesvirus 1 strain 2018-5967, partial genome	151116	10298	2019/03/06	2023/10/27		
+MH813992	HSV-1	Human alphaherpesvirus 1 strain 2018-5965, partial genome	151152	10298	2019/03/06	2023/10/27		
+MH813991	HSV-1	Human alphaherpesvirus 1 strain 2018-6317, partial genome	151803	10298	2019/03/06	2023/10/27		
+MH813990	HSV-1	Human alphaherpesvirus 1 strain 2018-5974, partial genome	150324	10298	2019/03/06	2023/10/27		
+MH813989	HSV-1	Human alphaherpesvirus 1 strain 2018-5966, partial genome	150937	10298	2019/03/06	2023/10/27		
+MH813988	HSV-1	Human alphaherpesvirus 1 strain 2018-5968, partial genome	151195	10298	2019/03/06	2023/10/27		
+MH813987	HSV-1	Human alphaherpesvirus 1 strain 2018-5971, partial genome	151075	10298	2019/03/06	2023/10/27		
+MH813986	HSV-1	Human alphaherpesvirus 1 strain 2018-5969, partial genome	152280	10298	2019/03/06	2023/10/27		
+MH813985	HSV-1	Human alphaherpesvirus 1 strain 2018-5973, partial genome	151061	10298	2019/03/06	2023/10/27		
+MH813984	HSV-1	Human alphaherpesvirus 1 strain 2018-5970, partial genome	151344	10298	2019/03/06	2023/10/27		
+MH813983	HSV-1	Human alphaherpesvirus 1 strain 2018-6056, partial genome	149512	10298	2019/03/06	2023/10/27		
+MH813982	HSV-1	Human alphaherpesvirus 1 strain 2018-5972, partial genome	151364	10298	2019/03/06	2023/10/27		
+MH813981	HSV-1	Human alphaherpesvirus 1 strain 2018-6594, partial genome	151365	10298	2019/03/06	2023/10/27		
+MG999887	HSV-1	Human alphaherpesvirus 1 strain 2006-50683, partial genome	151853	10298	2018/06/26	2023/10/27		
+MG999861	HSV-1	Human alphaherpesvirus 1 strain 1998-7487, partial genome	159355	10298	2018/06/26	2023/10/27		
+MH160391	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-H8, partial genome	152090	10298	2018/06/04	2023/10/27		
+MH160390	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-G6, partial genome	151970	10298	2018/06/04	2023/10/27		
+MH160389	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-G6, partial genome	151592	10298	2018/06/04	2023/10/27		
+MH160388	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-G10, partial genome	152076	10298	2018/06/04	2023/10/27		
+MH160387	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-I7, partial genome	151766	10298	2018/06/04	2023/10/27		
+MH160386	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-G8, partial genome	151895	10298	2018/06/04	2023/10/27		
+MH160385	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-H2, partial genome	152270	10298	2018/06/04	2023/10/27		
+MH160384	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-I5, partial genome	151907	10298	2018/06/04	2023/10/27		
+MH160383	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-G8, partial genome	151411	10298	2018/06/04	2023/10/27		
+MH160382	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-G7, partial genome	151710	10298	2018/06/04	2023/10/27		
+MH160381	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-H4, partial genome	152088	10298	2018/06/04	2023/10/27		
+MH160380	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-I2, partial genome	152106	10298	2018/06/04	2023/10/27		
+MH160378	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-H9, partial genome	151387	10298	2018/06/04	2023/10/27		
+MH160377	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-H2, partial genome	151222	10298	2018/06/04	2023/10/27		
+MH160376	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-H7, partial genome	151660	10298	2018/06/04	2023/10/27		
+MH160375	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-G10, partial genome	151472	10298	2018/06/04	2023/10/27		
+MH160374	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-H4, partial genome	151103	10298	2018/06/04	2023/10/27		
+MH160373	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-H5, partial genome	151263	10298	2018/06/04	2023/10/27		
+MH160372	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-I5, partial genome	151714	10298	2018/06/04	2023/10/27		
+MH160371	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-I6, partial genome	150918	10298	2018/06/04	2023/10/27		
+MH160370	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-I2, partial genome	151342	10298	2018/06/04	2023/10/27		
+MH160369	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-G9, partial genome	152365	10298	2018/06/04	2023/10/27		
+MH160368	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-H9, partial genome	152169	10298	2018/06/04	2023/10/27		
+MH160367	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-H1, partial genome	150678	10298	2018/06/04	2023/10/27		
+MH160366	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-I7, partial genome	151640	10298	2018/06/04	2023/10/27		
+MH160365	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-H3, partial genome	152258	10298	2018/06/04	2023/10/27		
+MH160364	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-H8, partial genome	151933	10298	2018/06/04	2023/10/27		
+MH160363	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-H7, partial genome	151485	10298	2018/06/04	2023/10/27		
+MH160362	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-H1, partial genome	152020	10298	2018/06/04	2023/10/27		
+MH160361	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-G7, partial genome	151911	10298	2018/06/04	2023/10/27		
+MH160360	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-I6, partial genome	152151	10298	2018/06/04	2023/10/27		
+MH160359	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-H3, partial genome	151445	10298	2018/06/04	2023/10/27		
+MH160358	HSV-1	Human alphaherpesvirus 1 strain HSV1-CULTURE-H5, partial genome	152344	10298	2018/06/04	2023/10/27		
+OR405519	HSV-1	Mutant Human alphaherpesvirus 1 clone recombinant UL34(CL13) SUP7, complete genome	157769	10298	2023/09/30	2023/09/30		
+MN401208	HSV-1	Human alphaherpesvirus 1 strain Sammple11_DOCK8, partial genome	152683	10298	2020/02/03	2023/08/23		
+MN401207	HSV-1	Human alphaherpesvirus 1 strain Sample9_DOCK8, partial genome	151600	10298	2020/02/03	2023/08/23		
+MN401206	HSV-1	Human alphaherpesvirus 1 strain Sample8_DOCK8, partial genome	153248	10298	2020/02/03	2023/08/23		
+MN401205	HSV-1	Human alphaherpesvirus 1 strain Sample6_DOCK8, partial genome	151522	10298	2020/02/03	2023/08/23		
+MN401204	HSV-1	Human alphaherpesvirus 1 strain Sample3_DOCK8, partial genome	152200	10298	2020/02/03	2023/08/23		
+MN401203	HSV-1	Human alphaherpesvirus 1 strain Sample2_DOCK8, partial genome	151952	10298	2020/02/03	2023/08/23		
+MN401202	HSV-1	Human alphaherpesvirus 1 strain Sample1_DOCK8, partial genome	151621	10298	2020/02/03	2023/08/23		
+MN401201	HSV-1	Human alphaherpesvirus 1 strain Brother_DOCK8, partial genome	150268	10298	2020/02/03	2023/08/23		
+MG999899	HSV-1	Human alphaherpesvirus 1 strain 2009-29406, partial genome	151398	10298	2018/06/26	2023/08/23		
+MG999898	HSV-1	Human alphaherpesvirus 1 strain 2011-3153, partial genome	151583	10298	2018/06/26	2023/08/23		
+MG999897	HSV-1	Human alphaherpesvirus 1 strain 2011-1026, partial genome	152278	10298	2018/06/26	2023/08/23		
+MG999896	HSV-1	Human alphaherpesvirus 1 strain 2011-17239, partial genome	152272	10298	2018/06/26	2023/08/23		
+MG999895	HSV-1	Human alphaherpesvirus 1 strain 2007-03494_S436_L001, partial genome	151285	10298	2018/06/26	2023/08/23		
+MG999894	HSV-1	Human alphaherpesvirus 1 strain 2014-32338, partial genome	152314	10298	2018/06/26	2023/08/23		
+MG999893	HSV-1	Human alphaherpesvirus 1 strain 2011-12741, partial genome	151926	10298	2018/06/26	2023/08/23		
+MG999892	HSV-1	Human alphaherpesvirus 1 strain 2011-12689, partial genome	151982	10298	2018/06/26	2023/08/23		
+MG999891	HSV-1	Human alphaherpesvirus 1 strain 2015-30637, partial genome	151648	10298	2018/06/26	2023/08/23		
+MG999890	HSV-1	Human alphaherpesvirus 1 strain 2009-39486, partial genome	150763	10298	2018/06/26	2023/08/23		
+MG999889	HSV-1	Human alphaherpesvirus 1 strain 2011-12742, partial genome	152574	10298	2018/06/26	2023/08/23		
+MG999888	HSV-1	Human alphaherpesvirus 1 strain 2010-28641, partial genome	151306	10298	2018/06/26	2023/08/23		
+MG999886	HSV-1	Human alphaherpesvirus 1 strain 2016-1040, partial genome	151811	10298	2018/06/26	2023/08/23		
+MG999885	HSV-1	Human alphaherpesvirus 1 strain 2007-21335, partial genome	151509	10298	2018/06/26	2023/08/23		
+MG999884	HSV-1	Human alphaherpesvirus 1 strain 2006-57683, partial genome	152037	10298	2018/06/26	2023/08/23		
+MG999883	HSV-1	Human alphaherpesvirus 1 strain 2007-12932, partial genome	152309	10298	2018/06/26	2023/08/23		
+MG999882	HSV-1	Human alphaherpesvirus 1 strain 2011-13906, partial genome	151463	10298	2018/06/26	2023/08/23		
+MG999881	HSV-1	Human alphaherpesvirus 1 strain 2007-16123, partial genome	151941	10298	2018/06/26	2023/08/23		
+MG999880	HSV-1	Human alphaherpesvirus 1 strain 2007-16426, partial genome	152064	10298	2018/06/26	2023/08/23		
+MG999879	HSV-1	Human alphaherpesvirus 1 strain 2011-17275, partial genome	152105	10298	2018/06/26	2023/08/23		
+MG999878	HSV-1	Human alphaherpesvirus 1 strain 1998-6343, partial genome	152399	10298	2018/06/26	2023/08/23		
+MG999877	HSV-1	Human alphaherpesvirus 1 strain 2004-63623, partial genome	151478	10298	2018/06/26	2023/08/23		
+MG999876	HSV-1	Human alphaherpesvirus 1 strain 2011-5438, partial genome	152084	10298	2018/06/26	2023/08/23		
+MG999875	HSV-1	Human alphaherpesvirus 1 strain 2009-20371, partial genome	152027	10298	2018/06/26	2023/08/23		
+MG999874	HSV-1	Human alphaherpesvirus 1 strain 29_2011-12691, partial genome	151456	10298	2018/06/26	2023/08/23		
+MG999873	HSV-1	Human alphaherpesvirus 1 strain 28_2010-32106, partial genome	151621	10298	2018/06/26	2023/08/23		
+MG999872	HSV-1	Human alphaherpesvirus 1 strain 2003-15756, partial genome	151906	10298	2018/06/26	2023/08/23		
+MG999871	HSV-1	Human alphaherpesvirus 1 strain 2009-25015, partial genome	152044	10298	2018/06/26	2023/08/23		
+MG999870	HSV-1	Human alphaherpesvirus 1 strain 2010-32082, partial genome	152330	10298	2018/06/26	2023/08/23		
+MG999869	HSV-1	Human alphaherpesvirus 1 strain 2011-5409, partial genome	152300	10298	2018/06/26	2023/08/23		
+MG999868	HSV-1	Human alphaherpesvirus 1 strain 1996-27502, partial genome	151584	10298	2018/06/26	2023/08/23		
+MG999867	HSV-1	Human alphaherpesvirus 1 strain 2011-12719, partial genome	152226	10298	2018/06/26	2023/08/23		
+MG999866	HSV-1	Human alphaherpesvirus 1 strain 2005-589, partial genome	152306	10298	2018/06/26	2023/08/23		
+MG999865	HSV-1	Human alphaherpesvirus 1 strain 2009-25772, partial genome	152056	10298	2018/06/26	2023/08/23		
+MG999864	HSV-1	Human alphaherpesvirus 1 strain 2012-35807, partial genome	151134	10298	2018/06/26	2023/08/23		
+MG999863	HSV-1	Human alphaherpesvirus 1 strain 2011-31213, partial genome	151319	10298	2018/06/26	2023/08/23		
+MG999862	HSV-1	Human alphaherpesvirus 1 strain 1995-63175, partial genome	151979	10298	2018/06/26	2023/08/23		
+MG999860	HSV-1	Human alphaherpesvirus 1 strain 25_2006-37406, partial genome	151224	10298	2018/06/26	2023/08/23		
+MG999859	HSV-1	Human alphaherpesvirus 1 strain 2011-15240, partial genome	151779	10298	2018/06/26	2023/08/23		
+MG999858	HSV-1	Human alphaherpesvirus 1 strain 2011-21041, partial genome	151634	10298	2018/06/26	2023/08/23		
+MG999857	HSV-1	Human alphaherpesvirus 1 strain 2009-19950, partial genome	151248	10298	2018/06/26	2023/08/23		
+MG999856	HSV-1	Human alphaherpesvirus 1 strain 2011-16318, partial genome	151468	10298	2018/06/26	2023/08/23		
+MG999855	HSV-1	Human alphaherpesvirus 1 strain 1996-13975, partial genome	151847	10298	2018/06/26	2023/08/23		
+MG999854	HSV-1	Human alphaherpesvirus 1 strain 2010-21371, partial genome	151378	10298	2018/06/26	2023/08/23		
+MG999853	HSV-1	Human alphaherpesvirus 1 strain 2010-28683, partial genome	151997	10298	2018/06/26	2023/08/23		
+MG999852	HSV-1	Human alphaherpesvirus 1 strain 2011-12715, partial genome	151547	10298	2018/06/26	2023/08/23		
+MG999851	HSV-1	Human alphaherpesvirus 1 strain 2000-24198, partial genome	152887	10298	2018/06/26	2023/08/23		
+MG999850	HSV-1	Human alphaherpesvirus 1 strain 2010-25244, partial genome	151292	10298	2018/06/26	2023/08/23		
+MG999849	HSV-1	Human alphaherpesvirus 1 strain 1997-5801, partial genome	152494	10298	2018/06/26	2023/08/23		
+MG999848	HSV-1	Human alphaherpesvirus 1 strain 1998-4895, partial genome	151890	10298	2018/06/26	2023/08/23		
+MG999847	HSV-1	Human alphaherpesvirus 1 strain 2007-1997, partial genome	151851	10298	2018/06/26	2023/08/23		
+MG999846	HSV-1	Human alphaherpesvirus 1 strain 1995-75216, partial genome	152019	10298	2018/06/26	2023/08/23		
+MG999845	HSV-1	Human alphaherpesvirus 1 strain 2009-25575, partial genome	149530	10298	2018/06/26	2023/08/23		
+MG999844	HSV-1	Human alphaherpesvirus 1 strain 2011-12717, partial genome	151874	10298	2018/06/26	2023/08/23		
+MG999843	HSV-1	Human alphaherpesvirus 1 strain 2011-12714, partial genome	151440	10298	2018/06/26	2023/08/23		
+MG999841	HSV-1	Human alphaherpesvirus 1 strain 2009-29964, partial genome	152204	10298	2018/06/26	2023/08/23		
+MG999840	HSV-1	Human alphaherpesvirus 1 strain 2006-57630, partial genome	152172	10298	2018/06/26	2023/08/23		
+MG999839	HSV-1	Human alphaherpesvirus 1 strain 2009-39273, partial genome	152277	10298	2018/06/26	2023/08/23		
+MG999838	HSV-1	Human alphaherpesvirus 1 strain 2011-31164, partial genome	152505	10298	2018/06/26	2023/08/23		
+OQ724963	HSV-1	Human alphaherpesvirus 1 strain CJ858, partial genome	152086	10298	2023/07/25	2023/07/25		
+OQ724962	HSV-1	Human alphaherpesvirus 1 strain CJ505, partial genome	152030	10298	2023/07/25	2023/07/25		
+OQ724957	HSV-1	Human alphaherpesvirus 1 strain Ikey, partial genome	152079	10298	2023/07/25	2023/07/25		
+OQ724956	HSV-1	Human alphaherpesvirus 1 strain CJ515, partial genome	152108	10298	2023/07/25	2023/07/25		
+OQ724955	HSV-1	Human alphaherpesvirus 1 strain CJ462, partial genome	152033	10298	2023/07/25	2023/07/25		
+OQ724954	HSV-1	Human alphaherpesvirus 1 strain CJ455, partial genome	152103	10298	2023/07/25	2023/07/25		
+OQ724941	HSV-1	Human alphaherpesvirus 1 strain BP-L14, complete genome	152371	10298	2023/07/25	2023/07/25		
+OQ724940	HSV-1	Human alphaherpesvirus 1 strain BP-L13, complete genome	152962	10298	2023/07/25	2023/07/25		
+OQ724939	HSV-1	Human alphaherpesvirus 1 strain BP-L12, complete genome	153916	10298	2023/07/25	2023/07/25		
+OQ724938	HSV-1	Human alphaherpesvirus 1 strain BP-L11, complete genome	153572	10298	2023/07/25	2023/07/25		
+OQ724937	HSV-1	Human alphaherpesvirus 1 strain BP-L10, partial genome	151308	10298	2023/07/25	2023/07/25		
+OQ724936	HSV-1	Human alphaherpesvirus 1 strain BP-L9, complete genome	153186	10298	2023/07/25	2023/07/25		
+OQ724935	HSV-1	Human alphaherpesvirus 1 strain BP-L5, complete genome	153093	10298	2023/07/25	2023/07/25		
+OQ724934	HSV-1	Human alphaherpesvirus 1 strain BP-L4, complete genome	151488	10298	2023/07/25	2023/07/25		
+OQ724933	HSV-1	Human alphaherpesvirus 1 strain BP-L2, complete genome	153614	10298	2023/07/25	2023/07/25		
+OQ724932	HSV-1	Human alphaherpesvirus 1 strain BP-L1, complete genome	152262	10298	2023/07/25	2023/07/25		
+OQ724914	HSV-1	Human alphaherpesvirus 1 strain BP-K16, complete genome	153180	10298	2023/07/25	2023/07/25		
+OQ724913	HSV-1	Human alphaherpesvirus 1 strain BP-K15, complete genome	173400	10298	2023/07/25	2023/07/25		
+OQ724912	HSV-1	Human alphaherpesvirus 1 strain BP-K13, complete genome	152231	10298	2023/07/25	2023/07/25		
+OQ724911	HSV-1	Human alphaherpesvirus 1 strain BP-K12, complete genome	152470	10298	2023/07/25	2023/07/25		
+OQ724910	HSV-1	Human alphaherpesvirus 1 strain BP-K11, complete genome	153536	10298	2023/07/25	2023/07/25		
+OQ724895	HSV-1	Human alphaherpesvirus 1 strain BP-K10, complete genome	151502	10298	2023/07/25	2023/07/25		
+OQ724894	HSV-1	Human alphaherpesvirus 1 strain BP-K9, complete genome	153885	10298	2023/07/25	2023/07/25		
+OQ724893	HSV-1	Human alphaherpesvirus 1 strain BP-K8, complete genome	154330	10298	2023/07/25	2023/07/25		
+OQ724892	HSV-1	Human alphaherpesvirus 1 strain BP-K6, complete genome	153130	10298	2023/07/25	2023/07/25		
+OQ724891	HSV-1	Human alphaherpesvirus 1 strain BP-K5, complete genome	154135	10298	2023/07/25	2023/07/25		
+OQ724890	HSV-1	Human alphaherpesvirus 1 strain BP-K4, complete genome	151917	10298	2023/07/25	2023/07/25		
+OQ724889	HSV-1	Human alphaherpesvirus 1 strain BP-K3, complete genome	152277	10298	2023/07/25	2023/07/25		
+OQ724888	HSV-1	Human alphaherpesvirus 1 isolate BP-K2, complete genome	152311	10298	2023/07/25	2023/07/25		
+OQ724867	HSV-1	Human alphaherpesvirus 1 strain BP-C15, complete genome	152381	10298	2023/07/25	2023/07/25		
+OQ724866	HSV-1	Human alphaherpesvirus 1 strain BP-C14, complete genome	152567	10298	2023/07/25	2023/07/25		
+OQ724865	HSV-1	Human alphaherpesvirus 1 strain BP-C12, complete genome	152858	10298	2023/07/25	2023/07/25		
+OQ724864	HSV-1	Human alphaherpesvirus 1 strain BP-C11, complete genome	153030	10298	2023/07/25	2023/07/25		
+OQ724863	HSV-1	Human alphaherpesvirus 1 strain BP-C9, complete genome	152893	10298	2023/07/25	2023/07/25		
+OQ724836	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain BP-C8, complete genome	152674	10298	2023/07/25	2023/07/25		
+OQ724835	HSV-1	Human alphaherpesvirus 1 strain BP-C5, complete genome	152332	10298	2023/07/25	2023/07/25		
+OQ724834	HSV-1	Human alphaherpesvirus 1 strain BP-C4, complete genome	152541	10298	2023/07/25	2023/07/25		
+OQ724833	HSV-1	Human alphaherpesvirus 1 strain BP-C3, complete genome	154130	10298	2023/07/25	2023/07/25		
+OQ724915	HSV-1	Human alphaherpesvirus 1 isolate BP-K14, complete genome	155000	10298	2023/07/25	2023/07/25		
+OQ724868	HSV-1	Human alphaherpesvirus 1 isolate BP-K1, complete genome	153167	10298	2023/07/25	2023/07/25		
+OQ724832	HSV-1	Human alphaherpesvirus 1 strain BP-C2, complete genome	152898	10298	2023/07/25	2023/07/25		
+OQ724831	HSV-1	Human alphaherpesvirus 1 isolate BP-C1, complete genome	152739	10298	2023/07/25	2023/07/25		
+OP871859	HSV-1	Human alphaherpesvirus 1 strain INV-9B, complete genome	156328	10298	2023/06/28	2023/06/28		
+OP871858	HSV-1	Human alphaherpesvirus 1 strain INV-7E, complete genome	154992	10298	2023/06/28	2023/06/28		
+OP871857	HSV-1	Human alphaherpesvirus 1 strain INV-7A, complete genome	153807	10298	2023/06/28	2023/06/28		
+OP871856	HSV-1	Human alphaherpesvirus 1 strain INV-2C, complete genome	155161	10298	2023/06/28	2023/06/28		
+OP871855	HSV-1	Human alphaherpesvirus 1 strain INV-2B, complete genome	155681	10298	2023/06/28	2023/06/28		
+OP871854	HSV-1	Human alphaherpesvirus 1 strain INV-1G, complete genome	153201	10298	2023/06/28	2023/06/28		
+OP871853	HSV-1	Human alphaherpesvirus 1 strain INV-1B, partial genome	156880	10298	2023/06/28	2023/06/28		
+OP871852	HSV-1	Human alphaherpesvirus 1 strain INV-NN, complete genome	155472	10298	2023/06/28	2023/06/28		
+OP871851	HSV-1	Human alphaherpesvirus 1 strain INV-25D, complete genome	155512	10298	2023/06/28	2023/06/28		
+OP871850	HSV-1	Human alphaherpesvirus 1 strain INV-25C, complete genome	153240	10298	2023/06/28	2023/06/28		
+OP871849	HSV-1	Human alphaherpesvirus 1 strain INV-25B, complete genome	154157	10298	2023/06/28	2023/06/28		
+OP871848	HSV-1	Human alphaherpesvirus 1 strain INV-22C, complete genome	153324	10298	2023/06/28	2023/06/28		
+OP871847	HSV-1	Human alphaherpesvirus 1 strain INV-22B, complete genome	155163	10298	2023/06/28	2023/06/28		
+OP871846	HSV-1	Human alphaherpesvirus 1 strain INV-20C, complete genome	154107	10298	2023/06/28	2023/06/28		
+OP871845	HSV-1	Human alphaherpesvirus 1 strain INV-20A, complete genome	154095	10298	2023/06/28	2023/06/28		
+OP871844	HSV-1	Human alphaherpesvirus 1 strain INV-17A, complete genome	154234	10298	2023/06/28	2023/06/28		
+OP871843	HSV-1	Human alphaherpesvirus 1 strain INV-16E, complete genome	159092	10298	2023/06/28	2023/06/28		
+OP871842	HSV-1	Human alphaherpesvirus 1 strain INV-16D, complete genome	155161	10298	2023/06/28	2023/06/28		
+OP871841	HSV-1	Human alphaherpesvirus 1 strain INV-15B, complete genome	156713	10298	2023/06/28	2023/06/28		
+OP871840	HSV-1	Human alphaherpesvirus 1 strain INV-11A, complete genome	154353	10298	2023/06/28	2023/06/28		
+OQ658624	HSV-1	Human alphaherpesvirus 1 strain ES, partial genome	152073	10298	2023/06/20	2023/06/23		
+OP866822	HSV-1	Human alphaherpesvirus 1 isolate RV-1013 UL23 gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1194	10298	2023/05/27	2023/05/27		
+OP866820	HSV-1	Human alphaherpesvirus 1 isolate RV-760 UL23 gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1194	10298	2023/05/27	2023/05/27		
+OP866819	HSV-1	Human alphaherpesvirus 1 isolate RV-726 UL23 gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1194	10298	2023/05/27	2023/05/27		
+OP866818	HSV-1	Human alphaherpesvirus 1 isolate RV-502 UL23 gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1194	10298	2023/05/27	2023/05/27		
+OP866817	HSV-1	Human alphaherpesvirus 1 isolate RV-494 UL23 gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1194	10298	2023/05/27	2023/05/27		
+OP866816	HSV-1	Human alphaherpesvirus 1 isolate RV-411 UL23 gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1194	10298	2023/05/27	2023/05/27		
+OP866815	HSV-1	Human alphaherpesvirus 1 isolate RV-336 UL23 gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1194	10298	2023/05/27	2023/05/27		
+OP866813	HSV-1	Human alphaherpesvirus 1 isolate RV-154 UL23 gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1194	10298	2023/05/27	2023/05/27		
+OP866811	HSV-1	Human alphaherpesvirus 1 isolate RV-103 UL23 gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1194	10298	2023/05/27	2023/05/27		
+OP866810	HSV-1	Human alphaherpesvirus 1 isolate RV-91 UL23 gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1194	10298	2023/05/27	2023/05/27		
+OP950682	HSV-1	Human alphaherpesvirus 1 clone RV-726clone1 nonfunctional truncated thymidine kinase (UL23) gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1130	10298	2023/05/27	2023/05/27		
+OP950680	HSV-1	Human alphaherpesvirus 1 clone RV-199clone1 nonfunctional truncated thymidine kinase (UL23) gene, complete sequence; and nuclear protein UL24 (UL24) gene, partial cds	1130	10298	2023/05/27	2023/05/27		
+OQ102003	HSV-1	Human alphaherpesvirus 1 isolate 352/08, partial genome	152063	10298	2023/04/19	2023/04/19		
+ON023028	HSV-1	Human alphaherpesvirus 1 isolate AA-41, partial genome	132682	10298	2023/01/14	2023/03/28		
+ON513441	HSV-1	Human alphaherpesvirus 1 isolate NIVD4, complete genome	152089	10298	2023/02/14	2023/02/14		
+OP297886	HSV-1	Human alphaherpesvirus 1 strain HSV1-v72_d53_cu_gen_les, complete genome	152277	10298	2022/10/16	2022/10/16		
+OP297885	HSV-1	Human alphaherpesvirus 1 strain HSV1-v67_d346_cu_gen_les, complete genome	149990	10298	2022/10/16	2022/10/16		
+OP297884	HSV-1	Human alphaherpesvirus 1 strain HSV1-v57_d3_cu_gen_les, complete genome	156387	10298	2022/10/16	2022/10/16		
+OP297883	HSV-1	Human alphaherpesvirus 1 strain HSV1-v75_d23_cu_gen_les, partial genome	151208	10298	2022/10/16	2022/10/16		
+OP297882	HSV-1	Human alphaherpesvirus 1 strain HSV1-v76_d266_cu_gen_les, complete genome	150499	10298	2022/10/16	2022/10/16		
+OP297881	HSV-1	Human alphaherpesvirus 1 strain v45_d4_cu_gen_les, complete genome	150135	10298	2022/10/16	2022/10/16		
+OP297880	HSV-1	Human alphaherpesvirus 1 strain HSV1-v68_d8_cu_gen_les, complete genome	148988	10298	2022/10/16	2022/10/16		
+OP297879	HSV-1	Human alphaherpesvirus 1 strain HSV1-v63_d284_cu_oral, complete genome	150722	10298	2022/10/16	2022/10/16		
+OP297878	HSV-1	Human alphaherpesvirus 1 strain HSV1-v43_d17_cu_gen_les, partial genome	149125	10298	2022/10/16	2022/10/16		
+OP297877	HSV-1	Human alphaherpesvirus 1 strain HSV1-v66_d6_cu_gen, complete genome	150184	10298	2022/10/16	2022/10/16		
+OP297876	HSV-1	Human alphaherpesvirus 1 strain HSV1-v59_d121_cu_gen_les, complete genome	135445	10298	2022/10/16	2022/10/16		
+OP297875	HSV-1	Human alphaherpesvirus 1 strain v49_d257_cu_gen_les, complete genome	150049	10298	2022/10/16	2022/10/16		
+OP297874	HSV-1	Human alphaherpesvirus 1 strain HSV1-v74_d193_cu_gen, complete genome	150377	10298	2022/10/16	2022/10/16		
+OP297873	HSV-1	Human alphaherpesvirus 1 strain HSV1-v54_d71_cu_gen_les, complete genome	150814	10298	2022/10/16	2022/10/16		
+OP297872	HSV-1	Human alphaherpesvirus 1 strain HSV1-v62_d3_cu_gen_les, complete genome	149910	10298	2022/10/16	2022/10/16		
+OP297871	HSV-1	Human alphaherpesvirus 1 strain HSV1-v69_d2_cu_gen_les, complete genome	151422	10298	2022/10/16	2022/10/16		
+OP297870	HSV-1	Human alphaherpesvirus 1 strain HSV1-v58_d1_cu_gen_les, complete genome	151565	10298	2022/10/16	2022/10/16		
+OP297869	HSV-1	Human alphaherpesvirus 1 strain HSV1-v42_d338_cu_gen_les, partial genome	149137	10298	2022/10/16	2022/10/16		
+OP297868	HSV-1	Human alphaherpesvirus 1 strain HSV1-v46_d349_cu_gen_les, complete genome	150131	10298	2022/10/16	2022/10/16		
+OP297867	HSV-1	Human alphaherpesvirus 1 strain HSV1-v52_d84_cu_gen_les, complete genome	150722	10298	2022/10/16	2022/10/16		
+OP297866	HSV-1	Human alphaherpesvirus 1 strain HSV1-v71_d395_cu_gen_les, complete genome	151281	10298	2022/10/16	2022/10/16		
+OP297865	HSV-1	Human alphaherpesvirus 1 strain HSV1-v44_d2_cu_gen_les, complete genome	153089	10298	2022/10/16	2022/10/16		
+OP297864	HSV-1	Human alphaherpesvirus 1 strain HSV1-v56_d6_cu_gen_les, partial genome	151641	10298	2022/10/16	2022/10/16		
+OP297863	HSV-1	Human alphaherpesvirus 1 strain HSV1-v61_d2_cu_gen_les, complete genome	150817	10298	2022/10/16	2022/10/16		
+OP297862	HSV-1	Human alphaherpesvirus 1 strain HSV1-v73_d4_cu_gen_les, complete genome	153232	10298	2022/10/16	2022/10/16		
+OP297861	HSV-1	Human alphaherpesvirus 1 strain HSV1-v70_d1_cu_gen_les, complete genome	149598	10298	2022/10/16	2022/10/16		
+OP297860	HSV-1	Human alphaherpesvirus 1 strain HSV1-v60_d3_cu_gen_les, complete genome	152526	10298	2022/10/16	2022/10/16		
+ON783217	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain B^3x1.1D, complete genome	154773	10298	2022/08/24	2022/08/24		
+ON783216	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain B^3x1.1C, complete genome	151352	10298	2022/08/24	2022/08/24		
+ON783215	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain B^3x1.1B, complete genome	153542	10298	2022/08/24	2022/08/24		
+ON783214	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain B^3x1.1A, complete genome	152108	10298	2022/08/24	2022/08/24		
+ON960061	HSV-1	Human alphaherpesvirus 1 strain HSV1-Atlanta-USA-1965-E377, complete genome	151177	10298	2022/08/02	2022/08/02		
+ON960060	HSV-1	Human alphaherpesvirus 1 strain HSV1-San-Francisco-USA-1967-RE, complete genome	152428	10298	2022/08/02	2022/08/02		
+ON960059	HSV-1	Human alphaherpesvirus 1 strain HSV1-San-Francisco-USA-1974-HTZ, complete genome	150357	10298	2022/08/02	2022/08/02		
+ON960058	HSV-1	Human alphaherpesvirus 1 strain HSV1-San-Francisco-USA-1979-H144, complete genome	151430	10298	2022/08/02	2022/08/02		
+ON960057	HSV-1	Human alphaherpesvirus 1 strain HSV1-San-Francisco-USA-1979-DAB1, complete genome	151117	10298	2022/08/02	2022/08/02		
+ON960056	HSV-1	Human alphaherpesvirus 1 strain HSV1-San-Francisco-USA-1980-EKN, complete genome	152443	10298	2022/08/02	2022/08/02		
+ON960055	HSV-1	Human alphaherpesvirus 1 strain HSV1-San-Francisco-USA-1982-H193-BB, complete genome	152645	10298	2022/08/02	2022/08/02		
+ON960054	HSV-1	Human alphaherpesvirus 1 strain HSV1-San-Francisco-USA-1982-H193-CSF, complete genome	150283	10298	2022/08/02	2022/08/02		
+ON152716	HSV-1	Human alphaherpesvirus 1 strain astronaunt_post_orbit_saliva_HSV_1, complete genome	151060	10298	2022/06/13	2022/06/13		
+ON152715	HSV-1	Human alphaherpesvirus 1 strain astronaunt_in_orbit_rash_HSV_1, complete genome	151508	10298	2022/06/13	2022/06/13		
+ON007164	HSV-1	Human alphaherpesvirus 1 strain v42_d339_gen, partial genome	150780	10298	2022/04/26	2022/04/26		
+ON007163	HSV-1	Human alphaherpesvirus 1 strain v47_d61-79_gen, partial genome	150120	10298	2022/04/26	2022/04/26		
+ON007162	HSV-1	Human alphaherpesvirus 1 strain v43_d352_gen_les, partial genome	150448	10298	2022/04/26	2022/04/26		
+ON007161	HSV-1	Human alphaherpesvirus 1 strain v48_d102_oral, partial genome	150648	10298	2022/04/26	2022/04/26		
+ON007160	HSV-1	Human alphaherpesvirus 1 strain v42_d130_gen_les, partial genome	150644	10298	2022/04/26	2022/04/26		
+ON007159	HSV-1	Human alphaherpesvirus 1 strain v43_d350_gen_les, partial genome	135563	10298	2022/04/26	2022/04/26		
+ON007157	HSV-1	Human alphaherpesvirus 1 strain v41_d354_oral, partial genome	149353	10298	2022/04/26	2022/04/26		
+ON007156	HSV-1	Human alphaherpesvirus 1 strain v43_d137_gen_les, partial genome	150428	10298	2022/04/26	2022/04/26		
+ON007155	HSV-1	Human alphaherpesvirus 1 strain v48_d100_oral, partial genome	150151	10298	2022/04/26	2022/04/26		
+ON007153	HSV-1	Human alphaherpesvirus 1 strain v40_y14_oral1, partial genome	149890	10298	2022/04/26	2022/04/26		
+ON007152	HSV-1	Human alphaherpesvirus 1 strain v43_d350_gen, partial genome	135651	10298	2022/04/26	2022/04/26		
+ON007148	HSV-1	Human alphaherpesvirus 1 strain v43_d349_gen, partial genome	150893	10298	2022/04/26	2022/04/26		
+ON007147	HSV-1	Human alphaherpesvirus 1 strain v43_d349_gen_les, partial genome	150759	10298	2022/04/26	2022/04/26		
+ON007141	HSV-1	Human alphaherpesvirus 1 strain v43_d17_gen_les, partial genome	135661	10298	2022/04/26	2022/04/26		
+ON007140	HSV-1	Human alphaherpesvirus 1 strain v48_d103_oral, partial genome	151230	10298	2022/04/26	2022/04/26		
+ON007139	HSV-1	Human alphaherpesvirus 1 strain v41_d100_gen, partial genome	150754	10298	2022/04/26	2022/04/26		
+ON007135	HSV-1	Human alphaherpesvirus 1 strain v43_d352_gen, partial genome	150601	10298	2022/04/26	2022/04/26		
+ON007134	HSV-1	Human alphaherpesvirus 1 strain v44_d2_gen_les, partial genome	149907	10298	2022/04/26	2022/04/26		
+ON007133	HSV-1	Human alphaherpesvirus 1 strain v46_y16_oral, partial genome	150457	10298	2022/04/26	2022/04/26		
+ON007158	HSV-1	Human alphaherpesvirus 1 strain v46_d349_gen_les1, complete genome	150373	10298	2022/04/26	2022/04/26		
+ON007154	HSV-1	Human alphaherpesvirus 1 strain v40_y14_oral2, complete genome	151325	10298	2022/04/26	2022/04/26		
+ON007151	HSV-1	Human alphaherpesvirus 1 strain v46_d349_gen_les3, complete genome	150819	10298	2022/04/26	2022/04/26		
+ON007150	HSV-1	Human alphaherpesvirus 1 strain v46_d348_gen, complete genome	135291	10298	2022/04/26	2022/04/26		
+ON007149	HSV-1	Human alphaherpesvirus 1 strain v49_d349_gen_les, complete genome	150503	10298	2022/04/26	2022/04/26		
+ON007146	HSV-1	Human alphaherpesvirus 1 strain v46_d349_gen, complete genome	135353	10298	2022/04/26	2022/04/26		
+ON007145	HSV-1	Human alphaherpesvirus 1 strain v45_d4_gen_les, complete genome	150361	10298	2022/04/26	2022/04/26		
+ON007144	HSV-1	Human alphaherpesvirus 1 strain v46_d345_gen, complete genome	150347	10298	2022/04/26	2022/04/26		
+ON007143	HSV-1	Human alphaherpesvirus 1 strain v46_d349_gen_les2, complete genome	150444	10298	2022/04/26	2022/04/26		
+ON007142	HSV-1	Human alphaherpesvirus 1 strain v49_d257_gen_les, complete genome	150302	10298	2022/04/26	2022/04/26		
+ON007138	HSV-1	Human alphaherpesvirus 1 strain v42_d338_gen_les, complete genome	135522	10298	2022/04/26	2022/04/26		
+ON007137	HSV-1	Human alphaherpesvirus 1 strain v42_d131_gen_les, complete genome	135496	10298	2022/04/26	2022/04/26		
+ON007136	HSV-1	Human alphaherpesvirus 1 strain v48_d101_oral, complete genome	150082	10298	2022/04/26	2022/04/26		
+ON007132	HSV-1	Human alphaherpesvirus 1 strain v40_unk_gen, complete genome	150395	10298	2022/04/26	2022/04/26		
+OL514328	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 isolate DU_Ad_UL23 thymidine kinase-like gene, complete sequence	1132	10298	2022/03/08	2022/03/08		
+OL514326	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 isolate BO_Od_UL23 thymidine kinase-like gene, complete sequence	1130	10298	2022/03/08	2022/03/08		
+OL514325	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 isolate CO_An_UL23 thymidine kinase-like gene, complete sequence	1132	10298	2022/03/08	2022/03/08		
+OL638991	HSV-1	Human alphaherpesvirus 1 strain McKrae, complete sequence	152382	10298	2022/02/08	2022/02/08		
+OL638990	HSV-1	Human alphaherpesvirus 1 strain dsncRNA1, complete sequence	152373	10298	2022/02/08	2022/02/08		
+MT876428	HSV-1	Human alphaherpesvirus 1 strain 6439cm, partial genome	152223	10298	2021/07/23	2021/07/23		
+BK012101	HSV-1	TPA_asm: Human alphaherpesvirus 1 strain 17, complete genome	152222	10298	2020/11/07	2020/11/07		
+KF498959	HSV-1	Human herpesvirus 1 isolate RE, complete genome	151255	10298	2013/11/03	2020/08/07		
+MN925871	HSV-1	UNVERIFIED: Human alphaherpesvirus 1 strain Sample4_DOCK8, complete genome	150853	10298	2020/02/19	2020/02/19		
+MK952185	HSV-1	Human alphaherpesvirus 1 strain Mother_viremic_blood_HSV_1, partial genome	152676	10298	2019/10/23	2019/10/23		
+MK952184	HSV-1	Human alphaherpesvirus 1 strain Neonate_disseminated_blood_HSV_1, partial genome	151693	10298	2019/10/23	2019/10/23		
+MK952183	HSV-1	Human alphaherpesvirus 1 strain Neonate_disseminated_skin_HSV_1, partial genome	150399	10298	2019/10/23	2019/10/23		
+MN159383	HSV-1	Human alphaherpesvirus 1 isolate Sc16, complete genome	151223	10298	2019/09/30	2019/09/30		
+MN159382	HSV-1	Human alphaherpesvirus 1 isolate s17pp22a, partial genome	152298	10298	2019/09/30	2019/09/30		
+MN159381	HSV-1	Human alphaherpesvirus 1 isolate s17pp8, partial genome	152392	10298	2019/09/30	2019/09/30		
+MN159380	HSV-1	Human alphaherpesvirus 1 isolate s17pp7a, partial genome	152333	10298	2019/09/30	2019/09/30		
+MN159379	HSV-1	Human alphaherpesvirus 1 isolate s17pp5, complete genome	152244	10298	2019/09/30	2019/09/30		
+MN159378	HSV-1	Human alphaherpesvirus 1 isolate s17pp4, complete genome	152288	10298	2019/09/30	2019/09/30		
+MN159377	HSV-1	Human alphaherpesvirus 1 isolate s17pp3, complete genome	152245	10298	2019/09/30	2019/09/30		
+MN159376	HSV-1	Human alphaherpesvirus 1 isolate s17pp, partial genome	152233	10298	2019/09/30	2019/09/30		
+MN136524	HSV-1	Human alphaherpesvirus 1 strain McKrae, complete genome	152361	10298	2019/08/11	2019/08/11		
+MN136523	HSV-1	Human alphaherpesvirus 1 strain MacIntyre, complete genome	152476	10298	2019/08/11	2019/08/11		
+MH480513	HSV-1	Human alphaherpesvirus 1 isolate MCL-18-H-1091, complete genome	138790	10298	2019/06/30	2019/06/30		
+MH319852	HSV-1	Human alphaherpesvirus 1 strain NIV1613762, complete genome	147898	10298	2019/05/06	2019/05/06		
+KX946970	HSV-1	Human alphaherpesvirus 1 isolate SC16, partial genome	151334	10298	2016/10/30	2019/04/30		
+MH999851	HSV-1	Human alphaherpesvirus 1 strain HSV-H1412, complete genome	152094	10298	2019/01/29	2019/01/29		
+MH999850	HSV-1	Human alphaherpesvirus 1 strain HSV-H15119, complete genome	155156	10298	2019/01/29	2019/01/29		
+MH999849	HSV-1	Human alphaherpesvirus 1 strain HSV-H1312, complete genome	155011	10298	2019/01/29	2019/01/29		
+MH999848	HSV-1	Human alphaherpesvirus 1 strain HSV-H1311, complete genome	151461	10298	2019/01/29	2019/01/29		
+MH999847	HSV-1	Human alphaherpesvirus 1 strain HSV-H12118, complete genome	151809	10298	2019/01/29	2019/01/29		
+MH999846	HSV-1	Human alphaherpesvirus 1 strain HSV-H1215, complete genome	151140	10298	2019/01/29	2019/01/29		
+MH999845	HSV-1	Human alphaherpesvirus 1 strain HSV-H12117, complete genome	156077	10298	2019/01/29	2019/01/29		
+MH999844	HSV-1	Human alphaherpesvirus 1 strain HSV-H12114, complete genome	151678	10298	2019/01/29	2019/01/29		
+MH999843	HSV-1	Human alphaherpesvirus 1 strain HSV-H1211, partial genome	153975	10298	2019/01/29	2019/01/29		
+MH999842	HSV-1	Human alphaherpesvirus 1 strain HSV-H12113, complete genome	152599	10298	2019/01/29	2019/01/29		
+MH999841	HSV-1	Human alphaherpesvirus 1 strain Ty148, complete genome	153234	10298	2019/01/29	2019/01/29		
+MH999840	HSV-1	Human alphaherpesvirus 1 strain Ty25, complete genome	151249	10298	2019/01/29	2019/01/29		
+MH999839	HSV-1	Human alphaherpesvirus 1 strain K86, complete genome	151610	10298	2019/01/29	2019/01/29		
+MH999838	HSV-1	Human alphaherpesvirus 1 strain K47, partial genome	154207	10298	2019/01/29	2019/01/29		
+MG646679	HSV-1	Human alphaherpesvirus 1 isolate NIV 1722974, partial genome	149779	10298	2018/11/30	2018/11/30		
+NC_001806	HSV-1	Human herpesvirus 1 strain 17, complete genome	152222	10298	1990/04/03	2018/08/13		
+MH160379	HSV-1	Human alphaherpesvirus 1 strain HSV1-ORIGINAL-G9, partial genome	152038	10298	2018/06/04	2018/07/27		
+MH102298	HSV-1	Human alphaherpesvirus 1 strain HSV-v29_site16_day1, complete genome	151108	10298	2018/07/07	2018/07/07		
+MG708292	HSV-1	Human alphaherpesvirus 1 strain HSV-v29_site14_day2, partial genome	151186	10298	2018/07/02	2018/07/02		
+MG708291	HSV-1	Human alphaherpesvirus 1 strain HSV-v29_site13_day3, partial genome	151437	10298	2018/07/02	2018/07/02		
+MG708290	HSV-1	Human alphaherpesvirus 1 strain HSV-v29_site13_day2, partial genome	151303	10298	2018/07/02	2018/07/02		
+MG708289	HSV-1	Human alphaherpesvirus 1 strain HSV-v29_site12_day3, partial genome	153536	10298	2018/07/02	2018/07/02		
+MG708288	HSV-1	Human alphaherpesvirus 1 strain HSV-v29_day60_culture3, partial genome	152069	10298	2018/07/02	2018/07/02		
+MG708287	HSV-1	Human alphaherpesvirus 1 strain HSV-v29_day1_culture2, partial genome	152589	10298	2018/07/02	2018/07/02		
+MG708286	HSV-1	Human alphaherpesvirus 1 strain HSV-v29_day-90_culture1, partial genome	153858	10298	2018/07/02	2018/07/02		
+MG708285	HSV-1	Human alphaherpesvirus 1 strain HSV-v29_site18_day2, partial genome	152517	10298	2018/07/02	2018/07/02		
+MG708284	HSV-1	Human alphaherpesvirus 1 strain HSV-v29_site16_day2, partial genome	151596	10298	2018/07/02	2018/07/02		
+MG999842	HSV-1	Human alphaherpesvirus 1 strain 27_2006-50140, partial genome	151413	10298	2018/06/26	2018/06/26		
+LT594457	HSV-1	Human herpesvirus 1 isolate 132_1998 genome assembly, complete genome: monopartite	150378	10298	2016/08/25	2018/06/15		
+LT594192	HSV-1	Human herpesvirus 1 isolate 160_1982 genome assembly, complete genome: monopartite	150711	10298	2016/08/25	2018/06/15		
+LT594112	HSV-1	Human herpesvirus 1 isolate 369_2007 genome assembly, complete genome: monopartite	150927	10298	2016/08/25	2018/06/15		
+LT594111	HSV-1	Human herpesvirus 1 isolate 1394_2005 genome assembly, complete genome: monopartite	151304	10298	2016/08/25	2018/06/15		
+LT594110	HSV-1	Human herpesvirus 1 isolate 66_2007 genome assembly, complete genome: monopartite	150842	10298	2016/08/25	2018/06/15		
+LT594109	HSV-1	Human herpesvirus 1 isolate 270_2007 genome assembly, complete genome: monopartite	150791	10298	2016/08/25	2018/06/15		
+LT594108	HSV-1	Human herpesvirus 1 isolate 1319_2005 genome assembly, complete genome: monopartite	151216	10298	2016/08/25	2018/06/15		
+LT594107	HSV-1	Human herpesvirus 1 isolate 3083_2008 genome assembly, complete genome: monopartite	151283	10298	2016/08/25	2018/06/15		
+LT594106	HSV-1	Human herpesvirus 1 isolate 2158_2007 genome assembly, complete genome: monopartite	150670	10298	2016/08/25	2018/06/15		
+LT594105	HSV-1	Human herpesvirus 1 isolate 172_2010 genome assembly, complete genome: monopartite	151217	10298	2016/08/25	2018/06/15		
+KY922719	HSV-1	Human alphaherpesvirus 1 isolate HSV-N-7, complete genome	151765	10298	2017/09/26	2017/09/26		
+KY922718	HSV-1	Human alphaherpesvirus 1 isolate HSV-R-13, complete genome	151636	10298	2017/09/26	2017/09/26		
+MF156584	HSV-1	Human alphaherpesvirus 1 isolate K(delta)25/26, complete genome	149586	10298	2017/07/24	2017/09/21		
+KX424525	HSV-1	Human alphaherpesvirus 1 isolate ZW6, complete genome	152090	10298	2017/03/29	2017/03/29		
+KM222727	HSV-1	Human herpesvirus 1 strain H166syn, partial genome	152262	10298	2015/01/21	2017/03/06		
+KM222726	HSV-1	Human herpesvirus 1 strain H166, partial genome	152409	10298	2015/01/21	2017/03/06		
+KM222725	HSV-1	Human herpesvirus 1 strain F, partial genome	148997	10298	2015/01/21	2017/03/06		
+KM222724	HSV-1	Human herpesvirus 1 strain F, partial genome	149692	10298	2015/01/21	2017/03/06		
+KM222723	HSV-1	Human herpesvirus 1 strain KOS, partial genome	150585	10298	2015/01/21	2017/03/06		
+KM222722	HSV-1	Human herpesvirus 1 strain KOS, partial genome	150970	10298	2015/01/21	2017/03/06		
+KM222721	HSV-1	Human herpesvirus 1 strain KOS, partial genome	150147	10298	2015/01/21	2017/03/06		
+AB618031	HSV-1	Herpes simplex virus (type 1 /strain RH2) DNA, nearly complete genome	149643	946522	2012/12/19	2016/12/22		
+FJ593289	HSV-1	Human herpesvirus 1 transgenic strain 17, complete genome	165101	10298	2009/02/09	2016/12/01		
+KU310661	HSV-1	Human alphaherpesvirus 1 isolate B^3x1.5, partial genome	152992	10298	2016/02/06	2016/08/26		
+KU310660	HSV-1	Human alphaherpesvirus 1 isolate B^3x1.4, partial genome	149842	10298	2016/02/06	2016/08/26		
+KU310659	HSV-1	Human alphaherpesvirus 1 isolate B^3x1.3, partial genome	157800	10298	2016/02/06	2016/08/26		
+KU310658	HSV-1	Human alphaherpesvirus 1 isolate B^3x1.2, partial genome	149646	10298	2016/02/06	2016/08/26		
+KU310657	HSV-1	Human alphaherpesvirus 1 isolate B^3x1.1, partial genome	150376	10298	2016/02/06	2016/08/26		
+AH003715	HSV-1	Human alphaherpesvirus 1 strain 17 DNA polymerase (pol) mRNA, complete sequence	51	10298	1992/07/10	2016/08/25		
+LT608134	HSV-1	Herpes simplex virus (type 1 / strain 17) genome assembly, chromosome: I	142390	10299	2016/08/19	2016/08/19		
+LC114184	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 206_32	1131	10298	2016/07/08	2016/07/08		
+LC114178	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 136_62	1131	10298	2016/07/08	2016/07/08		
+LC114174	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 116_63	1130	10298	2016/07/08	2016/07/08		
+LC114173	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 116_56	1130	10298	2016/07/08	2016/07/08		
+LC114172	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 116_48	1130	10298	2016/07/08	2016/07/08		
+LC114171	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 116_41	1130	10298	2016/07/08	2016/07/08		
+LC114170	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 116_20	1130	10298	2016/07/08	2016/07/08		
+LC114169	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 116_13	1130	10298	2016/07/08	2016/07/08		
+LC114168	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 116_6	1130	10298	2016/07/08	2016/07/08		
+LC114167	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 116_-1	1130	10298	2016/07/08	2016/07/08		
+LC114166	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 2_42	1130	10298	2016/07/08	2016/07/08		
+LC114165	HSV-1	Human herpesvirus 1 UL23 gene, complete sequence, strain: 2_35	1130	10298	2016/07/08	2016/07/08		
+KX265046	HSV-1	Human alphaherpesvirus 1 strain 914-R2, partial genome	152244	10298	2016/07/02	2016/07/02		
+KX265045	HSV-1	Human alphaherpesvirus 1 strain 20-14-2, partial genome	152177	10298	2016/07/02	2016/07/02		
+KX265044	HSV-1	Human alphaherpesvirus 1 strain 20-14-23, partial genome	152291	10298	2016/07/02	2016/07/02		
+KX265043	HSV-1	Human alphaherpesvirus 1 strain 914-B, partial genome	152184	10298	2016/07/02	2016/07/02		
+KX265042	HSV-1	Human alphaherpesvirus 1 strain 914-T2, partial genome	152191	10298	2016/07/02	2016/07/02		
+KX265041	HSV-1	Human alphaherpesvirus 1 strain 20-14-1, partial genome	152234	10298	2016/07/02	2016/07/02		
+KX265040	HSV-1	Human alphaherpesvirus 1 strain 914-A3, partial genome	152233	10298	2016/07/02	2016/07/02		
+KX265039	HSV-1	Human alphaherpesvirus 1 strain 20-14-22, partial genome	152227	10298	2016/07/02	2016/07/02		
+KX265038	HSV-1	Human alphaherpesvirus 1 strain 20-14-7, partial genome	152167	10298	2016/07/02	2016/07/02		
+KX265037	HSV-1	Human alphaherpesvirus 1 strain 914-E3, partial genome	152163	10298	2016/07/02	2016/07/02		
+KX265036	HSV-1	Human alphaherpesvirus 1 strain 914-Z, partial genome	152223	10298	2016/07/02	2016/07/02		
+KX265035	HSV-1	Human alphaherpesvirus 1 strain 914-Y2, partial genome	152267	10298	2016/07/02	2016/07/02		
+KX265034	HSV-1	Human alphaherpesvirus 1 strain IV-1, partial genome	152100	10298	2016/07/02	2016/07/02		
+KX265033	HSV-1	Human alphaherpesvirus 1 strain 20-14-24, partial genome	152233	10298	2016/07/02	2016/07/02		
+KX265032	HSV-1	Human alphaherpesvirus 1 strain IV-6, partial genome	152237	10298	2016/07/02	2016/07/02		
+KX265031	HSV-1	Human alphaherpesvirus 1 strain 914-H2, partial genome	152195	10298	2016/07/02	2016/07/02		
+KX265030	HSV-1	Human alphaherpesvirus 1 strain 20-14-18, partial genome	152000	10298	2016/07/02	2016/07/02		
+KX265029	HSV-1	Human alphaherpesvirus 1 strain 914-N3, partial genome	152255	10298	2016/07/02	2016/07/02		
+KX265028	HSV-1	Human alphaherpesvirus 1 strain 20-14-8, partial genome	152223	10298	2016/07/02	2016/07/02		
+KX265027	HSV-1	Human alphaherpesvirus 1 strain IV-7, partial genome	152192	10298	2016/07/02	2016/07/02		
+KX265026	HSV-1	Human alphaherpesvirus 1 strain 914-D2, partial genome	152204	10298	2016/07/02	2016/07/02		
+KX265025	HSV-1	Human alphaherpesvirus 1 strain 914-B2, partial genome	152258	10298	2016/07/02	2016/07/02		
+KX265024	HSV-1	Human alphaherpesvirus 1 strain 914-Q, partial genome	152313	10298	2016/07/02	2016/07/02		
+KX265023	HSV-1	Human alphaherpesvirus 1 strain IV-2, partial genome	152238	10298	2016/07/02	2016/07/02		
+KX265022	HSV-1	Human alphaherpesvirus 1 strain 914-O2, partial genome	152243	10298	2016/07/02	2016/07/02		
+LT576871	HSV-1	Herpes simplex virus (type 1 / strain 17) isolate 5B genome assembly, chromosome: I	139698	10299	2016/05/26	2016/05/26		
+LT576870	HSV-1	Herpes simplex virus (type 1 / strain 17) genome assembly, chromosome: I	144265	10299	2016/05/26	2016/05/26		
+LT576869	HSV-1	Herpes simplex virus (type 1 / strain 17) genome assembly, chromosome: I	140475	10299	2016/05/26	2016/05/26		
+LT576868	HSV-1	Herpes simplex virus (type 1 / strain 17) genome assembly, chromosome: I	132541	10299	2016/05/26	2016/05/26		
+LT576867	HSV-1	Herpes simplex virus (type 1 / strain 17) genome assembly, chromosome: I	140963	10299	2016/05/26	2016/05/26		
+LT576866	HSV-1	Herpes simplex virus (type 1 / strain 17) isolate p2A genome assembly, chromosome: I	140006	10299	2016/05/26	2016/05/26		
+JN555585	HSV-1	Human herpesvirus 1 strain 17, complete genome	152222	10298	2011/10/24	2016/05/09		
+KT780616	HSV-1	Human alphaherpesvirus 1 strain L2, partial genome	151998	10298	2016/03/07	2016/03/07		
+JN420342	HSV-1	Human herpesvirus 1 strain OD4, partial genome	152011	10298	2011/11/02	2016/03/02		
+KT887224	HSV-1	Human alphaherpesvirus 1 isolate KOS 1.1, complete genome	151794	10298	2015/11/21	2015/11/21		
+KT899744	HSV-1	Human alphaherpesvirus 1 isolate KOS, complete genome	151974	10298	2015/11/21	2015/11/21		
+KT425110	HSV-1	Human alphaherpesvirus 1 strain KOS63, partial genome	136278	10298	2015/11/08	2015/11/08		
+KT425109	HSV-1	Human alphaherpesvirus 1 strain KOS79, complete genome	135472	10298	2015/11/08	2015/11/08		
+KT425108	HSV-1	Human alphaherpesvirus 1 strain RDH193, partial genome	135715	10298	2015/11/08	2015/11/08		
+KT425107	HSV-1	Human alphaherpesvirus 1 strain McKrae, partial genome	135767	10298	2015/11/08	2015/11/08		
+KR781518	HSV-1	Human herpesvirus 1 strain dl1403 envelope glycoprotein C (gC) gene, complete sequence	525	10298	2015/06/23	2015/06/23		
+KR052508	HSV-1	Human herpesvirus 1 strain 81L partial genome	151912	10298	2015/05/25	2015/05/25		
+KR052507	HSV-1	Human herpesvirus 1 strain 78S partial genome	152233	10298	2015/05/25	2015/05/25		
+KR011312	HSV-1	Human herpesvirus 1 strain 65M, partial genome	152158	10298	2015/05/13	2015/05/13		
+KR011311	HSV-1	Human herpesvirus 1 strain 5-4-2, partial genome	152271	10298	2015/05/13	2015/05/13		
+KR011310	HSV-1	Human herpesvirus 1 strain 83M, partial genome	152078	10298	2015/05/13	2015/05/13		
+KR011309	HSV-1	Human herpesvirus 1 strain 10-11-3, partial genome	152173	10298	2015/05/13	2015/05/13		
+KR011308	HSV-1	Human herpesvirus 1 strain 26S, partial genome	152206	10298	2015/05/13	2015/05/13		
+KR011307	HSV-1	Human herpesvirus 1 strain 82S, partial genome	152147	10298	2015/05/13	2015/05/13		
+KR011306	HSV-1	Human herpesvirus 1 strain 10-6-2, partial genome	152312	10298	2015/05/13	2015/05/13		
+KR011305	HSV-1	Human herpesvirus 1 strain 47M, partial genome	152207	10298	2015/05/13	2015/05/13		
+KR011304	HSV-1	Human herpesvirus 1 strain 31XL, partial genome	151883	10298	2015/05/13	2015/05/13		
+KR011303	HSV-1	Human herpesvirus 1 strain 16S, partial genome	152237	10298	2015/05/13	2015/05/13		
+KR011302	HSV-1	Human herpesvirus 1 strain 10-1-2, partial genome	152219	10298	2015/05/13	2015/05/13		
+KR011301	HSV-1	Human herpesvirus 1 strain 10-5-1, partial genome	152332	10298	2015/05/13	2015/05/13		
+KR011300	HSV-1	Human herpesvirus 1 strain 76M, partial genome	152248	10298	2015/05/13	2015/05/13		
+KR011299	HSV-1	Human herpesvirus 1 strain 5-1-1, partial genome	152322	10298	2015/05/13	2015/05/13		
+KR011298	HSV-1	Human herpesvirus 1 strain 12-12-2, partial genome	152239	10298	2015/05/13	2015/05/13		
+KR011297	HSV-1	Human herpesvirus 1 strain 27S, partial genome	152061	10298	2015/05/13	2015/05/13		
+KR011296	HSV-1	Human herpesvirus 1 strain 10-6-1, partial genome	152226	10298	2015/05/13	2015/05/13		
+KR011295	HSV-1	Human herpesvirus 1 strain 5-5-2, partial genome	152123	10298	2015/05/13	2015/05/13		
+KR011294	HSV-1	Human herpesvirus 1 strain 11M, partial genome	151718	10298	2015/05/13	2015/05/13		
+KR011293	HSV-1	Human herpesvirus 1 strain 19Lsyn, partial genome	151973	10298	2015/05/13	2015/05/13		
+KR011292	HSV-1	Human herpesvirus 1 strain 2-5-3, partial genome	152187	10298	2015/05/13	2015/05/13		
+KR011291	HSV-1	Human herpesvirus 1 strain 10-14-1, partial genome	152067	10298	2015/05/13	2015/05/13		
+KR011290	HSV-1	Human herpesvirus 1 strain 10-7-1, partial genome	151973	10298	2015/05/13	2015/05/13		
+KR011289	HSV-1	Human herpesvirus 1 strain 20L, partial genome	152159	10298	2015/05/13	2015/05/13		
+KR011288	HSV-1	Human herpesvirus 1 strain 2-4-2, partial genome	152075	10298	2015/05/13	2015/05/13		
+KR011287	HSV-1	Human herpesvirus 1 strain 10-11-2, partial genome	151918	10298	2015/05/13	2015/05/13		
+KR011286	HSV-1	Human herpesvirus 1 strain 12-12-67, partial genome	151944	10298	2015/05/13	2015/05/13		
+KR011285	HSV-1	Human herpesvirus 1 strain 5-2-1, partial genome	152196	10298	2015/05/13	2015/05/13		
+KR011284	HSV-1	Human herpesvirus 1 strain 10-6-3, partial genome	152185	10298	2015/05/13	2015/05/13		
+KR011283	HSV-1	Human herpesvirus 1 strain CJ994, partial genome	152175	10298	2015/05/13	2015/05/13		
+KR011282	HSV-1	Human herpesvirus 1 strain 3M, partial genome	151930	10298	2015/05/13	2015/05/13		
+KR011281	HSV-1	Human herpesvirus 1 strain 66S, partial genome	152277	10298	2015/05/13	2015/05/13		
+KR011280	HSV-1	Human herpesvirus 1 strain 8S, partial genome	152166	10298	2015/05/13	2015/05/13		
+KR011279	HSV-1	Human herpesvirus 1 strain 36L, partial genome	152003	10298	2015/05/13	2015/05/13		
+KR011278	HSV-1	Human herpesvirus 1 strain 4M, partial genome	152171	10298	2015/05/13	2015/05/13		
+KR011277	HSV-1	Human herpesvirus 1 strain 10-2-2, partial genome	152216	10298	2015/05/13	2015/05/13		
+KR011276	HSV-1	Human herpesvirus 1 strain 57M, partial genome	152311	10298	2015/05/13	2015/05/13		
+KR011275	HSV-1	Human herpesvirus 1 strain 34L, partial genome	151677	10298	2015/05/13	2015/05/13		
+KR011274	HSV-1	Human herpesvirus 1 strain 10-2-3, partial genome	152236	10298	2015/05/13	2015/05/13		
+KJ847330	HSV-1	Human herpesvirus 1 isolate HSV-1/0116209/India/2011, complete genome	151024	10298	2015/05/03	2015/05/03		
+KM222720	HSV-1	UNVERIFIED: Human herpesvirus 1 strain MacIntyre, partial genome	151868	10298	2014/10/05	2014/12/02		
+HM585515	HSV-1	Human herpesvirus 1 strain R62, partial genome	150593	10298	2011/06/30	2013/10/22		
+HM585514	HSV-1	Human herpesvirus 1 strain R11, partial genome	150701	10298	2011/06/30	2013/10/22		
+HM585513	HSV-1	Human herpesvirus 1 strain S25, partial genome	150817	10298	2011/06/30	2013/10/22		
+HM585512	HSV-1	Human herpesvirus 1 strain S23, partial genome	149410	10298	2011/06/30	2013/10/22		
+HM585511	HSV-1	Human herpesvirus 1 strain E19, partial genome	151077	10298	2011/06/30	2013/10/22		
+HM585510	HSV-1	Human herpesvirus 1 strain E14, partial genome	150663	10298	2011/06/30	2013/10/22		
+HM585509	HSV-1	Human herpesvirus 1 strain E03, partial genome	150850	10298	2011/06/30	2013/10/22		
+HM585508	HSV-1	Human herpesvirus 1 strain CR38, partial genome	151427	10298	2011/06/30	2013/10/22		
+HM585507	HSV-1	Human herpesvirus 1 strain E35, partial genome	149445	10298	2011/06/30	2013/10/22		
+HM585506	HSV-1	Human herpesvirus 1 strain E25, partial genome	150701	10298	2011/06/30	2013/10/22		
+HM585505	HSV-1	Human herpesvirus 1 strain E23, partial genome	150709	10298	2011/06/30	2013/10/22		
+HM585504	HSV-1	Human herpesvirus 1 strain E22, partial genome	150589	10298	2011/06/30	2013/10/22		
+HM585503	HSV-1	Human herpesvirus 1 strain E15, partial genome	150695	10298	2011/06/30	2013/10/22		
+HM585502	HSV-1	Human herpesvirus 1 strain E13, partial genome	150717	10298	2011/06/30	2013/10/22		
+HM585501	HSV-1	Human herpesvirus 1 strain E12, partial genome	150665	10298	2011/06/30	2013/10/22		
+HM585500	HSV-1	Human herpesvirus 1 strain E11, partial genome	150580	10298	2011/06/30	2013/10/22		
+HM585499	HSV-1	Human herpesvirus 1 strain E10, partial genome	150585	10298	2011/06/30	2013/10/22		
+HM585498	HSV-1	Human herpesvirus 1 strain E08, partial genome	150595	10298	2011/06/30	2013/10/22		
+HM585497	HSV-1	Human herpesvirus 1 strain E07, partial genome	150570	10298	2011/06/30	2013/10/22		
+HM585496	HSV-1	Human herpesvirus 1 strain E06, partial genome	150666	10298	2011/06/30	2013/10/22		
+JX392974	HSV-1	UNVERIFIED: Human herpesvirus 1 isolate UV11_20 thymidine kinase-like gene, complete sequence	1130	10298	2012/10/16	2013/05/28		
+JX392972	HSV-1	UNVERIFIED: Human herpesvirus 1 isolate UV11_18 thymidine kinase-like gene, complete sequence	1130	10298	2012/10/16	2013/05/28		
+JX392961	HSV-1	UNVERIFIED: Human herpesvirus 1 isolate UV11_7 thymidine kinase-like gene, complete sequence	1130	10298	2012/10/16	2013/05/28		
+JN415119	HSV-1	Human herpesvirus 1 strain HSV328058 nonfunctional thymidine kinase (UL23) gene, complete sequence	1130	10298	2011/12/21	2012/10/31		
+JN415118	HSV-1	Human herpesvirus 1 strain RV_179 nonfunctional thymidine kinase (UL23) gene, complete sequence	1132	10298	2011/12/21	2012/10/31		
+JN415117	HSV-1	Human herpesvirus 1 strain RV_117 nonfunctional thymidine kinase (UL23) gene, complete sequence	1131	10298	2011/12/21	2012/10/31		
+JQ730035	HSV-1	Human herpesvirus 1 strain McKrae, partial genome	151135	10298	2012/05/30	2012/10/12		
+JX142173	HSV-1	Human herpesvirus 1 strain Mckrae, partial genome	152201	10298	2012/08/19	2012/08/23		
+GU734772	HSV-1	Human herpesvirus 1 strain H129, complete genome	152066	10298	2010/03/09	2010/04/27		
+GU734771	HSV-1	Human herpesvirus 1 strain F, complete genome	152151	10298	2010/03/09	2010/04/27		
+JQ673480	HSV-1	Human herpesvirus 1 strain KOS, complete genome	152011	10298	2012/03/26	2012/05/10		
+JQ352285	HSV-1	Human herpesvirus 1 strain 374/2010 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1132	10298	2012/05/07	2012/05/07		
+JQ352278	HSV-1	Human herpesvirus 1 strain 064/2010 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1130	10298	2012/05/07	2012/05/07		
+JQ352277	HSV-1	Human herpesvirus 1 strain 063/2010 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1130	10298	2012/05/07	2012/05/07		
+JQ352276	HSV-1	Human herpesvirus 1 strain 062/2010 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1132	10298	2012/05/07	2012/05/07		
+JQ352274	HSV-1	Human herpesvirus 1 strain 060/2010 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1130	10298	2012/05/07	2012/05/07		
+JQ352272	HSV-1	Human herpesvirus 1 strain 058/2010 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1131	10298	2012/05/07	2012/05/07		
+JQ352270	HSV-1	Human herpesvirus 1 strain 003/2010 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1132	10298	2012/05/07	2012/05/07		
+JQ352269	HSV-1	Human herpesvirus 1 strain 3624/2009 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1132	10298	2012/05/07	2012/05/07		
+JQ352267	HSV-1	Human herpesvirus 1 strain 3579/2009 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1131	10298	2012/05/07	2012/05/07		
+JQ352266	HSV-1	Human herpesvirus 1 strain 3578/2009 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1130	10298	2012/05/07	2012/05/07		
+JQ352263	HSV-1	Human herpesvirus 1 strain 3573/2009 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1130	10298	2012/05/07	2012/05/07		
+JQ352258	HSV-1	Human herpesvirus 1 strain 2339/2009 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1132	10298	2012/05/07	2012/05/07		
+JQ352257	HSV-1	Human herpesvirus 1 strain 1756/2009 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1132	10298	2012/05/07	2012/05/07		
+JQ352256	HSV-1	Human herpesvirus 1 strain 1539/2009 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1131	10298	2012/05/07	2012/05/07		
+JQ780693	HSV-1	Human herpesvirus 1 strain KOS, complete genome	151024	10298	2012/04/24	2012/04/24		
+JN420341	HSV-1	Human herpesvirus 1 strain CJ970, partial genome	151984	10298	2011/11/02	2011/11/02		
+JN420340	HSV-1	Human herpesvirus 1 strain CJ394, partial genome	151921	10298	2011/11/02	2011/11/02		
+JN420339	HSV-1	Human herpesvirus 1 strain CJ360, partial genome	151912	10298	2011/11/02	2011/11/02		
+JN420338	HSV-1	Human herpesvirus 1 strain CJ311, partial genome	151909	10298	2011/11/02	2011/11/02		
+JN420337	HSV-1	Human herpesvirus 1 strain TFT401, partial genome	151912	10298	2011/11/02	2011/11/02		
+JN400093	HSV-1	Human herpesvirus 1 strain 134, partial genome	152104	10298	2011/11/02	2011/11/02		
+EF157315	HSV-1	Human herpesvirus 1 strain KOSc(A1) nonfunctional glycoprotein C (UL44) gene, complete sequence	1535	10298	2007/01/10	2007/10/09		
+EF157314	HSV-1	Human herpesvirus 1 strain KOSc(AC5-6) nonfunctional glycoprotein C (UL44) gene, complete sequence	1535	10298	2007/01/10	2007/10/09		
+DQ889502	HSV-1	Human herpesvirus 1 strain HF clone 10, partial sequence	131774	10298	2006/09/18	2007/05/04		
+HQ123162	HSV-1	Human herpesvirus 1 isolate 07051077 nonfunctional thymidine kinase (UL23) gene, complete sequence	1132	10298	2010/09/04	2010/09/04		
+HQ123161	HSV-1	Human herpesvirus 1 isolate 07501285 nonfunctional thymidine kinase (UL23) gene, complete sequence	1132	10298	2010/09/04	2010/09/04		
+HQ123160	HSV-1	Human herpesvirus 1 isolate 07500611 nonfunctional thymidine kinase (UL23) gene, complete sequence	1132	10298	2010/09/04	2010/09/04		
+HQ123159	HSV-1	Human herpesvirus 1 isolate 07350294 nonfunctional thymidine kinase (UL23) gene, complete sequence	1132	10298	2010/09/04	2010/09/04		
+HQ123158	HSV-1	Human herpesvirus 1 isolate 10070463 nonfunctional thymidine kinase (UL23) gene, complete sequence	1130	10298	2010/09/04	2010/09/04		
+HQ123157	HSV-1	Human herpesvirus 1 isolate 07410371 nonfunctional thymidine kinase (UL23) gene, complete sequence	1130	10298	2010/09/04	2010/09/04		
+FV537009	HSV-1	Modified Microbial Nucleic Acid	152261	10298	2010/03/18	2010/03/18		
+FV537008	HSV-1	Modified Microbial Nucleic Acid	152261	10298	2010/03/18	2010/03/18		
+FV537007	HSV-1	Modified Microbial Nucleic Acid	152261	10298	2010/03/18	2010/03/18		
+FV537006	HSV-1	Modified Microbial Nucleic Acid	152261	10298	2010/03/18	2010/03/18		
+X14112	HSV-1	Human herpesvirus 1 complete genome	152261	10298	1990/04/03	2008/10/23		
+AF251159	HSV-1	Human herpesvirus 1 mutant gamma1 34.5 gene, complete sequence	824	10298	2000/12/12	2000/12/12		
+PZ135825	HSV-2	Human alphaherpesvirus 2 isolate 51-SV_uncultured, complete genome	155875	10310	2026/07/24	2026/07/24		
+PZ135824	HSV-2	Human alphaherpesvirus 2 isolate 51-M_uncultured, partial genome	155651	10310	2026/07/24	2026/07/24		
+PZ135823	HSV-2	Human alphaherpesvirus 2 isolate 51-M_cultured, partial genome	156030	10310	2026/07/24	2026/07/24		
+MH790662	HSV-2	Human alphaherpesvirus 2 strain 1998-5562, partial genome	154358	10310	2019/03/06	2026/03/27		
+PX259988	HSV-2	UNVERIFIED: Human alphaherpesvirus 2 isolate MCL-24-H-4739, partial genome	154658	10310	2025/11/09	2025/11/09		
+PX259987	HSV-2	UNVERIFIED: Human alphaherpesvirus 2 isolate MCL-24-H-4741, partial genome	154670	10310	2025/11/09	2025/11/09		
+PX259986	HSV-2	UNVERIFIED: Human alphaherpesvirus 2 isolate MCL-24-H-4738, partial genome	154652	10310	2025/11/09	2025/11/09		
+PX242236	HSV-2	Human alphaherpesvirus 2 isolate MCL-24-H-4740, partial genome	154641	10310	2025/09/15	2025/09/15		
+PV972685	HSV-2	Human alphaherpesvirus 2 isolate KM-1, partial genome	155005	10310	2025/08/16	2025/08/16		
+PV798442	HSV-2	UNVERIFIED: Human alphaherpesvirus 2 isolate MCL-24-H-4741, partial genome	154670	10310	2025/07/14	2025/07/14		
+PV798441	HSV-2	UNVERIFIED: Human alphaherpesvirus 2 isolate MCL-24-H-4740, partial genome	154640	10310	2025/07/14	2025/07/14		
+PQ065522	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2R9/2020	153572	10310	2024/10/13	2024/10/13		
+PQ065521	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2R5/2020	153681	10310	2024/10/13	2024/10/13		
+PQ065520	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2R2/2020	154123	10310	2024/10/13	2024/10/13		
+PQ065519	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2Q7/2020	153556	10310	2024/10/13	2024/10/13		
+PQ065518	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2Q4/2020	154638	10310	2024/10/13	2024/10/13		
+PQ065517	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2P6/2020	153812	10310	2024/10/13	2024/10/13		
+PQ065516	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2P5/2020	154767	10310	2024/10/13	2024/10/13		
+PQ065515	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2P4/2020	154673	10310	2024/10/13	2024/10/13		
+PQ065514	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2P3/2020	154279	10310	2024/10/13	2024/10/13		
+PQ065513	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2P2/2020	153802	10310	2024/10/13	2024/10/13		
+PQ065512	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2P1/2020	154060	10310	2024/10/13	2024/10/13		
+PQ065511	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2O1/2020	153761	10310	2024/10/13	2024/10/13		
+PQ065510	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2N10/2020	154553	10310	2024/10/13	2024/10/13		
+PQ065509	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2N8/2020	153703	10310	2024/10/13	2024/10/13		
+PQ065508	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2N7/2020	154418	10310	2024/10/13	2024/10/13		
+PQ065507	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2N6/2020	153815	10310	2024/10/13	2024/10/13		
+PQ065506	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2L10/2020	153936	10310	2024/10/13	2024/10/13		
+PQ065505	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2L6/2020	154015	10310	2024/10/13	2024/10/13		
+PQ065504	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2L5/2019	153385	10310	2024/10/13	2024/10/13		
+PQ065503	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2K9/2019	153382	10310	2024/10/13	2024/10/13		
+PQ065502	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2J9/2019	154380	10310	2024/10/13	2024/10/13		
+PQ065501	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2J5/2019	153678	10310	2024/10/13	2024/10/13		
+PQ065500	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2J4/2019	155025	10310	2024/10/13	2024/10/13		
+PQ065499	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2J2/2019	154455	10310	2024/10/13	2024/10/13		
+PQ065498	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2I8/2019	154019	10310	2024/10/13	2024/10/13		
+PQ065497	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2H10/2019	153712	10310	2024/10/13	2024/10/13		
+PQ065496	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2H8/2019	153368	10310	2024/10/13	2024/10/13		
+PQ065495	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2G8/2019	154292	10310	2024/10/13	2024/10/13		
+PQ065494	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2G1/2019	154260	10310	2024/10/13	2024/10/13		
+PQ065493	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2F7/2019	153808	10310	2024/10/13	2024/10/13		
+PQ065492	HSV-2	Human alphaherpesvirus 2 isolate HSV2/USA/WA-UW-2D4/2019	154524	10310	2024/10/13	2024/10/13		
+PP100117	HSV-2	Human alphaherpesvirus 2 isolate 23, partial genome	153322	10310	2024/06/10	2024/06/10		
+PP100116	HSV-2	Human alphaherpesvirus 2 isolate 27, partial genome	143259	10310	2024/06/10	2024/06/10		
+PP100115	HSV-2	Human alphaherpesvirus 2 isolate 17, partial genome	153283	10310	2024/06/10	2024/06/10		
+PP100114	HSV-2	Human alphaherpesvirus 2 isolate 26, partial genome	144553	10310	2024/06/10	2024/06/10		
+PP100113	HSV-2	Human alphaherpesvirus 2 isolate 4, partial genome	151281	10310	2024/06/10	2024/06/10		
+PP100112	HSV-2	Human alphaherpesvirus 2 isolate 5, partial genome	143140	10310	2024/06/10	2024/06/10		
+PP100111	HSV-2	Human alphaherpesvirus 2 isolate 13, partial genome	148198	10310	2024/06/10	2024/06/10		
+PP100110	HSV-2	Human alphaherpesvirus 2 isolate 37, partial genome	155090	10310	2024/06/10	2024/06/10		
+PP100109	HSV-2	Human alphaherpesvirus 2 isolate 43, partial genome	153274	10310	2024/06/10	2024/06/10		
+PP100108	HSV-2	Human alphaherpesvirus 2 isolate 34, partial genome	145899	10310	2024/06/10	2024/06/10		
+PP100107	HSV-2	Human alphaherpesvirus 2 isolate 24, partial genome	153128	10310	2024/06/10	2024/06/10		
+PP100106	HSV-2	Human alphaherpesvirus 2 isolate 9, partial genome	153564	10310	2024/06/10	2024/06/10		
+PP100105	HSV-2	Human alphaherpesvirus 2 isolate 39, partial genome	154820	10310	2024/06/10	2024/06/10		
+PP100104	HSV-2	Human alphaherpesvirus 2 isolate 38, partial genome	154158	10310	2024/06/10	2024/06/10		
+PP100103	HSV-2	Human alphaherpesvirus 2 isolate 8, partial genome	154082	10310	2024/06/10	2024/06/10		
+PP100102	HSV-2	Human alphaherpesvirus 2 isolate 40, partial genome	152242	10310	2024/06/10	2024/06/10		
+PP100101	HSV-2	Human alphaherpesvirus 2 isolate 45, partial genome	151216	10310	2024/06/10	2024/06/10		
+PP100100	HSV-2	Human alphaherpesvirus 2 isolate 31, partial genome	151759	10310	2024/06/10	2024/06/10		
+PP100099	HSV-2	Human alphaherpesvirus 2 isolate 46, partial genome	155157	10310	2024/06/10	2024/06/10		
+PP100098	HSV-2	Human alphaherpesvirus 2 isolate 28, partial genome	151680	10310	2024/06/10	2024/06/10		
+PP100097	HSV-2	Human alphaherpesvirus 2 isolate 19, partial genome	153996	10310	2024/06/10	2024/06/10		
+PP100096	HSV-2	Human alphaherpesvirus 2 isolate 16, partial genome	152446	10310	2024/06/10	2024/06/10		
+PP100095	HSV-2	Human alphaherpesvirus 2, partial genome	154128	10310	2024/06/10	2024/06/10		
+PP100094	HSV-2	Human alphaherpesvirus 2 isolate 41, partial genome	153398	10310	2024/06/10	2024/06/10		
+PP100093	HSV-2	Human alphaherpesvirus 2 isolate 3, partial genome	153012	10310	2024/06/10	2024/06/10		
+PP100092	HSV-2	Human alphaherpesvirus 2 isolate 15, partial genome	153835	10310	2024/06/10	2024/06/10		
+PP100091	HSV-2	Human alphaherpesvirus 2 isolate 12, partial genome	154304	10310	2024/06/10	2024/06/10		
+PP100090	HSV-2	Human alphaherpesvirus 2 isolate 10, partial genome	153747	10310	2024/06/10	2024/06/10		
+PP100089	HSV-2	Human alphaherpesvirus 2 isolate 14, partial genome	153597	10310	2024/06/10	2024/06/10		
+PP100088	HSV-2	Human alphaherpesvirus 2 isolate 32, partial genome	153014	10310	2024/06/10	2024/06/10		
+PP100087	HSV-2	Human alphaherpesvirus 2 isolate 7, partial genome	153574	10310	2024/06/10	2024/06/10		
+PP100086	HSV-2	Human alphaherpesvirus 2 isolate 48, partial genome	153573	10310	2024/06/10	2024/06/10		
+PP100085	HSV-2	Human alphaherpesvirus 2 isolate 6, partial genome	152901	10310	2024/06/10	2024/06/10		
+PP100084	HSV-2	Human alphaherpesvirus 2 isolate 11, partial genome	153486	10310	2024/06/10	2024/06/10		
+PP100083	HSV-2	Human alphaherpesvirus 2 isolate 47, partial genome	153235	10310	2024/06/10	2024/06/10		
+PP100082	HSV-2	Human alphaherpesvirus 2 isolate 44, partial genome	154087	10310	2024/06/10	2024/06/10		
+PP100081	HSV-2	Human alphaherpesvirus 2 isolate 22, partial genome	153894	10310	2024/06/10	2024/06/10		
+PP100080	HSV-2	Human alphaherpesvirus 2 isolate 35, partial genome	153988	10310	2024/06/10	2024/06/10		
+PP100079	HSV-2	Human alphaherpesvirus 2 isolate 30, partial genome	154418	10310	2024/06/10	2024/06/10		
+PP100078	HSV-2	Human alphaherpesvirus 2 isolate 36, partial genome	153380	10310	2024/06/10	2024/06/10		
+PP100077	HSV-2	Human alphaherpesvirus 2 isolate 21, partial genome	154909	10310	2024/06/10	2024/06/10		
+PP100076	HSV-2	Human alphaherpesvirus 2 isolate 20, partial genome	153850	10310	2024/06/10	2024/06/10		
+PP100075	HSV-2	Human alphaherpesvirus 2 isolate 29, partial genome	153571	10310	2024/06/10	2024/06/10		
+PP100074	HSV-2	Human alphaherpesvirus 2 isolate 49, partial genome	153872	10310	2024/06/10	2024/06/10		
+PP100073	HSV-2	Human alphaherpesvirus 2 isolate 33, partial genome	154366	10310	2024/06/10	2024/06/10		
+PP100072	HSV-2	Human alphaherpesvirus 2 isolate 25, partial genome	154540	10310	2024/06/10	2024/06/10		
+PP100071	HSV-2	Human alphaherpesvirus 2 isolate 42, partial genome	153830	10310	2024/06/10	2024/06/10		
+PP100070	HSV-2	Human alphaherpesvirus 2 isolate 18, partial genome	154310	10310	2024/06/10	2024/06/10		
+PP100069	HSV-2	Human alphaherpesvirus 2 isolate 1, partial genome	154065	10310	2024/06/10	2024/06/10		
+PP100068	HSV-2	Human alphaherpesvirus 2 isolate 56, partial genome	144918	10310	2024/06/10	2024/06/10		
+PP100067	HSV-2	Human alphaherpesvirus 2 isolate 72, partial genome	153034	10310	2024/06/10	2024/06/10		
+PP100066	HSV-2	Human alphaherpesvirus 2 isolate 73, partial genome	153558	10310	2024/06/10	2024/06/10		
+PP100065	HSV-2	Human alphaherpesvirus 2 isolate 63, partial genome	154068	10310	2024/06/10	2024/06/10		
+PP100064	HSV-2	Human alphaherpesvirus 2 isolate 66, partial genome	154004	10310	2024/06/10	2024/06/10		
+PP100063	HSV-2	Human alphaherpesvirus 2 isolate 64, partial genome	154116	10310	2024/06/10	2024/06/10		
+PP100062	HSV-2	Human alphaherpesvirus 2 isolate 53, partial genome	153625	10310	2024/06/10	2024/06/10		
+PP100061	HSV-2	Human alphaherpesvirus 2 isolate 58, partial genome	154456	10310	2024/06/10	2024/06/10		
+PP100060	HSV-2	Human alphaherpesvirus 2 isolate 70, partial genome	154432	10310	2024/06/10	2024/06/10		
+PP100059	HSV-2	Human alphaherpesvirus 2 isolate 67, partial genome	153729	10310	2024/06/10	2024/06/10		
+PP100058	HSV-2	Human alphaherpesvirus 2 isolate 69, partial genome	154483	10310	2024/06/10	2024/06/10		
+PP100057	HSV-2	Human alphaherpesvirus 2 isolate 59, partial genome	153097	10310	2024/06/10	2024/06/10		
+PP100056	HSV-2	Human alphaherpesvirus 2 isolate 61, partial genome	150743	10310	2024/06/10	2024/06/10		
+PP100055	HSV-2	Human alphaherpesvirus 2 isolate 71, partial genome	152230	10310	2024/06/10	2024/06/10		
+PP100054	HSV-2	Human alphaherpesvirus 2 isolate 52, partial genome	154681	10310	2024/06/10	2024/06/10		
+PP100053	HSV-2	Human alphaherpesvirus 2 isolate 54, partial genome	154129	10310	2024/06/10	2024/06/10		
+PP100052	HSV-2	Human alphaherpesvirus 2 isolate 68, partial genome	144929	10310	2024/06/10	2024/06/10		
+PP100051	HSV-2	Human alphaherpesvirus 2 isolate 57, partial genome	151659	10310	2024/06/10	2024/06/10		
+PP100050	HSV-2	Human alphaherpesvirus 2 isolate 65, partial genome	149347	10310	2024/06/10	2024/06/10		
+PP100049	HSV-2	Human alphaherpesvirus 2 isolate 74, partial genome	152824	10310	2024/06/10	2024/06/10		
+PP100048	HSV-2	Human alphaherpesvirus 2 isolate 50, partial genome	154274	10310	2024/06/10	2024/06/10		
+PP100047	HSV-2	Human alphaherpesvirus 2 isolate 55, partial genome	153648	10310	2024/06/10	2024/06/10		
+PP100046	HSV-2	Human alphaherpesvirus 2 isolate 51, partial genome	153603	10310	2024/06/10	2024/06/10		
+PP100045	HSV-2	Human alphaherpesvirus 2 isolate 62, partial genome	151808	10310	2024/06/10	2024/06/10		
+PP100044	HSV-2	Human alphaherpesvirus 2 isolate 60, partial genome	153907	10310	2024/06/10	2024/06/10		
+PP100043	HSV-2	Human alphaherpesvirus 2 isolate 97, partial genome	146775	10310	2024/06/10	2024/06/10		
+PP100042	HSV-2	Human alphaherpesvirus 2 isolate 88, partial genome	153414	10310	2024/06/10	2024/06/10		
+PP100041	HSV-2	Human alphaherpesvirus 2 isolate 77, partial genome	153553	10310	2024/06/10	2024/06/10		
+PP100040	HSV-2	Human alphaherpesvirus 2 isolate 99, partial genome	154070	10310	2024/06/10	2024/06/10		
+PP100039	HSV-2	Human alphaherpesvirus 2 isolate 98, partial genome	154254	10310	2024/06/10	2024/06/10		
+PP100038	HSV-2	Human alphaherpesvirus 2 isolate 96, partial genome	153288	10310	2024/06/10	2024/06/10		
+PP100037	HSV-2	Human alphaherpesvirus 2 isolate 95, partial genome	153033	10310	2024/06/10	2024/06/10		
+PP100036	HSV-2	Human alphaherpesvirus 2 isolate 94, partial genome	153497	10310	2024/06/10	2024/06/10		
+PP100035	HSV-2	Human alphaherpesvirus 2 isolate 93, partial genome	153726	10310	2024/06/10	2024/06/10		
+PP100034	HSV-2	Human alphaherpesvirus 2 isolate 92, partial genome	153898	10310	2024/06/10	2024/06/10		
+PP100033	HSV-2	Human alphaherpesvirus 2 isolate 91, partial genome	153777	10310	2024/06/10	2024/06/10		
+PP100032	HSV-2	Human alphaherpesvirus 2 isolate 90, partial genome	153578	10310	2024/06/10	2024/06/10		
+PP100031	HSV-2	Human alphaherpesvirus 2 isolate 89, partial genome	154703	10310	2024/06/10	2024/06/10		
+PP100030	HSV-2	Human alphaherpesvirus 2 isolate 87, partial genome	153848	10310	2024/06/10	2024/06/10		
+PP100029	HSV-2	Human alphaherpesvirus 2 isolate 86, partial genome	154305	10310	2024/06/10	2024/06/10		
+PP100028	HSV-2	Human alphaherpesvirus 2 isolate 85, partial genome	153300	10310	2024/06/10	2024/06/10		
+PP100027	HSV-2	Human alphaherpesvirus 2 isolate 84, partial genome	150957	10310	2024/06/10	2024/06/10		
+PP100026	HSV-2	Human alphaherpesvirus 2 isolate 83, partial genome	153354	10310	2024/06/10	2024/06/10		
+PP100025	HSV-2	Human alphaherpesvirus 2 isolate 82, partial genome	154882	10310	2024/06/10	2024/06/10		
+PP100024	HSV-2	Human alphaherpesvirus 2 isolate 81, partial genome	153768	10310	2024/06/10	2024/06/10		
+PP100023	HSV-2	Human alphaherpesvirus 2 isolate 80, partial genome	153611	10310	2024/06/10	2024/06/10		
+PP100022	HSV-2	Human alphaherpesvirus 2 isolate 79, partial genome	154212	10310	2024/06/10	2024/06/10		
+PP100021	HSV-2	Human alphaherpesvirus 2 isolate 78, partial genome	154649	10310	2024/06/10	2024/06/10		
+PP100020	HSV-2	Human alphaherpesvirus 2 isolate 76, partial genome	144855	10310	2024/06/10	2024/06/10		
+PP100019	HSV-2	Human alphaherpesvirus 2 isolate 75, partial genome	153488	10310	2024/06/10	2024/06/10		
+PP100018	HSV-2	Human alphaherpesvirus 2 isolate 105, partial genome	144651	10310	2024/06/10	2024/06/10		
+PP100017	HSV-2	Human alphaherpesvirus 2 isolate 115, partial genome	154006	10310	2024/06/10	2024/06/10		
+PP100016	HSV-2	Human alphaherpesvirus 2 isolate 114, partial genome	153315	10310	2024/06/10	2024/06/10		
+PP100015	HSV-2	Human alphaherpesvirus 2 isolate 118, partial genome	152494	10310	2024/06/10	2024/06/10		
+PP100014	HSV-2	Human alphaherpesvirus 2 isolate 104, partial genome	153302	10310	2024/06/10	2024/06/10		
+PP100013	HSV-2	Human alphaherpesvirus 2 isolate 109, partial genome	153278	10310	2024/06/10	2024/06/10		
+PP100012	HSV-2	Human alphaherpesvirus 2 isolate 108, partial genome	153932	10310	2024/06/10	2024/06/10		
+PP100011	HSV-2	Human alphaherpesvirus 2 isolate 119, partial genome	153689	10310	2024/06/10	2024/06/10		
+PP100010	HSV-2	Human alphaherpesvirus 2 isolate 101, partial genome	153953	10310	2024/06/10	2024/06/10		
+PP100009	HSV-2	Human alphaherpesvirus 2 isolate 107, partial genome	154763	10310	2024/06/10	2024/06/10		
+PP100008	HSV-2	Human alphaherpesvirus 2 isolate 106, partial genome	154678	10310	2024/06/10	2024/06/10		
+PP100007	HSV-2	Human alphaherpesvirus 2 isolate 112, partial genome	153943	10310	2024/06/10	2024/06/10		
+PP100006	HSV-2	Human alphaherpesvirus 2 isolate 111, partial genome	154028	10310	2024/06/10	2024/06/10		
+PP100005	HSV-2	Human alphaherpesvirus 2 isolate 100, partial genome	154598	10310	2024/06/10	2024/06/10		
+PP100004	HSV-2	Human alphaherpesvirus 2 isolate 102, partial genome	154144	10310	2024/06/10	2024/06/10		
+PP100003	HSV-2	Human alphaherpesvirus 2 isolate 103, partial genome	153936	10310	2024/06/10	2024/06/10		
+PP100002	HSV-2	Human alphaherpesvirus 2 isolate 113, partial genome	153668	10310	2024/06/10	2024/06/10		
+PP100001	HSV-2	Human alphaherpesvirus 2 isolate 116, partial genome	153728	10310	2024/06/10	2024/06/10		
+PP100000	HSV-2	Human alphaherpesvirus 2 isolate 110, partial genome	154184	10310	2024/06/10	2024/06/10		
+PP099999	HSV-2	Human alphaherpesvirus 2 isolate 117, partial genome	154351	10310	2024/06/10	2024/06/10		
+PP099998	HSV-2	Human alphaherpesvirus 2 isolate 134, partial genome	143076	10310	2024/06/10	2024/06/10		
+PP099997	HSV-2	Human alphaherpesvirus 2 isolate 133, partial genome	154111	10310	2024/06/10	2024/06/10		
+PP099996	HSV-2	Human alphaherpesvirus 2 isolate 132, partial genome	153608	10310	2024/06/10	2024/06/10		
+PP099995	HSV-2	Human alphaherpesvirus 2 isolate 131, partial genome	152095	10310	2024/06/10	2024/06/10		
+PP099994	HSV-2	Human alphaherpesvirus 2 isolate 130, partial genome	153613	10310	2024/06/10	2024/06/10		
+PP099993	HSV-2	Human alphaherpesvirus 2 isolate 129, partial genome	153442	10310	2024/06/10	2024/06/10		
+PP099992	HSV-2	Human alphaherpesvirus 2 isolate 128, partial genome	153702	10310	2024/06/10	2024/06/10		
+PP099991	HSV-2	Human alphaherpesvirus 2 isolate 127, partial genome	153032	10310	2024/06/10	2024/06/10		
+PP099990	HSV-2	Human alphaherpesvirus 2 isolate 126, partial genome	153200	10310	2024/06/10	2024/06/10		
+PP099989	HSV-2	Human alphaherpesvirus 2 isolate 125, partial genome	153714	10310	2024/06/10	2024/06/10		
+PP099988	HSV-2	Human alphaherpesvirus 2 isolate 124, partial genome	153365	10310	2024/06/10	2024/06/10		
+PP099987	HSV-2	Human alphaherpesvirus 2 isolate 123, partial genome	150800	10310	2024/06/10	2024/06/10		
+PP099986	HSV-2	Human alphaherpesvirus 2 isolate 122, partial genome	154047	10310	2024/06/10	2024/06/10		
+PP099985	HSV-2	Human alphaherpesvirus 2 isolate 121, partial genome	153938	10310	2024/06/10	2024/06/10		
+PP099984	HSV-2	Human alphaherpesvirus 2 isolate 120, partial genome	154443	10310	2024/06/10	2024/06/10		
+PP099983	HSV-2	Human alphaherpesvirus 2 isolate 135, partial genome	152324	10310	2024/06/10	2024/06/10		
+PP099982	HSV-2	Human alphaherpesvirus 2 isolate 138, partial genome	151959	10310	2024/06/10	2024/06/10		
+PP099981	HSV-2	Human alphaherpesvirus 2 isolate 143, partial genome	147831	10310	2024/06/10	2024/06/10		
+PP099980	HSV-2	Human alphaherpesvirus 2 isolate 141, partial genome	151685	10310	2024/06/10	2024/06/10		
+PP099979	HSV-2	Human alphaherpesvirus 2 isolate 142, partial genome	151503	10310	2024/06/10	2024/06/10		
+PP099978	HSV-2	Human alphaherpesvirus 2 isolate 139, partial genome	150627	10310	2024/06/10	2024/06/10		
+PP099977	HSV-2	Human alphaherpesvirus 2 isolate 145, partial genome	152352	10310	2024/06/10	2024/06/10		
+PP099976	HSV-2	Human alphaherpesvirus 2 isolate 144, partial genome	152521	10310	2024/06/10	2024/06/10		
+PP099975	HSV-2	Human alphaherpesvirus 2 isolate 140, partial genome	152613	10310	2024/06/10	2024/06/10		
+PP099974	HSV-2	Human alphaherpesvirus 2 isolate 137, partial genome	152752	10310	2024/06/10	2024/06/10		
+PP099973	HSV-2	Human alphaherpesvirus 2 isolate 136, partial genome	153333	10310	2024/06/10	2024/06/10		
+PP386309	HSV-2	Human alphaherpesvirus 2 strain MBC024, partial genome	155639	10310	2024/03/12	2024/03/12		
+MH790594	HSV-2	UNVERIFIED: Human alphaherpesvirus 2 strain 1999-4603, partial genome	154425	10310	2019/03/06	2023/10/27		
+MF621258	HSV-2	Human alphaherpesvirus 2 strain 2009-4463, partial genome	153214	10310	2018/06/09	2023/10/27		
+MF621256	HSV-2	Human alphaherpesvirus 2 strain 2007-38113, partial genome	153229	10310	2018/06/09	2023/10/27		
+MF621255	HSV-2	Human alphaherpesvirus 2 strain 2006-46602, partial genome	153413	10310	2018/06/09	2023/10/27		
+MF621254	HSV-2	Human alphaherpesvirus 2 strain 2005-37403, partial genome	153362	10310	2018/06/09	2023/10/27		
+MH899846	HSV-2	Human alphaherpesvirus 2 strain 2006-15095, partial genome	153590	10310	2019/03/06	2023/09/07		
+MH790671	HSV-2	Human alphaherpesvirus 2 strain 2014-8176, partial genome	155801	10310	2019/03/06	2023/09/07		
+MH790670	HSV-2	Human alphaherpesvirus 2 strain 1996-45091, partial genome	154091	10310	2019/03/06	2023/09/07		
+MH790669	HSV-2	Human alphaherpesvirus 2 strain 2009-33886, partial genome	153897	10310	2019/03/06	2023/09/07		
+MH790668	HSV-2	Human alphaherpesvirus 2 strain 2007-15346, partial genome	152440	10310	2019/03/06	2023/09/07		
+MH790667	HSV-2	Human alphaherpesvirus 2 strain 2018-3118, partial genome	153673	10310	2019/03/06	2023/09/07		
+MH790665	HSV-2	Human alphaherpesvirus 2 strain 1996-53309, partial genome	154304	10310	2019/03/06	2023/09/07		
+MH790663	HSV-2	Human alphaherpesvirus 2 strain 2010-3487, partial genome	155078	10310	2019/03/06	2023/09/07		
+MH790661	HSV-2	Human alphaherpesvirus 2 strain 2000-3429, partial genome	154038	10310	2019/03/06	2023/09/07		
+MH790660	HSV-2	Human alphaherpesvirus 2 strain 2008-483, partial genome	154237	10310	2019/03/06	2023/09/07		
+MH790657	HSV-2	Human alphaherpesvirus 2 strain 2012-545, partial genome	155301	10310	2019/03/06	2023/09/07		
+MH790654	HSV-2	Human alphaherpesvirus 2 strain 2002-8734, partial genome	154674	10310	2019/03/06	2023/09/07		
+MH790653	HSV-2	Human alphaherpesvirus 2 strain 2004-51444, partial genome	153894	10310	2019/03/06	2023/09/07		
+MH790652	HSV-2	Human alphaherpesvirus 2 strain 2012-26422, partial genome	153667	10310	2019/03/06	2023/09/07		
+MH790651	HSV-2	Human alphaherpesvirus 2 strain 2002-12329, partial genome	154926	10310	2019/03/06	2023/09/07		
+MH790650	HSV-2	Human alphaherpesvirus 2 strain 2011-6227, partial genome	153732	10310	2019/03/06	2023/09/07		
+MH790648	HSV-2	Human alphaherpesvirus 2 strain 2005-35399, partial genome	153862	10310	2019/03/06	2023/09/07		
+MH790647	HSV-2	Human alphaherpesvirus 2 strain 2005-51214, partial genome	154433	10310	2019/03/06	2023/09/07		
+MH790646	HSV-2	Human alphaherpesvirus 2 strain 2007-43967, partial genome	154038	10310	2019/03/06	2023/09/07		
+MH790645	HSV-2	Human alphaherpesvirus 2 strain 2018-3111, partial genome	154136	10310	2019/03/06	2023/09/07		
+MH790644	HSV-2	Human alphaherpesvirus 2 strain 2009-11820, partial genome	153635	10310	2019/03/06	2023/09/07		
+MH790643	HSV-2	Human alphaherpesvirus 2 strain 2005-42278, partial genome	145448	10310	2019/03/06	2023/09/07		
+MH790642	HSV-2	Human alphaherpesvirus 2 strain 2007-29227, partial genome	153930	10310	2019/03/06	2023/09/07		
+MH790641	HSV-2	Human alphaherpesvirus 2 strain 2013-3040, partial genome	154571	10310	2019/03/06	2023/09/07		
+MH790639	HSV-2	Human alphaherpesvirus 2 strain 2012-33841, partial genome	154330	10310	2019/03/06	2023/09/07		
+MH790638	HSV-2	Human alphaherpesvirus 2 strain 1996-26333, partial genome	156528	10310	2019/03/06	2023/09/07		
+MH790637	HSV-2	Human alphaherpesvirus 2 strain 2012-5447, partial genome	153597	10310	2019/03/06	2023/09/07		
+MH790636	HSV-2	Human alphaherpesvirus 2 strain 2004-1497, partial genome	153918	10310	2019/03/06	2023/09/07		
+MH790635	HSV-2	Human alphaherpesvirus 2 strain 2010-8179, partial genome	154253	10310	2019/03/06	2023/09/07		
+MH790634	HSV-2	Human alphaherpesvirus 2 strain 2000-9815, partial genome	149744	10310	2019/03/06	2023/09/07		
+MH790633	HSV-2	Human alphaherpesvirus 2 strain 2006-57677, partial genome	153558	10310	2019/03/06	2023/09/07		
+MH790632	HSV-2	Human alphaherpesvirus 2 strain 2009-24855, partial genome	153797	10310	2019/03/06	2023/09/07		
+MH790631	HSV-2	Human alphaherpesvirus 2 strain 2010-4919, partial genome	153987	10310	2019/03/06	2023/09/07		
+MH790629	HSV-2	Human alphaherpesvirus 2 strain 1999-10594, partial genome	153872	10310	2019/03/06	2023/09/07		
+MH790628	HSV-2	Human alphaherpesvirus 2 strain 2018-3107, partial genome	154240	10310	2019/03/06	2023/09/07		
+MH790627	HSV-2	Human alphaherpesvirus 2 strain 2006-11821, partial genome	153453	10310	2019/03/06	2023/09/07		
+MH790626	HSV-2	Human alphaherpesvirus 2 strain 2005-51213, partial genome	153883	10310	2019/03/06	2023/09/07		
+MH790624	HSV-2	Human alphaherpesvirus 2 strain 2018-3121, partial genome	154228	10310	2019/03/06	2023/09/07		
+MH790622	HSV-2	Human alphaherpesvirus 2 strain 1999-38470, partial genome	154366	10310	2019/03/06	2023/09/07		
+MH790621	HSV-2	Human alphaherpesvirus 2 strain 1998-5748, partial genome	154668	10310	2019/03/06	2023/09/07		
+MH790620	HSV-2	Human alphaherpesvirus 2 strain 2013-22594, partial genome	154082	10310	2019/03/06	2023/09/07		
+MH790619	HSV-2	Human alphaherpesvirus 2 strain 2004-242, partial genome	155102	10310	2019/03/06	2023/09/07		
+MH790618	HSV-2	Human alphaherpesvirus 2 strain 2011-21768, partial genome	153023	10310	2019/03/06	2023/09/07		
+MH790617	HSV-2	Human alphaherpesvirus 2 strain 2006-57030, partial genome	153979	10310	2019/03/06	2023/09/07		
+MH790616	HSV-2	Human alphaherpesvirus 2 strain 2005-8614, partial genome	154342	10310	2019/03/06	2023/09/07		
+MH790615	HSV-2	Human alphaherpesvirus 2 strain 2004-43128, partial genome	153811	10310	2019/03/06	2023/09/07		
+MH790614	HSV-2	Human alphaherpesvirus 2 strain 1998-8243, partial genome	154585	10310	2019/03/06	2023/09/07		
+MH790613	HSV-2	Human alphaherpesvirus 2 strain 2011-12249, partial genome	153871	10310	2019/03/06	2023/09/07		
+MH790611	HSV-2	Human alphaherpesvirus 2 strain 1995-67203, partial genome	153895	10310	2019/03/06	2023/09/07		
+MH790609	HSV-2	Human alphaherpesvirus 2 strain 2018-3113, partial genome	154341	10310	2019/03/06	2023/09/07		
+MH790607	HSV-2	Human alphaherpesvirus 2 strain 2005-35403, partial genome	153184	10310	2019/03/06	2023/09/07		
+MH790606	HSV-2	Human alphaherpesvirus 2 strain 2015-27216, partial genome	154702	10310	2019/03/06	2023/09/07		
+MH790605	HSV-2	Human alphaherpesvirus 2 strain 2011-16336, partial genome	154035	10310	2019/03/06	2023/09/07		
+MH790602	HSV-2	Human alphaherpesvirus 2 strain 2005-31227, partial genome	153869	10310	2019/03/06	2023/09/07		
+MH790601	HSV-2	Human alphaherpesvirus 2 strain 2013-37246, partial genome	153136	10310	2019/03/06	2023/09/07		
+MH790600	HSV-2	Human alphaherpesvirus 2 strain 2004-16150, partial genome	153483	10310	2019/03/06	2023/09/07		
+MH790599	HSV-2	Human alphaherpesvirus 2 strain 2015-24108, partial genome	154353	10310	2019/03/06	2023/09/07		
+MH790598	HSV-2	Human alphaherpesvirus 2 strain 2008-4122, partial genome	153520	10310	2019/03/06	2023/09/07		
+MH790597	HSV-2	Human alphaherpesvirus 2 strain 2018-3120, partial genome	154749	10310	2019/03/06	2023/09/07		
+MH790596	HSV-2	Human alphaherpesvirus 2 strain 2018-3108, partial genome	153669	10310	2019/03/06	2023/09/07		
+MH790592	HSV-2	Human alphaherpesvirus 2 strain 2008-36694, partial genome	153659	10310	2019/03/06	2023/09/07		
+MH790591	HSV-2	Human alphaherpesvirus 2 strain 2006-200, partial genome	153653	10310	2019/03/06	2023/09/07		
+MH790589	HSV-2	Human alphaherpesvirus 2 strain 2004-2897, partial genome	155348	10310	2019/03/06	2023/09/07		
+MH790587	HSV-2	Human alphaherpesvirus 2 strain 2013-37885, partial genome	154327	10310	2019/03/06	2023/09/07		
+MH790586	HSV-2	Human alphaherpesvirus 2 strain 2016-8369, partial genome	154611	10310	2019/03/06	2023/09/07		
+MH790585	HSV-2	Human alphaherpesvirus 2 strain 2002-14972, partial genome	154740	10310	2019/03/06	2023/09/07		
+MH790584	HSV-2	Human alphaherpesvirus 2 strain 2012-10336, partial genome	152156	10310	2019/03/06	2023/09/07		
+MH790583	HSV-2	Human alphaherpesvirus 2 strain 2003-24998, partial genome	152844	10310	2019/03/06	2023/09/07		
+MH790581	HSV-2	Human alphaherpesvirus 2 strain 2011-5095, partial genome	154135	10310	2019/03/06	2023/09/07		
+MH790580	HSV-2	Human alphaherpesvirus 2 strain 1997-3671, partial genome	155199	10310	2019/03/06	2023/09/07		
+MH790579	HSV-2	Human alphaherpesvirus 2 strain 2018-3109, partial genome	154844	10310	2019/03/06	2023/09/07		
+MH790578	HSV-2	Human alphaherpesvirus 2 strain 2018-3110, partial genome	154273	10310	2019/03/06	2023/09/07		
+MH790577	HSV-2	Human alphaherpesvirus 2 strain 2007-22053, partial genome	154447	10310	2019/03/06	2023/09/07		
+MH790575	HSV-2	Human alphaherpesvirus 2 strain 2007-41207, partial genome	154893	10310	2019/03/06	2023/09/07		
+MH790574	HSV-2	UNVERIFIED: Human alphaherpesvirus 2 strain 2005-48385, partial genome	154488	10310	2019/03/06	2023/09/07		
+MH790573	HSV-2	Human alphaherpesvirus 2 strain 2011-14064, partial genome	154094	10310	2019/03/06	2023/09/07		
+MH790572	HSV-2	Human alphaherpesvirus 2 strain 1998-7832, partial genome	154045	10310	2019/03/06	2023/09/07		
+MH790571	HSV-2	Human alphaherpesvirus 2 strain 2004-46095, partial genome	154115	10310	2019/03/06	2023/09/07		
+MH790570	HSV-2	Human alphaherpesvirus 2 strain 2004-56880, partial genome	154065	10310	2019/03/06	2023/09/07		
+MH790569	HSV-2	Human alphaherpesvirus 2 strain 2010-1114, partial genome	154238	10310	2019/03/06	2023/09/07		
+MH790568	HSV-2	Human alphaherpesvirus 2 strain 2012-4759, partial genome	153331	10310	2019/03/06	2023/09/07		
+MH790567	HSV-2	Human alphaherpesvirus 2 strain 2006-38237, partial genome	153807	10310	2019/03/06	2023/09/07		
+MH790565	HSV-2	Human alphaherpesvirus 2 strain 2009-25036, partial genome	154141	10310	2019/03/06	2023/09/07		
+MH790564	HSV-2	Human alphaherpesvirus 2 strain 2008-29150, partial genome	154187	10310	2019/03/06	2023/09/07		
+MH790563	HSV-2	Human alphaherpesvirus 2 strain 2007-32812, partial genome	154661	10310	2019/03/06	2023/09/07		
+MH790562	HSV-2	Human alphaherpesvirus 2 strain 1996-38251, partial genome	154167	10310	2019/03/06	2023/09/07		
+MH790561	HSV-2	Human alphaherpesvirus 2 strain 2003-27026, partial genome	153445	10310	2019/03/06	2023/09/07		
+MH790560	HSV-2	Human alphaherpesvirus 2 strain 2008-7628, partial genome	153593	10310	2019/03/06	2023/09/07		
+MH790559	HSV-2	Human alphaherpesvirus 2 strain 2012-5456, partial genome	152823	10310	2019/03/06	2023/09/07		
+MH790558	HSV-2	Human alphaherpesvirus 2 strain 2005-48390, partial genome	153998	10310	2019/03/06	2023/09/07		
+MH790557	HSV-2	Human alphaherpesvirus 2 strain 2011-28591, partial genome	152732	10310	2019/03/06	2023/09/07		
+MH790556	HSV-2	Human alphaherpesvirus 2 strain 2012-15948, partial genome	153852	10310	2019/03/06	2023/09/07		
+MH790555	HSV-2	Human alphaherpesvirus 2 strain 2004-41447, partial genome	152781	10310	2019/03/06	2023/09/07		
+MH790554	HSV-2	Human alphaherpesvirus 2 strain 2001-6723, partial genome	154100	10310	2019/03/06	2023/09/07		
+MH790553	HSV-2	Human alphaherpesvirus 2 strain 2005-14172, partial genome	154027	10310	2019/03/06	2023/09/07		
+MH790552	HSV-2	Human alphaherpesvirus 2 strain 2013-35042, partial genome	153558	10310	2019/03/06	2023/09/07		
+MH790551	HSV-2	Human alphaherpesvirus 2 strain 2018-3119, partial genome	154357	10310	2019/03/06	2023/09/07		
+MH790550	HSV-2	Human alphaherpesvirus 2 strain 2011-31810, partial genome	153377	10310	2019/03/06	2023/09/07		
+MF621257	HSV-2	Human alphaherpesvirus 2 strain 2008-15116, partial genome	153414	10310	2018/06/09	2023/09/07		
+MF510371	HSV-2	Human alphaherpesvirus 2 strain 2008-83, partial genome	152848	10310	2017/11/22	2023/09/07		
+MF510370	HSV-2	Human alphaherpesvirus 2 strain 2009-143, partial genome	153446	10310	2017/11/22	2023/09/07		
+MF510369	HSV-2	Human alphaherpesvirus 2 strain 2002-9529, partial genome	149669	10310	2017/11/22	2023/09/07		
+MF510368	HSV-2	Human alphaherpesvirus 2 strain 2012-3154, partial genome	152895	10310	2017/11/22	2023/09/07		
+MF510366	HSV-2	Human alphaherpesvirus 2 strain 2012-18588, partial genome	153470	10310	2017/11/22	2023/09/07		
+MF510365	HSV-2	Human alphaherpesvirus 2 strain 2010-49, partial genome	153345	10310	2017/11/22	2023/09/07		
+MF510364	HSV-2	Human alphaherpesvirus 2 strain 1995-74779, partial genome	149834	10310	2017/11/22	2023/09/07		
+MF510363	HSV-2	Human alphaherpesvirus 2 strain 2015-14086, partial genome	152649	10310	2017/11/22	2023/09/07		
+MF510360	HSV-2	Human alphaherpesvirus 2 strain 2013-20710, partial genome	150696	10310	2017/11/22	2023/09/07		
+MF510359	HSV-2	Human alphaherpesvirus 2 strain 1996-45513, partial genome	151108	10310	2017/11/22	2023/09/07		
+MF510357	HSV-2	Human alphaherpesvirus 2 strain 2006-47348, partial genome	150750	10310	2017/11/22	2023/09/07		
+MF510356	HSV-2	Human alphaherpesvirus 2 strain 2014-23324, partial genome	153088	10310	2017/11/22	2023/09/07		
+MF510355	HSV-2	Human alphaherpesvirus 2 strain 2001-33392, partial genome	152152	10310	2017/11/22	2023/09/07		
+MF510354	HSV-2	Human alphaherpesvirus 2 strain 1994-31838, partial genome	150878	10310	2017/11/22	2023/09/07		
+MF510353	HSV-2	Human alphaherpesvirus 2 strain 2009-6972, partial genome	153325	10310	2017/11/22	2023/09/07		
+MF510352	HSV-2	Human alphaherpesvirus 2 strain 2007-225, partial genome	151818	10310	2017/11/22	2023/09/07		
+MF510351	HSV-2	Human alphaherpesvirus 2 strain 2013-7939, partial genome	152773	10310	2017/11/22	2023/09/07		
+MF510350	HSV-2	Human alphaherpesvirus 2 strain 2007-37750, partial genome	153336	10310	2017/11/22	2023/09/07		
+MF510349	HSV-2	Human alphaherpesvirus 2 strain 2012-15074, partial genome	150836	10310	2017/11/22	2023/09/07		
+MF510346	HSV-2	Human alphaherpesvirus 2 strain 1996-63142, partial genome	150751	10310	2017/11/22	2023/09/07		
+MF510344	HSV-2	Human alphaherpesvirus 2 strain 2006-25060, partial genome	152594	10310	2017/11/22	2023/09/07		
+MF510342	HSV-2	Human alphaherpesvirus 2 strain 2013-40864, partial genome	153704	10310	2017/11/22	2023/09/07		
+MF510340	HSV-2	Human alphaherpesvirus 2 strain 2013-44623, partial genome	152871	10310	2017/11/22	2023/09/07		
+MF510339	HSV-2	Human alphaherpesvirus 2 strain 1995-63092, partial genome	151274	10310	2017/11/22	2023/09/07		
+MF510338	HSV-2	Human alphaherpesvirus 2 strain 2015-30814, partial genome	153308	10310	2017/11/22	2023/09/07		
+MF510336	HSV-2	Human alphaherpesvirus 2 strain 2007-36717, partial genome	153556	10310	2017/11/22	2023/09/07		
+MF510335	HSV-2	Human alphaherpesvirus 2 strain 2013-5465, partial genome	152766	10310	2017/11/22	2023/09/07		
+MF510334	HSV-2	Human alphaherpesvirus 2 strain 2007-38191, partial genome	147305	10310	2017/11/22	2023/09/07		
+MF510333	HSV-2	Human alphaherpesvirus 2 strain 2010-19222, partial genome	153457	10310	2017/11/22	2023/09/07		
+MF510332	HSV-2	Human alphaherpesvirus 2 strain 1998-573, partial genome	151234	10310	2017/11/22	2023/09/07		
+MF510331	HSV-2	Human alphaherpesvirus 2 strain 2015-30415, partial genome	153470	10310	2017/11/22	2023/09/07		
+MF510329	HSV-2	Human alphaherpesvirus 2 strain 1994-32289, partial genome	153505	10310	2017/11/22	2023/09/07		
+MF510328	HSV-2	Human alphaherpesvirus 2 strain 2010-147, partial genome	153114	10310	2017/11/22	2023/09/07		
+MF510327	HSV-2	Human alphaherpesvirus 2 strain 2010-26, partial genome	153782	10310	2017/11/22	2023/09/07		
+MF510324	HSV-2	Human alphaherpesvirus 2 strain 2012-18385, partial genome	152336	10310	2017/11/22	2023/09/07		
+MF510321	HSV-2	Human alphaherpesvirus 2 strain 2009-28138, partial genome	150972	10310	2017/11/22	2023/09/07		
+MF510319	HSV-2	Human alphaherpesvirus 2 strain 2010-131, partial genome	152440	10310	2017/11/22	2023/09/07		
+MF510318	HSV-2	Human alphaherpesvirus 2 strain 1994-19218, partial genome	152708	10310	2017/11/22	2023/09/07		
+MF510317	HSV-2	Human alphaherpesvirus 2 strain 2015-2427, partial genome	153069	10310	2017/11/22	2023/09/07		
+MF510316	HSV-2	Human alphaherpesvirus 2 strain 2013-10248, partial genome	152789	10310	2017/11/22	2023/09/07		
+MF510314	HSV-2	Human alphaherpesvirus 2 strain 2000-20217, partial genome	152525	10310	2017/11/22	2023/09/07		
+MF510313	HSV-2	Human alphaherpesvirus 2 strain 2004-35508, partial genome	153515	10310	2017/11/22	2023/09/07		
+MF510311	HSV-2	Human alphaherpesvirus 2 strain 2007-141, partial genome	153558	10310	2017/11/22	2023/09/07		
+MF510310	HSV-2	Human alphaherpesvirus 2 strain 1998-3173, partial genome	150901	10310	2017/11/22	2023/09/07		
+MF510308	HSV-2	Human alphaherpesvirus 2 strain 1995-45304, partial genome	151005	10310	2017/11/22	2023/09/07		
+MF510307	HSV-2	Human alphaherpesvirus 2 strain 2010-21163, partial genome	153762	10310	2017/11/22	2023/09/07		
+MF510306	HSV-2	Human alphaherpesvirus 2 strain 2014-14807, partial genome	152705	10310	2017/11/22	2023/09/07		
+MF510305	HSV-2	Human alphaherpesvirus 2 strain 1997-1262, partial genome	152960	10310	2017/11/22	2023/09/07		
+MF510304	HSV-2	Human alphaherpesvirus 2 strain 1995-6523, partial genome	152750	10310	2017/11/22	2023/09/07		
+MF510301	HSV-2	Human alphaherpesvirus 2 strain 2004-3896, partial genome	153782	10310	2017/11/22	2023/09/07		
+MF510300	HSV-2	Human alphaherpesvirus 2 strain 2007-40102, partial genome	153485	10310	2017/11/22	2023/09/07		
+MF510297	HSV-2	Human alphaherpesvirus 2 strain 2014-7140, partial genome	153577	10310	2017/11/22	2023/09/07		
+MF510295	HSV-2	Human alphaherpesvirus 2 strain 2005-177, partial genome	153167	10310	2017/11/22	2023/09/07		
+MF510294	HSV-2	Human alphaherpesvirus 2 strain 2014-12235, partial genome	153197	10310	2017/11/22	2023/09/07		
+MF510293	HSV-2	Human alphaherpesvirus 2 strain 2013-41862, partial genome	151750	10310	2017/11/22	2023/09/07		
+MF510292	HSV-2	Human alphaherpesvirus 2 strain 2014-14811, partial genome	147366	10310	2017/11/22	2023/09/07		
+MF510291	HSV-2	Human alphaherpesvirus 2 strain 2004-35599, partial genome	152665	10310	2017/11/22	2023/09/07		
+MF510290	HSV-2	Human alphaherpesvirus 2 strain 2009-33613, partial genome	153257	10310	2017/11/22	2023/09/07		
+MF510288	HSV-2	Human alphaherpesvirus 2 strain 2000-24123, partial genome	152560	10310	2017/11/22	2023/09/07		
+MF510286	HSV-2	Human alphaherpesvirus 2 strain 2007-49, partial genome	151895	10310	2017/11/22	2023/09/07		
+MF510285	HSV-2	Human alphaherpesvirus 2 strain 1995-13482, partial genome	152641	10310	2017/11/22	2023/09/07		
+MF510284	HSV-2	Human alphaherpesvirus 2 strain 2015-3877, partial genome	152391	10310	2017/11/22	2023/09/07		
+MF510282	HSV-2	Human alphaherpesvirus 2 strain 2004-8527, partial genome	152248	10310	2017/11/22	2023/09/07		
+MF510281	HSV-2	Human alphaherpesvirus 2 strain 2006-17607, partial genome	152517	10310	2017/11/22	2023/09/07		
+MF510279	HSV-2	Human alphaherpesvirus 2 strain 1998-7600, partial genome	151973	10310	2017/11/22	2023/09/07		
+MF510278	HSV-2	Human alphaherpesvirus 2 strain 2001-13795, partial genome	151347	10310	2017/11/22	2023/09/07		
+MF510277	HSV-2	Human alphaherpesvirus 2 strain 2013-19050, partial genome	153107	10310	2017/11/22	2023/09/07		
+MF510276	HSV-2	Human alphaherpesvirus 2 strain 2012-35322, partial genome	152207	10310	2017/11/22	2023/09/07		
+MF510274	HSV-2	Human alphaherpesvirus 2 strain 2002-7934, partial genome	152569	10310	2017/11/22	2023/09/07		
+MF510273	HSV-2	Human alphaherpesvirus 2 strain 2008-15067, partial genome	147900	10310	2017/11/22	2023/09/07		
+MF510272	HSV-2	Human alphaherpesvirus 2 strain 2004-35598, partial genome	147611	10310	2017/11/22	2023/09/07		
+MF510271	HSV-2	Human alphaherpesvirus 2 strain 2006-36626, partial genome	150030	10310	2017/11/22	2023/09/07		
+MF510270	HSV-2	Human alphaherpesvirus 2 strain 2001-25659, partial genome	149310	10310	2017/11/22	2023/09/07		
+MF510267	HSV-2	Human alphaherpesvirus 2 strain 1994-24134, partial genome	153255	10310	2017/11/22	2023/09/07		
+OM370995	HSV-2	Human alphaherpesvirus 2 strain G, complete genome	155498	10310	2022/03/02	2022/04/18		
+MT919989	HSV-2	UNVERIFIED: Human alphaherpesvirus 2 strain 186 ubiquitin E3 ligase ICP0-like gene, complete sequence	3415	10310	2021/11/27	2021/11/27		
+MT461027	HSV-2	UNVERIFIED: Human alphaherpesvirus 2 isolate 2020-3450AC, partial genome	153595	10310	2021/07/20	2021/07/20		
+MT461026	HSV-2	UNVERIFIED: Human alphaherpesvirus 2 isolate 2020-3449AC, partial genome	153833	10310	2021/07/20	2021/07/20		
+MT364888	HSV-2	Human alphaherpesvirus 2, partial genome	154695	10310	2020/08/23	2020/08/23		
+MK855052	HSV-2	Human alphaherpesvirus 2 strain MS, complete genome	155975	10310	2020/05/13	2020/05/13		
+MN187895	HSV-2	Human alphaherpesvirus 2 isolate HJ12, complete genome	156293	10310	2020/03/08	2020/03/08		
+MH697501	HSV-2	Human alphaherpesvirus 2 isolate HSV2_21 nonfunctional truncated thymidine kinase (UL23) gene, complete sequence	1130	10310	2019/06/10	2019/06/10		
+MH790666	HSV-2	Human alphaherpesvirus 2 strain 2006-18141CAM, partial genome	153823	10310	2019/03/06	2019/03/06		
+MH790664	HSV-2	Human alphaherpesvirus 2 strain 1995-57888, partial genome	153652	10310	2019/03/06	2019/03/06		
+MH790659	HSV-2	Human alphaherpesvirus 2 strain 2006-18717CAM, partial genome	155235	10310	2019/03/06	2019/03/06		
+MH790658	HSV-2	Human alphaherpesvirus 2 strain 2006-16150CAM, partial genome	153500	10310	2019/03/06	2019/03/06		
+MH790656	HSV-2	Human alphaherpesvirus 2 strain 2006-15449CAM, partial genome	153336	10310	2019/03/06	2019/03/06		
+MH790655	HSV-2	Human alphaherpesvirus 2 strain 2006-15377CAM, partial genome	155939	10310	2019/03/06	2019/03/06		
+MH790649	HSV-2	Human alphaherpesvirus 2 strain 2006-14337CAM, partial genome	154935	10310	2019/03/06	2019/03/06		
+MH790640	HSV-2	Human alphaherpesvirus 2 strain 2006-14474CAM, partial genome	154640	10310	2019/03/06	2019/03/06		
+MH790630	HSV-2	Human alphaherpesvirus 2 strain 2006-14300CAM, partial genome	153834	10310	2019/03/06	2019/03/06		
+MH790625	HSV-2	Human alphaherpesvirus 2 strain 2006-15867CAM, partial genome	153981	10310	2019/03/06	2019/03/06		
+MH790623	HSV-2	Human alphaherpesvirus 2 strain 2006-13847CAM, partial genome	154106	10310	2019/03/06	2019/03/06		
+MH790612	HSV-2	Human alphaherpesvirus 2 strain 2006-16337CAM, partial genome	154084	10310	2019/03/06	2019/03/06		
+MH790610	HSV-2	Human alphaherpesvirus 2 strain 2006-17947CAM, partial genome	154315	10310	2019/03/06	2019/03/06		
+MH790608	HSV-2	Human alphaherpesvirus 2 strain 2006-13867CAM, partial genome	156407	10310	2019/03/06	2019/03/06		
+MH790604	HSV-2	Human alphaherpesvirus 2 strain 2014-13047, partial genome	154254	10310	2019/03/06	2019/03/06		
+MH790603	HSV-2	Human alphaherpesvirus 2 strain 2006-13869CAM, partial genome	153534	10310	2019/03/06	2019/03/06		
+MH790595	HSV-2	Human alphaherpesvirus 2 strain 2006-14635CAM, partial genome	153768	10310	2019/03/06	2019/03/06		
+MH790593	HSV-2	Human alphaherpesvirus 2 strain 2006-18003CAM, partial genome	152827	10310	2019/03/06	2019/03/06		
+MH790590	HSV-2	Human alphaherpesvirus 2 strain 2006-15771CAM, partial genome	153624	10310	2019/03/06	2019/03/06		
+MH790588	HSV-2	Human alphaherpesvirus 2 strain 1995-56864, partial genome	155415	10310	2019/03/06	2019/03/06		
+MH790582	HSV-2	Human alphaherpesvirus 2 strain 2018-5934, partial genome	156291	10310	2019/03/06	2019/03/06		
+MH790576	HSV-2	Human alphaherpesvirus 2 strain 2006-15840CAM, partial genome	154062	10310	2019/03/06	2019/03/06		
+MH790566	HSV-2	Human alphaherpesvirus 2 strain 2013-34209, partial genome	153969	10310	2019/03/06	2019/03/06		
+MK106004	HSV-2	Human alphaherpesvirus 2 strain SEM18, partial genome	139261	10310	2019/01/30	2019/01/30		
+MK106003	HSV-2	Human alphaherpesvirus 2 strain SEM13, partial genome	137833	10310	2019/01/30	2019/01/30		
+MK106002	HSV-2	Human alphaherpesvirus 2 strain SEM02, partial genome	139484	10310	2019/01/30	2019/01/30		
+MK106001	HSV-2	Human alphaherpesvirus 2 strain DISS29, partial genome	141164	10310	2019/01/30	2019/01/30		
+MK106000	HSV-2	Human alphaherpesvirus 2 strain DISS14, partial genome	137938	10310	2019/01/30	2019/01/30		
+MK105999	HSV-2	Human alphaherpesvirus 2 strain CNS17, partial genome	139349	10310	2019/01/30	2019/01/30		
+MK105998	HSV-2	Human alphaherpesvirus 2 strain CNS15, partial genome	138540	10310	2019/01/30	2019/01/30		
+MK105997	HSV-2	Human alphaherpesvirus 2 strain CNS12, partial genome	138461	10310	2019/01/30	2019/01/30		
+MK105996	HSV-2	Human alphaherpesvirus 2 strain CNS11, partial genome	138634	10310	2019/01/30	2019/01/30		
+MK105995	HSV-2	Human alphaherpesvirus 2 strain CNS03, partial genome	139626	10310	2019/01/30	2019/01/30		
+LT799380	HSV-2	Human herpesvirus 2 isolate 9 genome assembly, complete genome: monopartite	138917	10310	2017/03/08	2018/06/15		
+LT797786	HSV-2	Human herpesvirus 2 isolate 16 genome assembly, complete genome: monopartite	138939	10310	2017/03/04	2018/06/15		
+LT797682	HSV-2	Human herpesvirus 2 isolate 18 genome assembly, complete genome: monopartite	138881	10310	2017/03/04	2018/06/15		
+LT797636	HSV-2	Human herpesvirus 2 isolate 17 genome assembly, complete genome: monopartite	138913	10310	2017/03/04	2018/06/15		
+LT797635	HSV-2	Human herpesvirus 2 isolate 11 genome assembly, complete genome: monopartite	138769	10310	2017/03/04	2018/06/15		
+LT797634	HSV-2	Human herpesvirus 2 isolate 14 genome assembly, complete genome: monopartite	138854	10310	2017/03/04	2018/06/15		
+LT797633	HSV-2	Human herpesvirus 2 isolate 12 genome assembly, complete genome: monopartite	138986	10310	2017/03/04	2018/06/15		
+LT797632	HSV-2	Human herpesvirus 2 isolate 5 genome assembly, complete genome: monopartite	138844	10310	2017/03/04	2018/06/15		
+LT797631	HSV-2	Human herpesvirus 2 isolate 3 genome assembly, complete genome: monopartite	138962	10310	2017/03/04	2018/06/15		
+LT797630	HSV-2	Human herpesvirus 2 isolate 15 genome assembly, complete genome: monopartite	138836	10310	2017/03/04	2018/06/15		
+LT797629	HSV-2	Human herpesvirus 2 isolate 10 genome assembly, complete genome: monopartite	138972	10310	2017/03/04	2018/06/15		
+LT797628	HSV-2	Human herpesvirus 2 isolate 4 genome assembly, complete genome: monopartite	138775	10310	2017/03/04	2018/06/15		
+LT797627	HSV-2	Human herpesvirus 2 isolate 1 genome assembly, complete genome: monopartite	138912	10310	2017/03/04	2018/06/15		
+LT797626	HSV-2	Human herpesvirus 2 isolate 7 genome assembly, complete genome: monopartite	138969	10310	2017/03/04	2018/06/15		
+LT797625	HSV-2	Human herpesvirus 2 isolate 8 genome assembly, complete genome: monopartite	138944	10310	2017/03/04	2018/06/15		
+LT797624	HSV-2	Human herpesvirus 2 isolate 6 genome assembly, complete genome: monopartite	138927	10310	2017/03/04	2018/06/15		
+LT797623	HSV-2	Human herpesvirus 2 isolate 13 genome assembly, complete genome: monopartite	138873	10310	2017/03/04	2018/06/15		
+LT797622	HSV-2	Human herpesvirus 2 genome assembly, complete genome: monopartite	138923	10310	2017/03/04	2018/06/15		
+LS480640	HSV-2	Human alphaherpesvirus 2 isolate 333 genome assembly, chromosome: I	155503	10310	2018/06/07	2018/06/07		
+MF510367	HSV-2	Human alphaherpesvirus 2 strain 2001_6349, partial genome	153372	10310	2017/11/22	2017/11/22		
+MF510362	HSV-2	Human alphaherpesvirus 2 strain 2005_10915, partial genome	150863	10310	2017/11/22	2017/11/22		
+MF510361	HSV-2	Human alphaherpesvirus 2 strain 2009_2265, partial genome	153281	10310	2017/11/22	2017/11/22		
+MF510358	HSV-2	Human alphaherpesvirus 2 strain 2012_20191, partial genome	150298	10310	2017/11/22	2017/11/22		
+MF510348	HSV-2	Human alphaherpesvirus 2 strain 2006_21876, partial genome	152432	10310	2017/11/22	2017/11/22		
+MF510347	HSV-2	Human alphaherpesvirus 2 strain 2009_3488, partial genome	151663	10310	2017/11/22	2017/11/22		
+MF510345	HSV-2	Human alphaherpesvirus 2 strain 2014_23891, partial genome	150059	10310	2017/11/22	2017/11/22		
+MF510343	HSV-2	Human alphaherpesvirus 2 strain 2009_2139, partial genome	151440	10310	2017/11/22	2017/11/22		
+MF510341	HSV-2	Human alphaherpesvirus 2 strain 2007_22031, partial genome	150667	10310	2017/11/22	2017/11/22		
+MF510337	HSV-2	Human alphaherpesvirus 2 strain 2012_18420, partial genome	150342	10310	2017/11/22	2017/11/22		
+MF510330	HSV-2	Human alphaherpesvirus 2 strain 2009_2254, partial genome	147228	10310	2017/11/22	2017/11/22		
+MF510326	HSV-2	Human alphaherpesvirus 2 strain 1997_1393, partial genome	152670	10310	2017/11/22	2017/11/22		
+MF510325	HSV-2	Human alphaherpesvirus 2 strain 2009_393, partial genome	152051	10310	2017/11/22	2017/11/22		
+MF510323	HSV-2	Human alphaherpesvirus 2 strain 2000_24411, partial genome	149332	10310	2017/11/22	2017/11/22		
+MF510322	HSV-2	Human alphaherpesvirus 2 strain 2006_46019, partial genome	151280	10310	2017/11/22	2017/11/22		
+MF510320	HSV-2	Human alphaherpesvirus 2 strain 2006_46638, partial genome	153130	10310	2017/11/22	2017/11/22		
+MF510315	HSV-2	Human alphaherpesvirus 2 strain 2002_8781, partial genome	151508	10310	2017/11/22	2017/11/22		
+MF510312	HSV-2	Human alphaherpesvirus 2 strain 2009_2246, partial genome	153399	10310	2017/11/22	2017/11/22		
+MF510309	HSV-2	Human alphaherpesvirus 2 strain 2006_20641, partial genome	144650	10310	2017/11/22	2017/11/22		
+MF510303	HSV-2	Human alphaherpesvirus 2 strain 2009_406, partial genome	153559	10310	2017/11/22	2017/11/22		
+MF510302	HSV-2	Human alphaherpesvirus 2 strain 2006_23142, partial genome	153339	10310	2017/11/22	2017/11/22		
+MF510299	HSV-2	Human alphaherpesvirus 2 strain 2009_2222, partial genome	152219	10310	2017/11/22	2017/11/22		
+MF510298	HSV-2	Human alphaherpesvirus 2 strain 2003_18061, partial genome	153490	10310	2017/11/22	2017/11/22		
+MF510296	HSV-2	Human alphaherpesvirus 2 strain 2009_3539, partial genome	152314	10310	2017/11/22	2017/11/22		
+MF510289	HSV-2	Human alphaherpesvirus 2 strain 2009_3425, partial genome	146967	10310	2017/11/22	2017/11/22		
+MF510287	HSV-2	Human alphaherpesvirus 2 strain 2009_2258, partial genome	150720	10310	2017/11/22	2017/11/22		
+MF510283	HSV-2	Human alphaherpesvirus 2 strain 2012_9333, partial genome	148345	10310	2017/11/22	2017/11/22		
+MF510280	HSV-2	Human alphaherpesvirus 2 strain 2009_3495, partial genome	151634	10310	2017/11/22	2017/11/22		
+MF510275	HSV-2	Human alphaherpesvirus 2 strain 2009_4532, partial genome	153615	10310	2017/11/22	2017/11/22		
+MF510269	HSV-2	Human alphaherpesvirus 2 strain 2006_46118, partial genome	153272	10310	2017/11/22	2017/11/22		
+MF510268	HSV-2	Human alphaherpesvirus 2 strain 1995_45410, partial genome	150173	10310	2017/11/22	2017/11/22		
+KY922726	HSV-2	Human alphaherpesvirus 2 isolate HSV2-H12212, complete genome	155788	10310	2017/09/27	2017/09/27		
+KY922725	HSV-2	Human alphaherpesvirus 2 isolate HSV2-H12211, complete genome	155111	10310	2017/09/27	2017/09/27		
+KY922724	HSV-2	Human alphaherpesvirus 2 isolate HSV2-H1526, partial genome	154678	10310	2017/09/27	2017/09/27		
+KY922723	HSV-2	Human alphaherpesvirus 2 isolate HSV2-H1421, partial genome	148702	10310	2017/09/27	2017/09/27		
+KY922722	HSV-2	Human alphaherpesvirus 2 isolate HSV2-H1229, partial genome	154136	10310	2017/09/27	2017/09/27		
+KY922721	HSV-2	Human alphaherpesvirus 2 isolate HSV2-H1227, complete genome	152782	10310	2017/09/27	2017/09/27		
+KY922720	HSV-2	Human alphaherpesvirus 2 isolate HSV2-H1226, complete genome	152981	10310	2017/09/27	2017/09/27		
+MF783886	HSV-2	UNVERIFIED: Human alphaherpesvirus 2 isolate 16, partial genome	164695	10310	2017/09/19	2017/09/19		
+MF564037	HSV-2	Human alphaherpesvirus 2 sample 19, complete genome	152593	10310	2017/09/19	2017/09/19		
+MF564036	HSV-2	Human alphaherpesvirus 2 sample 16, complete genome	152593	10310	2017/09/19	2017/09/19		
+MF564035	HSV-2	Human alphaherpesvirus 2 sample 14, complete genome	152609	10310	2017/09/19	2017/09/19		
+MF564034	HSV-2	Human alphaherpesvirus 2 sample 08, complete genome	152633	10310	2017/09/19	2017/09/19		
+KX574906	HSV-2	Human alphaherpesvirus 2 isolate 2012-9333, partial genome	153615	10310	2017/03/26	2017/08/14		
+KX574905	HSV-2	Human alphaherpesvirus 2 isolate 2009-2198, partial genome	153864	10310	2017/03/26	2017/08/14		
+KX574904	HSV-2	Human alphaherpesvirus 2 isolate 2004-20601, partial genome	153690	10310	2017/03/26	2017/08/14		
+KX574903	HSV-2	Human alphaherpesvirus 2 isolate 2003-16029, partial genome	152412	10310	2017/03/26	2017/08/14		
+KX574902	HSV-2	Human alphaherpesvirus 2 isolate 2009-409, partial genome	153721	10310	2017/03/26	2017/08/14		
+KX574901	HSV-2	Human alphaherpesvirus 2 isolate 2012-32825, partial genome	153048	10310	2017/03/26	2017/08/14		
+KX574899	HSV-2	Human alphaherpesvirus 2 isolate 2011-34727, partial genome	153795	10310	2017/03/26	2017/08/14		
+KX574898	HSV-2	Human alphaherpesvirus 2 isolate 2011-33490, partial genome	153805	10310	2017/03/26	2017/08/14		
+KX574897	HSV-2	Human alphaherpesvirus 2 isolate 2011-21761, partial genome	153501	10310	2017/03/26	2017/08/14		
+KX574896	HSV-2	Human alphaherpesvirus 2 isolate 2010-6416, partial genome	153839	10310	2017/03/26	2017/08/14		
+KX574895	HSV-2	Human alphaherpesvirus 2 isolate 2010-21, partial genome	153033	10310	2017/03/26	2017/08/14		
+KX574894	HSV-2	Human alphaherpesvirus 2 isolate 2009-4556, partial genome	153697	10310	2017/03/26	2017/08/14		
+KX574893	HSV-2	Human alphaherpesvirus 2 isolate 2009-4550, partial genome	153780	10310	2017/03/26	2017/08/14		
+KX574892	HSV-2	Human alphaherpesvirus 2 isolate 2009-3532, partial genome	153755	10310	2017/03/26	2017/08/14		
+KX574891	HSV-2	Human alphaherpesvirus 2 isolate 2009-33778, partial genome	153836	10310	2017/03/26	2017/08/14		
+KX574890	HSV-2	Human alphaherpesvirus 2 isolate 2009-31735, partial genome	153827	10310	2017/03/26	2017/08/14		
+KX574889	HSV-2	Human alphaherpesvirus 2 isolate 2009-13458, partial genome	153812	10310	2017/03/26	2017/08/14		
+KX574888	HSV-2	Human alphaherpesvirus 2 isolate 2009-1245, partial genome	153376	10310	2017/03/26	2017/08/14		
+KX574887	HSV-2	Human alphaherpesvirus 2 isolate 2008-7539, partial genome	153952	10310	2017/03/26	2017/08/14		
+KX574886	HSV-2	Human alphaherpesvirus 2 isolate 2008-37744, partial genome	152447	10310	2017/03/26	2017/08/14		
+KX574885	HSV-2	Human alphaherpesvirus 2 isolate 2008-37496, partial genome	153417	10310	2017/03/26	2017/08/14		
+KX574884	HSV-2	Human alphaherpesvirus 2 isolate 2008-16404, partial genome	153884	10310	2017/03/26	2017/08/14		
+KX574883	HSV-2	Human alphaherpesvirus 2 isolate 2007-8222, partial genome	152889	10310	2017/03/26	2017/08/14		
+KX574882	HSV-2	Human alphaherpesvirus 2 isolate 2007-40807, partial genome	153797	10310	2017/03/26	2017/08/14		
+KX574881	HSV-2	Human alphaherpesvirus 2 isolate 2007-39729, partial genome	152481	10310	2017/03/26	2017/08/14		
+KX574880	HSV-2	Human alphaherpesvirus 2 isolate 2007-39712, partial genome	153955	10310	2017/03/26	2017/08/14		
+KX574879	HSV-2	Human alphaherpesvirus 2 isolate 2007-39521, partial genome	153746	10310	2017/03/26	2017/08/14		
+KX574878	HSV-2	Human alphaherpesvirus 2 isolate 2007-39303, partial genome	153832	10310	2017/03/26	2017/08/14		
+KX574877	HSV-2	Human alphaherpesvirus 2 isolate 2007-38910, partial genome	153684	10310	2017/03/26	2017/08/14		
+KX574876	HSV-2	Human alphaherpesvirus 2 isolate 2007-38901, partial genome	152923	10310	2017/03/26	2017/08/14		
+KX574875	HSV-2	Human alphaherpesvirus 2 isolate 2007-38807, partial genome	153890	10310	2017/03/26	2017/08/14		
+KX574874	HSV-2	Human alphaherpesvirus 2 isolate 2007-38627, partial genome	153956	10310	2017/03/26	2017/08/14		
+KX574873	HSV-2	Human alphaherpesvirus 2 isolate 2007-38606, partial genome	153760	10310	2017/03/26	2017/08/14		
+KX574872	HSV-2	Human alphaherpesvirus 2 isolate 2007-38249, partial genome	153774	10310	2017/03/26	2017/08/14		
+KX574871	HSV-2	Human alphaherpesvirus 2 isolate 2007-38120, partial genome	154126	10310	2017/03/26	2017/08/14		
+KX574870	HSV-2	Human alphaherpesvirus 2 isolate 2007-22031, partial genome	153679	10310	2017/03/26	2017/08/14		
+KX574869	HSV-2	Human alphaherpesvirus 2 isolate 2006-50074, partial genome	153801	10310	2017/03/26	2017/08/14		
+KX574868	HSV-2	Human alphaherpesvirus 2 isolate 2006-49895, partial genome	153762	10310	2017/03/26	2017/08/14		
+KX574867	HSV-2	Human alphaherpesvirus 2 isolate 2006-45028, partial genome	152168	10310	2017/03/26	2017/08/14		
+KX574866	HSV-2	Human alphaherpesvirus 2 isolate 2006-30937, partial genome	153805	10310	2017/03/26	2017/08/14		
+KX574865	HSV-2	Human alphaherpesvirus 2 isolate 2006-30839, partial genome	153726	10310	2017/03/26	2017/08/14		
+KX574864	HSV-2	Human alphaherpesvirus 2 isolate 2006-29060, partial genome	153024	10310	2017/03/26	2017/08/14		
+KX574863	HSV-2	Human alphaherpesvirus 2 isolate 2006-21832, partial genome	153981	10310	2017/03/26	2017/08/14		
+KX574862	HSV-2	Human alphaherpesvirus 2 isolate 2006-19390, partial genome	154126	10310	2017/03/26	2017/08/14		
+KX574861	HSV-2	Human alphaherpesvirus 2 isolate 2004-4373, partial genome	153033	10310	2017/03/26	2017/08/14		
+KX574860	HSV-2	Human alphaherpesvirus 2 isolate 2007-38205, partial genome	153781	10310	2017/03/26	2017/08/14		
+KX574908	HSV-2	Human alphaherpesvirus 2 isolate 2011-21400, partial genome	138620	10310	2017/03/26	2017/08/14		
+KX574907	HSV-2	Human alphaherpesvirus 2 isolate 2006-38659, partial genome	138637	10310	2017/03/26	2017/08/14		
+KX574900	HSV-2	Human alphaherpesvirus 2 isolate 2011-34957, partial genome	138619	10310	2017/03/26	2017/08/14		
+KU310668	HSV-2	Human alphaherpesvirus 2 isolate G, partial genome	158725	10310	2016/02/06	2016/08/26		
+KU310667	HSV-2	Human alphaherpesvirus 2 isolate 4674, partial genome	155299	10310	2016/02/06	2016/08/26		
+KU310666	HSV-2	Human alphaherpesvirus 2 isolate B^3x2.5, partial genome	156143	10310	2016/02/06	2016/08/26		
+KU310665	HSV-2	Human alphaherpesvirus 2 isolate B^3x2.4, partial genome	151921	10310	2016/02/06	2016/08/26		
+KU310664	HSV-2	Human alphaherpesvirus 2 isolate B^3x2.3, partial genome	162326	10310	2016/02/06	2016/08/26		
+KU310663	HSV-2	Human alphaherpesvirus 2 isolate B^3x2.2, partial genome	155438	10310	2016/02/06	2016/08/26		
+KU310662	HSV-2	Human alphaherpesvirus 2 isolate B^3x2.1, partial genome	157046	10310	2016/02/06	2016/08/26		
+NC_001798	HSV-2	Human herpesvirus 2 strain HG52, complete genome	154675	10310	1997/02/27	2016/05/16		
+JN561323	HSV-2	Human herpesvirus 2 strain HG52, complete genome	154675	10310	2011/12/18	2016/05/09		
+AY038368	HSV-2	Human herpesvirus 2 strain RR 60279 nonfunctional thymidine kinase gene, complete sequence; and glycoprotein H gene, partial cds	754	10310	2001/07/17	2002/10/10		
+KR135331	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/US/BID-G44422/333-R519 genomic sequence	152205	10310	2015/06/08	2015/06/08		
+KR135330	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/US/BID-G1929/BethesdaP5 genomic sequence	154392	10310	2015/06/08	2015/06/08		
+KR135329	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/JP/BID-G32593/JA9 genomic sequence	153554	10310	2015/06/08	2015/06/08		
+KR135328	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/JP/BID-G32592/JA8 genomic sequence	153901	10310	2015/06/08	2015/06/08		
+KR135327	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/JP/BID-G32591/JA7 genomic sequence	153449	10310	2015/06/08	2015/06/08		
+KR135326	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/JP/BID-G32590/JA6 genomic sequence	153510	10310	2015/06/08	2015/06/08		
+KR135325	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/JP/BID-G32589/JA5 genomic sequence	154491	10310	2015/06/08	2015/06/08		
+KR135324	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/JP/BID-G32588/JA3 genomic sequence	154404	10310	2015/06/08	2015/06/08		
+KR135323	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/JP/BID-G32587/JA2 genomic sequence	153745	10310	2015/06/08	2015/06/08		
+KR135322	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/JP/BID-G32586/JA1 genomic sequence	153923	10310	2015/06/08	2015/06/08		
+KR135321	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/US/BID-G19094/89-390/1989 genomic sequence	154170	10310	2015/06/08	2015/06/08		
+KR135320	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/ZA/BID-G19093/SD66/1995 genomic sequence	153524	10310	2015/06/08	2015/06/08		
+KR135319	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19091/D39765/2008 genomic sequence	154418	10310	2015/06/08	2015/06/08		
+KR135318	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19090/D39650/2008 genomic sequence	154489	10310	2015/06/08	2015/06/08		
+KR135317	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19089/A76832/2007 genomic sequence	153538	10310	2015/06/08	2015/06/08		
+KR135316	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19088/G75809/2007 genomic sequence	154319	10310	2015/06/08	2015/06/08		
+KR135315	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19087/J32715/2007 genomic sequence	153838	10310	2015/06/08	2015/06/08		
+KR135314	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/US/BID-G19086/7444-1996-25809/1996 genomic sequence	154570	10310	2015/06/08	2015/06/08		
+KR135313	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/US/BID-G19085/9335-2007-14/2011 genomic sequence	153953	10310	2015/06/08	2015/06/08		
+KR135312	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/US/BID-G19084/9335-2005-576/2009 genomic sequence	154358	10310	2015/06/08	2015/06/08		
+KR135311	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/US/BID-G19083/10883-2001-13347/2005 genomic sequence	153366	10310	2015/06/08	2015/06/08		
+KR135310	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/US/BID-G19082/44-319857/2007 genomic sequence	154234	10310	2015/06/08	2015/06/08		
+KR135309	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/US/BID-G19081/44-419851/2007 genomic sequence	154140	10310	2015/06/08	2015/06/08		
+KR135308	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/US/BID-G19080/44-419851/2007 genomic sequence	153945	10310	2015/06/08	2015/06/08		
+KR135307	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19079/J09622/2008 genomic sequence	154195	10310	2015/06/08	2015/06/08		
+KR135306	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19078/A76191/2008 genomic sequence	153285	10310	2015/06/08	2015/06/08		
+KR135305	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19077/K39924/2007 genomic sequence	153108	10310	2015/06/08	2015/06/08		
+KR135304	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19076/H00066/2007 genomic sequence	153445	10310	2015/06/08	2015/06/08		
+KR135303	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G44423/L22861/2007 genomic sequence	151988	10310	2015/06/08	2015/06/08		
+KR135302	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19074/M1119/2007 genomic sequence	154060	10310	2015/06/08	2015/06/08		
+KR135301	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19073/F70764/2007 genomic sequence	153611	10310	2015/06/08	2015/06/08		
+KR135300	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19072/D30613/2007 genomic sequence	153998	10310	2015/06/08	2015/06/08		
+KR135299	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/UG/BID-G19071/M22987/2007 genomic sequence	154044	10310	2015/06/08	2015/06/08		
+KR135298	HSV-2	UNVERIFIED: Human herpesvirus 2 isolate HSV-2/US/BID-G19070/8937-1-3336/2003 genomic sequence	153674	10310	2015/06/08	2015/06/08		
+KP334097	HSV-2	Human herpesvirus 2 strain CtSF, partial genome	154149	10310	2015/04/21	2015/04/21		
+KP334096	HSV-2	Human herpesvirus 2 strain COH 3818, partial genome	154544	10310	2015/04/21	2015/04/21		
+KP334095	HSV-2	Human herpesvirus 2 strain 1192, partial genome	152391	10310	2015/04/21	2015/04/21		
+KP334094	HSV-2	Human herpesvirus 2 strain GSC-56, partial genome	154185	10310	2015/04/21	2015/04/21		
+KP334093	HSV-2	Human herpesvirus 2 strain CtSF-R, partial genome	154521	10310	2015/04/21	2015/04/21		
+KP192856	HSV-2	Human herpesvirus 2 strain 333, partial genome	153333	10310	2015/04/20	2015/04/20		
+KF781518	HSV-2	Human herpesvirus 2 strain SD90e, complete genome	154126	10310	2014/01/22	2014/04/30		
+JN415125	HSV-2	Human herpesvirus 2 strain BA_19026589 nonfunctional thymidine kinase (UL23) gene, complete sequence	1130	10310	2011/12/21	2012/10/31		
+JN415124	HSV-2	Human herpesvirus 2 strain RV_185 nonfunctional thymidine kinase (UL23) gene, complete sequence	1132	10310	2011/12/21	2012/10/31		
+JN415122	HSV-2	Human herpesvirus 2 strain RV_129 nonfunctional thymidine kinase (UL23) gene, complete sequence	1132	10310	2011/12/21	2012/10/31		
+JN415121	HSV-2	Human herpesvirus 2 strain RV_101 nonfunctional thymidine kinase (UL23) gene, complete sequence	1132	10310	2011/12/21	2012/10/31		
+JN415120	HSV-2	Human herpesvirus 2 strain HSV-44 nonfunctional thymidine kinase (UL23) gene, complete sequence	1130	10310	2011/12/21	2012/10/31		
+JX112656	HSV-2	UNVERIFIED: Human herpesvirus 2 strain 186, partial genome	150612	10312	2012/07/02	2012/07/02		
+JQ352300	HSV-2	Human herpesvirus 2 strain 247/2010 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1130	10310	2012/05/07	2012/05/07		
+JQ352299	HSV-2	Human herpesvirus 2 strain 246/2010 nonfunctional thymidine kinase-like (UL23) gene, complete sequence	1132	10310	2012/05/07	2012/05/07		
+EU018128	HSV-2	Human herpesvirus 2 strain 333 (variant AC9) nonfunctional glycoprotein G (US4) gene, complete sequence	2096	10310	2007/08/21	2007/11/29		
+EU018127	HSV-2	Human herpesvirus 2 strain 333 (variant AC8) nonfunctional glycoprotein G (US4) gene, complete sequence	2096	10310	2007/08/21	2007/11/29		
+EU018126	HSV-2	Human herpesvirus 2 strain 333 (variant AC1) nonfunctional glycoprotein G (US4) gene, complete sequence	2096	10310	2007/08/21	2007/11/29		
+EU018104	HSV-2	Human herpesvirus 2 strain 333 (variant A9) nonfunctional glycoprotein G (US4) gene, complete sequence	2096	10310	2007/08/21	2007/11/29		
+EU018102	HSV-2	Human herpesvirus 2 strain 333 (variant AC6) nonfunctional glycoprotein G (US4) gene, complete sequence	2096	10310	2007/08/21	2007/11/29		
+EU018101	HSV-2	Human herpesvirus 2 strain 333 (variant AC4) nonfunctional glycoprotein G (US4) gene, complete sequence	2097	10310	2007/08/21	2007/11/29		
+EU018100	HSV-2	Human herpesvirus 2 strain 333 (variant AC3) nonfunctional glycoprotein G (US4) gene, complete sequence	2098	10310	2007/08/21	2007/11/29		
+EU018099	HSV-2	Human herpesvirus 2 strain 333 (variant AC2) nonfunctional glycoprotein G (US4) gene, complete sequence	2095	10310	2007/08/21	2007/11/29		
+HQ123142	HSV-2	Human herpesvirus 2 isolate 09200631 nonfunctional thymidine kinase (UL23) gene, complete sequence	1132	10310	2010/09/04	2010/09/04		
+HQ123141	HSV-2	Human herpesvirus 2 isolate 09130442 nonfunctional thymidine kinase (UL23) gene, complete sequence	1132	10310	2010/09/04	2010/09/04		
+HQ123140	HSV-2	Human herpesvirus 2 isolate 08401088 nonfunctional thymidine kinase (UL23) gene, complete sequence	1132	10310	2010/09/04	2010/09/04		
+HQ123139	HSV-2	Human herpesvirus 2 isolate 09121229 nonfunctional thymidine kinase (UL23) gene, complete sequence	1130	10310	2010/09/04	2010/09/04		
+HQ123138	HSV-2	Human herpesvirus 2 isolate 09040715 nonfunctional thymidine kinase (UL23) gene, complete sequence	1130	10310	2010/09/04	2010/09/04		
+HQ123137	HSV-2	Human herpesvirus 2 isolate 08160205 nonfunctional thymidine kinase (UL23) gene, complete sequence	1133	10310	2010/09/04	2010/09/04		
+HQ123136	HSV-2	Human herpesvirus 2 isolate 07050655 nonfunctional thymidine kinase (UL23) gene, complete sequence	1130	10310	2010/09/04	2010/09/04		
+HQ123135	HSV-2	Human herpesvirus 2 isolate 09510471 nonfunctional thymidine kinase (UL23) gene, complete sequence	1131	10310	2010/09/04	2010/09/04		
+HQ123134	HSV-2	Human herpesvirus 2 isolate 08390192 nonfunctional thymidine kinase (UL23) gene, complete sequence	1131	10310	2010/09/04	2010/09/04		
+FV537013	HSV-2	Modified Microbial Nucleic Acid	154746	10310	2010/03/18	2010/03/18		
+FV537012	HSV-2	Modified Microbial Nucleic Acid	154746	10310	2010/03/18	2010/03/18		
+FV537011	HSV-2	Modified Microbial Nucleic Acid	154746	10310	2010/03/18	2010/03/18		
+FV537010	HSV-2	Modified Microbial Nucleic Acid	154746	10310	2010/03/18	2010/03/18		
+AY827229	HSV-2	Human herpesvirus 2 isolate 9947 from USA UL19-UL20 intergenic spacer, complete sequence	311	10310	2004/12/12	2006/07/11		
+AY827228	HSV-2	Human herpesvirus 2 isolate 9946 from USA UL19-UL20 intergenic spacer, complete sequence	311	10310	2004/12/12	2006/07/11		
+AY827227	HSV-2	Human herpesvirus 2 isolate 9884 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827226	HSV-2	Human herpesvirus 2 isolate 9847 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827225	HSV-2	Human herpesvirus 2 isolate 9542 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827224	HSV-2	Human herpesvirus 2 isolate 9497 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827223	HSV-2	Human herpesvirus 2 isolate 9383 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827222	HSV-2	Human herpesvirus 2 isolate 9373 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827221	HSV-2	Human herpesvirus 2 isolate 9223 from USA UL19-UL20 intergenic spacer, complete sequence	310	10310	2004/12/12	2006/07/11		
+AY827220	HSV-2	Human herpesvirus 2 isolate 9191 from USA UL19-UL20 intergenic spacer, complete sequence	310	10310	2004/12/12	2006/07/11		
+AY827219	HSV-2	Human herpesvirus 2 isolate 8988 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827218	HSV-2	Human herpesvirus 2 isolate 8987 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827217	HSV-2	Human herpesvirus 2 isolate 8906 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827216	HSV-2	Human herpesvirus 2 isolate 8905 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827215	HSV-2	Human herpesvirus 2 isolate 8495 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827214	HSV-2	Human herpesvirus 2 isolate 8484 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827213	HSV-2	Human herpesvirus 2 isolate 8458 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827212	HSV-2	Human herpesvirus 2 isolate 8456 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827211	HSV-2	Human herpesvirus 2 isolate 8185 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827210	HSV-2	Human herpesvirus 2 isolate 8184 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827209	HSV-2	Human herpesvirus 2 isolate 8029 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827208	HSV-2	Human herpesvirus 2 isolate 8028 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827207	HSV-2	Human herpesvirus 2 isolate 10669 from USA UL19-UL20 intergenic spacer, complete sequence	310	10310	2004/12/12	2006/07/11		
+AY827206	HSV-2	Human herpesvirus 2 isolate 10666 from USA UL19-UL20 intergenic spacer, complete sequence	310	10310	2004/12/12	2006/07/11		
+AY827205	HSV-2	Human herpesvirus 2 isolate 10605 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827204	HSV-2	Human herpesvirus 2 isolate 10352 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827203	HSV-2	Human herpesvirus 2 isolate 10129 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827202	HSV-2	Human herpesvirus 2 isolate 10059 from USA UL19-UL20 intergenic spacer, complete sequence	312	10310	2004/12/12	2006/07/11		
+AY827201	HSV-2	Human herpesvirus 2 isolate 10045 from USA UL19-UL20 intergenic spacer, complete sequence	311	10310	2004/12/12	2006/07/11		
+AF141858	HSV-2	Human herpesvirus 2 strain VI-453 glycoprotein G-2 (US4) pseudogene, complete sequence	2093	10310	1999/06/02	1999/11/19		
+AF141857	HSV-2	Human herpesvirus 2 strain VI-4444 glycoprotein G-2 (US4) pseudogene, complete sequence	2096	10310	1999/06/02	1999/11/19		
+AF141856	HSV-2	Human herpesvirus 2 strain VI-147 glycoprotein G-2 (US4) pseudogene, complete sequence	2089	10310	1999/06/02	1999/11/19		
+AF141855	HSV-2	Human herpesvirus 2 strain VI-512 glycoprotein G-2 (US4) pseudogene, complete sequence	2098	10310	1999/06/02	1999/11/19		
+AF141854	HSV-2	Human herpesvirus 2 strain VI-2434 glycoprotein G-2 (US4) pseudogene, complete sequence	2093	10310	1999/06/02	1999/11/19		
+Z86099	HSV-2	Herpes simplex virus type 2 (strain HG52), complete genome	154746	10310	1997/02/27	2006/11/14		
