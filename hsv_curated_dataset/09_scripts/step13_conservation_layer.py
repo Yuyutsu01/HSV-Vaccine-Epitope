@@ -12,7 +12,19 @@ between the two types. No dN/dS or recombination inference is performed on poole
 (CORRECTIONS_AND_PENDING_WORK.md, A2).
 
 Both reference rows are present in those alignments, so each column carries an HSV-1
-(NC_001806.2) and an HSV-2 (NC_001798.2) residue number. Entropy is reported twice:
+(NC_001806.2) and an HSV-2 (NC_001798.2) residue number.
+
+Those residue numbers are counted on the UNMASKED combined alignment and indexed through
+the retained-column list that step09c records in masking_report_v2.tsv, NOT counted on the
+masked alignment. Counting on the masked alignment is wrong and was the original defect:
+masking removes columns, so a reference residue in a dropped column is never counted and
+every number after it is short by one, the drift accumulating down the protein. That put
+7,343 of 22,955 rows on the wrong residue, worst in the heavily masked genes (RS1, RL2,
+UL27, UL30), and it propagated into every downstream join on (gene, type, ref_residue) --
+the shortlist conservation annotation, the cross-protective subset, the priority score, the
+minimal panel and the structural mapping. `assert_reference_numbering` now checks every
+emitted (ref_residue, ref_aa) pair against the GenBank translation and aborts the run on
+any mismatch; that check is what the step was missing. Entropy is reported twice:
   - haplotype-weighted: one count per unique deduplicated sequence
   - isolate-weighted:   each sequence weighted by its cluster_size, recovering the true
                         population frequency of each residue
@@ -33,11 +45,17 @@ from collections import Counter
 from datetime import datetime
 
 import pandas as pd
+from Bio import SeqIO
 from Bio.Seq import Seq
 
 DIR_BASE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 DIR_COMB = os.path.join(DIR_BASE, "06_alignments_v2", "masked", "combined")
+DIR_UNMASKED = os.path.join(DIR_BASE, "06_alignments_v2", "combined")
+DIR_REF = os.path.join(DIR_BASE, "01_reference_genomes")
+MASK_REPORT = os.path.join(DIR_BASE, "06_alignments_v2", "masking_report_v2.tsv")
 DIR_OUT = os.path.join(DIR_BASE, "11_conservation")
+
+REF_ACC = {"HSV1": "NC_001806.2", "HSV2": "NC_001798.2"}
 
 # A window is reported as a cross-protective candidate when every residue in it is
 # conserved in both types at >= this frequency and identical between the types.
@@ -110,10 +128,100 @@ def cluster_size(header):
     return int(m.group(1)) if m else 1
 
 
+def retained_columns(gene):
+    """1-based UNMASKED codon columns that survived masking, from step09c's own record.
+
+    Reconstructed from `dropped_codon_ranges` rather than inferred by matching column
+    content: content matching is ambiguous wherever two columns are identical, which in
+    the tandem repeats of RL2 and RS1 is common.
+    """
+    rep = pd.read_csv(MASK_REPORT, sep="\t")
+    rep = rep[(rep.cohort == "combined") & (rep.gene == gene)]
+    if len(rep) != 1:
+        raise RuntimeError(
+            f"{gene}: expected exactly one combined masking record, found {len(rep)}")
+    row = rep.iloc[0]
+    total = int(row.unmasked_codons)
+    txt = row.dropped_codon_ranges
+    dropped = set()
+    if isinstance(txt, str) and txt.strip() and txt.strip().lower() != "nan":
+        for part in txt.split(";"):
+            part = part.strip()
+            if not part:
+                continue
+            m = re.match(r"^(\d+)-(\d+)$", part)
+            if m:
+                dropped.update(range(int(m.group(1)), int(m.group(2)) + 1))
+            else:
+                dropped.add(int(part))
+    return [c for c in range(1, total + 1) if c not in dropped]
+
+
+def reference_proteins():
+    """{(type, gene): protein} from the two reference GenBank records."""
+    out = {}
+    for vt, acc in REF_ACC.items():
+        rec = SeqIO.read(os.path.join(DIR_REF, f"{acc}.gbk"), "genbank")
+        seen = set()
+        for feat in rec.features:
+            if feat.type != "CDS":
+                continue
+            g = (feat.qualifiers.get("gene", [""])[0]
+                 or feat.qualifiers.get("locus_tag", [""])[0])
+            t = feat.qualifiers.get("translation", [""])[0]
+            if g and t and g not in seen:
+                out[(vt, g)] = t
+                seen.add(g)
+    return out
+
+
+REF_PROTEINS = None
+
+
+def assert_reference_numbering(gene, df):
+    """Abort unless every emitted residue number carries the reference's own residue.
+
+    This is the check whose absence allowed the numbering defect to ship. It is cheap and
+    it is absolute: if ref_residue says 373 then the reference protein's residue 373 must
+    be the letter in ref_aa.
+    """
+    global REF_PROTEINS
+    if REF_PROTEINS is None:
+        REF_PROTEINS = reference_proteins()
+    for vt in ("hsv1", "hsv2"):
+        prot = REF_PROTEINS.get((vt.upper(), gene))
+        if prot is None:
+            log(f"WARNING: {gene}/{vt.upper()} has no reference CDS; numbering unchecked")
+            continue
+        sub_df = df[df[f"{vt}_ref_residue"].notna()]
+        bad = []
+        for res, aa in zip(sub_df[f"{vt}_ref_residue"], sub_df[f"{vt}_ref_aa"]):
+            i = int(res) - 1
+            if not (0 <= i < len(prot)) or prot[i] != aa:
+                bad.append((int(res), aa, prot[i] if 0 <= i < len(prot) else "?"))
+        if bad:
+            raise RuntimeError(
+                f"{gene}/{vt.upper()}: {len(bad)} residue number(s) disagree with the "
+                f"reference protein; first three {bad[:3]} "
+                f"(ref_residue, ref_aa, protein residue)")
+
+
 def process_gene(path, gene):
     ids, seqs = read_fasta(path)
     prots = [translate_codons(s) for s in seqs]
     ncol = len(prots[0])
+
+    # Reference numbering comes from the unmasked alignment; see the module docstring.
+    unm_path = os.path.join(DIR_UNMASKED, f"{gene}_combined_aligned.fasta")
+    unm_ids, unm_seqs = read_fasta(unm_path)
+    if unm_ids != ids:
+        raise RuntimeError(f"{gene}: masked and unmasked alignments differ in row order")
+    unm_prots = [translate_codons(s) for s in unm_seqs]
+    retained = retained_columns(gene)
+    if len(retained) != ncol:
+        raise RuntimeError(
+            f"{gene}: masking record retains {len(retained)} codons but the masked "
+            f"alignment has {ncol}")
 
     ref_rows, groups = {}, {"HSV1": [], "HSV2": []}
     for k, header in enumerate(ids):
@@ -129,17 +237,26 @@ def process_gene(path, gene):
 
     weights = {k: cluster_size(ids[k]) for k in range(len(ids))}
 
-    # Reference residue numbering per type.
+    # Reference residue numbering per type, counted on the UNMASKED alignment and then
+    # read back through the retained columns. Counting on `prots` (masked) silently
+    # renumbers every residue after each dropped column -- the original defect.
     ref_num = {}
     for vt, k in ref_rows.items():
-        num, n = [], 0
-        for aa in prots[k]:
+        unm_num, n = [], 0
+        for aa in unm_prots[k]:
             if aa != "-":
                 n += 1
-                num.append(n)
+                unm_num.append(n)
             else:
-                num.append(None)
-        ref_num[vt] = num
+                unm_num.append(None)
+        # exactness: the masked reference row must be the unmasked one restricted to the
+        # retained columns, or the retained list does not describe this alignment
+        rebuilt = [unm_prots[k][c - 1] for c in retained]
+        if rebuilt != list(prots[k]):
+            raise RuntimeError(
+                f"{gene}/{vt}: retained-column reconstruction does not reproduce the "
+                f"masked reference row")
+        ref_num[vt] = [unm_num[c - 1] for c in retained]
 
     rows = []
     for c in range(ncol):
@@ -172,8 +289,18 @@ def process_gene(path, gene):
                 f"{vt.lower()}_consensus_aa_isolate": maj_i,
             })
 
+        # Two different questions, both worth recording, and they disagree in 55 of
+        # 11,801 columns. `between_type_identical` compares the two COHORT CONSENSUS
+        # residues -- the population-level statement. `between_type_reference_identical`
+        # compares the two REFERENCE residues, which is the statement a peptide cut out
+        # of a reference protein needs; using the consensus flag for that purpose put
+        # peptides into the cross-protective shortlist that do not occur in the other
+        # type at all.
         a, b = rec["hsv1_consensus_aa"], rec["hsv2_consensus_aa"]
         rec["between_type_identical"] = bool(a == b and a not in ("-", "X"))
+        ra, rb = rec["hsv1_ref_aa"], rec["hsv2_ref_aa"]
+        rec["between_type_reference_identical"] = bool(
+            ra == rb and ra not in ("-", "X"))
 
         # Fraction of cross-type sequence pairs sharing a residue, isolate-weighted.
         c1 = Counter()
@@ -193,10 +320,12 @@ def process_gene(path, gene):
         rec["conserved_both_types"] = bool(
             rec["hsv1_pct_identity_isolate"] >= 100 * CONS_THRESHOLD
             and rec["hsv2_pct_identity_isolate"] >= 100 * CONS_THRESHOLD
-            and rec["between_type_identical"])
+            and rec["between_type_identical"]
+            and rec["between_type_reference_identical"])
         rows.append(rec)
 
     df = pd.DataFrame(rows)
+    assert_reference_numbering(gene, df)
 
     # Gene-level means are taken only over columns the type actually occupies. Columns
     # absent from one type (e.g. the large HSV-2-specific insertion in gG/US4, where

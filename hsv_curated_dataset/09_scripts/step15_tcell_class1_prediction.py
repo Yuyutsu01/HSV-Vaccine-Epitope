@@ -94,9 +94,11 @@ def conservation_index():
     for vt, rescol, idcol in (("HSV1", "hsv1_ref_residue", "hsv1_pct_identity_isolate"),
                              ("HSV2", "hsv2_ref_residue", "hsv2_pct_identity_isolate")):
         sub = df[df[rescol].notna()]
+        # Between-type identity is taken from the REFERENCE residues, because the peptide
+        # being annotated was cut out of a reference protein (see step13).
         for gene, res, ident, between, both in zip(
                 sub.gene, sub[rescol], sub[idcol],
-                sub.between_type_identical, sub.conserved_both_types):
+                sub.between_type_reference_identical, sub.conserved_both_types):
             idx[(gene, vt, int(res))] = (float(ident), bool(between), bool(both))
     return idx
 
@@ -125,8 +127,13 @@ def annotate_conservation(df, cons):
         if vals:
             mins.append(round(min(vals), 2))
             means.append(round(sum(vals) / len(vals), 2))
-            allbetween.append(all(betw))
-            allboth.append(all(both))
+            # A between-type or both-types claim holds only if EVERY residue of the
+            # peptide was checked. Masked columns carry no conservation row, so a
+            # partially covered peptide would otherwise inherit all() over a subset --
+            # all([]) is True and all() over 8 of 9 residues says nothing about the 9th.
+            full = (n == (e - s + 1))
+            allbetween.append(bool(full and all(betw)))
+            allboth.append(bool(full and all(both)))
         else:
             mins.append(float("nan"))
             means.append(float("nan"))
@@ -138,6 +145,14 @@ def annotate_conservation(df, cons):
     df["all_residues_identical_between_types"] = allbetween
     df["fully_conserved_both_types"] = allboth
     df["residues_with_conservation_data"] = covered
+    # Both flags above are now False wherever coverage is partial, so this must hold.
+    partial = df[(df.residues_with_conservation_data < df.length)
+                 & (df.all_residues_identical_between_types
+                    | df.fully_conserved_both_types)]
+    if len(partial):
+        raise RuntimeError(
+            f"{len(partial)} peptide(s) carry a between-type flag on partial residue "
+            f"coverage; first: {partial.iloc[0].to_dict()}")
     return df
 
 

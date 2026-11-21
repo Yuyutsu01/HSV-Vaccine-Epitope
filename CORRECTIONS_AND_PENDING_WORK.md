@@ -639,3 +639,136 @@ same mistake appeared twice more in shell: `if git push ... | tail -4` tests
 the first push attempt and again in the staged-upload loop, which printed
 "push 5 OK" directly beneath push 5's own error. Check the artifact, not the
 status code.
+
+
+## Addendum — 2026-11-21, three defects in the conservation layer
+
+Found while assembling the candidate-targets section of the manuscript, which is the first
+thing in this project to read the shortlist as a *list of peptides someone would synthesise*
+rather than as a table of counts. Two of the five peptides in the published minimal panel
+turned out not to exist in HSV-1.
+
+### How it surfaced
+
+`AEYGGSFRF` (gB) and `AAFDGGSTA` (UL47) were flagged cross-protective and sat in the greedy
+minimal panel. Neither occurs anywhere in the HSV-1 reference protein. Both reference
+sources — the GenBank translations and `13_epitopes/bcell_inputs/reference_proteins.fasta` —
+agree, so it was not a FASTA problem:
+
+```
+HSV-2 gB 373-381   AEYGGSFRF
+HSV-1 gB 373-381   DEMLRSEYG      "AEYGGSFRF" in HSV-1 gB -> False
+```
+
+`11_conservation/per_residue_conservation.tsv` said HSV-2 gB residue 373 was **G**; the
+reference protein says **A**. The table's residue 373 was the protein's residue 376.
+
+### Defect 1 — reference residues numbered on the masked alignment
+
+`step13_conservation_layer.py` numbered reference residues by counting non-gap positions in
+the **masked** combined alignment. Masking removes columns, so a reference residue in a
+dropped column was never counted and every number after it was short by one, drifting
+further with each drop.
+
+Audited by checking every row's residue letter against the reference protein at the number
+the row claimed: **7,343 of 22,955 rows were wrong** before the fix, across 17 of 40 gene ×
+type combinations — RS1 HSV-2 1,125, UL30 HSV-2 1,122, UL27 HSV-1 817 and HSV-2 802, RL2
+HSV-2 653, UL47 HSV-2 607. After the fix, 0. Comparing the two tables, 8,072 residue numbers
+changed (1,860 HSV-1, 6,212 HSV-2).
+
+Fixed by numbering on the unmasked combined alignment and indexing through the retained
+column list that `step09c` already records in `masking_report_v2.tsv` — the authoritative
+record, reconstructed from `dropped_codon_ranges` rather than inferred by matching column
+content, which is ambiguous wherever two columns are identical and so unusable in the
+tandem repeats of RL2 and RS1.
+
+**`conserved_both_types` and `between_type_identical` changed in zero columns.** The
+column-level conservation was right all along; what was wrong was which reference residue
+each column was labelled with. Every downstream join therefore picked up the correct column
+property and attached it to the wrong residue.
+
+### Defect 2 — flags set from a partial residue set
+
+With the numbering fixed, 9 non-existent peptides survived. `step15`'s
+`annotate_conservation` evaluated `all(...)` over however many of a peptide's residues had
+a conservation row. Masked columns have none, so `VVSPRQLAL` (RS1, HSV-2 108–116) was
+flagged fully identical between types on the strength of residues 109–116: residue 108's
+column was masked and was never examined. `residues_with_conservation_data` was already
+recorded and never consulted.
+
+Fixed: a flag that cannot be evaluated for every residue of the peptide is `False`.
+
+### Defect 3 — consensus residues answering a reference-residue question
+
+Three peptides still survived. `step13` set `between_type_identical` from
+`hsv1_consensus_aa == hsv2_consensus_aa` — the cohort consensus. Candidate peptides are cut
+from *reference* proteins, so the claim the flag was used to support was about reference
+residues. The two disagree in **55 of 11,801 columns** (45 where the consensus agrees but
+the reference residues differ, 10 the reverse). At UL10 column 105 the HSV-1 reference is V
+and the HSV-2 reference is A, while both cohort consensuses are A — which is how
+`LLLAAAVYA` (UL10, HSV-2 101–109) became cross-protective although HSV-1 UL10 does not
+contain it.
+
+Fixed: `between_type_identical` keeps its consensus meaning and is documented as such;
+`between_type_reference_identical` was added and is what the shortlist uses;
+`conserved_both_types` requires both.
+
+### What the three had in common
+
+Each was a quantity computed correctly and then used to answer a slightly different
+question — residue numbers from one alignment applied to another, `all()` over a subset read
+as `all()` over the whole, consensus identity read as reference identity — with nothing
+asserting the difference. That is the same error class as the six bugs recorded above, and
+the remedy was the same: assert the thing you actually mean.
+
+Two assertions now stand in the pipeline, either of which would have caught all three:
+
+- `step13` aborts unless every emitted `(ref_residue, ref_aa)` pair matches the GenBank
+  translation at that number. This is the register check that `step28` and `step29` already
+  applied to the B-cell and class II predictors; the conservation layer was the one place it
+  was missing.
+- `step21` confirms every cross-protective peptide against the other type's reference
+  protein directly, and that check does not pass through the alignment at all, so it cannot
+  fail the same way. Peptides it rejects go to `16_shortlist/excluded_not_in_other_type.tsv`
+  with their row intact rather than being dropped silently. It currently rejects 2 — genuine
+  indel-inside-the-window cases, where every residue corresponds but the contiguous peptide
+  exists in one type only.
+
+### What changed in the results
+
+Re-ran `step15`, `step19`, `step21`, `step22`, `step23`, `step24`, `step26` and `step27`.
+`step17` was not re-run: HyPhy does not read this table.
+
+| Quantity | Before | After |
+|---|---|---|
+| Primary shortlist | 9,450 rows / 8,070 peptides | 9,488 / 8,010 |
+| Cross-protective | 3,202 rows / **2,120** peptides | 3,207 / **1,729** |
+| Low-complexity primary rows | 1,527 (16.2%) | 1,460 (15.4%) |
+| Rows the selection filter actually removes | 9 | 5 |
+| Conserved windows ≥ 9 aa | 283 | 281 |
+| Conserved exposed patches | 33 | 32 |
+| Minimal panel | **4 peptides** | **5 peptides** |
+| Panel members | ILDNPGFVTF, EVIDKINAK, AEYGGSFRF, AAFDGGSTA | ILDNPGFVTF, EVIDKINAK, AMAAGRFGW, AQTGVRVAL, AAQYRNAVV |
+| Low-complexity barred / eligible | 1,404 / 1,817 of 2,120 | 1,307 / 1,559 of 1,729 |
+| `RMLGDVMAV` control rank | 11 of 3,202 | 13 of 3,207 |
+| Conservation-alone AUC / enrichment | 0.565 / 1.35× | 0.566 / 1.38× |
+
+**Unchanged:** the entire selection screen (154 FEL sites, 92 candidates, 2 concordant, 76
+ROBUST / 7 WEAK / 9 NOT_ROBUST, BUSTED 32 of 61, aBSREL 75 of 8,789); the affinity benchmark
+(mean AUC 0.8088, median 0.8915, HSV-1 0.9313, HSV-2 0.6003, 428 positives, 27 groups); all
+population-coverage percentages (99.71% World, median 97.5%, 73.6% ≥ 90%, 239 populations,
+27 alleles) and the whole class II bracket; 3,145 structure residues and 1,099 exposed; and
+the within- and between-type conservation percentages.
+
+**gB `SRVEAFHR` survives.** It is still the longest fully conserved, fully epitope-covered
+exposed patch, in all three chains of 2GUM at 100% minimum identity, and it is contiguous
+and identical in both types — HSV-1 257–264, HSV-2 252–259. The manuscript's strongest
+structural claim is unaffected.
+
+### The uncomfortable part
+
+The defect put two non-existent peptides into the headline deliverable of the vaccine-design
+arm, and it was caught only when someone asked what the peptides *were* rather than how many
+there were. A count can be wrong in ways that reading the list cannot be. That is worth
+remembering for the next table of candidates: check a few by hand against the source
+sequence, because the assertion you did not write is the one you need.

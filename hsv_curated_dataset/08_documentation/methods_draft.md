@@ -271,8 +271,10 @@ Two caveats are recorded rather than smoothed over:
 US6/gD — the gene for which the earlier pooled analysis had returned a recombination
 verdict — shows **no** breakpoint in either type. This confirms that the earlier verdict
 was the HSV-1/HSV-2 species split being read as recombination, not recombination within
-either type. It is one of the concrete reasons the pooled-cohort results were withdrawn
-(`10_hyphy_outputs/DEPRECATED_DO_NOT_USE.md`).
+either type. It is one of the concrete reasons the pooled-cohort results were withdrawn;
+the withdrawal and its reasons are recorded in `CORRECTIONS_AND_PENDING_WORK.md`. The v1
+output directories themselves were removed in the 2026-11-21 repository cleanup, so there
+is no deprecated-output tree left to consult -- only the register entry.
 
 ## 8. Selection inference and multiple-testing correction
 
@@ -293,6 +295,16 @@ Significance policy, fixed in advance:
   explicitly labelled tier.
 - A site is called under selection in the primary analysis only if at least two methods
   agree, with the direction of selection taken from β versus α.
+
+**The FEL and MEME grouping matters, and a reader who ignores it will get a
+different number.** Correction is applied *within* each
+`(gene, cohort, partition, method)` group, not pooled across the family: 61
+analysis units are separate experiments on separate alignments, and pooling them
+would let a gene with many codons set the threshold for a gene with few. Pooled
+BH over all FEL rows at once returns **95** sites at q < 0.05 instead of the 154
+reported here. The per-group scope is what `step18_fdr_and_concordance.py`
+applies and what `14_selection/fdr.log` records; it is stated here so that a
+reviewer recomputing naively does not read the difference as an error.
 
 Every reported site is mapped through the §5 coordinate map from its partition offset to
 masked codon column to reference residue, so sites from partitioned and unpartitioned
@@ -371,8 +383,8 @@ positive selection.** `selected_sites_final.tsv` is left unchanged so that the
 pre-registered rule's output stands on the record, and `site_robustness.tsv` qualifies it.
 
 The wider picture is the reverse of what the concordance rule suggests. Of the 92 sites
-called by at least one method, **76 are `ROBUST`** (median 44 of ~300 isolates carrying the
-variant), 7 are `WEAK` and 9 are `NOT_ROBUST`. The robust ones are almost all FUBAR-only,
+called by at least one method, **76 are `ROBUST`** (median 54 variant-carrying isolates
+against a median cohort of 297), 7 are `WEAK` and 9 are `NOT_ROBUST`. The robust ones are almost all FUBAR-only,
 so they are well supported in the data but rest on a single method. **No site in this study
 is both multi-method concordant and robustly supported**, and that, not the two-site table,
 is the honest summary of the site-level screen. It is also the expected outcome for genes
@@ -414,8 +426,10 @@ rather than reported weakly:
   (1,076 of 1,305, spanning 1,024 derived patients) and collection year for 91.6%. The
   remaining records are dominated by a single country (USA, 13.0%).
 
-`03_metadata/metadata_feasibility_statement.md` records these determinations with the
-counts, and `03_metadata/sampling_bias_tables.tsv` gives the full distributions. All
+The counts above are the determination; `03_metadata/sampling_bias_tables.tsv` gives the
+full distributions and `03_metadata/curated_metadata.tsv` the per-record fields behind
+them. (Earlier drafts cited a `03_metadata/metadata_feasibility_statement.md` here. No
+such file was ever written; the determination lives in this section and those two tables.) All
 results are therefore reported as a pooled global analysis with an explicit statement that
 the cohort is a convenience sample with unknown geographic composition.
 
@@ -429,12 +443,52 @@ for genes whose two types differ greatly in length (US4/gG is 238 aa in HSV-1 an
 HSV-2) produces a meaningless figure.
 
 Mean within-type identity across the 20 genes is 99.38% (HSV-1) and 99.73% (HSV-2); mean
-between-type identity ranges from 37.5% to 90.8%. 283 conserved windows were identified
+between-type identity ranges from 37.5% to 90.8%. 281 conserved windows were identified
 (`11_conservation/conserved_windows.tsv`). The high within-type identity is itself the
 central constraint on this study's power: these are strongly conserved coding sequences,
 and a selection analysis on them has limited power to detect site-level diversifying
 selection. That is a property of the virus, and is stated as such rather than compensated
 for by relaxing thresholds.
+
+### 10.1 Three defects corrected on 2026-11-21, and the checks now enforced
+
+The conservation layer carried three defects that reached the candidate shortlist. They are
+recorded here because the per-residue table is the join key for every downstream annotation,
+and because all three shared one cause: a quantity computed correctly was then used to
+answer a slightly different question, with nothing asserting the difference.
+
+1. **Reference residues were numbered on the masked alignment.** `step13` counted non-gap
+   positions in `06_alignments_v2/masked/combined/`, so every reference residue whose column
+   occupancy masking had dropped was never counted and all numbering after it was short by
+   one, the drift accumulating down the protein. **8,072 of 22,955 residue numbers were
+   wrong** (1,860 HSV-1, 6,212 HSV-2), worst in the heavily masked genes — RS1 HSV-2 (1,125
+   rows), UL30 HSV-2 (1,122), UL27 HSV-1 (817) and HSV-2 (802). Numbering is now counted on
+   the unmasked combined alignment and indexed through the retained-column list that §5
+   records in `masking_report_v2.tsv`, with the reconstruction checked against the masked
+   reference row.
+2. **A peptide's between-type flags were set from a partial residue set.** `step15`
+   evaluated `all(...)` over however many of a peptide's residues had a conservation row.
+   Masked columns have none, so a 9-mer with 8 covered residues was flagged as fully
+   identical between types on the strength of 8, the 9th never examined. A flag that cannot
+   be evaluated for every residue is now `False`.
+3. **Between-type identity was judged on cohort consensus residues while candidate peptides
+   are cut from reference proteins.** The two disagree in 55 of 11,801 columns (45 where the
+   consensus agrees but the reference residues differ, 10 the reverse). The consensus-based
+   column is retained as `between_type_identical`; a reference-based
+   `between_type_reference_identical` has been added and is what the shortlist uses, and
+   `conserved_both_types` now requires both.
+
+Two assertions now stand where the checks were missing, and either would have caught all
+three: `step13` aborts unless every emitted `(ref_residue, ref_aa)` pair matches the
+GenBank translation at that number — the same register check §16 and §17 already applied to
+the B-cell predictors — and §14 confirms every cross-protective peptide against the other
+type's reference protein directly.
+
+Affected stages were re-run (§12, §13, §14, §15, the supplements and the figures). The
+selection screen (§8) does not read this table and is unchanged; so are the conservation
+percentages and window count above, because those are column-level aggregates that never
+passed through the residue numbers. What changed is in §14 and §13: the cross-protective
+set from 2,120 to 1,729 distinct peptides and the minimal panel from four peptides to five.
 
 ## 11. Experimentally validated epitopes
 
@@ -471,8 +525,8 @@ labels nearly every enumerated 9-mer as positive. Over 27 scorable gene × type 
 `benchmark_summary.tsv` counts the distinct genes, not the groups), predicted affinity gives
 mean AUC 0.809 (median 0.892, range 0.425–0.997), mean average precision 0.326 and 6.0-fold
 enrichment of known epitopes in the top decile over 428 positives. The split by type is
-stark: HSV-1 groups give mean AUC 0.931, HSV-2 groups 0.600. Conservation alone performs near chance (mean AUC 0.565,
-1.35-fold top-decile enrichment), which is the result that justifies using conservation and
+stark: HSV-1 groups give mean AUC 0.931, HSV-2 groups 0.600. Conservation alone performs near chance (mean AUC 0.566,
+1.38-fold top-decile enrichment), which is the result that justifies using conservation and
 predicted binding as two independent filters rather than either on its own.
 
 Low-AUC groups are concentrated in HSV-2, where the IEDB records are fewer and are largely
@@ -538,7 +592,7 @@ in that respect, and it is why these numbers do not reproduce IEDB's published >
 coverage for this panel.
 
 With those three stated, across the 64 fully typed populations the 27-allele panel gives
-mean conservative coverage **98.87%** (median 99.63%, minimum 90.75% in South Korea; upper
+mean conservative coverage **98.87%** (median 99.63%, minimum 90.75%, in the population the IEDB file records as `Korea; South`; upper
 bound 99.98%), and World coverage of **99.64% to 100%**. Combining with class I over the 51
 populations present in both frequency sets gives mean **99.98%** and World **100%**.
 
@@ -558,15 +612,16 @@ fixed, pre-declared linear combination of percentile ranks —
 trained model or a predicted probability of immunogenicity.
 
 Two quality flags are carried on every candidate and should travel with any use of the
-shortlist. First, `low_complexity` marks peptides drawn from the serine-, glycine-,
-alanine- and proline-rich tandem repeats of ICP0 and ICP4 — peptides such as `SSSSSSSSA`
-and `GAGGGGGGR`, which are perfectly conserved and score as binders but are not credible
-epitopes, and which cannot even be assigned a unique position (`SAASSSSSA` occurs at
-HSV-2 RL2 595, 602 and 609). **1,527 of the 9,450 primary rows (16.2%) are low-complexity**,
-and 386 of the 3,202 cross-protective rows; only 1 appears in the top 50 by priority score,
-so the ranking already suppresses them, but they are flagged rather than dropped so that the
-shortlist size is not changed silently by a filter added after the fact. Second, the
-positive-selection exclusion removes only 9 rows, and §8.1 explains that the two sites
+shortlist. First, `low_complexity` marks peptides drawn from the alanine-, serine-,
+glycine- and proline-rich tandem repeats of ICP4 and ICP0 and the gG repeat region —
+peptides such as `AAAAAADLLF` and `AAAAPVVSA`, which are perfectly conserved and score as
+binders but are not credible epitopes. **1,460 of the 9,488 primary rows (15.4%) are
+low-complexity**, 1,307 distinct peptides, concentrated in RS1 (267 rows), RL2 (137) and
+US4 (113), and 323 of the 3,207 cross-protective rows; 6 appear in the top 50 by priority
+score, so the ranking suppresses them only partly, but they are flagged rather than dropped
+so that the shortlist size is not changed silently by a filter added after the fact, and
+they are barred from the minimal panel in §13, where it matters. Second, the
+positive-selection exclusion removes only 5 rows, and §8.1 explains that the two sites
 driving it are themselves probable artifacts — so this filter is close to a no-op here and
 should not be presented as having shaped the shortlist.
 
@@ -574,16 +629,27 @@ The selection filter is applied for real: `selection_filter_applied` is `True` f
 row of `16_shortlist/epitope_candidates_ranked.tsv` (the script writes
 `NOT_YET_APPLIED` into that column instead, and labels the shortlist provisional, if it
 is run before §8 has results). Of 12,771 ranked candidates, **9** overlap one of the two
-positively selected residues (5 peptides spanning US7 155, 4 spanning RL2 308) and are
-excluded from the primary shortlist.
+positively selected residues (5 peptides spanning US7 155, 4 spanning RL2 308). Only **5**
+of those 9 are actually removed from the primary shortlist — the five US7 peptides; the
+four RL2 peptides fall below the within-type conservation threshold and would have been
+excluded anyway, so the selection filter is the sole reason for exclusion in five cases.
 
-Final shortlist: **9,450 rows** (predicted binder, every residue ≥ 99.0% conserved within
-type, not positively selected), of which **3,202 rows** are identical across both types and
+Final shortlist: **9,488 rows** (predicted binder, every residue ≥ 99.0% conserved within
+type, not positively selected), of which **3,207 rows** are identical across both types and
 form the cross-protective subset (`16_shortlist/shortlist_primary.tsv`,
-`shortlist_cross_protective.tsv`). A row is one peptide in one virus type, so a peptide
-conserved across both types appears twice; in distinct peptide sequences the shortlist is
-**8,070** peptides and the cross-protective subset **2,120**. The distinct-peptide counts
-are the ones to quote as "candidate epitopes", and they are what §13 computes coverage over.
+`shortlist_cross_protective.tsv`). A row is one peptide in one virus type, so a peptide may
+appear twice; in distinct peptide sequences the shortlist is **8,010** peptides and the
+cross-protective subset **1,729**, of which 1,478 have a row in each type and 251 in only
+one (present and identical in both, but above the within-type conservation threshold in
+only one of them). The distinct-peptide counts are the ones to quote as "candidate
+epitopes", and they are what §13 computes coverage over.
+
+Cross-protective status is confirmed against the two reference proteins directly: the
+peptide must occur contiguously in the other type's protein, not merely residue-by-residue
+identical through the alignment, because an indel inside the window satisfies the second
+without the first. 2 peptides were excluded on that basis
+(`16_shortlist/excluded_not_in_other_type.tsv`); before the 2026-11-21 conservation-layer
+corrections (§10.1) the same check would have excluded 444.
 
 The top-ranked candidates are dominated by HLA-A*02:03 and the A2 supertype, which is a
 known property of class I predictors on hydrophobic 9-mers and not a biological finding;
@@ -591,7 +657,8 @@ known property of class I predictors on hydrophobic 9-mers and not a biological 
 not A2-restricted.
 
 As a positive control, the cross-protective shortlist recovers `RMLGDVMAV` — a published
-HLA-A*02 gB epitope — at **rank 11 of 3,202** by priority score, correctly flagged as
+HLA-A*02 gB epitope — at **rank 13 of 3,207** by priority score (rank 7 once
+low-complexity repeats and duplicate rows are set aside), correctly flagged as
 IEDB-known. Its coordinates are gB 559–567 in HSV-2 numbering and 562–570 in HSV-1, and it
 is the HSV-2 row that enters the shortlist.
 

@@ -98,3 +98,153 @@
 [2026-11-19 01:02:58]     HSV2 US6: 213/769 binders (27.7%), 56 conserved in both types
 [2026-11-19 01:02:58]     HSV2 US7: 209/727 binders (28.75%), 22 conserved in both types
 [2026-11-19 01:02:58]     HSV2 US8: 323/1073 binders (30.1%), 36 conserved in both types
+[2026-11-21 23:11:41] ==============================================================================
+[2026-11-21 23:11:41] STEP 15: HLA class I prediction (MHCflurry 2.3) with conservation annotation
+[2026-11-21 23:12:07] Allele panel: 27/27 supported
+[2026-11-21 23:12:08] Reference proteins: 40
+[2026-11-21 23:12:08] Enumerated 45688 peptides (9/10-mers) across 40 proteins
+[2026-11-21 23:12:08] Predicting 39588 unique peptides x 27 alleles = 1068876 predictions
+[2026-11-21 23:12:18] MHCflurry returned 1068876 peptide x allele rows; columns: ['peptide', 'peptide_num', 'allele', 'affinity', 'best_allele', 'affinity_percentile', 'processing_score', 'presentation_score', 'presentation_percentile']
+[2026-11-21 23:12:19] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\13_epitopes\class1_peptide_predictions.tsv (45688 rows)
+[2026-11-21 23:12:20] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\13_epitopes\class1_binders_by_allele.tsv (26989 peptide-allele binder rows)
+[2026-11-21 23:12:20] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\13_epitopes\class1_prediction_summary.tsv
+[2026-11-21 23:12:20]     HSV1 RL2: 357/1533 binders (23.29%), 18 conserved in both types
+[2026-11-21 23:12:20]     HSV1 RS1: 702/2579 binders (27.22%), 253 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL1: 97/431 binders (22.51%), 7 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL10: 317/929 binders (34.12%), 76 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL22: 494/1659 binders (29.78%), 92 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL23: 195/735 binders (26.53%), 22 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL27: 513/1791 binders (28.64%), 262 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL30: 687/2453 binders (28.01%), 402 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL44: 264/1005 binders (26.27%), 15 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL46: 386/1419 binders (27.2%), 98 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL47: 381/1369 binders (27.83%), 141 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL48: 273/963 binders (28.35%), 118 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL49: 152/585 binders (25.98%), 24 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL49A: 35/165 binders (21.21%), 0 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL53: 216/659 binders (32.78%), 60 conserved in both types
+[2026-11-21 23:12:20]     HSV1 UL54: 220/1007 binders (21.85%), 67 conserved in both types
+[2026-11-21 23:12:20]     HSV1 US4: 108/459 binders (23.53%), 1 conserved in both types
+[2026-11-21 23:12:20]     HSV1 US6: 206/771 binders (26.72%), 56 conserved in both types
+[2026-11-21 23:12:20]     HSV1 US7: 227/763 binders (29.75%), 22 conserved in both types
+[2026-11-21 23:12:20]     HSV1 US8: 316/1083 binders (29.18%), 35 conserved in both types
+[2026-11-21 23:12:20]     HSV2 RL2: 397/1651 binders (24.05%), 18 conserved in both types
+[2026-11-21 23:12:20]     HSV2 RS1: 725/2619 binders (27.68%), 254 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL1: 107/431 binders (24.83%), 6 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL10: 308/917 binders (33.59%), 76 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL22: 478/1659 binders (28.81%), 92 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL23: 219/735 binders (29.8%), 22 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL27: 519/1791 binders (28.98%), 262 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL30: 690/2463 binders (28.01%), 402 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL44: 273/943 binders (28.95%), 15 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL46: 409/1427 binders (28.66%), 100 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL47: 420/1375 binders (30.55%), 144 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL48: 273/963 binders (28.35%), 118 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL49: 153/583 binders (26.24%), 24 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL49A: 44/157 binders (28.03%), 0 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL53: 249/659 binders (37.78%), 60 conserved in both types
+[2026-11-21 23:12:20]     HSV2 UL54: 219/1007 binders (21.75%), 67 conserved in both types
+[2026-11-21 23:12:20]     HSV2 US4: 397/1381 binders (28.75%), 1 conserved in both types
+[2026-11-21 23:12:20]     HSV2 US6: 213/769 binders (27.7%), 56 conserved in both types
+[2026-11-21 23:12:20]     HSV2 US7: 209/727 binders (28.75%), 22 conserved in both types
+[2026-11-21 23:12:20]     HSV2 US8: 323/1073 binders (30.1%), 36 conserved in both types
+[2026-11-21 23:16:25] ==============================================================================
+[2026-11-21 23:16:25] STEP 15: HLA class I prediction (MHCflurry 2.3) with conservation annotation
+[2026-11-21 23:16:41] Allele panel: 27/27 supported
+[2026-11-21 23:16:41] Reference proteins: 40
+[2026-11-21 23:16:41] Enumerated 45688 peptides (9/10-mers) across 40 proteins
+[2026-11-21 23:16:42] Predicting 39588 unique peptides x 27 alleles = 1068876 predictions
+[2026-11-21 23:16:51] MHCflurry returned 1068876 peptide x allele rows; columns: ['peptide', 'peptide_num', 'allele', 'affinity', 'best_allele', 'affinity_percentile', 'processing_score', 'presentation_score', 'presentation_percentile']
+[2026-11-21 23:16:52] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\13_epitopes\class1_peptide_predictions.tsv (45688 rows)
+[2026-11-21 23:16:52] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\13_epitopes\class1_binders_by_allele.tsv (26989 peptide-allele binder rows)
+[2026-11-21 23:16:53] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\13_epitopes\class1_prediction_summary.tsv
+[2026-11-21 23:16:53]     HSV1 RL2: 357/1533 binders (23.29%), 18 conserved in both types
+[2026-11-21 23:16:53]     HSV1 RS1: 702/2579 binders (27.22%), 253 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL1: 97/431 binders (22.51%), 7 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL10: 317/929 binders (34.12%), 76 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL22: 494/1659 binders (29.78%), 92 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL23: 195/735 binders (26.53%), 22 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL27: 513/1791 binders (28.64%), 262 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL30: 687/2453 binders (28.01%), 402 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL44: 264/1005 binders (26.27%), 15 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL46: 386/1419 binders (27.2%), 98 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL47: 381/1369 binders (27.83%), 141 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL48: 273/963 binders (28.35%), 118 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL49: 152/585 binders (25.98%), 24 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL49A: 35/165 binders (21.21%), 0 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL53: 216/659 binders (32.78%), 60 conserved in both types
+[2026-11-21 23:16:53]     HSV1 UL54: 220/1007 binders (21.85%), 67 conserved in both types
+[2026-11-21 23:16:53]     HSV1 US4: 108/459 binders (23.53%), 1 conserved in both types
+[2026-11-21 23:16:53]     HSV1 US6: 206/771 binders (26.72%), 56 conserved in both types
+[2026-11-21 23:16:53]     HSV1 US7: 227/763 binders (29.75%), 22 conserved in both types
+[2026-11-21 23:16:53]     HSV1 US8: 316/1083 binders (29.18%), 35 conserved in both types
+[2026-11-21 23:16:53]     HSV2 RL2: 397/1651 binders (24.05%), 17 conserved in both types
+[2026-11-21 23:16:53]     HSV2 RS1: 725/2619 binders (27.68%), 253 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL1: 107/431 binders (24.83%), 6 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL10: 308/917 binders (33.59%), 76 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL22: 478/1659 binders (28.81%), 92 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL23: 219/735 binders (29.8%), 22 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL27: 519/1791 binders (28.98%), 262 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL30: 690/2463 binders (28.01%), 402 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL44: 273/943 binders (28.95%), 15 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL46: 409/1427 binders (28.66%), 98 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL47: 420/1375 binders (30.55%), 141 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL48: 273/963 binders (28.35%), 118 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL49: 153/583 binders (26.24%), 24 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL49A: 44/157 binders (28.03%), 0 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL53: 249/659 binders (37.78%), 60 conserved in both types
+[2026-11-21 23:16:53]     HSV2 UL54: 219/1007 binders (21.75%), 67 conserved in both types
+[2026-11-21 23:16:53]     HSV2 US4: 397/1381 binders (28.75%), 1 conserved in both types
+[2026-11-21 23:16:53]     HSV2 US6: 213/769 binders (27.7%), 56 conserved in both types
+[2026-11-21 23:16:53]     HSV2 US7: 209/727 binders (28.75%), 22 conserved in both types
+[2026-11-21 23:16:53]     HSV2 US8: 323/1073 binders (30.1%), 36 conserved in both types
+[2026-11-21 23:20:01] ==============================================================================
+[2026-11-21 23:20:01] STEP 15: HLA class I prediction (MHCflurry 2.3) with conservation annotation
+[2026-11-21 23:20:19] Allele panel: 27/27 supported
+[2026-11-21 23:20:19] Reference proteins: 40
+[2026-11-21 23:20:19] Enumerated 45688 peptides (9/10-mers) across 40 proteins
+[2026-11-21 23:20:19] Predicting 39588 unique peptides x 27 alleles = 1068876 predictions
+[2026-11-21 23:20:30] MHCflurry returned 1068876 peptide x allele rows; columns: ['peptide', 'peptide_num', 'allele', 'affinity', 'best_allele', 'affinity_percentile', 'processing_score', 'presentation_score', 'presentation_percentile']
+[2026-11-21 23:20:31] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\13_epitopes\class1_peptide_predictions.tsv (45688 rows)
+[2026-11-21 23:20:31] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\13_epitopes\class1_binders_by_allele.tsv (26989 peptide-allele binder rows)
+[2026-11-21 23:20:31] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\13_epitopes\class1_prediction_summary.tsv
+[2026-11-21 23:20:31]     HSV1 RL2: 357/1533 binders (23.29%), 18 conserved in both types
+[2026-11-21 23:20:31]     HSV1 RS1: 702/2579 binders (27.22%), 253 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL1: 97/431 binders (22.51%), 6 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL10: 317/929 binders (34.12%), 75 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL22: 494/1659 binders (29.78%), 92 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL23: 195/735 binders (26.53%), 22 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL27: 513/1791 binders (28.64%), 262 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL30: 687/2453 binders (28.01%), 402 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL44: 264/1005 binders (26.27%), 15 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL46: 386/1419 binders (27.2%), 98 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL47: 381/1369 binders (27.83%), 141 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL48: 273/963 binders (28.35%), 118 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL49: 152/585 binders (25.98%), 24 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL49A: 35/165 binders (21.21%), 0 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL53: 216/659 binders (32.78%), 60 conserved in both types
+[2026-11-21 23:20:31]     HSV1 UL54: 220/1007 binders (21.85%), 67 conserved in both types
+[2026-11-21 23:20:31]     HSV1 US4: 108/459 binders (23.53%), 1 conserved in both types
+[2026-11-21 23:20:31]     HSV1 US6: 206/771 binders (26.72%), 56 conserved in both types
+[2026-11-21 23:20:31]     HSV1 US7: 227/763 binders (29.75%), 22 conserved in both types
+[2026-11-21 23:20:31]     HSV1 US8: 316/1083 binders (29.18%), 35 conserved in both types
+[2026-11-21 23:20:31]     HSV2 RL2: 397/1651 binders (24.05%), 17 conserved in both types
+[2026-11-21 23:20:31]     HSV2 RS1: 725/2619 binders (27.68%), 253 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL1: 107/431 binders (24.83%), 6 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL10: 308/917 binders (33.59%), 75 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL22: 478/1659 binders (28.81%), 92 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL23: 219/735 binders (29.8%), 22 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL27: 519/1791 binders (28.98%), 262 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL30: 690/2463 binders (28.01%), 402 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL44: 273/943 binders (28.95%), 15 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL46: 409/1427 binders (28.66%), 98 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL47: 420/1375 binders (30.55%), 141 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL48: 273/963 binders (28.35%), 118 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL49: 153/583 binders (26.24%), 24 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL49A: 44/157 binders (28.03%), 0 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL53: 249/659 binders (37.78%), 60 conserved in both types
+[2026-11-21 23:20:31]     HSV2 UL54: 219/1007 binders (21.75%), 67 conserved in both types
+[2026-11-21 23:20:31]     HSV2 US4: 397/1381 binders (28.75%), 1 conserved in both types
+[2026-11-21 23:20:31]     HSV2 US6: 213/769 binders (27.7%), 56 conserved in both types
+[2026-11-21 23:20:31]     HSV2 US7: 209/727 binders (28.75%), 22 conserved in both types
+[2026-11-21 23:20:31]     HSV2 US8: 323/1073 binders (30.1%), 36 conserved in both types

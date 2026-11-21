@@ -1,5 +1,6 @@
 step	peptide	alleles_bound	new_alleles	cumulative_alleles	world_coverage
 1	ILDNPGFVTF	13	13	13	90.58
 2	EVIDKINAK	8	8	21	99.22
-3	AEYGGSFRF	7	4	25	99.62
-4	AAAAPLPSA	7	2	27	99.71
+3	AMAAGRFGW	9	3	24	99.54
+4	AQTGVRVAL	7	2	26	99.65
+5	AAAVPLLSA	4	1	27	99.71

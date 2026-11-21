@@ -217,8 +217,9 @@ outputs are the withdrawn `07_qc_reports/hyphy/` tree.
 
 | File | Contents |
 |---|---|
-| `methods_draft.md` | Manuscript methods, §1–§19. The authority on what was done and why. |
-| `results_draft.md` | Manuscript results. |
+| `MANUSCRIPT.md` | **The assembled manuscript**, 2026-11-21: abstract, impact statement, introduction, condensed methods, results, discussion, limitations, figure legends, tables, and the figure-placement table for the production editor. Drafted from the two drafts below, with every quantity recomputed from the result tables first. |
+| `methods_draft.md` | Manuscript methods, §1–§19. The authority on what was done and why; the manuscript's §2 is condensed from it and it travels as Supplementary Methods. |
+| `results_draft.md` | Manuscript results, long form. The authority for every number in the manuscript's §3. |
 | `DATA_DICTIONARY.md` | This file. |
 | `MANUSCRIPT_CURATION.md` | Pre-submission assessment, 2026-11-21: which drafted claims reproduce from the result tables, the issues to fix before submission, and the figure plan. |
 | `README.md` | Documentation index. |
@@ -318,6 +319,7 @@ annotations, never as filters.** See `methods_draft.md` §16–§17.
 |---|---|---|---|
 | `epitope_candidates_ranked.tsv` | **The primary integrated output.** Every candidate with all annotation layers joined: conservation, selection, class I/II binding, B-cell scores, IEDB validation, structure, and the composite rank. | `step21_integrate_and_rank.py` | `step22`, `step23`, `step24`, `step27` |
 | `shortlist_primary.tsv` | The top-ranked candidates. | `step21` | `step24`, `step27` |
+| `excluded_not_in_other_type.tsv` | Peptides flagged conserved in both types that do not occur contiguously in the other type's reference protein, excluded from the cross-protective shortlist with their full row kept. An indel inside the window makes every residue correspond while the peptide exists in one type only. Currently 2 rows; before the 2026-11-21 conservation-layer corrections the same check rejected 444. |
 | `shortlist_cross_protective.tsv` | Candidates conserved across both virus types. | `step21` | `step24` |
 | `shortlist_by_gene.tsv` | Best candidates per gene. | `step21` | `step24` |
 | `integration.log` | Run log, including the diagnostic explaining the class II rank distribution. | `step21` | terminal |
@@ -373,12 +375,15 @@ All terminal. Producer: `step27_figures.py`.
 
 | Figure | Contents |
 |---|---|
-| `fig1_cohort_size` | Cohort composition and sequence counts. |
+| `fig1_study_design` | Study design and data flow; every count read from the result tables. |
 | `fig2_conservation` | Conservation across genes and residues. |
 | `fig3_selection_gene_branch` | Gene- and branch-level selection results. |
 | `fig4_site_variant_support` | Per-site selection support across methods. |
 | `fig5_predictor_benchmark` | Predictor performance against the IEDB truth set. |
 | `fig6_population_coverage` | Population coverage, class I and class II. |
+| `fig7_structure` | gB conserved exposed patch and gD DiscoTope scores, rendered from the PDB coordinates. |
+| `figS1_cohort_size` | Cohort composition and sequence counts. Supplementary; was figure 1. |
+| `figS2_bcell_scores` | B-cell score distributions and threshold behaviour. |
 
 ---
 

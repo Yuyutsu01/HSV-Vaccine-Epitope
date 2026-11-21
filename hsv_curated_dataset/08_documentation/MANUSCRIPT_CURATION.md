@@ -224,22 +224,62 @@ systematic bug in `step27_figures.py`, not three coincidences. Fix once:
 place the summary annotation with `ax.text` in figure coordinates below the axes,
 or move the legend outside the axes with `bbox_to_anchor`.
 
+**All of the above are now fixed** (2026-11-21). Every figure routes its summary
+line through one `caption()` helper that writes below the axes in figure
+coordinates, so the collision is impossible rather than merely avoided. Panel
+3(a) is trimmed to the 32 significant units and the omission is stated in the
+caption; gene labels in 3(b), 5 and elsewhere go through a `unit_label()` helper
+that appends the virus type, so `RS1` is now `RS1 HSV-1` or `RS1 HSV-2`; figure
+5 encodes *n* as marker area with its own size legend; figure 4's lower panel is
+labelled `no q value (spread is jitter)`, which is the honest answer to what
+*y* encodes there.
+
+**One defect was found while building figure 1 and is worth recording**, because
+it is the same class of silent failure as the three in the corrections register.
+The first two layouts placed boxes at hand-computed positions in axes
+coordinates. Both overflowed: the second ran three boxes off the bottom of the
+axes, where matplotlib clipped the rectangles away but still drew their text, so
+the figure rendered with no error and no visible borders on its last three
+stages. The fix was to stop guessing — figure 1's vertical metrics are now in
+points, the canvas height is computed from the content, and the function logs a
+warning if the stack ever overruns anyway.
+
 ### 5.5 Proposed final figure set
 
-| # | Figure | Status |
-|---|---|---|
-| 1 | Study design and data flow | **To build** (§5.1) |
-| 2 | Conservation within and between types | Exists, fix annotation collision |
-| 3 | Selection: gene-wide and branch-level | Exists, trim panel (a) to significant units |
-| 4 | Site-level support vs significance — **the headline** | Exists, add y-axis label |
-| 5 | Predictor benchmark vs IEDB | Exists, disambiguate labels, encode n |
-| 6 | Population coverage, class I **and class II** | Exists, extend (§5.2) |
-| 7 | Structure: gB conserved exposed patch | **To build** (§5.3) |
-| S1 | Per-gene cohort size (current Figure 1) | Demote to supplementary |
-| S2 | B-cell score distributions, both predictors | **To build** — currently no figure for §8a |
+| # | Figure | File | Status |
+|---|---|---|---|
+| 1 | Study design and data flow | `fig1_study_design` | **Built** |
+| 2 | Conservation within and between types | `fig2_conservation` | Annotation collision fixed |
+| 3 | Selection: gene-wide and branch-level | `fig3_selection_gene_branch` | Panel (a) trimmed to the 32 significant units; labels carry the type |
+| 4 | Site-level support vs significance — **the headline** | `fig4_site_variant_support` | y-axis of the lower panel labelled |
+| 5 | Predictor benchmark vs IEDB | `fig5_predictor_benchmark` | Labels disambiguated; marker area encodes *n* |
+| 6 | Population coverage, class I **and class II** | `fig6_population_coverage` | Extended to three panels; class II bracket added |
+| 7 | Structure: gB conserved exposed patch | `fig7_structure` | **Built** |
+| S1 | Per-gene cohort size (was Figure 1) | `figS1_cohort_size` | Demoted to supplementary |
+| S2 | B-cell score distributions, both predictors | `figS2_bcell_scores` | **Built** |
 
-That is 7 main figures, which is normal for this scope. Current Figure 1 moves to
+That is 7 main figures, which is normal for this scope. The old Figure 1 moved to
 supplementary because cohort size per gene is reference material, not argument.
+
+**On figure 7 and PyMOL.** PyMOL is not installed in this environment and adding
+a ray-tracer to the dependency set for two panels is not worth it, so figure 7 is
+drawn by `step27_figures.py` itself: van der Waals spheres in a principal-axis
+projection of the deposited coordinates, painted far to near with a mild blend
+toward the page colour for depth. The projection's sign is pinned so the view is
+identical on every run. The `.pml` scripts in `17_structures/figures/` are
+unchanged and remain available for interactive inspection. The patch shown in
+panel (a) is selected by rule rather than by name — conserved in both types at
+every residue, inside a curated IEDB epitope at every residue, then longest —
+which on 2GUM chain A returns `SRVEAFHR` and would follow the table if the table
+changed.
+
+**On class II in figure 6.** Panels (a) and (b) share their orientation,
+coverage on *y* against populations sorted along *x*, because the class II result
+is a bracket and a bracket can only be drawn as a band between two curves.
+Panel (b) plots the 64 fully typed populations only, and states on its face that
+the other 210 are omitted because an untyped locus drives the conservative figure
+to a false zero. That artefact is the honest part of the class II analysis and it
+is now visible rather than buried in a table.
 
 ---
 
@@ -285,10 +325,50 @@ the predictions are unvalidated and reviewers there will say so.
 - [x] Rename `alleles_added` → `alleles_bound` + `new_alleles` (§3.3)
 - [x] Restore `population_genotype_map.p`, corrupted by CRLF conversion, and add
       `.gitattributes` so it cannot recur (see DATA_DICTIONARY §"Data integrity")
-- [ ] State the per-group FDR scope in methods §8 (§2)
-- [ ] Build Figures 1 and 7; extend Figure 6; build S2 (§5)
-- [ ] Fix the legend/caption collision in `step27_figures.py` (§5.4)
-- [ ] Add the y-axis label to Figure 4's lower panel (§5.4)
+- [x] State the per-group FDR scope in methods §8 (§2) — done; methods §8 now
+      also gives the pooled number (95 FEL sites instead of 154) so a reviewer
+      who recomputes naively does not read the difference as an error
+- [x] Build Figures 1 and 7; extend Figure 6; build S2 (§5) — done; nine
+      figures, all from `step27_figures.py`, all numbers read from tables
+- [x] Fix the legend/caption collision in `step27_figures.py` (§5.4) — done via
+      a single `caption()` helper
+- [x] Add the y-axis label to Figure 4's lower panel (§5.4) — done
+- [x] Disambiguate duplicate gene labels and encode *n* in Figure 5 (§5.4) — done
+- [x] Trim Figure 3 panel (a) to the significant units (§5.4) — done
+- [x] Assemble the manuscript itself (`MANUSCRIPT.md`) — done 2026-11-21; it
+      leads with the concordance result as §6 recommends, carries the figure
+      placement inline as `[FIGURE n NEAR HERE]` and again as a table for the
+      production editor, and states the two outstanding submission items below
+      in its own data-availability section so they cannot be forgotten
+- [x] Re-verify the drafts against the result tables before drafting — done; 109
+      of 109 headline numbers reproduced and four real defects were corrected
+      first: the ROBUST median (44 → 54 variant-carrying isolates, 44.5 being
+      the median over all 92 candidates rather than the robust subset), the
+      eligible-peptide count (1,404 barred, **1,817 of 2,120** eligible — the
+      draft had inverted the two), and two pointers to files that do not exist
+      (`10_hyphy_outputs/DEPRECATED_DO_NOT_USE.md`, removed in the cleanup, and
+      `03_metadata/metadata_feasibility_statement.md`, never written at all).
+      Two further apparent mismatches were traced to the verification script's
+      own use of Python's banker's rounding and are not draft errors: the exact
+      AUC values are 0.8915 and 0.4245, so the drafts' 0.892 and 0.425 are
+      correct.
+- [x] Fix the three conservation-layer defects found while assembling the
+      candidate-targets section — done 2026-11-21; reference residues were numbered
+      on the masked alignment (8,072 of 22,955 numbers wrong), peptide between-type
+      flags were set from partial residue coverage, and between-type identity was
+      judged on cohort consensus residues while candidate peptides are cut from
+      reference proteins. Two of the five minimal-panel peptides did not exist in
+      HSV-1. All three are fixed, two assertions now guard the pipeline, and
+      `step15`/`19`/`21`/`22`/`23`/`24`/`26`/`27` were re-run. Full account in
+      `CORRECTIONS_AND_PENDING_WORK.md`, addendum "three defects in the conservation
+      layer"; methods §10.1 carries the short version. The cross-protective set went
+      from 2,120 to 1,729 peptides and the panel from four peptides to five; the
+      selection screen, the predictor benchmark, all coverage percentages and the gB
+      `SRVEAFHR` patch are unaffected.
+- [x] Add the candidate-targets section to the manuscript (§3.12) — done; states the
+      1,729/1,559 counts, the top of the ranking as Table 4, the per-gene
+      distribution, and the three claims the arm actually supports, with the A\*02:03
+      artifact and the unvalidated HSV-2 and CD4/B-cell layers stated on the spot
 - [ ] Deposit the 587 MB of HyPhy JSON in Zenodo and cite the DOI in methods §19,
       rather than carrying it in the git repository
 - [ ] Confirm the GitHub repository is public and the commit referenced in §18 is

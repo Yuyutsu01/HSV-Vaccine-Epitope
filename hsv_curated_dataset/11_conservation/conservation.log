@@ -44,3 +44,51 @@
 [2026-11-19 00:21:22] US7: 385 cols (HSV1 occupies 385, HSV2 371, shared 371) | identity HSV1 99.19% / HSV2 99.65% / between 68.57% | shared cols conserved in both types 67.39% | 6 cross-protective window(s) >= 9aa
 [2026-11-19 00:21:24] US8: 550 cols (HSV1 occupies 550, HSV2 547, shared 547) | identity HSV1 99.52% / HSV2 99.77% / between 74.54% | shared cols conserved in both types 73.67% | 15 cross-protective window(s) >= 9aa
 [2026-11-19 00:21:24] Wrote per_residue_conservation.tsv (11801 residue rows), gene_level_conservation.tsv (20 genes), conserved_windows.tsv (283 windows)
+[2026-11-21 23:07:43] ==============================================================================
+[2026-11-21 23:07:43] STEP 13: per-residue conservation layer (within HSV-1, within HSV-2, between types)
+[2026-11-21 23:09:30] ==============================================================================
+[2026-11-21 23:09:30] STEP 13: per-residue conservation layer (within HSV-1, within HSV-2, between types)
+[2026-11-21 23:09:34] RL2: 775 cols (HSV1 occupies 775, HSV2 749, shared 749) | identity HSV1 99.3% / HSV2 99.28% / between 61.08% | shared cols conserved in both types 59.68% | 14 cross-protective window(s) >= 9aa
+[2026-11-21 23:09:42] RS1: 1299 cols (HSV1 occupies 1298, HSV2 1238, shared 1237) | identity HSV1 99.33% / HSV2 99.59% / between 77.57% | shared cols conserved in both types 76.39% | 31 cross-protective window(s) >= 9aa
+[2026-11-21 23:09:44] UL10: 473 cols (HSV1 occupies 473, HSV2 466, shared 466) | identity HSV1 99.63% / HSV2 99.96% / between 82.45% | shared cols conserved in both types 81.76% | 16 cross-protective window(s) >= 9aa
+[2026-11-21 23:09:44] UL1: 224 cols (HSV1 occupies 224, HSV2 224, shared 224) | identity HSV1 98.32% / HSV2 99.94% / between 65.42% | shared cols conserved in both types 64.29% | 3 cross-protective window(s) >= 9aa
+[2026-11-21 23:09:49] UL22: 838 cols (HSV1 occupies 838, HSV2 838, shared 838) | identity HSV1 99.53% / HSV2 99.82% / between 79.2% | shared cols conserved in both types 78.88% | 23 cross-protective window(s) >= 9aa
+[2026-11-21 23:09:50] UL23: 376 cols (HSV1 occupies 376, HSV2 375, shared 375) | identity HSV1 99.33% / HSV2 99.66% / between 74.3% | shared cols conserved in both types 72.53% | 8 cross-protective window(s) >= 9aa
+[2026-11-21 23:09:56] UL27: 901 cols (HSV1 occupies 896, HSV2 901, shared 896) | identity HSV1 99.67% / HSV2 99.73% / between 87.11% | shared cols conserved in both types 86.5% | 26 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:04] UL30: 1235 cols (HSV1 occupies 1235, HSV2 1235, shared 1235) | identity HSV1 99.75% / HSV2 99.82% / between 90.82% | shared cols conserved in both types 90.36% | 34 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:06] UL44: 511 cols (HSV1 occupies 511, HSV2 480, shared 480) | identity HSV1 98.99% / HSV2 99.76% / between 69.24% | shared cols conserved in both types 66.88% | 6 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:10] UL46: 718 cols (HSV1 occupies 717, HSV2 701, shared 700) | identity HSV1 99.36% / HSV2 99.63% / between 79.26% | shared cols conserved in both types 78.71% | 19 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:13] UL47: 693 cols (HSV1 occupies 693, HSV2 687, shared 687) | identity HSV1 99.81% / HSV2 99.78% / between 82.05% | shared cols conserved in both types 81.8% | 18 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:15] UL48: 490 cols (HSV1 occupies 490, HSV2 487, shared 487) | identity HSV1 99.83% / HSV2 99.91% / between 85.91% | shared cols conserved in both types 85.63% | 15 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:15] UL49A: 91 cols (HSV1 occupies 91, HSV2 86, shared 86) | identity HSV1 99.67% / HSV2 99.83% / between 59.0% | shared cols conserved in both types 58.14% | 0 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:17] UL49: 300 cols (HSV1 occupies 299, HSV2 300, shared 299) | identity HSV1 99.64% / HSV2 99.48% / between 69.84% | shared cols conserved in both types 68.23% | 8 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:18] UL53: 338 cols (HSV1 occupies 338, HSV2 338, shared 338) | identity HSV1 99.91% / HSV2 99.56% / between 84.83% | shared cols conserved in both types 83.14% | 12 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:20] UL54: 512 cols (HSV1 occupies 512, HSV2 511, shared 511) | identity HSV1 99.81% / HSV2 99.93% / between 79.5% | shared cols conserved in both types 79.26% | 14 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:22] US4: 698 cols (HSV1 occupies 238, HSV2 698, shared 238) | identity HSV1 97.24% / HSV2 99.58% / between 37.53% | shared cols conserved in both types 36.13% | 2 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:23] US6: 394 cols (HSV1 occupies 394, HSV2 393, shared 393) | identity HSV1 99.67% / HSV2 99.89% / between 82.44% | shared cols conserved in both types 81.68% | 13 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:25] US7: 385 cols (HSV1 occupies 385, HSV2 371, shared 371) | identity HSV1 99.19% / HSV2 99.65% / between 68.57% | shared cols conserved in both types 67.39% | 6 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:28] US8: 550 cols (HSV1 occupies 550, HSV2 547, shared 547) | identity HSV1 99.52% / HSV2 99.77% / between 74.54% | shared cols conserved in both types 73.67% | 15 cross-protective window(s) >= 9aa
+[2026-11-21 23:10:28] Wrote per_residue_conservation.tsv (11801 residue rows), gene_level_conservation.tsv (20 genes), conserved_windows.tsv (283 windows)
+[2026-11-21 23:18:40] ==============================================================================
+[2026-11-21 23:18:40] STEP 13: per-residue conservation layer (within HSV-1, within HSV-2, between types)
+[2026-11-21 23:18:44] RL2: 775 cols (HSV1 occupies 775, HSV2 749, shared 749) | identity HSV1 99.3% / HSV2 99.28% / between 61.08% | shared cols conserved in both types 59.68% | 14 cross-protective window(s) >= 9aa
+[2026-11-21 23:18:53] RS1: 1299 cols (HSV1 occupies 1298, HSV2 1238, shared 1237) | identity HSV1 99.33% / HSV2 99.59% / between 77.57% | shared cols conserved in both types 76.31% | 31 cross-protective window(s) >= 9aa
+[2026-11-21 23:18:55] UL10: 473 cols (HSV1 occupies 473, HSV2 466, shared 466) | identity HSV1 99.63% / HSV2 99.96% / between 82.45% | shared cols conserved in both types 81.55% | 15 cross-protective window(s) >= 9aa
+[2026-11-21 23:18:55] UL1: 224 cols (HSV1 occupies 224, HSV2 224, shared 224) | identity HSV1 98.32% / HSV2 99.94% / between 65.42% | shared cols conserved in both types 63.84% | 2 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:00] UL22: 838 cols (HSV1 occupies 838, HSV2 838, shared 838) | identity HSV1 99.53% / HSV2 99.82% / between 79.2% | shared cols conserved in both types 78.88% | 23 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:02] UL23: 376 cols (HSV1 occupies 376, HSV2 375, shared 375) | identity HSV1 99.33% / HSV2 99.66% / between 74.3% | shared cols conserved in both types 72.53% | 8 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:07] UL27: 901 cols (HSV1 occupies 896, HSV2 901, shared 896) | identity HSV1 99.67% / HSV2 99.73% / between 87.11% | shared cols conserved in both types 86.5% | 26 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:16] UL30: 1235 cols (HSV1 occupies 1235, HSV2 1235, shared 1235) | identity HSV1 99.75% / HSV2 99.82% / between 90.82% | shared cols conserved in both types 90.36% | 34 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:18] UL44: 511 cols (HSV1 occupies 511, HSV2 480, shared 480) | identity HSV1 98.99% / HSV2 99.76% / between 69.24% | shared cols conserved in both types 66.88% | 6 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:22] UL46: 718 cols (HSV1 occupies 717, HSV2 701, shared 700) | identity HSV1 99.36% / HSV2 99.63% / between 79.26% | shared cols conserved in both types 78.57% | 19 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:25] UL47: 693 cols (HSV1 occupies 693, HSV2 687, shared 687) | identity HSV1 99.81% / HSV2 99.78% / between 82.05% | shared cols conserved in both types 81.8% | 18 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:27] UL48: 490 cols (HSV1 occupies 490, HSV2 487, shared 487) | identity HSV1 99.83% / HSV2 99.91% / between 85.91% | shared cols conserved in both types 85.63% | 15 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:27] UL49A: 91 cols (HSV1 occupies 91, HSV2 86, shared 86) | identity HSV1 99.67% / HSV2 99.83% / between 59.0% | shared cols conserved in both types 58.14% | 0 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:29] UL49: 300 cols (HSV1 occupies 299, HSV2 300, shared 299) | identity HSV1 99.64% / HSV2 99.48% / between 69.84% | shared cols conserved in both types 68.23% | 8 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:30] UL53: 338 cols (HSV1 occupies 338, HSV2 338, shared 338) | identity HSV1 99.91% / HSV2 99.56% / between 84.83% | shared cols conserved in both types 83.14% | 12 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:31] UL54: 512 cols (HSV1 occupies 512, HSV2 511, shared 511) | identity HSV1 99.81% / HSV2 99.93% / between 79.5% | shared cols conserved in both types 79.06% | 14 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:34] US4: 698 cols (HSV1 occupies 238, HSV2 698, shared 238) | identity HSV1 97.24% / HSV2 99.58% / between 37.53% | shared cols conserved in both types 36.13% | 2 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:35] US6: 394 cols (HSV1 occupies 394, HSV2 393, shared 393) | identity HSV1 99.67% / HSV2 99.89% / between 82.44% | shared cols conserved in both types 81.17% | 13 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:37] US7: 385 cols (HSV1 occupies 385, HSV2 371, shared 371) | identity HSV1 99.19% / HSV2 99.65% / between 68.57% | shared cols conserved in both types 67.39% | 6 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:40] US8: 550 cols (HSV1 occupies 550, HSV2 547, shared 547) | identity HSV1 99.52% / HSV2 99.77% / between 74.54% | shared cols conserved in both types 73.31% | 15 cross-protective window(s) >= 9aa
+[2026-11-21 23:19:40] Wrote per_residue_conservation.tsv (11801 residue rows), gene_level_conservation.tsv (20 genes), conserved_windows.tsv (281 windows)

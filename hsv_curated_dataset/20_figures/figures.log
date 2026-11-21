@@ -145,3 +145,139 @@
 [2026-11-21 19:47:19]     fig4_site_variant_support.pdf
 [2026-11-21 19:47:19]     fig5_predictor_benchmark.pdf
 [2026-11-21 19:47:19]     fig6_population_coverage.pdf
+[2026-11-21 22:19:41] STEP 27: main-text figures
+[2026-11-21 22:19:41] fig1_study_design
+[2026-11-21 22:19:42]   wrote fig1_study_design.png and fig1_study_design.pdf
+[2026-11-21 22:19:42] fig2_conservation
+[2026-11-21 22:19:43]   wrote fig2_conservation.png and fig2_conservation.pdf
+[2026-11-21 22:19:43] fig3_selection
+[2026-11-21 22:19:45]   wrote fig3_selection_gene_branch.png and fig3_selection_gene_branch.pdf
+[2026-11-21 22:19:45] fig4_robustness
+[2026-11-21 22:19:46]   wrote fig4_site_variant_support.png and fig4_site_variant_support.pdf
+[2026-11-21 22:19:46] fig5_benchmark
+[2026-11-21 22:19:46]   wrote fig5_predictor_benchmark.png and fig5_predictor_benchmark.pdf
+[2026-11-21 22:19:46] fig6_coverage
+[2026-11-21 22:19:47]   wrote fig6_population_coverage.png and fig6_population_coverage.pdf
+[2026-11-21 22:19:47] fig7_structure
+[2026-11-21 22:19:50]   wrote fig7_structure.png and fig7_structure.pdf
+[2026-11-21 22:19:50] figS1_cohorts
+[2026-11-21 22:19:51]   wrote figS1_cohort_size.png and figS1_cohort_size.pdf
+[2026-11-21 22:19:51] figS2_bcell
+[2026-11-21 22:19:52]   wrote figS2_bcell_scores.png and figS2_bcell_scores.pdf
+[2026-11-21 22:19:52] 
+[2026-11-21 22:19:52] figures in 20_figures/: 10
+[2026-11-21 22:19:52]     fig1_cohort_size.pdf
+[2026-11-21 22:19:52]     fig1_study_design.pdf
+[2026-11-21 22:19:52]     fig2_conservation.pdf
+[2026-11-21 22:19:52]     fig3_selection_gene_branch.pdf
+[2026-11-21 22:19:52]     fig4_site_variant_support.pdf
+[2026-11-21 22:19:52]     fig5_predictor_benchmark.pdf
+[2026-11-21 22:19:52]     fig6_population_coverage.pdf
+[2026-11-21 22:19:52]     fig7_structure.pdf
+[2026-11-21 22:19:52]     figS1_cohort_size.pdf
+[2026-11-21 22:19:52]     figS2_bcell_scores.pdf
+[2026-11-21 22:22:26]   wrote fig1_study_design.png and fig1_study_design.pdf
+[2026-11-21 22:23:57]   wrote fig1_study_design.png and fig1_study_design.pdf
+[2026-11-21 22:25:32]   wrote fig7_structure.png and fig7_structure.pdf
+[2026-11-21 22:26:30]   wrote fig7_structure.png and fig7_structure.pdf
+[2026-11-21 22:27:00]   wrote fig7_structure.png and fig7_structure.pdf
+[2026-11-21 22:27:19]   wrote fig3_selection_gene_branch.png and fig3_selection_gene_branch.pdf
+[2026-11-21 22:27:20]   wrote fig5_predictor_benchmark.png and fig5_predictor_benchmark.pdf
+[2026-11-21 22:27:21]   wrote fig6_population_coverage.png and fig6_population_coverage.pdf
+[2026-11-21 22:27:22]   wrote figS2_bcell_scores.png and figS2_bcell_scores.pdf
+[2026-11-21 22:27:25]   wrote fig7_structure.png and fig7_structure.pdf
+[2026-11-21 22:28:13]   wrote fig6_population_coverage.png and fig6_population_coverage.pdf
+[2026-11-21 22:28:44]   wrote fig6_population_coverage.png and fig6_population_coverage.pdf
+[2026-11-21 22:29:25]   wrote figS2_bcell_scores.png and figS2_bcell_scores.pdf
+[2026-11-21 22:30:25]   wrote fig2_conservation.png and fig2_conservation.pdf
+[2026-11-21 22:30:26]   wrote fig3_selection_gene_branch.png and fig3_selection_gene_branch.pdf
+[2026-11-21 22:33:11] STEP 27: main-text figures
+[2026-11-21 22:33:11] fig1_study_design
+[2026-11-21 22:33:12]   wrote fig1_study_design.png and fig1_study_design.pdf
+[2026-11-21 22:33:12] fig2_conservation
+[2026-11-21 22:33:13]   wrote fig2_conservation.png and fig2_conservation.pdf
+[2026-11-21 22:33:13] fig3_selection
+[2026-11-21 22:33:14]   wrote fig3_selection_gene_branch.png and fig3_selection_gene_branch.pdf
+[2026-11-21 22:33:14] fig4_robustness
+[2026-11-21 22:33:15]   wrote fig4_site_variant_support.png and fig4_site_variant_support.pdf
+[2026-11-21 22:33:15] fig5_benchmark
+[2026-11-21 22:33:15]   wrote fig5_predictor_benchmark.png and fig5_predictor_benchmark.pdf
+[2026-11-21 22:33:15] fig6_coverage
+[2026-11-21 22:33:16]   wrote fig6_population_coverage.png and fig6_population_coverage.pdf
+[2026-11-21 22:33:16] fig7_structure
+[2026-11-21 22:33:18]   wrote fig7_structure.png and fig7_structure.pdf
+[2026-11-21 22:33:18] figS1_cohorts
+[2026-11-21 22:33:19]   wrote figS1_cohort_size.png and figS1_cohort_size.pdf
+[2026-11-21 22:33:19] figS2_bcell
+[2026-11-21 22:33:19]   wrote figS2_bcell_scores.png and figS2_bcell_scores.pdf
+[2026-11-21 22:33:19] 
+[2026-11-21 22:33:19] figures in 20_figures/: 9
+[2026-11-21 22:33:19]     fig1_study_design.pdf
+[2026-11-21 22:33:19]     fig2_conservation.pdf
+[2026-11-21 22:33:19]     fig3_selection_gene_branch.pdf
+[2026-11-21 22:33:19]     fig4_site_variant_support.pdf
+[2026-11-21 22:33:19]     fig5_predictor_benchmark.pdf
+[2026-11-21 22:33:19]     fig6_population_coverage.pdf
+[2026-11-21 22:33:19]     fig7_structure.pdf
+[2026-11-21 22:33:19]     figS1_cohort_size.pdf
+[2026-11-21 22:33:19]     figS2_bcell_scores.pdf
+[2026-11-21 23:14:03] STEP 27: main-text figures
+[2026-11-21 23:14:03] fig1_study_design
+[2026-11-21 23:14:04]   wrote fig1_study_design.png and fig1_study_design.pdf
+[2026-11-21 23:14:04] fig2_conservation
+[2026-11-21 23:14:05]   wrote fig2_conservation.png and fig2_conservation.pdf
+[2026-11-21 23:14:05] fig3_selection
+[2026-11-21 23:14:06]   wrote fig3_selection_gene_branch.png and fig3_selection_gene_branch.pdf
+[2026-11-21 23:14:06] fig4_robustness
+[2026-11-21 23:14:07]   wrote fig4_site_variant_support.png and fig4_site_variant_support.pdf
+[2026-11-21 23:14:07] fig5_benchmark
+[2026-11-21 23:14:07]   wrote fig5_predictor_benchmark.png and fig5_predictor_benchmark.pdf
+[2026-11-21 23:14:07] fig6_coverage
+[2026-11-21 23:14:08]   wrote fig6_population_coverage.png and fig6_population_coverage.pdf
+[2026-11-21 23:14:08] fig7_structure
+[2026-11-21 23:14:10]   wrote fig7_structure.png and fig7_structure.pdf
+[2026-11-21 23:14:10] figS1_cohorts
+[2026-11-21 23:14:11]   wrote figS1_cohort_size.png and figS1_cohort_size.pdf
+[2026-11-21 23:14:11] figS2_bcell
+[2026-11-21 23:14:11]   wrote figS2_bcell_scores.png and figS2_bcell_scores.pdf
+[2026-11-21 23:14:11] 
+[2026-11-21 23:14:11] figures in 20_figures/: 9
+[2026-11-21 23:14:11]     fig1_study_design.pdf
+[2026-11-21 23:14:11]     fig2_conservation.pdf
+[2026-11-21 23:14:11]     fig3_selection_gene_branch.pdf
+[2026-11-21 23:14:11]     fig4_site_variant_support.pdf
+[2026-11-21 23:14:11]     fig5_predictor_benchmark.pdf
+[2026-11-21 23:14:11]     fig6_population_coverage.pdf
+[2026-11-21 23:14:11]     fig7_structure.pdf
+[2026-11-21 23:14:11]     figS1_cohort_size.pdf
+[2026-11-21 23:14:11]     figS2_bcell_scores.pdf
+[2026-11-21 23:22:08] STEP 27: main-text figures
+[2026-11-21 23:22:08] fig1_study_design
+[2026-11-21 23:22:10]   wrote fig1_study_design.png and fig1_study_design.pdf
+[2026-11-21 23:22:10] fig2_conservation
+[2026-11-21 23:22:10]   wrote fig2_conservation.png and fig2_conservation.pdf
+[2026-11-21 23:22:10] fig3_selection
+[2026-11-21 23:22:11]   wrote fig3_selection_gene_branch.png and fig3_selection_gene_branch.pdf
+[2026-11-21 23:22:11] fig4_robustness
+[2026-11-21 23:22:12]   wrote fig4_site_variant_support.png and fig4_site_variant_support.pdf
+[2026-11-21 23:22:12] fig5_benchmark
+[2026-11-21 23:22:13]   wrote fig5_predictor_benchmark.png and fig5_predictor_benchmark.pdf
+[2026-11-21 23:22:13] fig6_coverage
+[2026-11-21 23:22:14]   wrote fig6_population_coverage.png and fig6_population_coverage.pdf
+[2026-11-21 23:22:14] fig7_structure
+[2026-11-21 23:22:16]   wrote fig7_structure.png and fig7_structure.pdf
+[2026-11-21 23:22:16] figS1_cohorts
+[2026-11-21 23:22:17]   wrote figS1_cohort_size.png and figS1_cohort_size.pdf
+[2026-11-21 23:22:17] figS2_bcell
+[2026-11-21 23:22:17]   wrote figS2_bcell_scores.png and figS2_bcell_scores.pdf
+[2026-11-21 23:22:17] 
+[2026-11-21 23:22:17] figures in 20_figures/: 9
+[2026-11-21 23:22:17]     fig1_study_design.pdf
+[2026-11-21 23:22:17]     fig2_conservation.pdf
+[2026-11-21 23:22:17]     fig3_selection_gene_branch.pdf
+[2026-11-21 23:22:17]     fig4_site_variant_support.pdf
+[2026-11-21 23:22:17]     fig5_predictor_benchmark.pdf
+[2026-11-21 23:22:17]     fig6_population_coverage.pdf
+[2026-11-21 23:22:17]     fig7_structure.pdf
+[2026-11-21 23:22:17]     figS1_cohort_size.pdf
+[2026-11-21 23:22:17]     figS2_bcell_scores.pdf

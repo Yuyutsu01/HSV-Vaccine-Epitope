@@ -1,4 +1,4 @@
 epitope_set	n_peptides	n_alleles_covered	populations	world_coverage	mean_coverage	median_coverage	min_coverage	max_coverage	pct_populations_above_90
 all_predicted_binders	10931	27	239	99.71	79.84	97.5	0.0	100.0	73.6
-shortlist_primary	8070	27	239	99.71	79.84	97.5	0.0	100.0	73.6
-shortlist_cross_protective	2120	27	239	99.71	79.84	97.5	0.0	100.0	73.6
+shortlist_primary	8010	27	239	99.71	79.84	97.5	0.0	100.0	73.6
+shortlist_cross_protective	1729	27	239	99.71	79.84	97.5	0.0	100.0	73.6

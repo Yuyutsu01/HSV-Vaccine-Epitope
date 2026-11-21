@@ -346,3 +346,169 @@
 [2026-11-21 19:42:39]   5. No class II predictor is benchmarked in this study.
 [2026-11-21 19:42:39] 
 [2026-11-21 19:42:39] Caveat: HLA-C is absent from the step15 panel, so combined class I coverage is conservative.
+[2026-11-21 23:13:00] ==============================================================================
+[2026-11-21 23:13:00] STEP 23: HLA population coverage of the epitope shortlist
+[2026-11-21 23:13:00] Loaded allele frequency data (restricted unpickler, data only): 239 class I populations, sha256 781e0252605c64ba...
+[2026-11-21 23:13:00] Loaded 26989 peptide-allele binder rows
+[2026-11-21 23:13:02] shortlist_primary: 8010 peptides with allele-level binder data
+[2026-11-21 23:13:02] shortlist_cross_protective: 1738 peptides with allele-level binder data
+[2026-11-21 23:13:02] Low-complexity peptides barred from the minimal panel: 1307
+[2026-11-21 23:13:55] Wrote coverage_by_population.tsv (717 rows) and coverage_summary.tsv
+[2026-11-21 23:13:55]   all_predicted_binders        10931 peptides, 27 alleles -> World 99.71%, mean 79.84% across 239 populations (median 97.5%, min 0.0%, 73.6% of populations >=90%)
+[2026-11-21 23:13:55]   shortlist_primary             8010 peptides, 27 alleles -> World 99.71%, mean 79.84% across 239 populations (median 97.5%, min 0.0%, 73.6% of populations >=90%)
+[2026-11-21 23:13:55]   shortlist_cross_protective    1738 peptides, 27 alleles -> World 99.71%, mean 79.84% across 239 populations (median 97.5%, min 0.0%, 73.6% of populations >=90%)
+[2026-11-21 23:13:55] Coverage in focus populations, cross-protective shortlist:
+[2026-11-21 23:13:55]     World                   99.71%  (avg hits 510.7)
+[2026-11-21 23:13:55]     Europe                  99.84%  (avg hits 535.1)
+[2026-11-21 23:13:55]     East Asia               99.24%  (avg hits 479.6)
+[2026-11-21 23:13:55]     South Asia              98.55%  (avg hits 408.0)
+[2026-11-21 23:13:55]     North Africa            97.32%  (avg hits 372.5)
+[2026-11-21 23:13:55]     North America           99.59%  (avg hits 501.9)
+[2026-11-21 23:13:55]     South America          100.00%  (avg hits 563.4)
+[2026-11-21 23:13:55]     Oceania                 98.36%  (avg hits 342.5)
+[2026-11-21 23:13:55]     Southeast Asia          96.57%  (avg hits 358.1)
+[2026-11-21 23:13:55]     Southwest Asia          97.57%  (avg hits 393.6)
+[2026-11-21 23:13:55]     Central America          7.76%  (avg hits 8.8)
+[2026-11-21 23:13:55]     East Africa             93.66%  (avg hits 310.7)
+[2026-11-21 23:13:55]     West Africa             97.81%  (avg hits 377.0)
+[2026-11-21 23:13:55]     Central Africa          92.97%  (avg hits 300.4)
+[2026-11-21 23:13:56] Greedy minimal panel from the shortlist_cross_protective set, low-complexity peptides excluded (1563 of 1738 candidates eligible):
+[2026-11-21 23:13:56]     +ILDNPGFVTF   -> 13 alleles, World coverage 90.58%
+[2026-11-21 23:13:56]     +EVIDKINAK    -> 21 alleles, World coverage 99.22%
+[2026-11-21 23:13:56]     +AMAAGRFGW    -> 24 alleles, World coverage 99.54%
+[2026-11-21 23:13:56]     +AQTGVRVAL    -> 26 alleles, World coverage 99.65%
+[2026-11-21 23:13:56]     +AAQYRNAVV    -> 27 alleles, World coverage 99.71%
+[2026-11-21 23:13:56]     80% World coverage: 1 peptides
+[2026-11-21 23:13:56]     90% World coverage: 1 peptides
+[2026-11-21 23:13:56]     95% World coverage: 2 peptides
+[2026-11-21 23:13:57] Unconstrained panel for comparison: 5 peptides, 27 alleles, World 99.71% (low-complexity peptides used: ['AAAVPLLSA'])
+[2026-11-21 23:13:57] Cost of excluding low-complexity peptides: 0.0 percentage points of World coverage, 0 panel alleles.
+[2026-11-21 23:13:57] 
+[2026-11-21 23:13:57] ==============================================================================
+[2026-11-21 23:13:57] CLASS II POPULATION COVERAGE
+[2026-11-21 23:13:57] Loaded 25855 class II peptide-allele binder rows, 27 alleles, 274 populations
+[2026-11-21 23:13:57] panel decomposed into chains:
+[2026-11-21 23:13:57]     HLA-DRB1   panel 11, matched to frequency data 11
+[2026-11-21 23:13:57]     HLA-DPA1   panel  3, matched to frequency data  3
+[2026-11-21 23:13:57]     HLA-DPB1   panel  6, matched to frequency data  6
+[2026-11-21 23:13:57]     HLA-DQA1   panel  5, matched to frequency data  5
+[2026-11-21 23:13:57]     HLA-DQB1   panel  6, matched to frequency data  6
+[2026-11-21 23:13:57]     HLA-DRB3   panel  2, matched to frequency data  0  <-- NO FREQUENCY DATA for this locus in the IEDB file; these alleles cannot contribute
+[2026-11-21 23:13:57]     HLA-DRB4   panel  1, matched to frequency data  0  <-- NO FREQUENCY DATA for this locus in the IEDB file; these alleles cannot contribute
+[2026-11-21 23:13:57]     HLA-DRB5   panel  1, matched to frequency data  0  <-- NO FREQUENCY DATA for this locus in the IEDB file; these alleles cannot contribute
+[2026-11-21 23:13:57] 
+[2026-11-21 23:13:57] Wrote coverage_by_population_classii.tsv and coverage_summary_classii.tsv
+[2026-11-21 23:13:57]   classii_binders_weak_or_better     9613 peptides, 27 alleles
+[2026-11-21 23:13:57]       World: 99.64% to 100.0% (conservative to upper bound)
+[2026-11-21 23:13:57]       across the 64 of 274 populations typed at all 5 presenting loci: mean 98.87% to 99.98%, median 99.63%, min 90.75%, 100.0% of them >=90%
+[2026-11-21 23:13:57]   classii_strong_binders             3147 peptides, 27 alleles
+[2026-11-21 23:13:57]       World: 99.64% to 100.0% (conservative to upper bound)
+[2026-11-21 23:13:57]       across the 64 of 274 populations typed at all 5 presenting loci: mean 98.87% to 99.98%, median 99.63%, min 90.75%, 100.0% of them >=90%
+[2026-11-21 23:13:57] 
+[2026-11-21 23:13:57] Class II coverage in focus populations (strong binders, conservative to upper bound):
+[2026-11-21 23:13:57]     World                   99.64% to 100.00%
+[2026-11-21 23:13:57]     Europe                  99.77% to 100.00%
+[2026-11-21 23:13:57]     East Asia               95.33% to  99.93%
+[2026-11-21 23:13:57]     South Asia              98.90% to 100.00%
+[2026-11-21 23:13:57]     North America           99.99% to 100.00%
+[2026-11-21 23:13:57]     South America           99.98% to 100.00%
+[2026-11-21 23:13:57]     Oceania                 99.17% to 100.00%
+[2026-11-21 23:13:57]     East Africa             99.81% to 100.00%
+[2026-11-21 23:13:57]     West Africa             99.39% to 100.00%
+[2026-11-21 23:13:57]     Central Africa          99.61% to 100.00%
+[2026-11-21 23:13:57] 
+[2026-11-21 23:13:57] Wrote coverage_combined_classI_classII.tsv (51 populations present in BOTH the class I and class II frequency sets)
+[2026-11-21 23:13:57]     class II conservative: World combined 100.00%, mean 99.98% across 51 populations
+[2026-11-21 23:13:57]     class II upper_bound : World combined 100.00%, mean 100.00% across 51 populations
+[2026-11-21 23:13:57] 
+[2026-11-21 23:13:57] Class II caveats, in order of how much they matter:
+[2026-11-21 23:13:57]   1. DP and DQ are heterodimers but the IEDB file stores chain frequencies, so molecule coverage is bracketed, not computed. Both bounds are reported.
+[2026-11-21 23:13:57]   2. Populations differ in which class II loci were typed. A population with no HLA-DRB1 entry cannot be scored at DR, and is NOT a population with zero DR coverage; summary statistics therefore cover only the populations typed at all five presenting loci, and every row carries loci_typed and scorable.
+[2026-11-21 23:13:57]   3. HLA-DRB3/4/5 have no frequency data in this file, so 4 of the 27 panel alleles cannot contribute and the DR term is DRB1-only.
+[2026-11-21 23:13:57]   4. Coverage reflects the ALLELE PANEL, not epitope quality: with 22,624 peptides every allele has some predicted binder, so these figures are close to the panel's maximum and are not a property of the shortlist.
+[2026-11-21 23:13:57]   5. No class II predictor is benchmarked in this study.
+[2026-11-21 23:13:57] 
+[2026-11-21 23:13:57] Caveat: HLA-C is absent from the step15 panel, so combined class I coverage is conservative.
+[2026-11-21 23:21:11] ==============================================================================
+[2026-11-21 23:21:11] STEP 23: HLA population coverage of the epitope shortlist
+[2026-11-21 23:21:11] Loaded allele frequency data (restricted unpickler, data only): 239 class I populations, sha256 781e0252605c64ba...
+[2026-11-21 23:21:11] Loaded 26989 peptide-allele binder rows
+[2026-11-21 23:21:13] shortlist_primary: 8010 peptides with allele-level binder data
+[2026-11-21 23:21:13] shortlist_cross_protective: 1729 peptides with allele-level binder data
+[2026-11-21 23:21:13] Low-complexity peptides barred from the minimal panel: 1307
+[2026-11-21 23:22:00] Wrote coverage_by_population.tsv (717 rows) and coverage_summary.tsv
+[2026-11-21 23:22:00]   all_predicted_binders        10931 peptides, 27 alleles -> World 99.71%, mean 79.84% across 239 populations (median 97.5%, min 0.0%, 73.6% of populations >=90%)
+[2026-11-21 23:22:00]   shortlist_primary             8010 peptides, 27 alleles -> World 99.71%, mean 79.84% across 239 populations (median 97.5%, min 0.0%, 73.6% of populations >=90%)
+[2026-11-21 23:22:00]   shortlist_cross_protective    1729 peptides, 27 alleles -> World 99.71%, mean 79.84% across 239 populations (median 97.5%, min 0.0%, 73.6% of populations >=90%)
+[2026-11-21 23:22:00] Coverage in focus populations, cross-protective shortlist:
+[2026-11-21 23:22:00]     World                   99.71%  (avg hits 507.9)
+[2026-11-21 23:22:00]     Europe                  99.84%  (avg hits 531.8)
+[2026-11-21 23:22:00]     East Asia               99.24%  (avg hits 477.4)
+[2026-11-21 23:22:00]     South Asia              98.55%  (avg hits 406.3)
+[2026-11-21 23:22:00]     North Africa            97.32%  (avg hits 370.6)
+[2026-11-21 23:22:00]     North America           99.59%  (avg hits 499.2)
+[2026-11-21 23:22:00]     South America          100.00%  (avg hits 561.3)
+[2026-11-21 23:22:00]     Oceania                 98.36%  (avg hits 341.6)
+[2026-11-21 23:22:00]     Southeast Asia          96.57%  (avg hits 356.9)
+[2026-11-21 23:22:00]     Southwest Asia          97.57%  (avg hits 391.6)
+[2026-11-21 23:22:00]     Central America          7.76%  (avg hits 8.8)
+[2026-11-21 23:22:00]     East Africa             93.66%  (avg hits 308.9)
+[2026-11-21 23:22:00]     West Africa             97.81%  (avg hits 375.2)
+[2026-11-21 23:22:00]     Central Africa          92.97%  (avg hits 298.6)
+[2026-11-21 23:22:01] Greedy minimal panel from the shortlist_cross_protective set, low-complexity peptides excluded (1559 of 1729 candidates eligible):
+[2026-11-21 23:22:01]     +ILDNPGFVTF   -> 13 alleles, World coverage 90.58%
+[2026-11-21 23:22:01]     +EVIDKINAK    -> 21 alleles, World coverage 99.22%
+[2026-11-21 23:22:01]     +AMAAGRFGW    -> 24 alleles, World coverage 99.54%
+[2026-11-21 23:22:01]     +AQTGVRVAL    -> 26 alleles, World coverage 99.65%
+[2026-11-21 23:22:01]     +AAQYRNAVV    -> 27 alleles, World coverage 99.71%
+[2026-11-21 23:22:01]     80% World coverage: 1 peptides
+[2026-11-21 23:22:01]     90% World coverage: 1 peptides
+[2026-11-21 23:22:01]     95% World coverage: 2 peptides
+[2026-11-21 23:22:02] Unconstrained panel for comparison: 5 peptides, 27 alleles, World 99.71% (low-complexity peptides used: ['AAAVPLLSA'])
+[2026-11-21 23:22:02] Cost of excluding low-complexity peptides: 0.0 percentage points of World coverage, 0 panel alleles.
+[2026-11-21 23:22:02] 
+[2026-11-21 23:22:02] ==============================================================================
+[2026-11-21 23:22:02] CLASS II POPULATION COVERAGE
+[2026-11-21 23:22:02] Loaded 25855 class II peptide-allele binder rows, 27 alleles, 274 populations
+[2026-11-21 23:22:02] panel decomposed into chains:
+[2026-11-21 23:22:02]     HLA-DRB1   panel 11, matched to frequency data 11
+[2026-11-21 23:22:02]     HLA-DPA1   panel  3, matched to frequency data  3
+[2026-11-21 23:22:02]     HLA-DPB1   panel  6, matched to frequency data  6
+[2026-11-21 23:22:02]     HLA-DQA1   panel  5, matched to frequency data  5
+[2026-11-21 23:22:02]     HLA-DQB1   panel  6, matched to frequency data  6
+[2026-11-21 23:22:02]     HLA-DRB3   panel  2, matched to frequency data  0  <-- NO FREQUENCY DATA for this locus in the IEDB file; these alleles cannot contribute
+[2026-11-21 23:22:02]     HLA-DRB4   panel  1, matched to frequency data  0  <-- NO FREQUENCY DATA for this locus in the IEDB file; these alleles cannot contribute
+[2026-11-21 23:22:02]     HLA-DRB5   panel  1, matched to frequency data  0  <-- NO FREQUENCY DATA for this locus in the IEDB file; these alleles cannot contribute
+[2026-11-21 23:22:02] 
+[2026-11-21 23:22:02] Wrote coverage_by_population_classii.tsv and coverage_summary_classii.tsv
+[2026-11-21 23:22:02]   classii_binders_weak_or_better     9613 peptides, 27 alleles
+[2026-11-21 23:22:02]       World: 99.64% to 100.0% (conservative to upper bound)
+[2026-11-21 23:22:02]       across the 64 of 274 populations typed at all 5 presenting loci: mean 98.87% to 99.98%, median 99.63%, min 90.75%, 100.0% of them >=90%
+[2026-11-21 23:22:02]   classii_strong_binders             3147 peptides, 27 alleles
+[2026-11-21 23:22:02]       World: 99.64% to 100.0% (conservative to upper bound)
+[2026-11-21 23:22:02]       across the 64 of 274 populations typed at all 5 presenting loci: mean 98.87% to 99.98%, median 99.63%, min 90.75%, 100.0% of them >=90%
+[2026-11-21 23:22:02] 
+[2026-11-21 23:22:02] Class II coverage in focus populations (strong binders, conservative to upper bound):
+[2026-11-21 23:22:02]     World                   99.64% to 100.00%
+[2026-11-21 23:22:02]     Europe                  99.77% to 100.00%
+[2026-11-21 23:22:02]     East Asia               95.33% to  99.93%
+[2026-11-21 23:22:02]     South Asia              98.90% to 100.00%
+[2026-11-21 23:22:02]     North America           99.99% to 100.00%
+[2026-11-21 23:22:02]     South America           99.98% to 100.00%
+[2026-11-21 23:22:02]     Oceania                 99.17% to 100.00%
+[2026-11-21 23:22:02]     East Africa             99.81% to 100.00%
+[2026-11-21 23:22:02]     West Africa             99.39% to 100.00%
+[2026-11-21 23:22:02]     Central Africa          99.61% to 100.00%
+[2026-11-21 23:22:02] 
+[2026-11-21 23:22:02] Wrote coverage_combined_classI_classII.tsv (51 populations present in BOTH the class I and class II frequency sets)
+[2026-11-21 23:22:02]     class II conservative: World combined 100.00%, mean 99.98% across 51 populations
+[2026-11-21 23:22:02]     class II upper_bound : World combined 100.00%, mean 100.00% across 51 populations
+[2026-11-21 23:22:02] 
+[2026-11-21 23:22:02] Class II caveats, in order of how much they matter:
+[2026-11-21 23:22:02]   1. DP and DQ are heterodimers but the IEDB file stores chain frequencies, so molecule coverage is bracketed, not computed. Both bounds are reported.
+[2026-11-21 23:22:02]   2. Populations differ in which class II loci were typed. A population with no HLA-DRB1 entry cannot be scored at DR, and is NOT a population with zero DR coverage; summary statistics therefore cover only the populations typed at all five presenting loci, and every row carries loci_typed and scorable.
+[2026-11-21 23:22:02]   3. HLA-DRB3/4/5 have no frequency data in this file, so 4 of the 27 panel alleles cannot contribute and the DR term is DRB1-only.
+[2026-11-21 23:22:02]   4. Coverage reflects the ALLELE PANEL, not epitope quality: with 22,624 peptides every allele has some predicted binder, so these figures are close to the panel's maximum and are not a property of the shortlist.
+[2026-11-21 23:22:02]   5. No class II predictor is benchmarked in this study.
+[2026-11-21 23:22:02] 
+[2026-11-21 23:22:02] Caveat: HLA-C is absent from the step15 panel, so combined class I coverage is conservative.

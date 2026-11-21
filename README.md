@@ -36,7 +36,7 @@ isolates, across the glycoproteins, replication machinery and regulatory tegumen
 | IEDB curation | **Complete** (`12_iedb/`) |
 | CD8 class I prediction | **Complete** (`13_epitopes/`) |
 | Predictor validation against IEDB | **Complete** (`15_benchmark/`) |
-| Candidate integration and ranking | **Complete** (`16_shortlist/`) — selection filter applied; 9,450 rows / 8,070 distinct peptides primary, 3,202 rows / 2,120 distinct cross-protective |
+| Candidate integration and ranking | **Complete** (`16_shortlist/`) — selection filter applied; 9,488 rows / 8,010 distinct peptides primary, 3,207 rows / 1,729 distinct cross-protective |
 | CD4 class II, B-cell linear, B-cell conformational | **Blocked** on academic licences (DTU HealthTech) |
 | Structure mapping (2C36 gD, 2GUM gB, 3M1C gH-gL) | **Complete** (`17_structures/`) |
 | HLA class I population coverage, 239 populations | **Complete** (`18_population_coverage/`) |
@@ -44,7 +44,7 @@ isolates, across the glycoproteins, replication machinery and regulatory tegumen
 | Supplements S1-S5 (data flow, accessions, removals, cohorts, versions) | **Complete** (`19_supplements/`) |
 | Methods draft | **Rewritten and filled in** (`08_documentation/methods_draft.md`) — no section left pending |
 | Results draft | **Written** (`08_documentation/results_draft.md`) — headline is the site-level negative result |
-| Main-text figures | **Complete** (`20_figures/`, 6 figures, PNG + vector PDF) |
+| Main-text figures | **Complete** (`20_figures/`, 7 main + 2 supplementary, PNG + vector PDF) |
 | ESM-2 zero-shot | Dropped by decision |
 
 The corrected pipeline is complete as of **2026-11-20**, and every number in it was
@@ -54,8 +54,9 @@ corrections document for what that found and changed). Results live in `14_selec
 `19_supplements/` (S1-S5); the methods draft states every number and the file it comes from.
 
 **The v1 outputs are withdrawn, not superseded in place.** `06_alignments/` and
-`10_hyphy_outputs/` each carry a `DEPRECATED_DO_NOT_USE.md` explaining why and naming the
-replacement. The earlier "342/342 runs, 100% complete" badge was both arithmetically wrong
+`10_hyphy_outputs/` each carried a `DEPRECATED_DO_NOT_USE.md` explaining why and naming
+the replacement; both directories were removed in the 2026-11-21 cleanup, and the
+withdrawal is recorded in `CORRECTIONS_AND_PENDING_WORK.md`. The earlier "342/342 runs, 100% complete" badge was both arithmetically wrong
 (the real total was 270) and describing a pipeline whose inputs were invalid. Two results
 carry explicit caveats that should travel with any citation: the marginal UL44/HSV-1
 breakpoint (dAICc 3.70, retained as the conservative choice) and the truncated RS1/HSV-1
@@ -108,16 +109,16 @@ identity, and it is the correct result to publish — the ≥2-method rule, mean
 conservative, in fact selected the two most likely artifacts. See methods §8.1.
 
 **Conservation.** 11,801 residue rows; within-type identity 97.2–99.9%; between-type identity
-37.5% (gG) to 90.8% (UL30); **283 windows of ≥9 aa conserved in both types and identical
+37.5% (gG) to 90.8% (UL30); **281 windows of ≥9 aa conserved in both types and identical
 between them.** gG/US4 is confirmed as a poor cross-protective target — HSV-1 gG occupies only
 238 of 698 alignment columns against HSV-2 gG.
 
 **Validation against known biology.** MHCflurry recovers curated IEDB class I epitopes with
 **mean AUC 0.809 (median 0.892), 6.0× top-decile enrichment** over 27 gene × type groups
-spanning 17 genes; **HSV-1 mean AUC 0.931**, HSV-2 0.600. Conservation alone scores **AUC 0.565**,
+spanning 17 genes; **HSV-1 mean AUC 0.931**, HSV-2 0.600. Conservation alone scores **AUC 0.566**,
 near chance — direct evidence that conservation is not a proxy for immunogenicity, and that both
 filters are needed. `RMLGDVMAV` (gB 559–567 in HSV-2 numbering), a published HLA-A\*02 gB epitope,
-is recovered at rank 11 of 3,202 in the cross-protective shortlist and is
+is recovered at rank 13 of 3,207 in the cross-protective shortlist and is
 recovered and flagged as IEDB-known.
 
 ---
@@ -156,7 +157,7 @@ vaccine project/
 │   ├── 17_structures/                    # PDB structures, residue annotation, exposed patches
 │   ├── 18_population_coverage/           # class I and class II coverage, minimal allele panel
 │   ├── 19_supplements/                   # S1-S5 manuscript supplementary tables
-│   ├── 20_figures/                       # fig1-fig6, PDF and PNG
+│   ├── 20_figures/                       # fig1-fig7 + figS1, figS2, PDF and PNG
 │   └── bin/                              # NCBI datasets, IQ-TREE 2.4.0            [not in git]
 ```
 

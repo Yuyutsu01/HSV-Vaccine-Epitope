@@ -492,3 +492,157 @@
 [2026-11-21 18:27:09]     HSV2 UL22   ALGYQLAFV    471-479  HLA-A*02:03  aff=     5.2nM cons=100.0% known=n score=0.8703
 [2026-11-21 18:27:09] Class I population coverage is computed separately by step23 over the per-allele binder table; see 18_population_coverage/coverage_summary.tsv.
 [2026-11-21 18:27:09] Class II: classii_best_percentile_rank is the BEST rank over all 27 alleles and every 15-mer overlapping the peptide, so it is a minimum over roughly a hundred values and is NOT comparable to a single-allele rank. It is below 1% for 9655 of 12771 candidates (76%), which makes it useless as a filter and is why it is carried as an annotation only. Per-allele class II binding is in 13_epitopes/classii_binders_by_allele.tsv.
+[2026-11-21 23:12:27] ==============================================================================
+[2026-11-21 23:12:27] STEP 21: integration and ranking of candidate epitopes
+[2026-11-21 23:12:27] Loaded 45688 predicted peptides
+[2026-11-21 23:12:27] 12771 peptides pass the class I binder cut
+[2026-11-21 23:12:28] Loaded IEDB residue flags (4889 residues inside a known epitope)
+[2026-11-21 23:12:28] Loaded 2 positively selected site(s) (q<0.05, >=2 methods) from step18
+[2026-11-21 23:12:29] Class II predictions: loaded
+[2026-11-21 23:12:29] B-cell linear scores: loaded
+[2026-11-21 23:12:47] Wrote epitope_candidates_ranked.tsv (12771 candidates)
+[2026-11-21 23:12:47] Primary shortlist: 9488 peptides (binder, every residue >= 99.0% conserved within type, not positively selected)
+[2026-11-21 23:12:47] Cross-protective subset: 3216 peptides identical across both types
+[2026-11-21 23:12:47]     distinct peptide sequences: 8010 primary, 1738 cross-protective (a row is one peptide in one virus type, so a cross-type peptide appears twice)
+[2026-11-21 23:12:47]     low-complexity rows (repeat-derived, flagged NOT dropped): 1460 of 9488 primary (15.4%), 328 of 3216 cross-protective; 6 in the top 50
+[2026-11-21 23:12:47] Shortlist by gene:
+[2026-11-21 23:12:47]     HSV2 UL30    582 shortlisted, 340 cross-protective,   0 inside a known IEDB epitope,  11 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL30    513 shortlisted, 317 cross-protective, 100 inside a known IEDB epitope,  15 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 RS1     499 shortlisted, 244 cross-protective, 121 inside a known IEDB epitope,   6 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 RS1     480 shortlisted, 235 cross-protective, 109 inside a known IEDB epitope,  12 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL27    439 shortlisted, 257 cross-protective, 241 inside a known IEDB epitope,  40 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL27    428 shortlisted, 262 cross-protective, 172 inside a known IEDB epitope,  27 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL22    398 shortlisted,  87 cross-protective,   0 inside a known IEDB epitope,  50 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL46    377 shortlisted, 100 cross-protective,  62 inside a known IEDB epitope,   9 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL47    362 shortlisted, 138 cross-protective,  73 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL22    324 shortlisted,  73 cross-protective,  60 inside a known IEDB epitope,  32 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 US4     297 shortlisted,   1 cross-protective, 281 inside a known IEDB epitope,  19 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL47    285 shortlisted, 116 cross-protective,  97 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL10    270 shortlisted,  73 cross-protective,   0 inside a known IEDB epitope,   7 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL46    251 shortlisted,  87 cross-protective, 129 inside a known IEDB epitope,   7 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 RL2     251 shortlisted,  17 cross-protective,  98 inside a known IEDB epitope,   6 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL48    246 shortlisted, 110 cross-protective, 120 inside a known IEDB epitope,   8 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL44    233 shortlisted,  15 cross-protective,  46 inside a known IEDB epitope,  33 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 US8     231 shortlisted,  35 cross-protective,  78 inside a known IEDB epitope,   8 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL48    229 shortlisted, 100 cross-protective, 103 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL10    210 shortlisted,  67 cross-protective,  61 inside a known IEDB epitope,   2 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 RL2     200 shortlisted,  18 cross-protective,  55 inside a known IEDB epitope,   3 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 US6     197 shortlisted,  56 cross-protective, 184 inside a known IEDB epitope,  12 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL54    191 shortlisted,  63 cross-protective,  52 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 US8     187 shortlisted,  26 cross-protective,  41 inside a known IEDB epitope,   6 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL53    187 shortlisted,  56 cross-protective,  73 inside a known IEDB epitope,  11 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL23    178 shortlisted,  22 cross-protective,  13 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 US6     164 shortlisted,  56 cross-protective, 164 inside a known IEDB epitope,  10 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 US7     163 shortlisted,  21 cross-protective, 130 inside a known IEDB epitope,   9 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL53    157 shortlisted,  51 cross-protective,   0 inside a known IEDB epitope,   9 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL54    156 shortlisted,  63 cross-protective,  26 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL44    134 shortlisted,   7 cross-protective,  36 inside a known IEDB epitope,  12 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL23    131 shortlisted,  21 cross-protective,  29 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL49    125 shortlisted,  24 cross-protective,  87 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL49    118 shortlisted,  24 cross-protective,  31 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 US7      97 shortlisted,  22 cross-protective,  35 inside a known IEDB epitope,   3 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL1      91 shortlisted,   6 cross-protective,   0 inside a known IEDB epitope,   3 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 US4      36 shortlisted,   0 cross-protective,  28 inside a known IEDB epitope,   4 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL1      29 shortlisted,   6 cross-protective,   3 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV2 UL49A    25 shortlisted,   0 cross-protective,   0 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47]     HSV1 UL49A    17 shortlisted,   0 cross-protective,   3 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:12:47] Top 15 cross-protective candidates:
+[2026-11-21 23:12:47]     HSV2 UL22   FLAASALGV    805-813  HLA-A*02:03  aff=     3.6nM cons=100.0% known=n score=0.8715
+[2026-11-21 23:12:47]     HSV1 UL22   FLAASALGV    805-813  HLA-A*02:03  aff=     3.6nM cons=100.0% known=Y score=0.8715
+[2026-11-21 23:12:47]     HSV1 RL2    MLFDQGTLV    739-747  HLA-A*02:03  aff=     3.9nM cons=100.0% known=Y score=0.8714
+[2026-11-21 23:12:47]     HSV2 RL2    MLFDQGTLV    793-801  HLA-A*02:03  aff=     3.9nM cons=100.0% known=Y score=0.8714
+[2026-11-21 23:12:47]     HSV2 UL47   ALHTALATV    507-515  HLA-A*02:03  aff=     4.3nM cons=100.0% known=n score=0.8713
+[2026-11-21 23:12:47]     HSV2 UL48   FLSTLPSDV    102-110  HLA-A*02:03  aff=     4.4nM cons=100.0% known=n score=0.8712
+[2026-11-21 23:12:47]     HSV1 UL48   FLSTLPSDV    104-112  HLA-A*02:03  aff=     4.4nM cons=100.0% known=Y score=0.8712
+[2026-11-21 23:12:47]     HSV2 US7    FLGSCICFI    274-282  HLA-A*02:03  aff=     4.7nM cons=100.0% known=Y score=0.8709
+[2026-11-21 23:12:47]     HSV1 US7    FLGSCICFI    288-296  HLA-A*02:03  aff=     4.7nM cons=100.0% known=Y score=0.8709
+[2026-11-21 23:12:47]     HSV1 UL27   FLIAYQPLL    448-456  HLA-A*02:03  aff=     4.7nM cons=100.0% known=Y score=0.8708
+[2026-11-21 23:12:47]     HSV2 UL27   FLIAYQPLL    443-451  HLA-A*02:03  aff=     4.7nM cons=100.0% known=Y score=0.8708
+[2026-11-21 23:12:47]     HSV1 UL30   MLIKGVDLV    950-958  HLA-A*02:03  aff=     4.8nM cons=100.0% known=Y score=0.8707
+[2026-11-21 23:12:47]     HSV2 UL27   RMLGDVMAV    559-567  HLA-A*02:03  aff=     5.0nM cons=100.0% known=Y score=0.8705
+[2026-11-21 23:12:47]     HSV1 UL22   FLAASALGVV   805-814  HLA-A*02:03  aff=     5.1nM cons=100.0% known=Y score=0.8703
+[2026-11-21 23:12:47]     HSV2 UL22   FLAASALGVV   805-814  HLA-A*02:03  aff=     5.1nM cons=100.0% known=n score=0.8703
+[2026-11-21 23:12:47] Class I population coverage is computed separately by step23 over the per-allele binder table; see 18_population_coverage/coverage_summary.tsv.
+[2026-11-21 23:12:47] Class II: classii_best_percentile_rank is the BEST rank over all 27 alleles and every 15-mer overlapping the peptide, so it is a minimum over roughly a hundred values and is NOT comparable to a single-allele rank. It is below 1% for 9655 of 12771 candidates (76%), which makes it useless as a filter and is why it is carried as an annotation only. Per-allele class II binding is in 13_epitopes/classii_binders_by_allele.tsv.
+[2026-11-21 23:17:00] ==============================================================================
+[2026-11-21 23:17:00] STEP 21: integration and ranking of candidate epitopes
+[2026-11-21 23:17:00] Loaded 45688 predicted peptides
+[2026-11-21 23:17:00] 12771 peptides pass the class I binder cut
+[2026-11-21 23:17:00] Loaded IEDB residue flags (4889 residues inside a known epitope)
+[2026-11-21 23:17:00] Loaded 2 positively selected site(s) (q<0.05, >=2 methods) from step18
+[2026-11-21 23:17:02] Class II predictions: loaded
+[2026-11-21 23:17:02] B-cell linear scores: loaded
+[2026-11-21 23:17:20] Wrote epitope_candidates_ranked.tsv (12771 candidates)
+[2026-11-21 23:20:40] ==============================================================================
+[2026-11-21 23:20:40] STEP 21: integration and ranking of candidate epitopes
+[2026-11-21 23:20:40] Loaded 45688 predicted peptides
+[2026-11-21 23:20:40] 12771 peptides pass the class I binder cut
+[2026-11-21 23:20:40] Loaded IEDB residue flags (4889 residues inside a known epitope)
+[2026-11-21 23:20:40] Loaded 2 positively selected site(s) (q<0.05, >=2 methods) from step18
+[2026-11-21 23:20:42] Class II predictions: loaded
+[2026-11-21 23:20:42] B-cell linear scores: loaded
+[2026-11-21 23:21:00] Wrote epitope_candidates_ranked.tsv (12771 candidates)
+[2026-11-21 23:21:00]   excluded 2 peptide(s) flagged conserved in both types that do not occur in the other type's reference protein (indel inside the window; written to excluded_not_in_other_type.tsv): ['PAPVPTPTP', 'RPRKRRGSG']
+[2026-11-21 23:21:00] Primary shortlist: 9488 peptides (binder, every residue >= 99.0% conserved within type, not positively selected)
+[2026-11-21 23:21:00] Cross-protective subset: 3207 peptides identical across both types
+[2026-11-21 23:21:00]     distinct peptide sequences: 8010 primary, 1729 cross-protective (a row is one peptide in one virus type, so a cross-type peptide appears twice)
+[2026-11-21 23:21:00]     low-complexity rows (repeat-derived, flagged NOT dropped): 1460 of 9488 primary (15.4%), 323 of 3207 cross-protective; 6 in the top 50
+[2026-11-21 23:21:00] Shortlist by gene:
+[2026-11-21 23:21:00]     HSV2 UL30    582 shortlisted, 340 cross-protective,   0 inside a known IEDB epitope,  11 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL30    513 shortlisted, 317 cross-protective, 100 inside a known IEDB epitope,  15 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 RS1     499 shortlisted, 244 cross-protective, 121 inside a known IEDB epitope,   6 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 RS1     480 shortlisted, 234 cross-protective, 109 inside a known IEDB epitope,  12 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL27    439 shortlisted, 257 cross-protective, 241 inside a known IEDB epitope,  40 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL27    428 shortlisted, 262 cross-protective, 172 inside a known IEDB epitope,  27 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL22    398 shortlisted,  87 cross-protective,   0 inside a known IEDB epitope,  50 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL46    377 shortlisted,  98 cross-protective,  62 inside a known IEDB epitope,   9 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL47    362 shortlisted, 135 cross-protective,  73 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL22    324 shortlisted,  73 cross-protective,  60 inside a known IEDB epitope,  32 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 US4     297 shortlisted,   1 cross-protective, 281 inside a known IEDB epitope,  19 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL47    285 shortlisted, 116 cross-protective,  97 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL10    270 shortlisted,  72 cross-protective,   0 inside a known IEDB epitope,   7 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL46    251 shortlisted,  87 cross-protective, 129 inside a known IEDB epitope,   7 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 RL2     251 shortlisted,  17 cross-protective,  98 inside a known IEDB epitope,   6 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL48    246 shortlisted, 110 cross-protective, 120 inside a known IEDB epitope,   8 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL44    233 shortlisted,  15 cross-protective,  46 inside a known IEDB epitope,  33 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 US8     231 shortlisted,  35 cross-protective,  78 inside a known IEDB epitope,   8 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL48    229 shortlisted, 100 cross-protective, 103 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL10    210 shortlisted,  67 cross-protective,  61 inside a known IEDB epitope,   2 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 RL2     200 shortlisted,  18 cross-protective,  55 inside a known IEDB epitope,   3 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 US6     197 shortlisted,  56 cross-protective, 184 inside a known IEDB epitope,  12 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL54    191 shortlisted,  63 cross-protective,  52 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 US8     187 shortlisted,  26 cross-protective,  41 inside a known IEDB epitope,   6 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL53    187 shortlisted,  56 cross-protective,  73 inside a known IEDB epitope,  11 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL23    178 shortlisted,  22 cross-protective,  13 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 US6     164 shortlisted,  56 cross-protective, 164 inside a known IEDB epitope,  10 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 US7     163 shortlisted,  21 cross-protective, 130 inside a known IEDB epitope,   9 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL53    157 shortlisted,  51 cross-protective,   0 inside a known IEDB epitope,   9 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL54    156 shortlisted,  63 cross-protective,  26 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL44    134 shortlisted,   7 cross-protective,  36 inside a known IEDB epitope,  12 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL23    131 shortlisted,  21 cross-protective,  29 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL49    125 shortlisted,  24 cross-protective,  87 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL49    118 shortlisted,  24 cross-protective,  31 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 US7      97 shortlisted,  22 cross-protective,  35 inside a known IEDB epitope,   3 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL1      91 shortlisted,   6 cross-protective,   0 inside a known IEDB epitope,   3 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 US4      36 shortlisted,   0 cross-protective,  28 inside a known IEDB epitope,   4 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL1      29 shortlisted,   6 cross-protective,   3 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV2 UL49A    25 shortlisted,   0 cross-protective,   0 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00]     HSV1 UL49A    17 shortlisted,   0 cross-protective,   3 inside a known IEDB epitope,   0 overlap a glycosylation sequon
+[2026-11-21 23:21:00] Top 15 cross-protective candidates:
+[2026-11-21 23:21:00]     HSV2 UL22   FLAASALGV    805-813  HLA-A*02:03  aff=     3.6nM cons=100.0% known=n score=0.8715
+[2026-11-21 23:21:00]     HSV1 UL22   FLAASALGV    805-813  HLA-A*02:03  aff=     3.6nM cons=100.0% known=Y score=0.8715
+[2026-11-21 23:21:00]     HSV1 RL2    MLFDQGTLV    739-747  HLA-A*02:03  aff=     3.9nM cons=100.0% known=Y score=0.8714
+[2026-11-21 23:21:00]     HSV2 RL2    MLFDQGTLV    793-801  HLA-A*02:03  aff=     3.9nM cons=100.0% known=Y score=0.8714
+[2026-11-21 23:21:00]     HSV2 UL47   ALHTALATV    507-515  HLA-A*02:03  aff=     4.3nM cons=100.0% known=n score=0.8713
+[2026-11-21 23:21:00]     HSV2 UL48   FLSTLPSDV    102-110  HLA-A*02:03  aff=     4.4nM cons=100.0% known=n score=0.8712
+[2026-11-21 23:21:00]     HSV1 UL48   FLSTLPSDV    104-112  HLA-A*02:03  aff=     4.4nM cons=100.0% known=Y score=0.8712
+[2026-11-21 23:21:00]     HSV2 US7    FLGSCICFI    274-282  HLA-A*02:03  aff=     4.7nM cons=100.0% known=Y score=0.8709
+[2026-11-21 23:21:01]     HSV1 US7    FLGSCICFI    288-296  HLA-A*02:03  aff=     4.7nM cons=100.0% known=Y score=0.8709
+[2026-11-21 23:21:01]     HSV1 UL27   FLIAYQPLL    448-456  HLA-A*02:03  aff=     4.7nM cons=100.0% known=Y score=0.8708
+[2026-11-21 23:21:01]     HSV2 UL27   FLIAYQPLL    443-451  HLA-A*02:03  aff=     4.7nM cons=100.0% known=Y score=0.8708
+[2026-11-21 23:21:01]     HSV1 UL30   MLIKGVDLV    950-958  HLA-A*02:03  aff=     4.8nM cons=100.0% known=Y score=0.8707
+[2026-11-21 23:21:01]     HSV2 UL27   RMLGDVMAV    559-567  HLA-A*02:03  aff=     5.0nM cons=100.0% known=Y score=0.8705
+[2026-11-21 23:21:01]     HSV2 UL22   FLAASALGVV   805-814  HLA-A*02:03  aff=     5.1nM cons=100.0% known=n score=0.8703
+[2026-11-21 23:21:01]     HSV1 UL22   FLAASALGVV   805-814  HLA-A*02:03  aff=     5.1nM cons=100.0% known=Y score=0.8703
+[2026-11-21 23:21:01] Class I population coverage is computed separately by step23 over the per-allele binder table; see 18_population_coverage/coverage_summary.tsv.
+[2026-11-21 23:21:01] Class II: classii_best_percentile_rank is the BEST rank over all 27 alleles and every 15-mer overlapping the peptide, so it is a minimum over roughly a hundred values and is NOT comparable to a single-allele rank. It is below 1% for 9655 of 12771 candidates (76%), which makes it useless as a filter and is why it is carried as an annotation only. Per-allele class II binding is in 13_epitopes/classii_binders_by_allele.tsv.

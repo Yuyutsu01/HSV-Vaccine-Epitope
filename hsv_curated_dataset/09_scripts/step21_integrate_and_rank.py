@@ -258,7 +258,35 @@ def main():
     primary = cand[cand.highly_conserved & not_selected]
     primary.to_csv(os.path.join(DIR_OUT, "shortlist_primary.tsv"), sep="\t", index=False)
 
-    cross = primary[primary.fully_conserved_both_types]
+    cross = primary[primary.fully_conserved_both_types].copy()
+
+    # Independent check on cross-protective status, not routed through the alignment.
+    # "Identical between types at every aligned column" is not the same claim as "this
+    # peptide occurs in the other type's protein": an indel inside the window makes the
+    # residues correspond one by one while the contiguous peptide exists in only one
+    # type. The synthesised peptide is what matters, so verify it directly.
+    refs = load_reference_proteins()
+    other = {"HSV1": "HSV2", "HSV2": "HSV1"}
+    present = [
+        bool(refs.get((other[vt], g), "").find(pep) >= 0)
+        for vt, g, pep in zip(cross.virus_type, cross.gene, cross.peptide)]
+    cross["present_in_other_type_reference"] = present
+    # This check is the DEFINITION of cross-protective, not an invariant, so peptides
+    # that fail it are excluded -- but to their own file, with the reason, so the
+    # exclusion is auditable and the count is reportable. Anything still failing after
+    # the exclusion would be a bug, and the assertion below says so.
+    missing = cross[~cross.present_in_other_type_reference]
+    if len(missing):
+        missing.to_csv(os.path.join(DIR_OUT, "excluded_not_in_other_type.tsv"),
+                       sep="\t", index=False)
+        log(f"  excluded {len(missing)} peptide(s) flagged conserved in both types that "
+            f"do not occur in the other type's reference protein (indel inside the "
+            f"window; written to excluded_not_in_other_type.tsv): "
+            f"{sorted(set(missing.peptide))}")
+        cross = cross[cross.present_in_other_type_reference]
+    assert bool(cross.present_in_other_type_reference.all()), \
+        "cross-protective shortlist still contains a peptide absent from the other type"
+
     cross.to_csv(os.path.join(DIR_OUT, "shortlist_cross_protective.tsv"),
                  sep="\t", index=False)
 

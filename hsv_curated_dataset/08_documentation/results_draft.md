@@ -20,7 +20,8 @@ not depend on single alignment columns and stand.
 genome-level filtering, type verification by average nucleotide identity, per-gene CDS
 extraction and QC, and collapse of exact duplicates, **4,163 unique coding sequences**
 remain across **40 gene × type cohorts** for 20 genes, representing **12,054 isolates**
-(`19_supplements/S1_data_flow.tsv`, `S4_per_gene_cohorts.tsv`; **Figure 1**).
+(`19_supplements/S1_data_flow.tsv`, `S4_per_gene_cohorts.tsv`; **Figure 1** for the
+pipeline as a whole, **Figure S1** for cohort size per gene).
 
 Cohort sizes are uneven and this limits what the HSV-2 arm can support. HSV-1 cohorts run
 to 215 unique sequences (RS1); the smallest cohorts anywhere are UL49A at 28 (HSV-2) and 32
@@ -65,7 +66,7 @@ are supported; a third is not excluded.
 These are strongly conserved coding sequences, and that is the central constraint on the
 study's power. Mean within-type identity is **99.38% (HSV-1)** and **99.73% (HSV-2)**;
 between-type identity ranges from **37.5% (US4/gG)** to **90.8% (UL30/pol)**
-(`11_conservation/gene_level_conservation.tsv`; **Figure 2**). 283 windows of ≥9 aa are
+(`11_conservation/gene_level_conservation.tsv`; **Figure 2**). 281 windows of ≥9 aa are
 conserved within both types and identical between them
 (`11_conservation/conserved_windows.tsv`).
 
@@ -130,7 +131,8 @@ selection.** `selected_sites_final.tsv` is left unchanged so the pre-registered 
 output stands on the record, and `site_robustness.tsv` qualifies it.
 
 The wider pattern inverts the concordance rule's suggestion. Of the 92 sites called by at
-least one method, **76 are robust** (median 44 of ~300 isolates carrying the variant), 7 are
+least one method, **76 are robust** (median 54 variant-carrying isolates against a median
+cohort of 297), 7 are
 weak and 9 are not robust. The robust ones are almost entirely FUBAR-only: well supported in
 the data, but resting on a single method.
 
@@ -162,8 +164,8 @@ The split by type is stark and is a limitation, not a nuisance: **HSV-1 groups g
 inherited from HSV-1 cross-reactivity studies. Predictions for HSV-2 are correspondingly
 less well validated.
 
-The control that matters most: **conservation alone performs near chance** (mean AUC 0.565,
-1.35-fold top-decile enrichment). Conservation is therefore not a proxy for immunogenicity,
+The control that matters most: **conservation alone performs near chance** (mean AUC 0.566,
+1.38-fold top-decile enrichment). Conservation is therefore not a proxy for immunogenicity,
 which is the direct justification for using predicted binding and conservation as two
 independent filters rather than either alone.
 
@@ -172,24 +174,36 @@ independent filters rather than either alone.
 Joining predicted binding, per-residue conservation, IEDB flags, glycosylation sequons and
 the positive-selection filter gives 12,771 ranked candidates. The primary shortlist —
 predicted binder, every residue ≥99.0% conserved within type, not positively selected — is
-**9,450 rows / 8,070 distinct peptides**, of which **3,202 rows / 2,120 distinct peptides**
+**9,488 rows / 8,010 distinct peptides**, of which **3,207 rows / 1,729 distinct peptides**
 are identical across both types and form the cross-protective subset (`16_shortlist/`).
+1,478 of those 1,729 have a row in each type and 251 in only one, because a peptide present
+and identical in both types can still clear the within-type conservation threshold in only
+one of them.
+
+Cross-protective status is verified against the two reference proteins directly — the
+peptide must occur contiguously in the other type's protein — rather than inferred from
+per-residue identity through the alignment. The two are not the same claim: an indel inside
+the window lets every residue correspond while the contiguous peptide exists in one type
+only. The check removed 2 peptides (`16_shortlist/excluded_not_in_other_type.tsv`); before
+the 2026-11-21 conservation-layer corrections it would have removed 444.
 
 Two quality flags should travel with any use of this list:
 
-- **1,527 of the 9,450 primary rows (16.2%) are low-complexity**, drawn from the serine-,
-  glycine-, alanine- and proline-rich tandem repeats of ICP0 and ICP4 — peptides such as
-  `SSSSSSSSA` and `GAGGGGGGR`. These are perfectly conserved and score as binders but are
-  not credible epitopes, and they cannot be assigned a unique position (`SAASSSSSA` occurs
-  at HSV-2 RL2 595, 602 and 609). Only 1 appears in the top 50 by priority score, so the
-  ranking already suppresses them; they are flagged rather than dropped.
-- The positive-selection exclusion removes only **9 rows**, and §4.3 shows the two sites
+- **1,460 of the 9,488 primary rows (15.4%) are low-complexity**, 1,307 distinct peptides
+  drawn from the alanine-, serine-, glycine- and proline-rich tandem repeats of ICP4 and
+  ICP0 and the gG repeat region — concentrated in RS1 (267 rows), RL2 (137) and US4 (113),
+  peptides such as `AAAAAADLLF` and `AAAAPVVSA`. These are perfectly conserved and score as
+  binders but are not credible epitopes. 6 appear in the top 50 by priority score, so the
+  ranking suppresses them only partly; they are flagged rather than dropped, and barred
+  from the minimal panel in §7, where it matters.
+- The positive-selection exclusion removes only **5 rows**, and §4.3 shows the two sites
   driving it are probably artifacts. This filter is close to a no-op on these data and
   should not be presented as having shaped the shortlist.
 
 As a positive control, the cross-protective shortlist recovers **`RMLGDVMAV`** — a published
-HLA-A\*02 gB epitope — at **rank 11 of 3,202** by priority score, correctly flagged as
-IEDB-known (gB 559–567 in HSV-2 numbering, 562–570 in HSV-1).
+HLA-A\*02 gB epitope — at **rank 13 of 3,207** by priority score, and rank 7 once
+low-complexity repeats and duplicate rows are set aside, correctly flagged as IEDB-known
+(gB 559–567 in HSV-2 numbering, 562–570 in HSV-1).
 
 The top of the ranking is dominated by HLA-A\*02:03 and the A2 supertype. That is a known
 property of class I predictors on hydrophobic 9-mers, not a biological finding, which is why
@@ -200,15 +214,21 @@ coverage is assessed per allele rather than from the top of the list.
 Across **239 class I populations**, the cross-protective shortlist reaches **99.71% World
 coverage**, with a median of 97.5% across populations and **73.6% of populations at or above
 90%** (`18_population_coverage/`; **Figure 6**). A greedy minimal panel reaches 90.6% World
-coverage with one peptide (`ILDNPGFVTF`), 99.2% with two, and **99.71% with four, covering
-all 27 panel alleles**.
+coverage with one peptide (`ILDNPGFVTF`), 99.2% with two, and **99.71% with five, covering
+all 27 panel alleles** (`ILDNPGFVTF`, `EVIDKINAK`, `AMAAGRFGW`, `AQTGVRVAL`, `AAQYRNAVV`).
 
-Low-complexity peptides are barred from the panel search (1,404 of the 2,120
-cross-protective candidates are eligible after the exclusion), because §6 treats them as
-non-credible epitopes and a panel offered as a design must not rest on one. The exclusion
-is free: the search substitutes `AAFDGGSTA` (UL47) for the low-complexity `AAAAPLPSA`
-(RS1/ICP4) at the same 27 alleles and the same 99.71% coverage. The unconstrained panel is
-retained in `minimal_panel_greedy_unconstrained.tsv` so the comparison is checkable.
+Low-complexity peptides are barred from the panel search — 1,307 are barred across the
+candidate pool, leaving **1,559 of the 1,729** cross-protective candidates eligible —
+because §6 treats them as non-credible epitopes and a panel offered as a design must not
+rest on one. The exclusion costs nothing measurable: the unconstrained search also needs
+five peptides and also reaches 27 alleles and 99.71%, differing only in using the
+low-complexity `AAAVPLLSA`. The unconstrained panel is retained in
+`minimal_panel_greedy_unconstrained.tsv` so the comparison is checkable.
+
+The panel's earlier four-peptide version included `AEYGGSFRF` and `AAFDGGSTA`, both of
+which the 2026-11-21 corrections removed: both were flagged cross-protective but occur in
+HSV-2 only. The defect had reached the headline deliverable, which is the reason the
+direct presence check above now exists.
 
 Three caveats are reported with these figures:
 
@@ -226,10 +246,11 @@ Three caveats are reported with these figures:
 
 Candidates in the structurally characterised entry glycoproteins were mapped onto 2C36 (gD),
 2GUM (gB) and 3M1C (gH–gL): **3,145 residues across 7 chains** assigned at 0.995–1.000
-identity, of which 1,099 are solvent-exposed (RSA ≥ 0.25) and **33 conserved, exposed
+identity, of which 1,099 are solvent-exposed (RSA ≥ 0.25) and **32 conserved, exposed
 surface patches** of ≥5 contiguous residues were identified (`17_structures/`).
 
-The most promising is **gB 257–264 (`SRVEAFHR`)**: fully conserved within both types,
+The most promising is **gB 257–264 (`SRVEAFHR`)**, shown on the structure in
+**Figure 7**: fully conserved within both types,
 solvent-exposed, and annotated as inside a known IEDB epitope at all eight residues.
 
 No positively selected site falls within any of the four structurally covered proteins, so
@@ -237,6 +258,9 @@ No positively selected site falls within any of the four structurally covered pr
 residues. This is a limit of structural coverage, not evidence about those residues.
 
 ## 8a. B-cell epitope prediction
+
+Score distributions for both B-cell predictors, and the behaviour of their published
+thresholds on this data, are in **Figure S2**.
 
 **BepiPred-3.0** was run on all 40 reference proteins (23,184 residues), and the per-residue
 scores pass a strict register check against the reference translations before being used.
@@ -276,8 +300,8 @@ it falls below 1% for **76%** of candidates. It is carried as an annotation; per
 binding is the quantity to use.
 
 **Class II population coverage** over the 64 populations typed at all five presenting loci:
-mean **98.87%** conservative (median 99.63%, minimum 90.75% in South Korea) to 99.98% upper
-bound, and World **99.64–100%**. Combined with class I across the 51 populations in both
+mean **98.87%** conservative (median 99.63%, minimum 90.75%, in the population the
+IEDB file records as `Korea; South`) to 99.98% upper bound, and World **99.64–100%**. Combined with class I across the 51 populations in both
 frequency sets, mean **99.98%**.
 
 Three things qualify those numbers, and the second is the largest single correction made in
@@ -322,14 +346,22 @@ strong sets return identical coverage. It is at the panel's ceiling by construct
 
 ## Figures
 
+All figures are produced by `09_scripts/step27_figures.py` from the result tables; no
+value on any of them is typed in by hand. Each is written as 300 dpi PNG and as vector PDF.
+
 | Figure | File | Shows |
 |---|---|---|
-| 1 | `20_figures/fig1_cohort_size.*` | Unique sequences per gene × type after deduplication |
+| 1 | `20_figures/fig1_study_design.*` | Study design and data flow, including the two-track split at the selection stage and the withdrawn v1 branch |
 | 2 | `20_figures/fig2_conservation.*` | Within-type and between-type identity across 20 genes |
-| 3 | `20_figures/fig3_selection_gene_branch.*` | BUSTED gene-wide q-values and aBSREL branch counts |
+| 3 | `20_figures/fig3_selection_gene_branch.*` | BUSTED gene-wide q-values for the 32 significant units, and aBSREL branch counts |
 | 4 | `20_figures/fig4_site_variant_support.*` | Variant support behind every site called under selection |
-| 5 | `20_figures/fig5_predictor_benchmark.*` | MHCflurry AUC per gene × type against curated IEDB epitopes |
-| 6 | `20_figures/fig6_population_coverage.*` | Class I coverage across 239 populations and the greedy minimal panel |
+| 5 | `20_figures/fig5_predictor_benchmark.*` | MHCflurry AUC per gene × type against curated IEDB epitopes, with marker area encoding the number of positives |
+| 6 | `20_figures/fig6_population_coverage.*` | Class I coverage across 239 populations, the class II conservative-to-upper-bound bracket, and the greedy minimal panel |
+| 7 | `20_figures/fig7_structure.*` | gB with the conserved exposed patch `SRVEAFHR`, and gD coloured by DiscoTope score |
+| S1 | `20_figures/figS1_cohort_size.*` | Unique sequences per gene × type after deduplication |
+| S2 | `20_figures/figS2_bcell_scores.*` | BepiPred and DiscoTope score distributions, and how their published thresholds behave here |
 
-Structural figures are PyMOL session scripts in `17_structures/figures/` and need PyMOL or
-ChimeraX to render.
+Figure 7 is drawn directly from the deposited coordinates by `step27_figures.py` as van der
+Waals spheres in a principal-axis projection; it needs no external renderer. The PyMOL
+session scripts in `17_structures/figures/` remain available for interactive inspection and
+need PyMOL or ChimeraX.

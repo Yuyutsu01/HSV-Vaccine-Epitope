@@ -10,6 +10,7 @@
 | File | Contents |
 |---|---|
 | [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md) | **Every directory and file in the repository**: contents, producing script, consuming script. Enforced by `09_scripts/step30_provenance_audit.py`, which fails if any data file has no entry. |
+| [`MANUSCRIPT.md`](MANUSCRIPT.md) | **The assembled manuscript.** Start here. Figure placement is marked inline and restated as a table in its §11. |
 | [`MANUSCRIPT_CURATION.md`](MANUSCRIPT_CURATION.md) | Pre-submission assessment: which claims reproduce from the tables, what must be fixed before submission, and the figure plan. |
 | [`methods_draft.md`](methods_draft.md) | Manuscript methods, §1–§19. The authority on what was done and why. |
 | [`results_draft.md`](results_draft.md) | Manuscript results. |
