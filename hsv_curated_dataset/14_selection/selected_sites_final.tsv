@@ -1,0 +1,3 @@
+gene	cohort	ref_residue	methods	n_methods	min_q	within_type_identity	conserved_both_types
+RL2	HSV1	308.0	FUBAR;MEME	2	0.024560973780505247	98.29	True
+US7	HSV1	155.0	FUBAR;MEME	2	0.005076971845213718	99.28	False

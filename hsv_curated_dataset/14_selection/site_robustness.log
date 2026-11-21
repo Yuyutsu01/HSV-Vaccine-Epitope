@@ -1,0 +1,206 @@
+[2026-11-21 00:18:42] STEP 26: robustness assessment of reported positively selected sites
+[2026-11-21 00:18:43] sites to assess: 92
+[2026-11-21 00:18:43] QC log: 12054 rows, 84 FAIL keys
+[2026-11-21 00:18:43] wrote site_robustness.tsv (92 rows)
+[2026-11-21 00:18:43] 
+[2026-11-21 00:18:43] robustness verdicts (MIN_ISOLATES = 5):
+[2026-11-21 00:18:43]     ROBUST         76
+[2026-11-21 00:18:43]     NOT_ROBUST     9
+[2026-11-21 00:18:43]     WEAK           7
+[2026-11-21 00:18:43] 
+[2026-11-21 00:18:43] the two sites that satisfy the >=2-method concordance rule:
+[2026-11-21 00:18:43]     HSV1 RL2 residue 308: NOT_ROBUST
+[2026-11-21 00:18:43]         majority GGC x183, variants CGCx1;TCCx2
+[2026-11-21 00:18:43]         4 of 293 isolates (1.365%) carry a variant; max 2 nt change(s)
+[2026-11-21 00:18:43]         supporting accessions: HM585511;OP431901;OR771687  [includes QC-FAIL sequence]
+[2026-11-21 00:18:43]     HSV1 US7 residue 155: NOT_ROBUST
+[2026-11-21 00:18:43]         majority CCA x125, variants GACx1;TCAx1
+[2026-11-21 00:18:43]         2 of 276 isolates (0.725%) carry a variant; max 3 nt change(s)
+[2026-11-21 00:18:43]         supporting accessions: PP379031;PP379033  [adjacent batch]
+[2026-11-21 00:18:43] 
+[2026-11-21 00:18:43] 76 site(s) ROBUST:
+[2026-11-21 00:18:43]     HSV1 RL2 residue 634 (FUBAR): 150/293 isolates
+[2026-11-21 00:18:43]     HSV1 RL2 residue 636 (FUBAR): 5/293 isolates
+[2026-11-21 00:18:43]     HSV1 RL2 residue 716 (FUBAR): 113/293 isolates
+[2026-11-21 00:18:43]     HSV1 RL2 residue 767 (FUBAR): 5/293 isolates
+[2026-11-21 00:18:43]     HSV1 RL2 residue 769 (FUBAR): 54/293 isolates
+[2026-11-21 00:18:43]     HSV2 RL2 residue 204 (FUBAR): 39/98 isolates
+[2026-11-21 00:18:43]     HSV2 RL2 residue 252 (FUBAR): 41/98 isolates
+[2026-11-21 00:18:43]     HSV1 RS1 residue 130 (FUBAR): 33/247 isolates
+[2026-11-21 00:18:43]     HSV1 RS1 residue 136 (FUBAR): 21/247 isolates
+[2026-11-21 00:18:43]     HSV1 RS1 residue 228 (FUBAR): 12/247 isolates
+[2026-11-21 00:18:43]     HSV1 RS1 residue 551 (MEME): 6/247 isolates
+[2026-11-21 00:18:43]     HSV1 RS1 residue 877 (FUBAR): 44/247 isolates
+[2026-11-21 00:18:43]     HSV1 UL1 residue 168 (FUBAR): 137/295 isolates
+[2026-11-21 00:18:43]     HSV1 UL1 residue 212 (FUBAR): 104/295 isolates
+[2026-11-21 00:18:43]     HSV1 UL10 residue 203 (FUBAR): 125/297 isolates
+[2026-11-21 00:18:43]     HSV1 UL10 residue 448 (FUBAR): 73/297 isolates
+[2026-11-21 00:18:43]     HSV1 UL22 residue 12 (FUBAR): 130/295 isolates
+[2026-11-21 00:18:43]     HSV2 UL22 residue 112 (FUBAR): 88/340 isolates
+[2026-11-21 00:18:43]     HSV2 UL22 residue 154 (FUBAR): 13/340 isolates
+[2026-11-21 00:18:43]     HSV2 UL22 residue 166 (FUBAR): 10/340 isolates
+[2026-11-21 00:18:43]     HSV1 UL23 residue 42 (FUBAR): 72/297 isolates
+[2026-11-21 00:18:43]     HSV1 UL23 residue 281 (FUBAR): 19/297 isolates
+[2026-11-21 00:18:43]     HSV1 UL23 residue 376 (FUBAR): 21/297 isolates
+[2026-11-21 00:18:43]     HSV2 UL23 residue 39 (FUBAR): 58/339 isolates
+[2026-11-21 00:18:43]     HSV2 UL23 residue 78 (FUBAR): 165/339 isolates
+[2026-11-21 00:18:43]     HSV2 UL23 residue 263 (FUBAR): 11/339 isolates
+[2026-11-21 00:18:43]     HSV1 UL27 residue 59 (FUBAR): 155/296 isolates
+[2026-11-21 00:18:43]     HSV2 UL27 residue 49 (FUBAR): 144/335 isolates
+[2026-11-21 00:18:43]     HSV2 UL27 residue 330 (FUBAR): 45/335 isolates
+[2026-11-21 00:18:43]     HSV2 UL27 residue 845 (FUBAR): 104/335 isolates
+[2026-11-21 00:18:43]     HSV1 UL30 residue 33 (FUBAR): 49/296 isolates
+[2026-11-21 00:18:43]     HSV1 UL30 residue 646 (FUBAR): 23/296 isolates
+[2026-11-21 00:18:43]     HSV1 UL30 residue 920 (FUBAR): 72/296 isolates
+[2026-11-21 00:18:43]     HSV1 UL30 residue 1124 (FUBAR): 165/296 isolates
+[2026-11-21 00:18:43]     HSV1 UL30 residue 1208 (FUBAR): 65/296 isolates
+[2026-11-21 00:18:43]     HSV2 UL30 residue 139 (FUBAR): 100/337 isolates
+[2026-11-21 00:18:43]     HSV2 UL30 residue 232 (FUBAR): 8/337 isolates
+[2026-11-21 00:18:43]     HSV2 UL30 residue 801 (FUBAR): 37/337 isolates
+[2026-11-21 00:18:43]     HSV1 UL44 residue 299 (FUBAR): 16/297 isolates
+[2026-11-21 00:18:43]     HSV1 UL44 residue 421 (FUBAR): 155/297 isolates
+[2026-11-21 00:18:43]     HSV2 UL44 residue 123 (FUBAR): 76/342 isolates
+[2026-11-21 00:18:43]     HSV2 UL44 residue 169 (FUBAR): 54/342 isolates
+[2026-11-21 00:18:43]     HSV2 UL44 residue 214 (FUBAR): 34/342 isolates
+[2026-11-21 00:18:43]     HSV1 UL46 residue 180 (FUBAR): 125/290 isolates
+[2026-11-21 00:18:43]     HSV1 UL46 residue 543 (FUBAR): 120/290 isolates
+[2026-11-21 00:18:43]     HSV1 UL46 residue 591 (FUBAR): 126/290 isolates
+[2026-11-21 00:18:43]     HSV1 UL46 residue 638 (FUBAR): 76/290 isolates
+[2026-11-21 00:18:43]     HSV1 UL46 residue 644 (FUBAR): 17/290 isolates
+[2026-11-21 00:18:43]     HSV2 UL46 residue 594 (FUBAR): 150/336 isolates
+[2026-11-21 00:18:43]     HSV2 UL46 residue 634 (FUBAR): 145/336 isolates
+[2026-11-21 00:18:43]     HSV1 UL47 residue 3 (FUBAR): 76/297 isolates
+[2026-11-21 00:18:43]     HSV1 UL47 residue 95 (FUBAR): 5/297 isolates
+[2026-11-21 00:18:43]     HSV2 UL47 residue 3 (FUBAR): 27/342 isolates
+[2026-11-21 00:18:43]     HSV1 UL48 residue 388 (FUBAR): 37/299 isolates
+[2026-11-21 00:18:43]     HSV2 UL49 residue 132 (FUBAR): 161/336 isolates
+[2026-11-21 00:18:43]     HSV2 UL49 residue 273 (FUBAR): 29/336 isolates
+[2026-11-21 00:18:43]     HSV2 UL53 residue 36 (FUBAR): 5/342 isolates
+[2026-11-21 00:18:43]     HSV2 UL53 residue 115 (FUBAR): 10/342 isolates
+[2026-11-21 00:18:43]     HSV2 UL53 residue 247 (FUBAR): 111/342 isolates
+[2026-11-21 00:18:43]     HSV1 US4 residue 129 (FUBAR): 146/285 isolates
+[2026-11-21 00:18:43]     HSV1 US4 residue 164 (FUBAR): 7/285 isolates
+[2026-11-21 00:18:43]     HSV2 US4 residue 204 (FUBAR): 61/325 isolates
+[2026-11-21 00:18:43]     HSV2 US4 residue 212 (FUBAR): 42/325 isolates
+[2026-11-21 00:18:43]     HSV2 US4 residue 291 (FUBAR): 31/325 isolates
+[2026-11-21 00:18:43]     HSV2 US4 residue 395 (FUBAR): 18/325 isolates
+[2026-11-21 00:18:43]     HSV2 US4 residue 423 (FUBAR): 125/325 isolates
+[2026-11-21 00:18:43]     HSV2 US4 residue 442 (FUBAR): 37/325 isolates
+[2026-11-21 00:18:43]     HSV1 US6 residue 4 (FUBAR): 14/284 isolates
+[2026-11-21 00:18:43]     HSV1 US7 residue 136 (FUBAR): 14/276 isolates
+[2026-11-21 00:18:43]     HSV1 US7 residue 189 (FUBAR): 70/276 isolates
+[2026-11-21 00:18:43]     HSV2 US7 residue 215 (FUBAR): 101/334 isolates
+[2026-11-21 00:18:43]     HSV2 US7 residue 239 (FUBAR): 106/334 isolates
+[2026-11-21 00:18:43]     HSV1 US8 residue 49 (FUBAR): 11/285 isolates
+[2026-11-21 00:18:43]     HSV1 US8 residue 257 (FUBAR): 187/285 isolates
+[2026-11-21 00:18:43]     HSV2 US8 residue 119 (FUBAR): 10/334 isolates
+[2026-11-21 00:18:43]     HSV2 US8 residue 404 (FUBAR): 114/334 isolates
+[2026-11-21 00:18:43] 
+[2026-11-21 00:18:43] distribution of variant isolate support across all reported sites:
+[2026-11-21 00:18:43]     min 1  median 44  max 187
+[2026-11-21 00:18:43]     sites with 1 isolate: 2; <5 isolates: 9 of 92
+[2026-11-21 00:18:43] 
+[2026-11-21 00:18:43] Reported alongside the primary tables, not instead of them: selected_sites_final.tsv is unchanged and this file qualifies it.
+[2026-11-21 00:18:50] STEP 26: robustness assessment of reported positively selected sites
+[2026-11-21 00:18:50] sites to assess: 92
+[2026-11-21 00:18:50] QC log: 12054 rows, 84 FAIL keys
+[2026-11-21 00:18:51] wrote site_robustness.tsv (92 rows)
+[2026-11-21 00:18:51] 
+[2026-11-21 00:18:51] robustness verdicts (MIN_ISOLATES = 5):
+[2026-11-21 00:18:51]     ROBUST         76
+[2026-11-21 00:18:51]     NOT_ROBUST     9
+[2026-11-21 00:18:51]     WEAK           7
+[2026-11-21 00:18:51] 
+[2026-11-21 00:18:51] the two sites that satisfy the >=2-method concordance rule:
+[2026-11-21 00:18:51]     HSV1 RL2 residue 308: NOT_ROBUST
+[2026-11-21 00:18:51]         majority GGC x183, variants CGCx1;TCCx2
+[2026-11-21 00:18:51]         4 of 293 isolates (1.365%) carry a variant; max 2 nt change(s)
+[2026-11-21 00:18:51]         supporting accessions: HM585511;OP431901;OR771687  [includes QC-FAIL sequence]
+[2026-11-21 00:18:51]     HSV1 US7 residue 155: NOT_ROBUST
+[2026-11-21 00:18:51]         majority CCA x125, variants GACx1;TCAx1
+[2026-11-21 00:18:51]         2 of 276 isolates (0.725%) carry a variant; max 3 nt change(s)
+[2026-11-21 00:18:51]         supporting accessions: PP379031;PP379033  [adjacent batch]
+[2026-11-21 00:18:51] 
+[2026-11-21 00:18:51] 76 site(s) ROBUST:
+[2026-11-21 00:18:51]     HSV1 RL2 residue 634 (FUBAR): 150/293 isolates
+[2026-11-21 00:18:51]     HSV1 RL2 residue 636 (FUBAR): 5/293 isolates
+[2026-11-21 00:18:51]     HSV1 RL2 residue 716 (FUBAR): 113/293 isolates
+[2026-11-21 00:18:51]     HSV1 RL2 residue 767 (FUBAR): 5/293 isolates
+[2026-11-21 00:18:51]     HSV1 RL2 residue 769 (FUBAR): 54/293 isolates
+[2026-11-21 00:18:51]     HSV2 RL2 residue 204 (FUBAR): 39/98 isolates
+[2026-11-21 00:18:51]     HSV2 RL2 residue 252 (FUBAR): 41/98 isolates
+[2026-11-21 00:18:51]     HSV1 RS1 residue 130 (FUBAR): 33/247 isolates
+[2026-11-21 00:18:51]     HSV1 RS1 residue 136 (FUBAR): 21/247 isolates
+[2026-11-21 00:18:51]     HSV1 RS1 residue 228 (FUBAR): 12/247 isolates
+[2026-11-21 00:18:51]     HSV1 RS1 residue 551 (MEME): 6/247 isolates
+[2026-11-21 00:18:51]     HSV1 RS1 residue 877 (FUBAR): 44/247 isolates
+[2026-11-21 00:18:51]     HSV1 UL1 residue 168 (FUBAR): 137/295 isolates
+[2026-11-21 00:18:51]     HSV1 UL1 residue 212 (FUBAR): 104/295 isolates
+[2026-11-21 00:18:51]     HSV1 UL10 residue 203 (FUBAR): 125/297 isolates
+[2026-11-21 00:18:51]     HSV1 UL10 residue 448 (FUBAR): 73/297 isolates
+[2026-11-21 00:18:51]     HSV1 UL22 residue 12 (FUBAR): 130/295 isolates
+[2026-11-21 00:18:51]     HSV2 UL22 residue 112 (FUBAR): 88/340 isolates
+[2026-11-21 00:18:51]     HSV2 UL22 residue 154 (FUBAR): 13/340 isolates
+[2026-11-21 00:18:51]     HSV2 UL22 residue 166 (FUBAR): 10/340 isolates
+[2026-11-21 00:18:51]     HSV1 UL23 residue 42 (FUBAR): 72/297 isolates
+[2026-11-21 00:18:51]     HSV1 UL23 residue 281 (FUBAR): 19/297 isolates
+[2026-11-21 00:18:51]     HSV1 UL23 residue 376 (FUBAR): 21/297 isolates
+[2026-11-21 00:18:51]     HSV2 UL23 residue 39 (FUBAR): 58/339 isolates
+[2026-11-21 00:18:51]     HSV2 UL23 residue 78 (FUBAR): 165/339 isolates
+[2026-11-21 00:18:51]     HSV2 UL23 residue 263 (FUBAR): 11/339 isolates
+[2026-11-21 00:18:51]     HSV1 UL27 residue 59 (FUBAR): 155/296 isolates
+[2026-11-21 00:18:51]     HSV2 UL27 residue 49 (FUBAR): 144/335 isolates
+[2026-11-21 00:18:51]     HSV2 UL27 residue 330 (FUBAR): 45/335 isolates
+[2026-11-21 00:18:51]     HSV2 UL27 residue 845 (FUBAR): 104/335 isolates
+[2026-11-21 00:18:51]     HSV1 UL30 residue 33 (FUBAR): 49/296 isolates
+[2026-11-21 00:18:51]     HSV1 UL30 residue 646 (FUBAR): 23/296 isolates
+[2026-11-21 00:18:51]     HSV1 UL30 residue 920 (FUBAR): 72/296 isolates
+[2026-11-21 00:18:51]     HSV1 UL30 residue 1124 (FUBAR): 165/296 isolates
+[2026-11-21 00:18:51]     HSV1 UL30 residue 1208 (FUBAR): 65/296 isolates
+[2026-11-21 00:18:51]     HSV2 UL30 residue 139 (FUBAR): 100/337 isolates
+[2026-11-21 00:18:51]     HSV2 UL30 residue 232 (FUBAR): 8/337 isolates
+[2026-11-21 00:18:51]     HSV2 UL30 residue 801 (FUBAR): 37/337 isolates
+[2026-11-21 00:18:51]     HSV1 UL44 residue 299 (FUBAR): 16/297 isolates
+[2026-11-21 00:18:51]     HSV1 UL44 residue 421 (FUBAR): 155/297 isolates
+[2026-11-21 00:18:51]     HSV2 UL44 residue 123 (FUBAR): 76/342 isolates
+[2026-11-21 00:18:51]     HSV2 UL44 residue 169 (FUBAR): 54/342 isolates
+[2026-11-21 00:18:51]     HSV2 UL44 residue 214 (FUBAR): 34/342 isolates
+[2026-11-21 00:18:51]     HSV1 UL46 residue 180 (FUBAR): 125/290 isolates
+[2026-11-21 00:18:51]     HSV1 UL46 residue 543 (FUBAR): 120/290 isolates
+[2026-11-21 00:18:51]     HSV1 UL46 residue 591 (FUBAR): 126/290 isolates
+[2026-11-21 00:18:51]     HSV1 UL46 residue 638 (FUBAR): 76/290 isolates
+[2026-11-21 00:18:51]     HSV1 UL46 residue 644 (FUBAR): 17/290 isolates
+[2026-11-21 00:18:51]     HSV2 UL46 residue 594 (FUBAR): 150/336 isolates
+[2026-11-21 00:18:51]     HSV2 UL46 residue 634 (FUBAR): 145/336 isolates
+[2026-11-21 00:18:51]     HSV1 UL47 residue 3 (FUBAR): 76/297 isolates
+[2026-11-21 00:18:51]     HSV1 UL47 residue 95 (FUBAR): 5/297 isolates
+[2026-11-21 00:18:51]     HSV2 UL47 residue 3 (FUBAR): 27/342 isolates
+[2026-11-21 00:18:51]     HSV1 UL48 residue 388 (FUBAR): 37/299 isolates
+[2026-11-21 00:18:51]     HSV2 UL49 residue 132 (FUBAR): 161/336 isolates
+[2026-11-21 00:18:51]     HSV2 UL49 residue 273 (FUBAR): 29/336 isolates
+[2026-11-21 00:18:51]     HSV2 UL53 residue 36 (FUBAR): 5/342 isolates
+[2026-11-21 00:18:51]     HSV2 UL53 residue 115 (FUBAR): 10/342 isolates
+[2026-11-21 00:18:51]     HSV2 UL53 residue 247 (FUBAR): 111/342 isolates
+[2026-11-21 00:18:51]     HSV1 US4 residue 129 (FUBAR): 146/285 isolates
+[2026-11-21 00:18:51]     HSV1 US4 residue 164 (FUBAR): 7/285 isolates
+[2026-11-21 00:18:51]     HSV2 US4 residue 204 (FUBAR): 61/325 isolates
+[2026-11-21 00:18:51]     HSV2 US4 residue 212 (FUBAR): 42/325 isolates
+[2026-11-21 00:18:51]     HSV2 US4 residue 291 (FUBAR): 31/325 isolates
+[2026-11-21 00:18:51]     HSV2 US4 residue 395 (FUBAR): 18/325 isolates
+[2026-11-21 00:18:51]     HSV2 US4 residue 423 (FUBAR): 125/325 isolates
+[2026-11-21 00:18:51]     HSV2 US4 residue 442 (FUBAR): 37/325 isolates
+[2026-11-21 00:18:51]     HSV1 US6 residue 4 (FUBAR): 14/284 isolates
+[2026-11-21 00:18:51]     HSV1 US7 residue 136 (FUBAR): 14/276 isolates
+[2026-11-21 00:18:51]     HSV1 US7 residue 189 (FUBAR): 70/276 isolates
+[2026-11-21 00:18:51]     HSV2 US7 residue 215 (FUBAR): 101/334 isolates
+[2026-11-21 00:18:51]     HSV2 US7 residue 239 (FUBAR): 106/334 isolates
+[2026-11-21 00:18:51]     HSV1 US8 residue 49 (FUBAR): 11/285 isolates
+[2026-11-21 00:18:51]     HSV1 US8 residue 257 (FUBAR): 187/285 isolates
+[2026-11-21 00:18:51]     HSV2 US8 residue 119 (FUBAR): 10/334 isolates
+[2026-11-21 00:18:51]     HSV2 US8 residue 404 (FUBAR): 114/334 isolates
+[2026-11-21 00:18:51] 
+[2026-11-21 00:18:51] distribution of variant isolate support across all reported sites:
+[2026-11-21 00:18:51]     min 1  median 44  max 187
+[2026-11-21 00:18:51]     sites with 1 isolate: 2; <5 isolates: 9 of 92
+[2026-11-21 00:18:51] 
+[2026-11-21 00:18:51] Reported alongside the primary tables, not instead of them: selected_sites_final.tsv is unchanged and this file qualifies it.

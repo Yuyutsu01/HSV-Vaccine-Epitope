@@ -1,0 +1,15 @@
+TRUNCATED SEARCH -- stopped by decision, not converged.
+
+GARD ran 22.0 h wall / 14.1 h internal on RS1/HSV1 (n=215, 3897 nt), evaluated 5215
+candidate models, and had settled a 3-segment model (breakpoints 1433, 2421) with
+bestModelAICc 30078.05 against singleTreeAICc 33104.20 (dAICc vs baseline 1268.42).
+It was searching for a third breakpoint when it was stopped on 2026-11-20 at 19:35.
+
+The 2-breakpoint partitioning is GARD's own selected model at the point of stopping and
+is used for the selection analysis. What is NOT established is that no further breakpoint
+exists: the search did not reach its own stopping criterion. By comparison RS1/HSV2
+(same gene, n=57) needed 26220 models to converge, so this search was roughly 20-30%
+complete. Extrapolated cost to convergence was about two further days.
+
+Report this gene as "2 breakpoints detected; search truncated" and do not claim the
+partitioning is exhaustive. Every other unit in the screen converged normally.

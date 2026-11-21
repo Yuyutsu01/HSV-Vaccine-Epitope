@@ -1,0 +1,223 @@
+IQ-TREE 2.4.0 built Feb  7 2025
+
+Input file name: C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV2\RS1_part2.fasta
+Type of analysis: tree reconstruction
+Random seed number: 114893
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 57 sequences with 288 nucleotide sites
+Number of constant sites: 262 (= 90.9722% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 262 (= 90.9722% of all sites)
+Number of parsimony informative sites: 12
+Number of distinct site patterns: 43
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+G4
+
+Rate parameter R:
+
+  A-C: 0.0001
+  A-G: 9.4834
+  A-T: 1.2361
+  C-G: 1.3631
+  C-T: 4.3428
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.1344
+  pi(C) = 0.4672
+  pi(G) = 0.2814
+  pi(T) = 0.1171
+
+Rate matrix Q:
+
+  A    -1.699  2.823e-005     1.612   0.08742
+  C  8.118e-006   -0.5388    0.2317    0.3071
+  G    0.7699    0.3848    -1.225   0.07072
+  T    0.1003     1.226      0.17    -1.496
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.02003
+
+ Category  Relative_rate  Proportion
+  1         4.896e-031     0.25
+  2         1.047e-015     0.25
+  3         9.712e-007     0.25
+  4         4              0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -608.3897 (s.e. 48.1578)
+Unconstrained log-likelihood (without tree): -695.9131
+Number of free parameters (#branches + #model parameters): 120
+Akaike information criterion (AIC) score: 1456.7794
+Corrected Akaike information criterion (AICc) score: 1630.6716
+Bayesian information criterion (BIC) score: 1896.3346
+
+Total tree length (sum of branch lengths): 0.1595
+Sum of internal branch lengths: 0.0654 (40.9985% of tree length)
+
+WARNING: 39 near-zero internal branches (<0.0035) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'S0001' is drawn at root
+
++**S0001
+|
+|                                   +----S0002
+|                                +**|
+|                                |  |  +**S0035
+|                                |  +**|
+|                                |     +**S0049
+|                             +**|
+|                             |  |                       +**S0004
+|                             |  |                    +**|
+|                             |  |                    |  |  +**S0007
+|                             |  |                    |  +**|
+|                             |  |                    |     |  +**S0039
+|                             |  |                    |     +**|
+|                             |  |                    |        +**S0040
+|                             |  |        +-----------|
+|                             |  |        |           +----S0025
+|                             |  |     +**|
+|                             |  |     |  +**S0013
+|                             |  |  +**|
+|                             |  |  |  +**S0029
+|                             |  +**|
+|                             |     +**S0047
+|                          +**|
+|                          |  +**S0056
+|                       +**|
+|                       |  +**S0054
+|                    +**|
+|                    |  |     +**S0011
+|                    |  |  +**|
+|                    |  |  |  |  +**S0012
+|                    |  |  |  +**|
+|                    |  |  |     |  +----S0034
+|                    |  |  |     +**|
+|                    |  |  |        +**S0048
+|                    |  +**|
+|                    |     |  +**S0015
+|                    |     +**|
+|                    |        +**S0017
+|               +----|
+|               |    |     +**S0009
+|               |    |  +**|
+|               |    |  |  +**S0055
+|               |    +**|
+|               |       +**S0033
+|          +----|
+|          |    +**S0022
+|       +**|
+|       |  +----S0057
+|    +**|
+|    |  |  +**S0003
+|    |  +**|
+|    |     +**S0026
++----|
+|    |                                                 +**S0006
+|    |                                              +**|
+|    |                                              |  |        +**S0014
+|    |                                              |  |     +**|
+|    |                                              |  |     |  +**S0053
+|    |                                              |  +-----|
+|    |                                              |        |           +**S0021
+|    |                                              |        |     +-----|
+|    |                                              |        |     |     +-----------S0024
+|    |                                              |        +-----|
+|    |                                              |              +-----S0027
+|    |                                           +**|
+|    |                                           |  |    +**S0023
+|    |                                           |  +----|
+|    |                                           |       +----------------S0046
+|    |                                      +----|
+|    |                                      |    +----------------------S0030
+|    |                                   +**|
+|    |                                   |  |  +----S0037
+|    |                                   |  +**|
+|    |                                   |     +-----------------S0045
+|    |                                +**|
+|    |                                |  |  +**S0010
+|    |                                |  +**|
+|    |                                |     +**S0051
+|    |                             +**|
+|    |                             |  |  +**S0018
+|    |                             |  +**|
+|    |                             |     |    +----S0028
+|    |                             |     +----|
+|    |                             |          +**S0041
+|    |                          +**|
+|    |                          |  |             +**S0036
+|    |                          |  |          +**|
+|    |                          |  |          |  +----S0050
+|    |                          |  +----------|
+|    |                          |             +----S0052
+|    |                     +----|
+|    |                     |    +**S0020
+|    |                  +**|
+|    |                  |  |     +**S0019
+|    |                  |  |  +**|
+|    |                  |  |  |  +**S0032
+|    |                  |  +**|
+|    |                  |     +----S0044
+|    |               +**|
+|    |               |  +**S0008
+|    |            +**|
+|    |            |  +**S0031
+|    |       +----|
+|    |       |    +**S0016
+|    |    +**|
+|    |    |  +**S0038
+|    +----|
+|         |    +----S0042
+|         +----|
+|              +**S0043
+|
++-----S0005
+
+Tree in newick format:
+
+(S0001:0.0000010000,((((((((((S0002:0.0039096347,(S0035:0.0000010000,S0049:0.0000010000):0.0000010000):0.0000010000,(((((S0004:0.0000010000,(S0007:0.0000010000,(S0039:0.0000010000,S0040:0.0000010000):0.0000010000):0.0000010000):0.0000010000,S0025:0.0038802674):0.0079250725,S0013:0.0000010000):0.0000010000,S0029:0.0000010000):0.0000010000,S0047:0.0000010000):0.0000010000):0.0000010000,S0056:0.0000010000):0.0000010000,S0054:0.0000010000):0.0000010000,((S0011:0.0000010000,(S0012:0.0000010000,(S0034:0.0037630914,S0048:0.0000010000):0.0000010000):0.0000010000):0.0000010000,(S0015:0.0000010000,S0017:0.0000010000):0.0000010000):0.0000010000):0.0000010000,((S0009:0.0000010000,S0055:0.0000010000):0.0000010000,S0033:0.0000010000):0.0000010000):0.0037689322,S0022:0.0000010000):0.0037689693,S0057:0.0038805011):0.0000010000,(S0003:0.0000010000,S0026:0.0000010000):0.0000010000):0.0000010000,((((((((((((((S0006:0.0000010000,((S0014:0.0000010000,S0053:0.0000010000):0.0000010000,((S0021:0.0000010000,S0024:0.0084321695):0.0043088259,S0027:0.0040754420):0.0040756202):0.0040238820):0.0000010000,(S0023:0.0000010000,S0046:0.0117384539):0.0037676186):0.0000010000,S0030:0.0157060517):0.0037258282,(S0037:0.0038227236,S0045:0.0120308228):0.0000010000):0.0000010000,(S0010:0.0000010000,S0051:0.0000010000):0.0000010000):0.0000010000,(S0018:0.0000010000,(S0028:0.0036868997,S0041:0.0000010000):0.0036869149):0.0000010000):0.0000010000,((S0036:0.0000010000,S0050:0.0037131978):0.0000010000,S0052:0.0038792410):0.0074907717):0.0000010000,S0020:0.0000010000):0.0037284803,((S0019:0.0000010000,S0032:0.0000010000):0.0000010000,S0044:0.0037674394):0.0000028210):0.0000010000,S0008:0.0000010000):0.0000010000,S0031:0.0000010000):0.0000010000,S0016:0.0000010000):0.0037831924,S0038:0.0000010000):0.0000010000,(S0042:0.0037283787,S0043:0.0000010000):0.0037831822):0.0037831404):0.0037363689,S0005:0.0040324445);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV2\RS1_part2.treefile -m "GTR{0.0001,9.4834,1.23609,1.36314,4.34278}+F{0.134372,0.467211,0.281352,0.117065}+G4{0.02003}" --length 288
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV2\RS1_part2.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV2\RS1_part2.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Fri Nov 20 19:52:16 2026
+Total CPU time used: 10.8594 seconds (0h:0m:10s)
+Total wall-clock time used: 2.97045 seconds (0h:0m:2s)
+

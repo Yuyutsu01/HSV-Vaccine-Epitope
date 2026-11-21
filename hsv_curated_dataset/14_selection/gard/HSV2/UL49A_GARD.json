@@ -1,0 +1,59 @@
+{
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond",
+   "citation":"**Automated Phylogenetic Detection of Recombination Using a Genetic Algorithm**, _Mol Biol Evol 23(10), 1891–1901",
+   "contact":"spond@temple.edu",
+   "info":"GARD : Genetic Algorithms for Recombination Detection. Implements a heuristic\n    approach to screening alignments of sequences for recombination, by using the CHC genetic algorithm to search for phylogenetic\n    incongruence among different partitions of the data. The number of partitions is determined using a step-up procedure, while the\n    placement of breakpoints is searched for with the GA. The best fitting model (based on c-AIC) is returned; and additional post-hoc\n    tests run to distinguish topological incongruence from rate-variation. v0.2 adds  and spooling results to JSON after each breakpoint search conclusion",
+   "requirements":"A sequence alignment.",
+   "version":"0.2"
+  },
+ "baselineScore":1255.505815079086,
+ "bestModelAICc":1255.505815079086,
+ "breakpointData":{
+   "0":{
+     "bps":      [
+["1", "261"] 
+      ],
+     "tree":"(((S0001:0,((S0008:0.003850647485635499,(S0009:0.003865213038388446,(S0020:0.01556331039099635,S0024:0)Node9:0)Node7:0.003852422363491933)Node5:0,S0018:0.003850648824257858)Node4:0)Node2:0,(S0014:0.003838146491329634,S0017:0.003840097009577623)Node13:0)Node1:0,((((((((S0002:0.003828291378567572,((S0005:0.003841429360054522,S0013:0.003827663780663754)Node26:0,S0021:0.003841429359870651)Node25:0)Node23:0,S0011:0.003828291381614902)Node22:0,S0003:0)Node21:0.003827664346517234,S0019:0)Node20:0.003825720689982852,((S0004:0,(((S0012:0.003836193165531059,S0027:0.003823785908464542)Node38:0,(S0022:0.003838146493009125,S0028:0.00382572187453085)Node41:0)Node37:0,S0025:0.003824412259210072)Node36:0)Node34:0,S0023:0.003836860517049078)Node33:0)Node19:0.003838375203919847,S0010:0.003850647835466717)Node18:0,S0015:0.003838777537884582)Node17:0,(S0016:0.003838146492789421,S0026:0.003850648239344332)Node48:0)Node16:0,(S0006:0.003840097007291581,S0007:0.003838146489743136)Node51:0)"
+    }
+  },
+ "improvements":{
+   "0":{
+     "breakpoints":null,
+     "deltaAICc":0
+    }
+  },
+ "input":{
+   "file name":"/data/06_alignments_v2/hyphy_ready/HSV2/UL49A.fasta",
+   "number of sequences":28,
+   "number of sites":261,
+   "partition count":1
+  },
+ "potentialBreakpoints":25,
+ "singleTreeAICc":1256.461914006364,
+ "siteBreakPointSupport":{
+   "108":7.418251814052224e-44,
+   "110":1.01824813327962e-43,
+   "114":1.263458123873802e-43,
+   "135":7.765182217795154e-44,
+   "143":6.191904995534735e-44,
+   "144":5.392536071975651e-44,
+   "150":8.438509208591002e-42,
+   "154":5.258372049022541e-42,
+   "163":2.207501631732765e-41,
+   "164":1.385801452907896e-41,
+   "167":6.814638622475656e-42,
+   "207":1.124703246903237e-43,
+   "72":2.674179466475698e-56,
+   "83":8.340134498021864e-46,
+   "87":1.285190519856976e-45,
+   "91":2.859779436987408e-45,
+   "92":1.093436422949737e-44,
+   "96":1.991046761652861e-44
+  },
+ "timeElapsed":233,
+ "totalModelCount":81,
+ "trees":{
+   "newickString":"(((S0001:0,((S0008:0.003850647485635499,(S0009:0.003865213038388446,(S0020:0.01556331039099635,S0024:0)Node9:0)Node7:0.003852422363491933)Node5:0,S0018:0.003850648824257858)Node4:0)Node2:0,(S0014:0.003838146491329634,S0017:0.003840097009577623)Node13:0)Node1:0,((((((((S0002:0.003828291378567572,((S0005:0.003841429360054522,S0013:0.003827663780663754)Node26:0,S0021:0.003841429359870651)Node25:0)Node23:0,S0011:0.003828291381614902)Node22:0,S0003:0)Node21:0.003827664346517234,S0019:0)Node20:0.003825720689982852,((S0004:0,(((S0012:0.003836193165531059,S0027:0.003823785908464542)Node38:0,(S0022:0.003838146493009125,S0028:0.00382572187453085)Node41:0)Node37:0,S0025:0.003824412259210072)Node36:0)Node34:0,S0023:0.003836860517049078)Node33:0)Node19:0.003838375203919847,S0010:0.003850647835466717)Node18:0,S0015:0.003838777537884582)Node17:0,(S0016:0.003838146492789421,S0026:0.003850648239344332)Node48:0)Node16:0,(S0006:0.003840097007291581,S0007:0.003838146489743136)Node51:0)"
+  }
+}

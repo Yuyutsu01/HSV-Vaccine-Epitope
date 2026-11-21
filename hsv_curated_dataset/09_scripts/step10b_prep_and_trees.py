@@ -119,15 +119,37 @@ def build_tree(info):
     os.makedirs(out_dir, exist_ok=True)
     prefix = os.path.join(out_dir, gene)
 
-    if os.path.exists(prefix + ".treefile"):
+    # A .treefile alone is NOT evidence of a finished run: when IQ-TREE dies during
+    # the bootstrap stage it leaves the ML tree behind with no support values, and
+    # caching on existence alone silently keeps an unsupported tree. The .iqtree
+    # report is written only on completion, and across all 40 cohorts its presence
+    # matches bootstrap support exactly, so require it as well.
+    if os.path.exists(prefix + ".treefile") and os.path.exists(prefix + ".iqtree"):
         log(f"{gene} {cohort}: tree cached, skipped")
         return dict(**{k: info[k] for k in ("gene", "cohort", "n_taxa", "length_nt")},
-                    model="cached", runtime_s=0.0, status="CACHED")
+                    model="cached", runtime_s=0.0, status="CACHED", safe_kernel=False)
+    if os.path.exists(prefix + ".treefile"):
+        log(f"{gene} {cohort}: previous tree has no .iqtree report "
+            f"(died before bootstrapping finished); re-inferring")
 
-    cmd = [IQTREE, "-s", info["fasta"], "-m", "MFP", "-B", BOOTSTRAP,
-           "--keep-ident", "-T", THREADS, "--prefix", prefix, "--quiet", "-redo"]
+    def invoke(safe):
+        cmd = [IQTREE, "-s", info["fasta"], "-m", "MFP", "-B", BOOTSTRAP,
+               "--keep-ident", "-T", THREADS, "--prefix", prefix, "--quiet", "-redo"]
+        if safe:
+            cmd.append("-safe")
+        return subprocess.run(cmd, capture_output=True, text=True)
+
     t0 = time.time()
-    res = subprocess.run(cmd, capture_output=True, text=True)
+    res = invoke(safe=False)
+    # These cohorts are near-identical sequences, which drives the likelihood
+    # derivative to underflow on some genes. `-safe` is IQ-TREE's own documented
+    # remedy (a slower, higher-precision likelihood kernel); it is only used on
+    # the genes that need it, and the kernel does not change the inferred model.
+    used_safe = False
+    if res.returncode != 0 and "Numerical underflow" in (res.stderr or "") + (res.stdout or ""):
+        log(f"{gene} {cohort}: numerical underflow, retrying with -safe")
+        res = invoke(safe=True)
+        used_safe = True
     rt = round(time.time() - t0, 1)
 
     model = ""
@@ -145,7 +167,8 @@ def build_tree(info):
         log(f"  stderr: {(res.stderr or '')[:300]}")
 
     return dict(**{k: info[k] for k in ("gene", "cohort", "n_taxa", "length_nt")},
-                model=model, runtime_s=rt, status="OK" if ok else "FAILED")
+                model=model, runtime_s=rt, status="OK" if ok else "FAILED",
+                safe_kernel=used_safe)
 
 
 def main():

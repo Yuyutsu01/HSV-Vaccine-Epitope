@@ -1,0 +1,17 @@
+tool	version	source
+biopython	1.88	pip
+pandas	3.0.5	pip
+numpy	2.4.6	pip
+scipy	1.17.1	pip
+statsmodels	0.15.0	pip
+scikit-learn	1.9.0	pip
+pyfamsa	0.7.0	pip
+mhcflurry	2.3.30	pip
+matplotlib	3.11.1	pip
+python	3.11.8	interpreter
+IQ-TREE	2.4.0	bundled in bin/
+HyPhy	HYPHY 2.5.103(MP) for Linux on x86_64 x86 AVX SIMD with FMA3 zlib (v1.3)	docker hyphy/hyphy:latest id sha256:dde6dfda4963
+IEDB allele frequencies	IEDB Population Coverage 3.0.2	sha256 781e0252605c64ba
+BepiPred-3.0	bp3 0.0.12.7	github.com/UberClifford/BepiPred3.0-Predictor; vt_pred, threshold 0.1512, rolling window 9; licence: free for academic / non-commercial use (DTU Health Tech)
+DiscoTope-3.0	discotope3_web (100-model XGBoost ensemble)	github.com/Magnushhoie/discotope3_web; struc_type=solved, single-chain (training mode); licence: CC BY-NC 4.0
+NetMHCIIpan-4.3	netMHCIIpan-4.3	DTU Health Tech web server (services.healthtech.dtu.dk/services/NetMHCIIpan-4.3/); 15-mers, -BA, -rankS 1 -rankW 5; licence: academic registration required for the standalone package

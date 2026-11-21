@@ -1,0 +1,8 @@
+pdb_id	description	chain	observed_residues	assigned_type	assigned_gene	sequence_identity
+2C36	HSV-1 gD ectodomain with nectin-1	A	274	HSV1	US6	1.0
+2C36	HSV-1 gD ectodomain with nectin-1	B	274	HSV1	US6	1.0
+2GUM	HSV-1 gB ectodomain	A	576	HSV1	UL27	0.9948
+2GUM	HSV-1 gB ectodomain	B	581	HSV1	UL27	0.9948
+2GUM	HSV-1 gB ectodomain	C	575	HSV1	UL27	0.9948
+3M1C	HSV-2 gH/gL heterodimer	A	719	HSV2	UL22	0.9986
+3M1C	HSV-2 gH/gL heterodimer	B	146	HSV2	UL1	1.0

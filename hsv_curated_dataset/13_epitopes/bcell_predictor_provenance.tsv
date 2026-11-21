@@ -1,0 +1,3 @@
+tool	version	model	mode	licence	citation	source
+BepiPred-3.0	bp3 0.0.12.7	esm2_t33_650M_UR50D + 5-fold FFNN ensemble (BP3C50IDFFNN)	vt_pred, threshold 0.1512, rolling window 9	free for academic / non-commercial use (DTU Health Tech)	Clifford et al. 2022 Protein Science doi:10.1002/pro.4497	github.com/UberClifford/BepiPred3.0-Predictor
+DiscoTope-3.0	discotope3_web (100-model XGBoost ensemble)	esm_if1_gvp4_t16_142M_UR50 inverse folding + structural features	struc_type=solved, single-chain (training mode)	CC BY-NC 4.0	Hoie et al. 2024 Front. Immunol. doi:10.3389/fimmu.2024.1322712	github.com/Magnushhoie/discotope3_web

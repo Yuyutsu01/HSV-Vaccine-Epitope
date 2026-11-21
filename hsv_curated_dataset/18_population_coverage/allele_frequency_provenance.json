@@ -1,0 +1,9 @@
+{
+  "tool": "IEDB Population Coverage 3.0.2",
+  "source_url": "https://downloads.iedb.org/tools/retrieve_package.php?tool=population",
+  "data_file": "population_coverage/population_coverage_pickle/population_genotype_map.p",
+  "sha256": "781e0252605c64ba437da8fc9aa4774f6ce72fd2721a536127396fe1d5d60cc7",
+  "retrieved": "2026-11-21",
+  "method": "Bui et al., BMC Bioinformatics 2006; reimplemented, tool code not executed",
+  "note": "class I only; step15 panel covers HLA-A and HLA-B, not HLA-C"
+}

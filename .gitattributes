@@ -1,0 +1,36 @@
+# Line-ending policy.
+#
+# Added 2026-11-21 after `18_population_coverage/population_genotype_map.p` was found
+# corrupted in the working tree: git's heuristic did not detect it as binary, so LF was
+# converted to CRLF on checkout and 380,776 CRLF pairs were written into a pickle. The
+# file became unloadable -- `collections\r.OrderedDict\r` -- and step23 aborted. The
+# committed blob was still clean, so the file was restored from it.
+#
+# Pickles and the other formats below must never be line-ended. The data formats this
+# project actually reads are listed explicitly rather than relying on auto-detection.
+
+*.p         binary
+*.pkl       binary
+*.pickle    binary
+*.npy       binary
+*.npz       binary
+*.gz        binary
+*.zip       binary
+*.pdf       binary
+*.png       binary
+*.jpg       binary
+*.exe       binary
+*.dll       binary
+*.ckp.gz    binary
+*.model.gz  binary
+*.cache     binary
+
+# Text files are normalised to LF in the repository. Git still checks them out with
+# native endings on Windows; only the stored form is pinned.
+*.py        text eol=lf
+*.md        text eol=lf
+*.tsv       text eol=lf
+*.csv       text eol=lf
+*.json      text eol=lf
+*.fasta     text eol=lf
+*.log       text eol=lf

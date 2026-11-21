@@ -1,0 +1,164 @@
+IQ-TREE multicore version 2.4.0 for Windows 64-bit built Feb  7 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    YUYUTSU (AVX512, FMA3, 15 GB RAM)
+Command: C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\bin\iqtree\iqtree-2.4.0-Windows\bin\iqtree2.exe -s C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV2\RS1_part3.fasta -m GTR+F+G4 --keep-ident -T 4 --prefix C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV2\RS1_part3 --quiet -redo
+Seed:    139969 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Nov 20 19:52:16 2026
+Kernel:  AVX+FMA - 4 threads (16 CPU cores detected)
+
+Reading alignment file C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV2\RS1_part3.fasta ... Fasta format detected
+Reading fasta file: done in 0.0003614 secs
+Alignment most likely contains DNA/RNA sequences
+Alignment has 57 sequences with 168 columns, 58 distinct patterns
+7 parsimony-informative, 105 singleton sites, 56 constant sites
+       Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 1.11e-005 secs
+   1  S0001    3.57%    passed     96.33%
+   2  S0002    0.00%    passed     99.99%
+   3  S0003    3.57%    passed     99.98%
+   4  S0004    0.00%    passed     99.99%
+   5  S0005    0.00%    passed     99.99%
+   6  S0006    3.57%    passed     96.33%
+   7  S0007    5.95%    passed     99.91%
+   8  S0008    0.00%    passed     99.99%
+   9  S0009    0.00%    passed     99.99%
+  10  S0010    5.36%    passed     99.88%
+  11  S0011    0.00%    passed     99.99%
+  12  S0012    0.00%    passed     97.73%
+  13  S0013    0.00%    passed     99.99%
+  14  S0014    4.17%    passed     99.54%
+  15  S0015    0.00%    passed     99.99%
+  16  S0016    0.00%    passed     99.99%
+  17  S0017    3.57%    passed     99.76%
+  18  S0018    3.57%    passed     99.43%
+  19  S0019    0.00%    passed     99.99%
+  20  S0020    1.79%    passed     99.92%
+  21  S0021    0.00%    passed     99.99%
+  22  S0022   12.50%    passed     99.01%
+  23  S0023   16.07%    passed     98.56%
+  24  S0024    7.74%    passed     99.62%
+  25  S0025    0.00%    passed     99.99%
+  26  S0026    0.00%    passed     99.86%
+  27  S0027    5.36%    passed     99.24%
+  28  S0028    0.00%    passed     99.99%
+  29  S0029    0.00%    passed     99.99%
+  30  S0030    3.57%    passed     96.33%
+  31  S0031    0.00%    passed     99.99%
+  32  S0032    1.79%    passed     99.95%
+  33  S0033    0.00%    passed     99.99%
+  34  S0034    3.57%    passed     95.21%
+  35  S0035    0.00%    passed     99.99%
+  36  S0036    0.00%    passed     99.99%
+  37  S0037    0.00%    passed     99.86%
+  38  S0038    0.00%    passed     99.86%
+  39  S0039    3.57%    passed     99.06%
+  40  S0040    0.00%    passed     99.86%
+  41  S0041    0.00%    passed     99.99%
+  42  S0042    1.79%    passed     99.95%
+  43  S0043    1.79%    passed     99.92%
+  44  S0044    0.00%    passed     99.99%
+  45  S0045    3.57%    passed     99.76%
+  46  S0046    0.00%    passed     99.68%
+  47  S0047    0.00%    passed     99.99%
+  48  S0048    7.14%    passed     99.85%
+  49  S0049    8.93%    passed     99.31%
+  50  S0050    7.14%    passed     97.53%
+  51  S0051    1.79%    passed     99.75%
+  52  S0052   21.43%    passed     88.95%
+  53  S0053    0.00%    passed     99.12%
+  54  S0054   21.43%    passed     67.55%
+  55  S0055    3.57%    passed     99.76%
+  56  S0056    0.00%    passed     99.99%
+  57  S0057    3.57%    passed     76.01%
+****  TOTAL    3.01%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+
+NOTE: 0 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -484.265
+2. Current log-likelihood: -450.950
+Optimal log-likelihood: -450.950
+Rate parameters:  A-C: 78.58527  A-G: 0.00010  A-T: 0.01264  C-G: 33.72869  C-T: 100.00000  G-T: 1.00000
+Warning! Some parameters hit the boundaries
+Base frequencies:  A: 0.118  C: 0.447  G: 0.411  T: 0.025
+Gamma shape alpha: 2.862
+Parameters optimization took 2 rounds (0.034 sec)
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0018735 secs using 2502% CPU
+Computing ML distances took 0.001975 sec (of wall-clock time) 0.046875 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.0001302 secs
+Computing RapidNJ tree took 0.000395 sec (of wall-clock time) 0.000000 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -460.221
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.176 second
+Computing log-likelihood of 98 initial trees ... 0.165 seconds
+Current best score: -450.889
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+BETTER TREE FOUND at iteration 1: -450.883
+BETTER TREE FOUND at iteration 2: -450.878
+BETTER TREE FOUND at iteration 3: -450.877
+Iteration 10 / LogL: -450.943 / Time: 0h:0m:0s
+Iteration 20 / LogL: -451.606 / Time: 0h:0m:0s
+Finish initializing candidate tree set (20)
+Current best tree score: -450.877 / CPU time: 0.546
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -450.878 / Time: 0h:0m:0s (0h:0m:1s left)
+Iteration 40 / LogL: -450.878 / Time: 0h:0m:0s (0h:0m:1s left)
+Iteration 50 / LogL: -450.878 / Time: 0h:0m:1s (0h:0m:1s left)
+Iteration 60 / LogL: -454.906 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 70 / LogL: -450.884 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 80 / LogL: -450.878 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 90 / LogL: -450.878 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 100 / LogL: -450.878 / Time: 0h:0m:1s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 104 ITERATIONS / Time: 0h:0m:1s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -450.877
+Optimal log-likelihood: -450.871
+Rate parameters:  A-C: 75.00144  A-G: 0.00010  A-T: 0.05772  C-G: 32.09005  C-T: 100.00000  G-T: 1.00000
+Warning! Some parameters hit the boundaries
+Base frequencies:  A: 0.118  C: 0.447  G: 0.411  T: 0.025
+Gamma shape alpha: 2.868
+Parameters optimization took 1 rounds (0.013 sec)
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+BEST SCORE FOUND : -450.871
+Total tree length: 10.110
+
+Total number of iterations: 104
+CPU time used for tree search: 6.109 sec (0h:0m:6s)
+Wall-clock time used for tree search: 1.739 sec (0h:0m:1s)
+Total CPU time used: 6.406 sec (0h:0m:6s)
+Total wall-clock time used: 1.841 sec (0h:0m:1s)
+
+Analysis results written to: 
+  IQ-TREE report:                C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV2\RS1_part3.iqtree
+  Maximum-likelihood tree:       C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV2\RS1_part3.treefile
+  Likelihood distances:          C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV2\RS1_part3.mldist
+  Screen log file:               C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV2\RS1_part3.log
+
+Date and Time: Fri Nov 20 19:52:18 2026

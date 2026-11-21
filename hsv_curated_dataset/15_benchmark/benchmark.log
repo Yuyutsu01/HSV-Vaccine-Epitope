@@ -1,0 +1,122 @@
+[2026-11-19 00:43:31] ==============================================================================
+[2026-11-19 00:43:31] STEP 19: predictor benchmarking against curated IEDB epitopes
+[2026-11-19 00:43:31] Loaded 45688 predicted peptides and 688 curated IEDB mappings
+[2026-11-19 00:43:31] Using 390 T-cell / MHC-ligand mappings (380 unique peptides) as positives
+[2026-11-19 00:43:32] Labelled 2465 of 45688 peptides as IEDB-supported (5.40%)
+[2026-11-19 00:43:33] Wrote benchmark_per_gene.tsv (17 genes scored)
+[2026-11-19 00:43:33] Gene-grouped benchmark (positives vs UNTESTED background -- not true negatives):
+[2026-11-19 00:43:33]     affinity                     genes=17 mean AUC=0.745 (range 0.450-0.997) mean AP=0.355 P@50=0.190 top-decile enrichment=5.10x
+[2026-11-19 00:43:33]     presentation_score           genes=17 mean AUC=0.745 (range 0.443-0.984) mean AP=0.180 P@50=0.172 top-decile enrichment=4.90x
+[2026-11-19 00:43:33]     combined_rank_score          genes=17 mean AUC=0.714 (range 0.409-0.958) mean AP=0.168 P@50=0.162 top-decile enrichment=3.30x
+[2026-11-19 00:43:33]     min_within_type_identity     genes=17 mean AUC=0.570 (range 0.318-0.818) mean AP=0.105 P@50=0.087 top-decile enrichment=1.32x
+[2026-11-19 00:43:33] Per-gene AUC for the MHCflurry presentation score:
+[2026-11-19 00:43:33]     HSV1 RL2    AUC=0.984 n_pos=   6 of 1533
+[2026-11-19 00:43:33]     HSV1 US8    AUC=0.980 n_pos=   8 of 1083
+[2026-11-19 00:43:33]     HSV1 UL23   AUC=0.980 n_pos=   5 of 735
+[2026-11-19 00:43:33]     HSV1 UL22   AUC=0.975 n_pos=  10 of 1659
+[2026-11-19 00:43:33]     HSV1 RS1    AUC=0.969 n_pos=  14 of 2579
+[2026-11-19 00:43:33]     HSV1 UL54   AUC=0.963 n_pos=   5 of 1007
+[2026-11-19 00:43:33]     HSV1 US7    AUC=0.958 n_pos=   5 of 763
+[2026-11-19 00:43:33]     HSV1 UL10   AUC=0.944 n_pos=  10 of 929
+[2026-11-19 00:43:33]     HSV1 UL44   AUC=0.939 n_pos=   8 of 1005
+[2026-11-19 00:43:33]     HSV1 UL53   AUC=0.928 n_pos=   9 of 659
+[2026-11-19 00:43:33]     HSV2 UL47   AUC=0.894 n_pos=   9 of 1375
+[2026-11-19 00:43:33]     HSV1 UL48   AUC=0.884 n_pos=  15 of 963
+[2026-11-19 00:43:33]     HSV2 UL54   AUC=0.803 n_pos=   9 of 1007
+[2026-11-19 00:43:33]     HSV1 UL30   AUC=0.738 n_pos=  26 of 2453
+[2026-11-19 00:43:33]     HSV1 UL49   AUC=0.675 n_pos=  16 of 585
+[2026-11-19 00:43:33]     HSV1 UL27   AUC=0.620 n_pos= 105 of 1791
+[2026-11-19 00:43:33]     HSV2 UL27   AUC=0.587 n_pos= 104 of 1791
+[2026-11-19 00:43:33]     HSV2 UL23   AUC=0.583 n_pos=   9 of 735
+[2026-11-19 00:43:33]     HSV2 RL2    AUC=0.579 n_pos= 211 of 1651
+[2026-11-19 00:43:33]     HSV2 UL49   AUC=0.572 n_pos= 192 of 583
+[2026-11-19 00:43:33]     HSV1 UL47   AUC=0.567 n_pos=  56 of 1369
+[2026-11-19 00:43:33]     HSV2 RS1    AUC=0.557 n_pos= 141 of 2619
+[2026-11-19 00:43:33]     HSV1 US6    AUC=0.517 n_pos= 634 of 771
+[2026-11-19 00:43:33]     HSV2 UL46   AUC=0.503 n_pos=  52 of 1427
+[2026-11-19 00:43:33]     HSV1 UL46   AUC=0.499 n_pos= 231 of 1419
+[2026-11-19 00:43:33]     HSV2 US6    AUC=0.467 n_pos= 414 of 769
+[2026-11-19 00:43:33]     HSV2 UL48   AUC=0.443 n_pos= 152 of 963
+[2026-11-19 00:43:33] Caveat: IEDB coverage is uneven and absence of a record is not a negative, so these AUCs measure recovery of known epitopes, not true discrimination.
+[2026-11-19 00:43:59] ==============================================================================
+[2026-11-19 00:43:59] STEP 19: predictor benchmarking against curated IEDB epitopes
+[2026-11-19 00:43:59] Loaded 45688 predicted peptides and 688 curated IEDB mappings
+[2026-11-19 00:44:00] Using 250 T-cell / MHC-ligand mappings (244 unique peptides, 8-14 aa) as positives
+[2026-11-19 00:44:00]   excluded 136 longer T-cell/MHC-ligand peptides (peptide-scan constructs, not class I ligands)
+[2026-11-19 00:44:00] Labelled 437 of 45688 peptides as IEDB-supported (0.96%)
+[2026-11-19 00:44:01] Wrote benchmark_per_gene.tsv (17 genes scored)
+[2026-11-19 00:44:01] Gene-grouped benchmark (positives vs UNTESTED background -- not true negatives):
+[2026-11-19 00:44:01]     affinity                     genes=17 mean AUC=0.809 (range 0.424-0.997) mean AP=0.326 P@50=0.100 top-decile enrichment=6.03x
+[2026-11-19 00:44:01]     presentation_score           genes=17 mean AUC=0.801 (range 0.406-0.984) mean AP=0.127 P@50=0.085 top-decile enrichment=5.80x
+[2026-11-19 00:44:01]     combined_rank_score          genes=17 mean AUC=0.747 (range 0.299-0.958) mean AP=0.093 P@50=0.059 top-decile enrichment=3.80x
+[2026-11-19 00:44:01]     min_within_type_identity     genes=17 mean AUC=0.565 (range 0.262-0.818) mean AP=0.019 P@50=0.013 top-decile enrichment=1.35x
+[2026-11-19 00:44:01] Per-gene AUC for the MHCflurry presentation score:
+[2026-11-19 00:44:01]     HSV1 RL2    AUC=0.984 n_pos=   6 of 1533
+[2026-11-19 00:44:01]     HSV1 US8    AUC=0.980 n_pos=   8 of 1083
+[2026-11-19 00:44:01]     HSV1 UL23   AUC=0.980 n_pos=   5 of 735
+[2026-11-19 00:44:01]     HSV1 UL22   AUC=0.975 n_pos=  10 of 1659
+[2026-11-19 00:44:01]     HSV1 UL47   AUC=0.974 n_pos=  10 of 1369
+[2026-11-19 00:44:01]     HSV1 RS1    AUC=0.969 n_pos=  14 of 2579
+[2026-11-19 00:44:01]     HSV1 UL54   AUC=0.963 n_pos=   5 of 1007
+[2026-11-19 00:44:01]     HSV1 US7    AUC=0.958 n_pos=   5 of 763
+[2026-11-19 00:44:01]     HSV1 UL10   AUC=0.944 n_pos=  10 of 929
+[2026-11-19 00:44:01]     HSV1 UL44   AUC=0.939 n_pos=   8 of 1005
+[2026-11-19 00:44:01]     HSV1 UL53   AUC=0.928 n_pos=   9 of 659
+[2026-11-19 00:44:01]     HSV1 UL27   AUC=0.922 n_pos=  15 of 1791
+[2026-11-19 00:44:01]     HSV1 US6    AUC=0.919 n_pos=   8 of 771
+[2026-11-19 00:44:01]     HSV2 UL47   AUC=0.894 n_pos=   9 of 1375
+[2026-11-19 00:44:01]     HSV1 UL48   AUC=0.884 n_pos=  15 of 963
+[2026-11-19 00:44:01]     HSV1 UL46   AUC=0.829 n_pos=  17 of 1419
+[2026-11-19 00:44:01]     HSV1 UL30   AUC=0.811 n_pos=  22 of 2453
+[2026-11-19 00:44:01]     HSV2 UL54   AUC=0.803 n_pos=   9 of 1007
+[2026-11-19 00:44:01]     HSV2 RL2    AUC=0.697 n_pos=  10 of 1651
+[2026-11-19 00:44:01]     HSV1 UL49   AUC=0.675 n_pos=  16 of 585
+[2026-11-19 00:44:01]     HSV2 UL27   AUC=0.640 n_pos=  22 of 1791
+[2026-11-19 00:44:01]     HSV2 UL23   AUC=0.583 n_pos=   9 of 735
+[2026-11-19 00:44:01]     HSV2 UL49   AUC=0.580 n_pos=  31 of 583
+[2026-11-19 00:44:01]     HSV2 UL46   AUC=0.474 n_pos=  13 of 1427
+[2026-11-19 00:44:01]     HSV2 RS1    AUC=0.466 n_pos=   8 of 2619
+[2026-11-19 00:44:01]     HSV2 US6    AUC=0.463 n_pos=  75 of 769
+[2026-11-19 00:44:01]     HSV2 UL48   AUC=0.406 n_pos=  59 of 963
+[2026-11-19 00:44:01] Caveat: IEDB coverage is uneven and absence of a record is not a negative, so these AUCs measure recovery of known epitopes, not true discrimination.
+[2026-11-19 01:10:07] ==============================================================================
+[2026-11-19 01:10:07] STEP 19: predictor benchmarking against curated IEDB epitopes
+[2026-11-19 01:10:07] Loaded 45688 predicted peptides and 688 curated IEDB mappings
+[2026-11-19 01:10:07] Using 250 T-cell / MHC-ligand mappings (244 unique peptides, 8-14 aa) as positives
+[2026-11-19 01:10:07]   excluded 136 longer T-cell/MHC-ligand peptides (peptide-scan constructs, not class I ligands)
+[2026-11-19 01:10:08] Labelled 437 of 45688 peptides as IEDB-supported (0.96%)
+[2026-11-19 01:10:09] Wrote benchmark_per_gene.tsv (17 genes scored)
+[2026-11-19 01:10:09] Gene-grouped benchmark (positives vs UNTESTED background -- not true negatives):
+[2026-11-19 01:10:09]     affinity                     genes=17 mean AUC=0.809 (range 0.424-0.997) mean AP=0.326 P@50=0.100 top-decile enrichment=6.03x
+[2026-11-19 01:10:09]     presentation_score           genes=17 mean AUC=0.801 (range 0.406-0.984) mean AP=0.127 P@50=0.085 top-decile enrichment=5.80x
+[2026-11-19 01:10:09]     combined_rank_score          genes=17 mean AUC=0.747 (range 0.299-0.958) mean AP=0.093 P@50=0.059 top-decile enrichment=3.80x
+[2026-11-19 01:10:09]     min_within_type_identity     genes=17 mean AUC=0.565 (range 0.262-0.818) mean AP=0.019 P@50=0.013 top-decile enrichment=1.35x
+[2026-11-19 01:10:09] Per-gene AUC for the MHCflurry presentation score:
+[2026-11-19 01:10:09]     HSV1 RL2    AUC=0.984 n_pos=   6 of 1533
+[2026-11-19 01:10:09]     HSV1 US8    AUC=0.980 n_pos=   8 of 1083
+[2026-11-19 01:10:09]     HSV1 UL23   AUC=0.980 n_pos=   5 of 735
+[2026-11-19 01:10:09]     HSV1 UL22   AUC=0.975 n_pos=  10 of 1659
+[2026-11-19 01:10:09]     HSV1 UL47   AUC=0.974 n_pos=  10 of 1369
+[2026-11-19 01:10:09]     HSV1 RS1    AUC=0.969 n_pos=  14 of 2579
+[2026-11-19 01:10:09]     HSV1 UL54   AUC=0.963 n_pos=   5 of 1007
+[2026-11-19 01:10:09]     HSV1 US7    AUC=0.958 n_pos=   5 of 763
+[2026-11-19 01:10:09]     HSV1 UL10   AUC=0.944 n_pos=  10 of 929
+[2026-11-19 01:10:09]     HSV1 UL44   AUC=0.939 n_pos=   8 of 1005
+[2026-11-19 01:10:09]     HSV1 UL53   AUC=0.928 n_pos=   9 of 659
+[2026-11-19 01:10:09]     HSV1 UL27   AUC=0.922 n_pos=  15 of 1791
+[2026-11-19 01:10:09]     HSV1 US6    AUC=0.919 n_pos=   8 of 771
+[2026-11-19 01:10:09]     HSV2 UL47   AUC=0.894 n_pos=   9 of 1375
+[2026-11-19 01:10:09]     HSV1 UL48   AUC=0.884 n_pos=  15 of 963
+[2026-11-19 01:10:09]     HSV1 UL46   AUC=0.829 n_pos=  17 of 1419
+[2026-11-19 01:10:09]     HSV1 UL30   AUC=0.811 n_pos=  22 of 2453
+[2026-11-19 01:10:09]     HSV2 UL54   AUC=0.803 n_pos=   9 of 1007
+[2026-11-19 01:10:09]     HSV2 RL2    AUC=0.697 n_pos=  10 of 1651
+[2026-11-19 01:10:09]     HSV1 UL49   AUC=0.675 n_pos=  16 of 585
+[2026-11-19 01:10:09]     HSV2 UL27   AUC=0.640 n_pos=  22 of 1791
+[2026-11-19 01:10:09]     HSV2 UL23   AUC=0.583 n_pos=   9 of 735
+[2026-11-19 01:10:09]     HSV2 UL49   AUC=0.580 n_pos=  31 of 583
+[2026-11-19 01:10:09]     HSV2 UL46   AUC=0.474 n_pos=  13 of 1427
+[2026-11-19 01:10:09]     HSV2 RS1    AUC=0.466 n_pos=   8 of 2619
+[2026-11-19 01:10:09]     HSV2 US6    AUC=0.463 n_pos=  75 of 769
+[2026-11-19 01:10:09]     HSV2 UL48   AUC=0.406 n_pos=  59 of 963
+[2026-11-19 01:10:09] Caveat: IEDB coverage is uneven and absence of a record is not a negative, so these AUCs measure recovery of known epitopes, not true discrimination.

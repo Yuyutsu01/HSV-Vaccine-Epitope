@@ -1,0 +1,103 @@
+population	class_ii_bound	class_i_coverage	class_ii_coverage	combined
+Amerindian	conservative	100.0	100.0	100.0
+Amerindian	upper_bound	100.0	100.0	100.0
+Argentina	conservative	99.77	99.52	100.0
+Argentina	upper_bound	99.77	100.0	100.0
+Asian	conservative	97.71	98.98	99.98
+Asian	upper_bound	97.71	100.0	100.0
+Black	conservative	96.32	99.7	99.99
+Black	upper_bound	96.32	100.0	100.0
+Brazil	conservative	99.27	99.98	100.0
+Brazil	upper_bound	99.27	100.0	100.0
+Brazil Amerindian	conservative	93.24	100.0	100.0
+Brazil Amerindian	upper_bound	93.24	100.0	100.0
+Cameroon	conservative	93.57	98.84	99.93
+Cameroon	upper_bound	93.57	100.0	100.0
+Cameroon Black	conservative	93.57	98.84	99.93
+Cameroon Black	upper_bound	93.57	100.0	100.0
+Caucasoid	conservative	99.81	99.77	100.0
+Caucasoid	upper_bound	99.81	100.0	100.0
+Central Africa	conservative	92.97	99.61	99.97
+Central Africa	upper_bound	92.97	100.0	100.0
+China	conservative	99.15	97.64	99.98
+China	upper_bound	99.15	99.99	100.0
+China Oriental	conservative	99.15	97.64	99.98
+China Oriental	upper_bound	99.15	99.99	100.0
+East Africa	conservative	93.66	99.81	99.99
+East Africa	upper_bound	93.66	100.0	100.0
+East Asia	conservative	99.24	95.33	99.96
+East Asia	upper_bound	99.24	99.93	100.0
+Ecuador	conservative	96.24	99.46	99.98
+Ecuador	upper_bound	96.24	100.0	100.0
+Europe	conservative	99.84	99.77	100.0
+Europe	upper_bound	99.84	100.0	100.0
+France	conservative	99.8	99.93	100.0
+France	upper_bound	99.8	100.0	100.0
+France Caucasoid	conservative	99.8	99.93	100.0
+France Caucasoid	upper_bound	99.8	100.0	100.0
+India	conservative	97.38	98.91	99.97
+India	upper_bound	97.38	100.0	100.0
+India Asian	conservative	97.38	98.91	99.97
+India Asian	upper_bound	97.38	100.0	100.0
+Japan	conservative	99.6	98.18	99.99
+Japan	upper_bound	99.6	100.0	100.0
+Japan Oriental	conservative	99.6	98.18	99.99
+Japan Oriental	upper_bound	99.6	100.0	100.0
+Korea; South	conservative	98.4	90.75	99.85
+Korea; South	upper_bound	98.4	99.35	99.99
+Korea; South Oriental	conservative	98.4	90.75	99.85
+Korea; South Oriental	upper_bound	98.4	99.35	99.99
+Melanesian	conservative	98.27	99.85	100.0
+Melanesian	upper_bound	98.27	100.0	100.0
+Mexico	conservative	100.0	100.0	100.0
+Mexico	upper_bound	100.0	100.0	100.0
+Mexico Amerindian	conservative	100.0	100.0	100.0
+Mexico Amerindian	upper_bound	100.0	100.0	100.0
+Mongolia	conservative	95.55	97.51	99.89
+Mongolia	upper_bound	95.55	100.0	100.0
+Mongolia Oriental	conservative	95.55	97.51	99.89
+Mongolia Oriental	upper_bound	95.55	100.0	100.0
+North America	conservative	99.59	99.99	100.0
+North America	upper_bound	99.59	100.0	100.0
+Northeast Asia	conservative	98.77	97.64	99.97
+Northeast Asia	upper_bound	98.77	99.99	100.0
+Oceania	conservative	98.36	99.17	99.99
+Oceania	upper_bound	98.36	100.0	100.0
+Oriental	conservative	98.48	94.13	99.91
+Oriental	upper_bound	98.48	99.93	100.0
+Papua New Guinea	conservative	98.38	99.82	100.0
+Papua New Guinea	upper_bound	98.38	100.0	100.0
+Papua New Guinea Melanesian	conservative	98.38	99.82	100.0
+Papua New Guinea Melanesian	upper_bound	98.38	100.0	100.0
+Polynesian	conservative	99.7	99.31	100.0
+Polynesian	upper_bound	99.7	100.0	100.0
+Russia	conservative	99.83	99.97	100.0
+Russia	upper_bound	99.83	100.0	100.0
+Russia Siberian	conservative	99.47	99.96	100.0
+Russia Siberian	upper_bound	99.47	100.0	100.0
+Siberian	conservative	99.47	99.96	100.0
+Siberian	upper_bound	99.47	100.0	100.0
+South America	conservative	100.0	99.98	100.0
+South America	upper_bound	100.0	100.0	100.0
+South Asia	conservative	98.55	98.9	99.98
+South Asia	upper_bound	98.55	100.0	100.0
+Spain	conservative	88.48	99.56	99.95
+Spain	upper_bound	88.48	100.0	100.0
+Spain Caucasoid	conservative	88.48	99.58	99.95
+Spain Caucasoid	upper_bound	88.48	100.0	100.0
+Sweden	conservative	100.0	99.93	100.0
+Sweden	upper_bound	100.0	100.0	100.0
+Sweden Caucasoid	conservative	100.0	99.93	100.0
+Sweden Caucasoid	upper_bound	100.0	100.0	100.0
+United States	conservative	99.59	99.98	100.0
+United States	upper_bound	99.59	100.0	100.0
+United States Amerindian	conservative	100.0	100.0	100.0
+United States Amerindian	upper_bound	100.0	100.0	100.0
+Venezuela	conservative	100.0	100.0	100.0
+Venezuela	upper_bound	100.0	100.0	100.0
+Venezuela Amerindian	conservative	99.99	100.0	100.0
+Venezuela Amerindian	upper_bound	99.99	100.0	100.0
+West Africa	conservative	97.81	99.39	99.99
+West Africa	upper_bound	97.81	100.0	100.0
+World	conservative	99.71	99.64	100.0
+World	upper_bound	99.71	100.0	100.0

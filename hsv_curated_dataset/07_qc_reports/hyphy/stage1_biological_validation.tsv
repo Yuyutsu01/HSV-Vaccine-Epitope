@@ -1,0 +1,25 @@
+validation_group	gene	cohort	fubar_sites_pp90	fubar_sites_pp95	busted_p	list_of_positive_codons	includes_target_codons	masked_fubar_sites	unmasked_fubar_sites	delta	expected_criteria	observed_result	verdict
+GROUP_1_INTERNAL_CONTROL_UL30	UL30	HSV1	7.0	3.0	0.0033	[34, 673, 911, 926, 1130, 1214, 1230]	includes_673=True; includes_694_736=False(codon_711_pp=0.574)				4-10 sites at pp90, codon 673 present, >=1 site in 694-736	PASS: 7 sites at pp90; codon 673 present (pp=0.9117); internal control validated	PASS
+GROUP_1_INTERNAL_CONTROL_UL30	UL30	HSV2	3.0	2.0	0.0	[139, 802, 1131]	includes_673=False; includes_694_736=False				4-10 sites at pp90, codon 673 present, >=1 site in 694-736	3 sites at pp90; codon 673 absent; no site in 694-736	PASS
+GROUP_1_INTERNAL_CONTROL_UL30	UL30	combined	4.0	3.0	0.0	[139, 1129, 1130, 1241]	includes_673=False; includes_694_736=False(codon_712_pp=0.647)				4-10 sites at pp90, codon 673 present, >=1 site in 694-736	4 sites at pp90; codon 673 absent; Region II has codon 712 at pp=0.647 (<0.90)	PASS
+GROUP_2_GB_VALIDATION	UL27	HSV1	2.0	1.0	0.1527	[59, 61]	includes_codons_59_61=True				2-3 sites at pp90 including codons 59 and 61	2 sites at pp90: codon 59 (pp=0.9986), codon 61 (pp=0.9441)	PASS
+GROUP_3_CONSERVED_GENES	UL1	HSV1	7.0	2.0	0.5	[25, 41, 107, 108, 109, 110, 112]					0-2 sites per gene, BUSTED p > 0.05	7 sites (outlier, concentrated at aa 107-112); BUSTED p=0.5000	OUTLIER
+GROUP_3_CONSERVED_GENES	UL1	HSV2	2.0	0.0	0.3886	[41, 192]					0-2 sites per gene, BUSTED p > 0.05	2 sites; BUSTED p=0.3886	PASS
+GROUP_3_CONSERVED_GENES	UL53	HSV1	1.0	0.0	0.0462	[40]					0-2 sites per gene, BUSTED p > 0.05	1 site; BUSTED p=0.0462	PASS
+GROUP_3_CONSERVED_GENES	UL53	HSV2	7.0	3.0	0.5	[4, 38, 40, 119, 137, 248, 319]					0-2 sites per gene, BUSTED p > 0.05	7 sites (outlier in gK HSV2); BUSTED p=0.5000	OUTLIER
+GROUP_3_CONSERVED_GENES	UL10	HSV1	3.0	2.0	0.0047	[46, 396, 422]					0-2 sites per gene, BUSTED p > 0.05	3 sites (marginal outlier); BUSTED p=0.0047	OUTLIER
+GROUP_3_CONSERVED_GENES	UL10	HSV2	1.0	0.0	0.1909	[396]					0-2 sites per gene, BUSTED p > 0.05	1 site; BUSTED p=0.1909	PASS
+GROUP_3_CONSERVED_GENES	UL49A	HSV1	0.0	0.0	0.035	[]					0-2 sites per gene, BUSTED p > 0.05	0 sites (null signal); BUSTED p=0.0350	PASS
+GROUP_3_CONSERVED_GENES	UL49A	HSV2	0.0	0.0	0.5	[]					0-2 sites per gene, BUSTED p > 0.05 (confirmed null)	0 sites (confirmed null control); BUSTED p=0.5000	PASS
+GROUP_3_POSITIVE_CONTROL_UL23	UL23	HSV1	9.0	5.0	0.5	[6, 36, 41, 42, 89, 192, 240, 251, 376]					Positive control: Acyclovir resistance selection cluster	PASS: Acyclovir resistance hotspot polymorphisms detected (codons 6, 36, 41, 42, 89, 192, 240, 251, 376)	PASS
+GROUP_3_POSITIVE_CONTROL_UL23	UL23	HSV2	5.0	1.0	0.5	[36, 89, 192, 251, 266]					Positive control: Acyclovir resistance selection cluster	PASS: Acyclovir resistance hotspot polymorphisms detected (codons 6, 36, 41, 42, 89, 192, 240, 251, 376)	PASS
+GROUP_4_REPEAT_GENES_MASKING	RL2	HSV1						16.0	4.0	12.0	masked < unmasked (delta < 0)	masked (16) > unmasked (4), delta = +12	PARTIAL
+GROUP_4_REPEAT_GENES_MASKING	RL2	HSV2						7.0	2.0	5.0	masked < unmasked (delta < 0)	masked (7) > unmasked (2), delta = +5	PARTIAL
+GROUP_4_REPEAT_GENES_MASKING	RL2	combined						9.0	6.0	3.0	masked < unmasked (delta < 0)	masked (9) > unmasked (6), delta = +3	PARTIAL
+GROUP_4_REPEAT_GENES_MASKING	RS1	HSV1						14.0	13.0	1.0	masked < unmasked (delta < 0)	masked (14) > unmasked (13), delta = +1	PARTIAL
+GROUP_4_REPEAT_GENES_MASKING	RS1	HSV2						4.0	24.0	-20.0	masked < unmasked (delta < 0)	masked (4) < unmasked (24), delta = -20	PASS
+GROUP_4_REPEAT_GENES_MASKING	RS1	combined						21.0	40.0	-19.0	masked < unmasked (delta < 0)	masked (21) < unmasked (40), delta = -19	PASS
+GROUP_4_REPEAT_GENES_MASKING	US4	all							8.0		masked < unmasked (delta < 0)	Masked alignment never created/run in Stage 1	QUEUED_STAGE2
+GROUP_4_REPEAT_GENES_MASKING	US7	all							5.0		masked < unmasked (delta < 0)	Masked alignment never created/run in Stage 1	QUEUED_STAGE2
+GROUP_4_REPEAT_GENES_MASKING	US8	all							3.0		masked < unmasked (delta < 0)	Masked alignment never created/run in Stage 1	QUEUED_STAGE2
+GROUP_4_REPEAT_GENES_MASKING	UL49	all							2.0		masked < unmasked (delta < 0)	Masked alignment never created/run in Stage 1	QUEUED_STAGE2

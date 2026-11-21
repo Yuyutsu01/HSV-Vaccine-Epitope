@@ -1,0 +1,104 @@
+field	value	records	pct_of_records	patients
+country	UNKNOWN	1076	82.45	1024
+country	USA	170	13.03	148
+country	France	18	1.38	18
+country	Germany	16	1.23	16
+country	Belgium	8	0.61	8
+country	China	5	0.38	5
+country	United Kingdom	4	0.31	3
+country	India	3	0.23	3
+country	Spain	2	0.15	2
+country	not collected	1	0.08	1
+country	Japan	1	0.08	1
+country	South Africa	1	0.08	1
+collection_year	UNKNOWN	1195	91.57	1118
+collection_year	2009.0	25	1.92	13
+collection_year	2015.0	11	0.84	11
+collection_year	2010.0	9	0.69	9
+collection_year	2011.0	8	0.61	8
+collection_year	2007.0	6	0.46	6
+collection_year	2005.0	5	0.38	5
+collection_year	2004.0	5	0.38	5
+collection_year	2003.0	3	0.23	3
+collection_year	2008.0	3	0.23	3
+collection_year	1965.0	3	0.23	3
+collection_year	1982.0	3	0.23	3
+collection_year	2020.0	2	0.15	2
+collection_year	2021.0	2	0.15	2
+collection_year	2012.0	2	0.15	2
+collection_year	2002.0	2	0.15	2
+collection_year	1967.0	2	0.15	2
+collection_year	1979.0	2	0.15	2
+collection_year	2018.0	2	0.15	2
+collection_year	1964.0	2	0.15	2
+collection_year	2019.0	1	0.08	1
+collection_year	2014.0	1	0.08	1
+collection_year	2001.0	1	0.08	1
+collection_year	2017.0	1	0.08	1
+collection_year	1974.0	1	0.08	1
+collection_year	1980.0	1	0.08	1
+collection_year	1951.0	1	0.08	1
+collection_year	2016.0	1	0.08	1
+collection_year	1998.0	1	0.08	1
+collection_year	2013.0	1	0.08	1
+collection_year	2006.0	1	0.08	1
+collection_year	1995.0	1	0.08	1
+collection_year	1991.0	1	0.08	1
+submitter	UNKNOWN	1069	81.92	1017
+submitter	University of Wisconsin-Madison, Ophthalmology and Visual Sciences	54	4.14	54
+submitter	Pennsylvania State University, Biochemistry/Molecular Biology	47	3.6	38
+submitter	Penn State, Department of Biology and Biochemistry and Molecular Biology	21	1.61	8
+submitter	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353	18	1.38	18
+submitter	Pennsylvania State University, Department of Biochemistry and Molecular Biology	15	1.15	15
+submitter	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493	10	0.77	10
+submitter	Rega Institute for Medical Research, Microbiology and Immunology	8	0.61	8
+submitter	CVG, Institute of Virology - clinical virus genomics, Herrmann-Herder-Str 11, 79104 Freiburg	5	0.38	5
+submitter	Albert Einstein college of Medicine, Microbiology and Immunology	4	0.31	4
+submitter	University of Surrey, Microbial Sciences	4	0.31	4
+submitter	Pennslyvania State University, Department of Biochemistry and Molecular Biology	4	0.31	4
+submitter	Saint Louis University, Molecular Microbiology and Immunology	4	0.31	4
+submitter	Cedars Sinai Medical Center, Surgery	3	0.23	3
+submitter	Harvard Medical School, Department of Microbiology and Immunobiology	3	0.23	3
+submitter	Cedars-Sinai Health Sciences University, Surgery	2	0.15	2
+submitter	Academy of Military Medical Sciences, State Key Laboratory of Pathogen and Biosecurity	2	0.15	2
+submitter	UW Virology, Laboratory Medicine	2	0.15	2
+submitter	Frederick National Laboratory for Cancer Research, Laboratory of Human Retrovirology and Immunoinformatics, Applied Developmental Research Directorate	2	0.15	2
+submitter	National Center for Biotechnology Information, NIH	2	0.15	2
+submitter	MRC - University of Glasgow Centre for Virus Research	2	0.15	2
+submitter	Princeton University, Dept. of Molecular Biology and Lewis-Sigler Institute for Integrative Genomics	2	0.15	2
+submitter	Vircell S.L., I+D, Molecular Diagnostics	1	0.08	1
+submitter	National Institute for Viral Disease Control and Prevention, Department of Viral Morphology	1	0.08	1
+submitter	University of Wuerzburg, Institute for Virology and Immunobiology	1	0.08	1
+submitter	University of Pittsburgh, Department of Ophthalmology	1	0.08	1
+submitter	University of Washington, Department of Laboratory Medicine	1	0.08	1
+submitter	National Institute of Virology, Maximum Containment Laboratory	1	0.08	1
+submitter	National Institue of Virology, Maximum Containment Laboratory	1	0.08	1
+submitter	JCVI, Informatics	1	0.08	1
+submitter	Chinese Academy of Medical Sciences, Institute of medical biology	1	0.08	1
+submitter	Osaka University Graduate School of Dentistry, Osaka University; yamadaoka1-8, Suita, Osaka 565-0871	1	0.08	1
+submitter	MRC Virology Unit	1	0.08	1
+submitter	Pennsylvannia State University	1	0.08	1
+submitter	Washington State University, Veterinary Microbiology and Pathology	1	0.08	1
+submitter	National Institute of Virology, Encephalitis Group	1	0.08	1
+submitter	University of Kansas, Department of Molecular Biosciences	1	0.08	1
+submitter	University of Pittsburgh, Ophthalmology	1	0.08	1
+submitter	McGeoch D.J., MRC Virology Institute, Institute of Virology, Church Street, Glasgow G11 5JR	1	0.08	1
+submitter	Lurie Children's Hospital of Chicago, Division of Infectious Diseases	1	0.08	1
+submitter	Frederick National Laboratory for Cancer Research, Laboratory of Human Retrovirology and Immunoinformatics	1	0.08	1
+submitter	Centro de Biologia Molecular Severo Ochoa, Virology	1	0.08	1
+submitter	Institute of medical biology	1	0.08	1
+submitter	A. Dolan, MRC Virology Unit, Church Street, Glasgow, G11 5JR	1	0.08	1
+BioProject	UNKNOWN	1262	96.7	1166
+BioProject	PRJEB13741	18	1.38	18
+BioProject	PRJEB14190	10	0.77	10
+BioProject	PRJEB91485	5	0.38	5
+BioProject	PRJNA1034094	2	0.15	2
+BioProject	PRJNA43419	2	0.15	2
+BioProject	PRJNA562737	1	0.08	1
+BioProject	PRJNA485481	1	0.08	1
+BioProject	PRJNA386147	1	0.08	1
+BioProject	PRJDB2363	1	0.08	1
+BioProject	PRJNA15218	1	0.08	1
+BioProject	PRJNA32415	1	0.08	1
+virus	HSV-1	672	51.49	577
+virus	HSV-2	633	48.51	631

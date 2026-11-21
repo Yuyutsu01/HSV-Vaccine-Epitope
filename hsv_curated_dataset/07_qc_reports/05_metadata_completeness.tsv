@@ -1,0 +1,4 @@
+virus_type	total_genomes	isolate_pct	isolate_count	country_pct	country_count	collection_year_pct	collection_year_count	host_pct	host_count	isolation_source_pct	isolation_source_count	passage_history_pct	passage_history_count	sequencing_technology_pct	sequencing_technology_count	BioSample_pct	BioSample_count	BioProject_pct	BioProject_count
+HSV-1	672	95.24	640	28.42	191	14.73	99	100.0	672	0.15	1	0.0	0	0.0	0	2.83	19	3.42	23
+HSV-2	633	99.05	627	6.0	38	1.74	11	100.0	633	0.0	0	0.0	0	0.0	0	2.84	18	3.16	20
+Combined	1305	97.09	1267	17.55	229	8.43	110	100.0	1305	0.08	1	0.0	0	0.0	0	2.84	37	3.3	43

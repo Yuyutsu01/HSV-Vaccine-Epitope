@@ -1,0 +1,6 @@
+gene	within_type_AA_identity_HSV1	within_type_AA_identity_HSV2	hsv1_lc_regions_aa	hsv2_lc_regions_aa	notes
+US4	69.02	98.76	77-98	438-486	Low-complexity repeat tracts annotated; flagged for conservative site interpretation
+US7	73.57	93.0	207-231	205-226	Low-complexity repeat tracts annotated; flagged for conservative site interpretation
+US8	79.61	78.39	None	183-207; 411-434	Low-complexity repeat tracts annotated; flagged for conservative site interpretation
+UL46	86.26	98.96	None	None	Low-complexity repeat tracts annotated; flagged for conservative site interpretation
+UL49	97.98	72.32	94-113	93-113; 268-297	Low-complexity repeat tracts annotated; flagged for conservative site interpretation

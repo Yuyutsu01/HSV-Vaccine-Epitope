@@ -1,0 +1,5 @@
+virus	gene	ref_length_aa	low_complexity_coords	low_complexity_fraction_pct	num_clinical_sequences	aa_min	aa_25th	aa_median	aa_75th	aa_max	unmasked_aln_len_codons	masked_aln_len_codons	baseline_step10_unmasked_id_pct	clean_ref_aligned_unmasked_id_pct	masked_within_type_id_pct	artifact_confirmed	verdict
+HSV-1	RL2	775	245-266; 375-404; 410-432; 547-601	16.77	187	749	776.0	777.0	777.0	792	775	645	64.18	98.84	99.08	True	CONFIRMED_REPEAT_ARTIFACT (>=95% identity)
+HSV-2	RL2	834	256-275; 407-445; 517-541; 565-653	20.74	75	798	808.0	809.0	825.0	843	834	661	85.15	99.31	99.43	True	CONFIRMED_REPEAT_ARTIFACT (>=95% identity)
+HSV-1	RS1	1298	114-134; 172-212; 223-243; 596-616; 696-725; 762-800	13.33	215	1207	1298.0	1301.0	1303.0	1315	1298	1125	55.72	99.1	99.14	True	CONFIRMED_REPEAT_ARTIFACT (>=95% identity)
+HSV-2	RS1	1318	72-99; 154-183; 200-279; 292-317; 562-585; 603-635; 663-691; 813-852	22.0	57	1266	1316.0	1319.0	1323.0	1351	1318	1028	30.76	99.52	99.77	True	CONFIRMED_REPEAT_ARTIFACT (>=95% identity)

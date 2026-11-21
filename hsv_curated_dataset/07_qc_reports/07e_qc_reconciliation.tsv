@@ -1,0 +1,11 @@
+quantity	n
+CDS rows in prior QC log (07_cds_qc_log.tsv)	11504
+CDS carried forward (05_cds_qc_passed/)	12054
+carried forward with no row in prior log	697
+carried forward marked FAIL by prior log	19
+PASS_GOOD (this log)	11950
+PASS_LENGTH_POLYMORPHISM (this log)	20
+PASS_RESISTANCE_VARIANT (this log)	0
+FAIL on a correctness criterion (this log)	84
+FAIL and in the final analysis	81
+sequences in the final analysis cohorts	4163

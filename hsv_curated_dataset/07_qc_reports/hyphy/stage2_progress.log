@@ -1,0 +1,260 @@
+[2026-11-11 22:29:08] ======================================================================
+[2026-11-11 22:29:08] STARTING HYPHY STAGE 2: FEL & MEME DEEP DIVERSIFYING SELECTION (62 total runs)
+[2026-11-11 22:29:08] ======================================================================
+[2026-11-11 22:38:09] SUCCESS [1/62]: UL27_HSV1 FEL completed in 540.5s.
+[2026-11-11 23:07:32] SUCCESS [2/62]: UL27_HSV1 MEME completed in 1762.8s.
+[2026-11-11 23:57:20] SUCCESS [3/62]: UL27_combined FEL completed in 2987.8s.
+[2026-11-12 01:58:34] SUCCESS [4/62]: UL27_combined MEME completed in 7274.4s.
+[2026-11-12 02:00:02] SUCCESS [5/62]: US6_HSV1 FEL completed in 87.6s.
+[2026-11-12 02:05:13] SUCCESS [6/62]: US6_HSV1 MEME completed in 311.5s.
+[2026-11-12 02:09:47] SUCCESS [7/62]: US6_combined FEL completed in 274.1s.
+[2026-11-12 02:23:44] SUCCESS [8/62]: US6_combined MEME completed in 836.7s.
+[2026-11-12 02:37:07] SUCCESS [9/62]: UL22_HSV1 FEL completed in 802.7s.
+[2026-11-12 03:26:54] SUCCESS [10/62]: UL22_HSV1 MEME completed in 2987.6s.
+[2026-11-12 03:34:29] SUCCESS [11/62]: UL22_HSV2 FEL completed in 455.1s.
+[2026-11-12 04:01:36] SUCCESS [12/62]: UL22_HSV2 MEME completed in 1627.1s.
+[2026-11-12 05:03:11] SUCCESS [13/62]: UL22_combined FEL completed in 3694.5s.
+[2026-11-12 07:24:55] SUCCESS [14/62]: UL22_combined MEME completed in 8503.9s.
+[2026-11-12 07:25:53] SUCCESS [15/62]: UL1_HSV1 FEL completed in 57.7s.
+[2026-11-12 07:29:21] SUCCESS [16/62]: UL1_HSV1 MEME completed in 208.1s.
+[2026-11-12 07:31:12] SUCCESS [17/62]: UL1_combined FEL completed in 110.8s.
+[2026-11-12 07:38:49] SUCCESS [18/62]: UL1_combined MEME completed in 457.0s.
+[2026-11-12 07:45:18] SUCCESS [19/62]: UL44_HSV1 FEL completed in 389.1s.
+[2026-11-12 08:14:07] SUCCESS [20/62]: UL44_HSV1 MEME completed in 1729.6s.
+[2026-11-12 08:36:57] SUCCESS [21/62]: UL44_combined FEL completed in 1369.3s.
+[2026-11-12 09:40:14] SUCCESS [22/62]: UL44_combined MEME completed in 3797.5s.
+[2026-11-12 09:41:08] SUCCESS [23/62]: UL53_HSV2 FEL completed in 53.7s.
+[2026-11-12 09:43:48] SUCCESS [24/62]: UL53_HSV2 MEME completed in 160.1s.
+[2026-11-12 09:46:54] SUCCESS [25/62]: UL10_HSV1 FEL completed in 185.9s.
+[2026-11-12 09:56:37] SUCCESS [26/62]: UL10_HSV1 MEME completed in 582.6s.
+[2026-11-12 10:08:00] SUCCESS [27/62]: UL10_combined FEL completed in 683.8s.
+[2026-11-12 10:43:36] SUCCESS [28/62]: UL10_combined MEME completed in 2135.6s.
+[2026-11-12 10:48:32] SUCCESS [29/62]: US4_HSV2_unmasked FEL completed in 295.6s.
+[2026-11-12 11:08:49] SUCCESS [30/62]: US4_HSV2_unmasked MEME completed in 1217.3s.
+[2026-11-12 11:33:11] SUCCESS [31/62]: US4_combined_unmasked FEL completed in 1462.0s.
+[2026-11-12 12:36:56] SUCCESS [32/62]: US4_combined_unmasked MEME completed in 3825.3s.
+[2026-11-12 12:43:12] SUCCESS [33/62]: US7_HSV1_unmasked FEL completed in 375.5s.
+[2026-11-12 13:03:25] SUCCESS [34/62]: US7_HSV1_unmasked MEME completed in 1213.2s.
+[2026-11-12 13:11:04] SUCCESS [35/62]: US8_HSV1_unmasked FEL completed in 459.1s.
+[2026-11-12 13:44:15] SUCCESS [36/62]: US8_HSV1_unmasked MEME completed in 1991.2s.
+[2026-11-12 13:54:59] SUCCESS [37/62]: UL46_HSV1 FEL completed in 643.3s.
+[2026-11-12 14:29:28] SUCCESS [38/62]: UL46_HSV1 MEME completed in 2068.9s.
+[2026-11-12 15:14:47] SUCCESS [39/62]: UL46_combined FEL completed in 2719.5s.
+[2026-11-12 17:16:10] SUCCESS [40/62]: UL46_combined MEME completed in 7283.2s.
+[2026-11-12 17:20:14] SUCCESS [41/62]: UL47_HSV1 FEL completed in 243.6s.
+[2026-11-12 17:33:59] SUCCESS [42/62]: UL47_HSV1 MEME completed in 825.1s.
+[2026-11-12 17:54:43] SUCCESS [43/62]: UL47_combined FEL completed in 1244.0s.
+[2026-11-12 18:46:15] SUCCESS [44/62]: UL47_combined MEME completed in 3091.4s.
+[2026-11-12 18:59:34] SUCCESS [45/62]: UL30_HSV1 FEL completed in 799.7s.
+[2026-11-12 19:55:43] SUCCESS [46/62]: UL30_HSV1 MEME completed in 3368.2s.
+[2026-11-12 20:16:21] SUCCESS [47/62]: UL30_HSV2 FEL completed in 1238.5s.
+[2026-11-12 21:17:12] SUCCESS [48/62]: UL30_HSV2 MEME completed in 3650.5s.
+[2026-11-12 21:55:59] SUCCESS [49/62]: UL30_combined FEL completed in 2327.3s.
+[2026-11-13 00:27:57] SUCCESS [50/62]: UL30_combined MEME completed in 9118.3s.
+[2026-11-13 00:38:23] SUCCESS [51/62]: RL2_HSV1_masked FEL completed in 625.8s.
+[2026-11-13 01:16:05] SUCCESS [52/62]: RL2_HSV1_masked MEME completed in 2261.9s.
+[2026-11-13 01:16:54] SUCCESS [53/62]: RL2_HSV2_masked FEL completed in 48.2s.
+[2026-11-13 01:19:44] SUCCESS [54/62]: RL2_HSV2_masked MEME completed in 170.1s.
+[2026-11-13 02:16:43] SUCCESS [55/62]: RL2_combined_masked FEL completed in 3419.7s.
+[2026-11-13 05:01:42] SUCCESS [56/62]: RL2_combined_masked MEME completed in 9898.5s.
+[2026-11-13 05:24:58] SUCCESS [57/62]: RS1_HSV1_masked FEL completed in 1396.0s.
+[2026-11-13 06:23:46] SUCCESS [58/62]: RS1_HSV1_masked MEME completed in 3527.7s.
+[2026-11-13 06:25:18] SUCCESS [59/62]: RS1_HSV2_masked FEL completed in 92.2s.
+[2026-11-13 06:27:43] SUCCESS [60/62]: RS1_HSV2_masked MEME completed in 144.8s.
+[2026-11-13 08:40:53] SUCCESS [61/62]: RS1_combined_masked FEL completed in 7990.0s.
+[2026-11-14 22:27:15] ======================================================================
+[2026-11-14 22:27:15] STARTING HYPHY STAGE 2: FEL & MEME DEEP DIVERSIFYING SELECTION (62 total runs)
+[2026-11-14 22:27:15] ======================================================================
+[2026-11-14 22:27:15] CACHED [1/62]: UL27_HSV1 FEL already exists.
+[2026-11-14 22:27:15] CACHED [2/62]: UL27_HSV1 MEME already exists.
+[2026-11-14 22:27:15] CACHED [3/62]: UL27_combined FEL already exists.
+[2026-11-14 22:27:15] CACHED [4/62]: UL27_combined MEME already exists.
+[2026-11-14 22:27:15] CACHED [5/62]: US6_HSV1 FEL already exists.
+[2026-11-14 22:27:15] CACHED [6/62]: US6_HSV1 MEME already exists.
+[2026-11-14 22:27:15] CACHED [7/62]: US6_combined FEL already exists.
+[2026-11-14 22:27:15] CACHED [8/62]: US6_combined MEME already exists.
+[2026-11-14 22:27:15] CACHED [9/62]: UL22_HSV1 FEL already exists.
+[2026-11-14 22:27:15] CACHED [10/62]: UL22_HSV1 MEME already exists.
+[2026-11-14 22:27:16] CACHED [11/62]: UL22_HSV2 FEL already exists.
+[2026-11-14 22:27:16] CACHED [12/62]: UL22_HSV2 MEME already exists.
+[2026-11-14 22:27:16] CACHED [13/62]: UL22_combined FEL already exists.
+[2026-11-14 22:27:16] CACHED [14/62]: UL22_combined MEME already exists.
+[2026-11-14 22:27:16] CACHED [15/62]: UL1_HSV1 FEL already exists.
+[2026-11-14 22:27:16] CACHED [16/62]: UL1_HSV1 MEME already exists.
+[2026-11-14 22:27:16] CACHED [17/62]: UL1_combined FEL already exists.
+[2026-11-14 22:27:16] CACHED [18/62]: UL1_combined MEME already exists.
+[2026-11-14 22:27:16] CACHED [19/62]: UL44_HSV1 FEL already exists.
+[2026-11-14 22:27:16] CACHED [20/62]: UL44_HSV1 MEME already exists.
+[2026-11-14 22:27:16] CACHED [21/62]: UL44_combined FEL already exists.
+[2026-11-14 22:27:16] CACHED [22/62]: UL44_combined MEME already exists.
+[2026-11-14 22:27:16] CACHED [23/62]: UL53_HSV2 FEL already exists.
+[2026-11-14 22:27:16] CACHED [24/62]: UL53_HSV2 MEME already exists.
+[2026-11-14 22:27:16] CACHED [25/62]: UL10_HSV1 FEL already exists.
+[2026-11-14 22:27:16] CACHED [26/62]: UL10_HSV1 MEME already exists.
+[2026-11-14 22:27:16] CACHED [27/62]: UL10_combined FEL already exists.
+[2026-11-14 22:27:16] CACHED [28/62]: UL10_combined MEME already exists.
+[2026-11-14 22:27:16] CACHED [29/62]: US4_HSV2_unmasked FEL already exists.
+[2026-11-14 22:27:16] CACHED [30/62]: US4_HSV2_unmasked MEME already exists.
+[2026-11-14 22:27:16] CACHED [31/62]: US4_combined_unmasked FEL already exists.
+[2026-11-14 22:27:16] CACHED [32/62]: US4_combined_unmasked MEME already exists.
+[2026-11-14 22:27:16] CACHED [33/62]: US7_HSV1_unmasked FEL already exists.
+[2026-11-14 22:27:16] CACHED [34/62]: US7_HSV1_unmasked MEME already exists.
+[2026-11-14 22:27:16] CACHED [35/62]: US8_HSV1_unmasked FEL already exists.
+[2026-11-14 22:27:16] CACHED [36/62]: US8_HSV1_unmasked MEME already exists.
+[2026-11-14 22:27:16] CACHED [37/62]: UL46_HSV1 FEL already exists.
+[2026-11-14 22:27:16] CACHED [38/62]: UL46_HSV1 MEME already exists.
+[2026-11-14 22:27:16] CACHED [39/62]: UL46_combined FEL already exists.
+[2026-11-14 22:27:16] CACHED [40/62]: UL46_combined MEME already exists.
+[2026-11-14 22:27:16] CACHED [41/62]: UL47_HSV1 FEL already exists.
+[2026-11-14 22:27:16] CACHED [42/62]: UL47_HSV1 MEME already exists.
+[2026-11-14 22:27:16] CACHED [43/62]: UL47_combined FEL already exists.
+[2026-11-14 22:27:16] CACHED [44/62]: UL47_combined MEME already exists.
+[2026-11-14 22:27:16] CACHED [45/62]: UL30_HSV1 FEL already exists.
+[2026-11-14 22:27:16] CACHED [46/62]: UL30_HSV1 MEME already exists.
+[2026-11-14 22:27:16] CACHED [47/62]: UL30_HSV2 FEL already exists.
+[2026-11-14 22:27:16] CACHED [48/62]: UL30_HSV2 MEME already exists.
+[2026-11-14 22:27:16] CACHED [49/62]: UL30_combined FEL already exists.
+[2026-11-14 22:27:16] CACHED [50/62]: UL30_combined MEME already exists.
+[2026-11-14 22:27:16] CACHED [51/62]: RL2_HSV1_masked FEL already exists.
+[2026-11-14 22:27:16] CACHED [52/62]: RL2_HSV1_masked MEME already exists.
+[2026-11-14 22:27:16] CACHED [53/62]: RL2_HSV2_masked FEL already exists.
+[2026-11-14 22:27:16] CACHED [54/62]: RL2_HSV2_masked MEME already exists.
+[2026-11-14 22:27:16] CACHED [55/62]: RL2_combined_masked FEL already exists.
+[2026-11-14 22:27:16] CACHED [56/62]: RL2_combined_masked MEME already exists.
+[2026-11-14 22:27:16] CACHED [57/62]: RS1_HSV1_masked FEL already exists.
+[2026-11-14 22:27:16] CACHED [58/62]: RS1_HSV1_masked MEME already exists.
+[2026-11-14 22:27:16] CACHED [59/62]: RS1_HSV2_masked FEL already exists.
+[2026-11-14 22:27:16] CACHED [60/62]: RS1_HSV2_masked MEME already exists.
+[2026-11-14 22:27:16] CACHED [61/62]: RS1_combined_masked FEL already exists.
+[2026-11-16 02:08:49] ======================================================================
+[2026-11-16 02:08:49] STARTING HYPHY STAGE 2: FEL & MEME DEEP DIVERSIFYING SELECTION (62 total runs)
+[2026-11-16 02:08:49] ======================================================================
+[2026-11-16 02:08:49] CACHED [1/62]: UL27_HSV1 FEL already exists.
+[2026-11-16 02:08:49] CACHED [2/62]: UL27_HSV1 MEME already exists.
+[2026-11-16 02:08:49] CACHED [3/62]: UL27_combined FEL already exists.
+[2026-11-16 02:08:49] CACHED [4/62]: UL27_combined MEME already exists.
+[2026-11-16 02:08:49] CACHED [5/62]: US6_HSV1 FEL already exists.
+[2026-11-16 02:08:49] CACHED [6/62]: US6_HSV1 MEME already exists.
+[2026-11-16 02:08:49] CACHED [7/62]: US6_combined FEL already exists.
+[2026-11-16 02:08:49] CACHED [8/62]: US6_combined MEME already exists.
+[2026-11-16 02:08:49] CACHED [9/62]: UL22_HSV1 FEL already exists.
+[2026-11-16 02:08:49] CACHED [10/62]: UL22_HSV1 MEME already exists.
+[2026-11-16 02:08:49] CACHED [11/62]: UL22_HSV2 FEL already exists.
+[2026-11-16 02:08:49] CACHED [12/62]: UL22_HSV2 MEME already exists.
+[2026-11-16 02:08:49] CACHED [13/62]: UL22_combined FEL already exists.
+[2026-11-16 02:08:49] CACHED [14/62]: UL22_combined MEME already exists.
+[2026-11-16 02:08:49] CACHED [15/62]: UL1_HSV1 FEL already exists.
+[2026-11-16 02:08:49] CACHED [16/62]: UL1_HSV1 MEME already exists.
+[2026-11-16 02:08:49] CACHED [17/62]: UL1_combined FEL already exists.
+[2026-11-16 02:08:49] CACHED [18/62]: UL1_combined MEME already exists.
+[2026-11-16 02:08:49] CACHED [19/62]: UL44_HSV1 FEL already exists.
+[2026-11-16 02:08:49] CACHED [20/62]: UL44_HSV1 MEME already exists.
+[2026-11-16 02:08:49] CACHED [21/62]: UL44_combined FEL already exists.
+[2026-11-16 02:08:49] CACHED [22/62]: UL44_combined MEME already exists.
+[2026-11-16 02:08:49] CACHED [23/62]: UL53_HSV2 FEL already exists.
+[2026-11-16 02:08:49] CACHED [24/62]: UL53_HSV2 MEME already exists.
+[2026-11-16 02:08:49] CACHED [25/62]: UL10_HSV1 FEL already exists.
+[2026-11-16 02:08:49] CACHED [26/62]: UL10_HSV1 MEME already exists.
+[2026-11-16 02:08:49] CACHED [27/62]: UL10_combined FEL already exists.
+[2026-11-16 02:08:49] CACHED [28/62]: UL10_combined MEME already exists.
+[2026-11-16 02:08:49] CACHED [29/62]: US4_HSV2_unmasked FEL already exists.
+[2026-11-16 02:08:49] CACHED [30/62]: US4_HSV2_unmasked MEME already exists.
+[2026-11-16 02:08:49] CACHED [31/62]: US4_combined_unmasked FEL already exists.
+[2026-11-16 02:08:49] CACHED [32/62]: US4_combined_unmasked MEME already exists.
+[2026-11-16 02:08:49] CACHED [33/62]: US7_HSV1_unmasked FEL already exists.
+[2026-11-16 02:08:49] CACHED [34/62]: US7_HSV1_unmasked MEME already exists.
+[2026-11-16 02:08:49] CACHED [35/62]: US8_HSV1_unmasked FEL already exists.
+[2026-11-16 02:08:49] CACHED [36/62]: US8_HSV1_unmasked MEME already exists.
+[2026-11-16 02:08:49] CACHED [37/62]: UL46_HSV1 FEL already exists.
+[2026-11-16 02:08:49] CACHED [38/62]: UL46_HSV1 MEME already exists.
+[2026-11-16 02:08:49] CACHED [39/62]: UL46_combined FEL already exists.
+[2026-11-16 02:08:49] CACHED [40/62]: UL46_combined MEME already exists.
+[2026-11-16 02:08:49] CACHED [41/62]: UL47_HSV1 FEL already exists.
+[2026-11-16 02:08:49] CACHED [42/62]: UL47_HSV1 MEME already exists.
+[2026-11-16 02:08:49] CACHED [43/62]: UL47_combined FEL already exists.
+[2026-11-16 02:08:49] CACHED [44/62]: UL47_combined MEME already exists.
+[2026-11-16 02:08:49] CACHED [45/62]: UL30_HSV1 FEL already exists.
+[2026-11-16 02:08:49] CACHED [46/62]: UL30_HSV1 MEME already exists.
+[2026-11-16 02:08:49] CACHED [47/62]: UL30_HSV2 FEL already exists.
+[2026-11-16 02:08:50] CACHED [48/62]: UL30_HSV2 MEME already exists.
+[2026-11-16 02:08:50] CACHED [49/62]: UL30_combined FEL already exists.
+[2026-11-16 02:08:50] CACHED [50/62]: UL30_combined MEME already exists.
+[2026-11-16 02:08:50] CACHED [51/62]: RL2_HSV1_masked FEL already exists.
+[2026-11-16 02:08:50] CACHED [52/62]: RL2_HSV1_masked MEME already exists.
+[2026-11-16 02:08:50] CACHED [53/62]: RL2_HSV2_masked FEL already exists.
+[2026-11-16 02:08:50] CACHED [54/62]: RL2_HSV2_masked MEME already exists.
+[2026-11-16 02:08:50] CACHED [55/62]: RL2_combined_masked FEL already exists.
+[2026-11-16 02:08:50] CACHED [56/62]: RL2_combined_masked MEME already exists.
+[2026-11-16 02:08:50] CACHED [57/62]: RS1_HSV1_masked FEL already exists.
+[2026-11-16 02:08:50] CACHED [58/62]: RS1_HSV1_masked MEME already exists.
+[2026-11-16 02:08:50] CACHED [59/62]: RS1_HSV2_masked FEL already exists.
+[2026-11-16 02:08:50] CACHED [60/62]: RS1_HSV2_masked MEME already exists.
+[2026-11-16 02:08:50] CACHED [61/62]: RS1_combined_masked FEL already exists.
+[2026-11-16 02:11:49] ======================================================================
+[2026-11-16 02:11:49] STARTING HYPHY STAGE 2: FEL & MEME DEEP DIVERSIFYING SELECTION (62 total runs)
+[2026-11-16 02:11:49] ======================================================================
+[2026-11-16 02:11:49] CACHED [1/62]: UL27_HSV1 FEL already exists.
+[2026-11-16 02:11:49] CACHED [2/62]: UL27_HSV1 MEME already exists.
+[2026-11-16 02:11:49] CACHED [3/62]: UL27_combined FEL already exists.
+[2026-11-16 02:11:49] CACHED [4/62]: UL27_combined MEME already exists.
+[2026-11-16 02:11:49] CACHED [5/62]: US6_HSV1 FEL already exists.
+[2026-11-16 02:11:49] CACHED [6/62]: US6_HSV1 MEME already exists.
+[2026-11-16 02:11:49] CACHED [7/62]: US6_combined FEL already exists.
+[2026-11-16 02:11:49] CACHED [8/62]: US6_combined MEME already exists.
+[2026-11-16 02:11:49] CACHED [9/62]: UL22_HSV1 FEL already exists.
+[2026-11-16 02:11:49] CACHED [10/62]: UL22_HSV1 MEME already exists.
+[2026-11-16 02:11:49] CACHED [11/62]: UL22_HSV2 FEL already exists.
+[2026-11-16 02:11:49] CACHED [12/62]: UL22_HSV2 MEME already exists.
+[2026-11-16 02:11:49] CACHED [13/62]: UL22_combined FEL already exists.
+[2026-11-16 02:11:49] CACHED [14/62]: UL22_combined MEME already exists.
+[2026-11-16 02:11:49] CACHED [15/62]: UL1_HSV1 FEL already exists.
+[2026-11-16 02:11:49] CACHED [16/62]: UL1_HSV1 MEME already exists.
+[2026-11-16 02:11:49] CACHED [17/62]: UL1_combined FEL already exists.
+[2026-11-16 02:11:49] CACHED [18/62]: UL1_combined MEME already exists.
+[2026-11-16 02:11:49] CACHED [19/62]: UL44_HSV1 FEL already exists.
+[2026-11-16 02:11:49] CACHED [20/62]: UL44_HSV1 MEME already exists.
+[2026-11-16 02:11:49] CACHED [21/62]: UL44_combined FEL already exists.
+[2026-11-16 02:11:49] CACHED [22/62]: UL44_combined MEME already exists.
+[2026-11-16 02:11:49] CACHED [23/62]: UL53_HSV2 FEL already exists.
+[2026-11-16 02:11:49] CACHED [24/62]: UL53_HSV2 MEME already exists.
+[2026-11-16 02:11:49] CACHED [25/62]: UL10_HSV1 FEL already exists.
+[2026-11-16 02:11:49] CACHED [26/62]: UL10_HSV1 MEME already exists.
+[2026-11-16 02:11:49] CACHED [27/62]: UL10_combined FEL already exists.
+[2026-11-16 02:11:49] CACHED [28/62]: UL10_combined MEME already exists.
+[2026-11-16 02:11:49] CACHED [29/62]: US4_HSV2_unmasked FEL already exists.
+[2026-11-16 02:11:49] CACHED [30/62]: US4_HSV2_unmasked MEME already exists.
+[2026-11-16 02:11:49] CACHED [31/62]: US4_combined_unmasked FEL already exists.
+[2026-11-16 02:11:49] CACHED [32/62]: US4_combined_unmasked MEME already exists.
+[2026-11-16 02:11:49] CACHED [33/62]: US7_HSV1_unmasked FEL already exists.
+[2026-11-16 02:11:49] CACHED [34/62]: US7_HSV1_unmasked MEME already exists.
+[2026-11-16 02:11:49] CACHED [35/62]: US8_HSV1_unmasked FEL already exists.
+[2026-11-16 02:11:49] CACHED [36/62]: US8_HSV1_unmasked MEME already exists.
+[2026-11-16 02:11:49] CACHED [37/62]: UL46_HSV1 FEL already exists.
+[2026-11-16 02:11:49] CACHED [38/62]: UL46_HSV1 MEME already exists.
+[2026-11-16 02:11:50] CACHED [39/62]: UL46_combined FEL already exists.
+[2026-11-16 02:11:50] CACHED [40/62]: UL46_combined MEME already exists.
+[2026-11-16 02:11:50] CACHED [41/62]: UL47_HSV1 FEL already exists.
+[2026-11-16 02:11:50] CACHED [42/62]: UL47_HSV1 MEME already exists.
+[2026-11-16 02:11:50] CACHED [43/62]: UL47_combined FEL already exists.
+[2026-11-16 02:11:50] CACHED [44/62]: UL47_combined MEME already exists.
+[2026-11-16 02:11:50] CACHED [45/62]: UL30_HSV1 FEL already exists.
+[2026-11-16 02:11:50] CACHED [46/62]: UL30_HSV1 MEME already exists.
+[2026-11-16 02:11:50] CACHED [47/62]: UL30_HSV2 FEL already exists.
+[2026-11-16 02:11:50] CACHED [48/62]: UL30_HSV2 MEME already exists.
+[2026-11-16 02:11:50] CACHED [49/62]: UL30_combined FEL already exists.
+[2026-11-16 02:11:50] CACHED [50/62]: UL30_combined MEME already exists.
+[2026-11-16 02:11:50] CACHED [51/62]: RL2_HSV1_masked FEL already exists.
+[2026-11-16 02:11:50] CACHED [52/62]: RL2_HSV1_masked MEME already exists.
+[2026-11-16 02:11:50] CACHED [53/62]: RL2_HSV2_masked FEL already exists.
+[2026-11-16 02:11:50] CACHED [54/62]: RL2_HSV2_masked MEME already exists.
+[2026-11-16 02:11:50] CACHED [55/62]: RL2_combined_masked FEL already exists.
+[2026-11-16 02:11:50] CACHED [56/62]: RL2_combined_masked MEME already exists.
+[2026-11-16 02:11:50] CACHED [57/62]: RS1_HSV1_masked FEL already exists.
+[2026-11-16 02:11:50] CACHED [58/62]: RS1_HSV1_masked MEME already exists.
+[2026-11-16 02:11:50] CACHED [59/62]: RS1_HSV2_masked FEL already exists.
+[2026-11-16 02:11:50] CACHED [60/62]: RS1_HSV2_masked MEME already exists.
+[2026-11-16 02:11:50] CACHED [61/62]: RS1_combined_masked FEL already exists.
+[2026-11-16 06:57:37] SUCCESS [62/62]: RS1_combined_masked MEME completed in 17147.9s.
+[2026-11-16 06:57:37] ======================================================================
+[2026-11-16 06:57:37] STAGE 2 EXECUTION COMPLETE: 62/62 finished, 0 errors, 61 cached.
+[2026-11-16 06:57:37] ======================================================================

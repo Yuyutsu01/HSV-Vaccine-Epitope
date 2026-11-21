@@ -2,6 +2,26 @@
 Step 8 & Step 9: Exact Deduplication & Codon-Aware Multiple Alignment Pipeline.
 Processes all 20 priority genes for HSV-1 and HSV-2.
 
+=============================================================================
+PARTIALLY WITHDRAWN -- READ BEFORE RUNNING.
+
+Step 8 (deduplication) stands. Its output, 07_qc_reports/08_dedup_log.tsv, is a
+frozen input to the live pipeline and cannot be regenerated independently of
+this script, which is why the script is retained.
+
+Step 9 (alignment) is WITHDRAWN. It wrote to 06_alignments/, which pooled the
+two virus types before aligning and so produced out-of-register codons. That
+directory was deleted in the 2026-11-21 cleanup; it remains in git history at
+commit 4f56731. The DIR_ALN_* paths below therefore point at a directory that
+no longer exists, and running the step-9 half would recreate the withdrawn
+output.
+
+The live alignments are 06_alignments_v2/, built per virus type by
+step09b_rebuild_codon_msa.py and step09c_mask_and_coordinate_map.py. See
+../08_documentation/DATA_DICTIONARY.md and
+../../CORRECTIONS_AND_PENDING_WORK.md.
+=============================================================================
+
 Step 8:
   - Exact SHA-256 deduplication (100% exact identical sequences only; no collapsing near-duplicates).
   - Outputs 05_cds_qc_passed/{virus}/{gene}_dedup.fasta

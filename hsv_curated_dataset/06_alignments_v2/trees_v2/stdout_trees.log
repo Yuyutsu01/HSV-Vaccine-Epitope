@@ -1,0 +1,55 @@
+[2026-11-19 21:48:42] ==============================================================================
+[2026-11-19 21:48:42] STEP 10b: HyPhy-ready alignments and per-type trees (combined cohorts excluded)
+[2026-11-19 21:48:42] Prepared 40 HyPhy-ready alignments (reference rows dropped)
+[2026-11-19 21:48:42] RL2 HSV1: tree cached, skipped
+[2026-11-19 21:48:42] RS1 HSV1: tree cached, skipped
+[2026-11-19 21:48:42] UL10 HSV1: tree cached, skipped
+[2026-11-19 21:48:42] UL1 HSV1: tree cached, skipped
+[2026-11-19 21:48:42] UL22 HSV1: tree cached, skipped
+[2026-11-19 21:48:42] UL23 HSV1: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 21:53:21] UL23 HSV1: OK n=108 len=1128 model=K3Pu+F+R3 278.1s
+[2026-11-19 21:53:21] UL27 HSV1: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 21:55:52] UL27 HSV1: numerical underflow, retrying with -safe
+[2026-11-19 21:58:23] UL27 HSV1: OK n=147 len=2712 model=TIM+F+R3 302.7s
+[2026-11-19 21:58:23] UL30 HSV1: tree cached, skipped
+[2026-11-19 21:58:23] UL44 HSV1: tree cached, skipped
+[2026-11-19 21:58:23] UL46 HSV1: tree cached, skipped
+[2026-11-19 21:58:23] UL47 HSV1: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 22:01:01] UL47 HSV1: numerical underflow, retrying with -safe
+[2026-11-19 22:03:55] UL47 HSV1: OK n=127 len=2079 model=K3Pu+F+R3 332.1s
+[2026-11-19 22:03:55] UL48 HSV1: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 22:13:48] UL48 HSV1: OK n=116 len=1470 model=K3Pu+F+R3 593.0s
+[2026-11-19 22:13:48] UL49A HSV1: tree cached, skipped
+[2026-11-19 22:13:48] UL49 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] UL53 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] UL54 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] US4 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] US6 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] US7 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] US8 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] RL2 HSV2: tree cached, skipped
+[2026-11-19 22:13:48] RS1 HSV2: tree cached, skipped
+[2026-11-19 22:13:48] UL10 HSV2: tree cached, skipped
+[2026-11-19 22:13:48] UL1 HSV2: tree cached, skipped
+[2026-11-19 22:13:48] UL22 HSV2: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 22:21:12] UL22 HSV2: OK n=128 len=2514 model=HKY+F+R3 443.2s
+[2026-11-19 22:21:12] UL23 HSV2: tree cached, skipped
+[2026-11-19 22:21:12] UL27 HSV2: tree cached, skipped
+[2026-11-19 22:21:12] UL30 HSV2: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 22:23:04] UL30 HSV2: numerical underflow, retrying with -safe
+[2026-11-19 22:41:41] UL30 HSV2: OK n=145 len=3720 model=HKY+F+R3 1229.8s
+[2026-11-19 22:41:41] UL44 HSV2: tree cached, skipped
+[2026-11-19 22:41:41] UL46 HSV2: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 22:52:12] UL46 HSV2: numerical underflow, retrying with -safe
+[2026-11-19 23:04:59] UL46 HSV2: OK n=116 len=2163 model=HKY+F+R3 1397.7s
+[2026-11-19 23:04:59] UL47 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] UL48 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] UL49A HSV2: tree cached, skipped
+[2026-11-19 23:04:59] UL49 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] UL53 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] UL54 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] US4 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] US6 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] US7 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] US8 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\tree_summary_v2.tsv: 40/40 trees available

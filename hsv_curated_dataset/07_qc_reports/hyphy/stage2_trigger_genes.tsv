@@ -1,0 +1,66 @@
+gene	cohort	tier	trigger_reason	fubar_sites	absrel_branches	busted_p
+US6	HSV1	tier_a	FUBAR_sites=2; BUSTED_p=0.0111	2	0	0.0111
+US6	HSV2	tier_a	FUBAR_sites=1	1	0	0.5
+US6	combined	tier_a	FUBAR_sites=1; BUSTED_p=0.0237	1	0	0.0237
+UL27	HSV1	tier_a	FUBAR_sites=2; aBSREL_branches=2	2	2	0.1527
+UL27	HSV2	tier_a	FUBAR_sites=8; aBSREL_branches=2; BUSTED_p=0.0238	8	2	0.0238
+UL27	combined	tier_a	FUBAR_sites=9; aBSREL_branches=15; BUSTED_p=0.0	9	15	0.0
+UL44	HSV1	tier_a	FUBAR_sites=6; aBSREL_branches=2	6	2	0.1094
+UL44	HSV2	tier_a	FUBAR_sites=5; aBSREL_branches=4	5	4	0.287
+UL44	combined	tier_a	FUBAR_sites=8; aBSREL_branches=3	8	3	0.5
+UL22	HSV1	tier_a	FUBAR_sites=4; aBSREL_branches=4; BUSTED_p=0.0	4	4	0.0
+UL22	HSV2	tier_a	FUBAR_sites=5; aBSREL_branches=1; BUSTED_p=0.0025	5	1	0.0025
+UL22	combined	tier_a	FUBAR_sites=7; aBSREL_branches=10; BUSTED_p=0.0	7	10	0.0
+UL1	HSV1	tier_a	FUBAR_sites=7	7	0	0.5
+UL1	HSV2	tier_a	FUBAR_sites=2	2	0	0.3886
+UL1	combined	tier_a	FUBAR_sites=11	11	0	0.409
+UL53	HSV1	tier_a	FUBAR_sites=1; BUSTED_p=0.0462	1	0	0.0462
+UL53	HSV2	tier_a	FUBAR_sites=7	7	0	0.5
+UL53	combined	tier_a	FUBAR_sites=4	4	0	0.3311
+UL10	HSV1	tier_a	FUBAR_sites=3; aBSREL_branches=1; BUSTED_p=0.0047	3	1	0.0047
+UL10	HSV2	tier_a	FUBAR_sites=1	1	0	0.1909
+UL10	combined	tier_a	FUBAR_sites=3; aBSREL_branches=1; BUSTED_p=0.0001	3	1	0.0001
+UL49A	HSV1	tier_a	aBSREL_branches=1; BUSTED_p=0.035	0	1	0.035
+UL49A	combined	tier_a	aBSREL_branches=1; BUSTED_p=0.0034	0	1	0.0034
+UL54	HSV1	tier_a	FUBAR_sites=1; aBSREL_branches=2	1	2	0.0736
+UL54	HSV2	tier_a	FUBAR_sites=1	1	0	0.1882
+UL54	combined	tier_a	aBSREL_branches=2; BUSTED_p=0.002	0	2	0.002
+UL48	HSV1	tier_a	FUBAR_sites=3; aBSREL_branches=2; BUSTED_p=0.0	3	2	0.0
+UL48	HSV2	tier_a	FUBAR_sites=1	1	0	0.5
+UL48	combined	tier_a	FUBAR_sites=5; aBSREL_branches=2; BUSTED_p=0.0	5	2	0.0
+UL47	HSV1	tier_a	FUBAR_sites=3; aBSREL_branches=1; BUSTED_p=0.0089	3	1	0.0089
+UL47	HSV2	tier_a	FUBAR_sites=5	5	0	0.5
+UL47	combined	tier_a	FUBAR_sites=4; aBSREL_branches=1; BUSTED_p=0.0	4	1	0.0
+UL23	HSV1	tier_a	FUBAR_sites=9	9	0	0.5
+UL23	HSV2	tier_a	FUBAR_sites=5	5	0	0.5
+UL23	combined	tier_a	FUBAR_sites=11	11	0	0.2753
+UL30	HSV1	tier_a	FUBAR_sites=7; aBSREL_branches=4; BUSTED_p=0.0033	7	4	0.0033
+UL30	HSV2	tier_a	FUBAR_sites=3; aBSREL_branches=20; BUSTED_p=0.0	3	20	0.0
+UL30	combined	tier_a	FUBAR_sites=4; aBSREL_branches=22; BUSTED_p=0.0	4	22	0.0
+RL2	HSV1	tier_b	FUBAR_sites=4; aBSREL_branches=42; BUSTED_p=0.0	4	42	0.0
+RL2	HSV1	tier_b	FUBAR_sites=16; aBSREL_branches=5; BUSTED_p=0.0	16	5	0.0
+RL2	HSV2	tier_b	FUBAR_sites=2; aBSREL_branches=15; BUSTED_p=0.0	2	15	0.0
+RL2	HSV2	tier_b	FUBAR_sites=7; aBSREL_branches=5; BUSTED_p=0.0041	7	5	0.0041
+RL2	combined	tier_b	FUBAR_sites=6; aBSREL_branches=61; BUSTED_p=0.0	6	61	0.0
+RL2	combined	tier_b	FUBAR_sites=9; aBSREL_branches=55; BUSTED_p=0.0	9	55	0.0
+RS1	HSV1	tier_b	FUBAR_sites=13; aBSREL_branches=91; BUSTED_p=0.0	13	91	0.0
+RS1	HSV1	tier_b	FUBAR_sites=14; aBSREL_branches=11	14	11	0.5
+RS1	HSV2	tier_b	FUBAR_sites=24; aBSREL_branches=43; BUSTED_p=0.0	24	43	0.0
+RS1	HSV2	tier_b	FUBAR_sites=4; aBSREL_branches=1	4	1	0.5
+RS1	combined	tier_b	FUBAR_sites=40; aBSREL_branches=117; BUSTED_p=0.0	40	117	0.0
+RS1	combined	tier_b	FUBAR_sites=21; aBSREL_branches=99; BUSTED_p=0.0	21	99	0.0
+US4	HSV1	tier_c	FUBAR_sites=3; aBSREL_branches=6; BUSTED_p=0.0	3	6	0.0
+US4	HSV2	tier_c	FUBAR_sites=6; aBSREL_branches=3; BUSTED_p=0.0	6	3	0.0
+US4	combined	tier_c	FUBAR_sites=8; aBSREL_branches=10; BUSTED_p=0.0	8	10	0.0
+US7	HSV1	tier_c	FUBAR_sites=9; aBSREL_branches=19; BUSTED_p=0.0	9	19	0.0
+US7	HSV2	tier_c	FUBAR_sites=3; aBSREL_branches=1	3	1	0.2461
+US7	combined	tier_c	FUBAR_sites=5; aBSREL_branches=24	5	24	0.5
+US8	HSV1	tier_c	FUBAR_sites=4; aBSREL_branches=5; BUSTED_p=0.0	4	5	0.0
+US8	HSV2	tier_c	FUBAR_sites=2; aBSREL_branches=6; BUSTED_p=0.0	2	6	0.0
+US8	combined	tier_c	FUBAR_sites=3; aBSREL_branches=46; BUSTED_p=0.0	3	46	0.0
+UL49	HSV1	tier_c	FUBAR_sites=1; aBSREL_branches=16; BUSTED_p=0.0	1	16	0.0
+UL49	HSV2	tier_c	FUBAR_sites=2; aBSREL_branches=4	2	4	0.5
+UL49	combined	tier_c	FUBAR_sites=2; aBSREL_branches=45	2	45	0.5
+UL46	HSV1	tier_c	FUBAR_sites=4; aBSREL_branches=5; BUSTED_p=0.0	4	5	0.0
+UL46	HSV2	tier_c	FUBAR_sites=1; aBSREL_branches=4	1	4	0.5
+UL46	combined	tier_c	FUBAR_sites=4; aBSREL_branches=14; BUSTED_p=0.0	4	14	0.0

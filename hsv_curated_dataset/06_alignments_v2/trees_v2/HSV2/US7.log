@@ -1,0 +1,969 @@
+IQ-TREE multicore version 2.4.0 for Windows 64-bit built Feb  7 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    YUYUTSU (AVX512, FMA3, 15 GB RAM)
+Command: C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\bin\iqtree\iqtree-2.4.0-Windows\bin\iqtree2.exe -s C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\hyphy_ready\HSV2\US7.fasta -m MFP -B 1000 --keep-ident -T 4 --prefix C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7 --quiet -redo
+Seed:    470179 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Nov 19 03:29:14 2026
+Kernel:  AVX+FMA - 4 threads (16 CPU cores detected)
+
+Reading alignment file C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\hyphy_ready\HSV2\US7.fasta ... Fasta format detected
+Reading fasta file: done in 0.0016189 secs
+Alignment most likely contains DNA/RNA sequences
+Alignment has 89 sequences with 1116 columns, 95 distinct patterns
+33 parsimony-informative, 57 singleton sites, 1026 constant sites
+       Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 2.67e-005 secs
+   1  S0001    0.00%    passed     99.97%
+   2  S0002    0.00%    passed     99.91%
+   3  S0003    0.00%    passed    100.00%
+   4  S0004    0.00%    passed     99.96%
+   5  S0005    0.00%    passed    100.00%
+   6  S0006    0.00%    passed     99.79%
+   7  S0007    0.00%    passed     99.99%
+   8  S0008    0.00%    passed    100.00%
+   9  S0009    0.00%    passed     99.85%
+  10  S0010    0.00%    passed     99.91%
+  11  S0011    0.00%    passed     99.89%
+  12  S0012    0.00%    passed     99.99%
+  13  S0013    0.00%    passed     99.40%
+  14  S0014    0.00%    passed     99.89%
+  15  S0015    0.00%    passed     99.97%
+  16  S0016    0.00%    passed    100.00%
+  17  S0017    0.00%    passed     99.97%
+  18  S0018    0.00%    passed     99.97%
+  19  S0019    0.00%    passed     99.97%
+  20  S0020    0.00%    passed    100.00%
+  21  S0021    0.00%    passed     99.74%
+  22  S0022    0.54%    passed     99.91%
+  23  S0023    0.00%    passed     99.74%
+  24  S0024    0.00%    passed    100.00%
+  25  S0025    0.00%    passed     99.97%
+  26  S0026    0.00%    passed     99.96%
+  27  S0027    0.00%    passed     99.97%
+  28  S0028    0.00%    passed     99.99%
+  29  S0029    0.00%    passed     99.96%
+  30  S0030    0.00%    passed     99.86%
+  31  S0031    0.00%    passed     99.97%
+  32  S0032    0.00%    passed     99.99%
+  33  S0033    0.00%    passed     99.96%
+  34  S0034    0.00%    passed     99.99%
+  35  S0035    0.00%    passed     99.89%
+  36  S0036    0.00%    passed     99.97%
+  37  S0037    0.00%    passed     99.97%
+  38  S0038    0.00%    passed     99.96%
+  39  S0039    0.00%    passed     99.96%
+  40  S0040    0.54%    passed     99.98%
+  41  S0041    0.00%    passed     99.96%
+  42  S0042    0.00%    passed     99.89%
+  43  S0043    0.00%    passed     99.96%
+  44  S0044    0.00%    passed     99.97%
+  45  S0045    0.00%    passed     99.86%
+  46  S0046    0.00%    passed     99.96%
+  47  S0047    0.00%    passed     99.83%
+  48  S0048    0.00%    passed     99.99%
+  49  S0049    0.00%    passed     99.58%
+  50  S0050    0.00%    passed    100.00%
+  51  S0051    0.00%    passed     99.96%
+  52  S0052    0.00%    passed     99.94%
+  53  S0053    0.00%    passed     99.99%
+  54  S0054    0.00%    passed     99.91%
+  55  S0055    0.00%    passed     99.96%
+  56  S0056    0.00%    passed     99.71%
+  57  S0057    0.00%    passed    100.00%
+  58  S0058    0.00%    passed     99.91%
+  59  S0059    0.36%    passed     99.99%
+  60  S0060    0.00%    passed    100.00%
+  61  S0061    0.00%    passed     99.91%
+  62  S0062    0.00%    passed     99.91%
+  63  S0063    0.09%    passed     99.97%
+  64  S0064    0.00%    passed     99.97%
+  65  S0065    0.54%    passed     99.87%
+  66  S0066    0.00%    passed     99.89%
+  67  S0067    0.00%    passed     99.94%
+  68  S0068    0.00%    passed    100.00%
+  69  S0069    0.00%    passed     99.99%
+  70  S0070    0.00%    passed    100.00%
+  71  S0071    0.00%    passed     99.99%
+  72  S0072    0.00%    passed     99.97%
+  73  S0073    0.00%    passed     99.97%
+  74  S0074    0.00%    passed     99.99%
+  75  S0075    0.00%    passed     99.99%
+  76  S0076    0.00%    passed     99.97%
+  77  S0077    0.00%    passed     99.97%
+  78  S0078    0.00%    passed     99.99%
+  79  S0079    0.00%    passed     99.99%
+  80  S0080    0.00%    passed     99.96%
+  81  S0081    0.00%    passed     99.91%
+  82  S0082    0.00%    passed    100.00%
+  83  S0083    0.00%    passed     99.97%
+  84  S0084    0.00%    passed     99.96%
+  85  S0085    0.00%    passed     99.99%
+  86  S0086    0.00%    passed     99.85%
+  87  S0087    0.00%    passed    100.00%
+  88  S0088    0.00%    passed     99.89%
+  89  S0089    0.00%    passed     99.91%
+****  TOTAL    0.02%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.002 seconds
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -2430.047
+Optimal log-likelihood: -2430.041
+Rate parameters:  A-C: 0.95413  A-G: 2.63857  A-T: 0.16015  C-G: 0.40927  C-T: 2.86220  G-T: 1.00000
+Base frequencies:  A: 0.153  C: 0.383  G: 0.291  T: 0.172
+Proportion of invariable sites: 0.462
+Gamma shape alpha: 0.266
+Parameters optimization took 1 rounds (0.008 sec)
+Time for fast ML tree search: 0.051 seconds
+
+NOTE: ModelFinder requires 3 MB RAM!
+ModelFinder will test up to 484 DNA models (sample size: 1116 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  1  GTR+F         2459.813     183 5285.626     5357.883     6203.829
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  2  GTR+F+I       2431.219     184 5230.439     5303.564     6153.660
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  3  GTR+F+G4      2432.991     184 5233.982     5307.107     6157.203
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  4  GTR+F+I+G4    2430.041     185 5230.081     5304.081     6158.320
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+  5  GTR+F+R2      2431.321     185 5232.642     5306.642     6160.881
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+Pattern 59 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 59 likelihood is underflown
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+  6  GTR+F+R3      2426.632     187 5227.263     5303.031     6165.537
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 82 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 30 likelihood is underflown
+ 14  GTR+F+I+R2    2431.381     186 5234.762     5309.642     6168.018
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 15  GTR+F+I+R3    2429.663     188 5235.326     5311.986     6178.617
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 24  SYM+I         2503.352     181 5368.703     5439.243     6276.872
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 25  SYM+G4        2504.674     181 5371.347     5441.887     6279.516
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 26  SYM+I+G4      2502.205     182 5368.410     5439.806     6281.596
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 27  SYM+R2        2503.376     182 5370.752     5442.148     6283.938
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 46  TVM+F+I       2431.277     183 5228.555     5300.812     6146.758
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 47  TVM+F+G4      2433.015     183 5232.029     5304.287     6150.233
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 48  TVM+F+I+G4    2430.074     184 5228.149     5301.274     6151.370
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 49  TVM+F+R2      2431.333     184 5230.666     5303.791     6153.887
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 68  TVMe+I        2503.705     180 5367.410     5437.099     6270.561
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 69  TVMe+G4       2504.989     180 5369.978     5439.668     6273.129
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 70  TVMe+I+G4     2502.554     181 5367.107     5437.647     6275.276
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 71  TVMe+R2       2503.707     181 5369.415     5439.954     6277.583
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 90  TIM3+F+I      2436.040     182 5236.081     5307.476     6149.267
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 91  TIM3+F+G4     2437.801     182 5239.601     5310.997     6152.787
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 92  TIM3+F+I+G4   2434.862     183 5235.725     5307.982     6153.928
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 93  TIM3+F+R2     2436.069     183 5238.138     5310.395     6156.341
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+112  TIM3e+I       2507.669     179 5373.338     5442.184     6271.471
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+113  TIM3e+G4      2508.965     179 5375.930     5444.776     6274.064
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+114  TIM3e+I+G4    2506.506     180 5373.011     5442.701     6276.163
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+115  TIM3e+R2      2507.666     180 5375.332     5445.022     6278.483
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+134  TIM2+F+I      2435.967     182 5235.934     5307.330     6149.120
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+135  TIM2+F+G4     2437.668     182 5239.337     5310.732     6152.523
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+136  TIM2+F+I+G4   2434.764     183 5235.528     5307.786     6153.732
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+137  TIM2+F+R2     2435.977     183 5237.955     5310.212     6156.158
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+156  TIM2e+I       2507.894     179 5373.788     5442.634     6271.921
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+157  TIM2e+G4      2509.244     179 5376.488     5445.334     6274.622
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+158  TIM2e+I+G4    2506.743     180 5373.485     5443.175     6276.636
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+159  TIM2e+R2      2507.895     180 5375.789     5445.479     6278.940
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+178  TIM+F+I       2431.741     182 5227.481     5298.877     6140.668
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+179  TIM+F+G4      2433.547     182 5231.095     5302.490     6144.281
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+180  TIM+F+I+G4    2430.500     183 5227.001     5299.258     6145.204
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+181  TIM+F+R2      2431.750     183 5229.500     5301.758     6147.704
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+200  TIMe+I        2505.916     179 5369.831     5438.678     6267.965
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+201  TIMe+G4       2507.269     179 5372.537     5441.383     6270.671
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+202  TIMe+I+G4     2504.739     180 5369.479     5439.169     6272.630
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+203  TIMe+R2       2505.917     180 5371.834     5441.524     6274.985
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+222  TPM3u+F+I     2436.099     181 5234.197     5304.737     6142.366
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+223  TPM3u+F+G4    2437.829     181 5237.658     5308.197     6145.826
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+224  TPM3u+F+I+G4  2434.889     182 5233.778     5305.173     6146.964
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+225  TPM3u+F+R2    2436.102     182 5236.205     5307.600     6149.391
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+244  TPM3+I        2508.034     178 5372.068     5440.077     6265.184
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+245  TPM3+G4       2509.290     178 5374.580     5442.588     6267.696
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+246  TPM3+I+G4     2506.855     179 5371.709     5440.555     6269.843
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+247  TPM3+R2       2508.041     179 5374.082     5442.928     6272.216
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+266  TPM2u+F+I     2436.018     181 5234.036     5304.576     6142.205
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+267  TPM2u+F+G4    2437.692     181 5237.384     5307.924     6145.553
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+268  TPM2u+F+I+G4  2434.781     182 5233.563     5304.958     6146.749
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+269  TPM2u+F+R2    2436.019     182 5236.039     5307.434     6149.225
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+288  TPM2+I        2508.232     178 5372.464     5440.473     6265.580
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+289  TPM2+G4       2509.544     178 5375.088     5443.096     6268.204
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+290  TPM2+I+G4     2507.059     179 5372.117     5440.963     6270.251
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+291  TPM2+R2       2508.236     179 5374.472     5443.318     6272.605
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+310  K3Pu+F+I      2431.796     181 5225.592     5296.131     6133.760
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+311  K3Pu+F+G4     2433.570     181 5229.141     5299.680     6137.309
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+312  K3Pu+F+I+G4   2430.521     182 5225.042     5296.437     6138.228
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+313  K3Pu+F+R2     2431.799     182 5227.599     5298.994     6140.785
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+332  K3P+I         2506.265     178 5368.529     5436.538     6261.645
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+333  K3P+G4        2507.576     178 5371.152     5439.160     6264.268
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+334  K3P+I+G4      2505.067     179 5368.134     5436.980     6266.267
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+335  K3P+R2        2506.270     179 5370.539     5439.385     6268.673
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+354  TN+F+I        2436.201     181 5234.402     5304.942     6142.571
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+355  TN+F+G4       2437.907     181 5237.815     5308.354     6145.983
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+356  TN+F+I+G4     2434.979     182 5233.958     5305.353     6147.144
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+357  TN+F+R2       2436.203     182 5236.406     5307.801     6149.592
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+376  TNe+I         2508.072     178 5372.144     5440.153     6265.260
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+377  TNe+G4        2509.409     178 5374.817     5442.826     6267.933
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+378  TNe+I+G4      2506.878     179 5371.755     5440.601     6269.889
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+379  TNe+R2        2508.076     179 5374.153     5442.999     6272.287
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+398  HKY+F+I       2436.258     180 5232.516     5302.205     6135.667
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+399  HKY+F+G4      2437.932     180 5235.864     5305.554     6139.015
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+400  HKY+F+I+G4    2435.019     181 5232.039     5302.578     6140.207
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+401  HKY+F+R2      2436.258     181 5234.517     5305.056     6142.685
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+420  K2P+I         2508.421     177 5370.843     5438.020     6258.941
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+421  K2P+G4        2509.718     177 5373.436     5440.613     6261.535
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+422  K2P+I+G4      2507.220     178 5370.441     5438.449     6263.557
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+423  K2P+R2        2508.428     178 5372.855     5440.864     6265.971
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+442  F81+F+I       2466.100     179 5290.200     5359.046     6188.333
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+443  F81+F+G4      2467.493     179 5292.986     5361.832     6191.119
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+444  F81+F+I+G4    2464.894     180 5289.788     5359.478     6192.939
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 55 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 94 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 55 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 94 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 55 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 94 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 55 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 94 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 55 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 94 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 55 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 94 likelihood is underflown
+445  F81+F+R2      2466.101     180 5292.202     5361.892     6195.353
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+464  JC+I          2532.811     176 5417.623     5483.974     6300.704
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+465  JC+G4         2534.095     176 5420.191     5486.542     6303.272
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+466  JC+I+G4       2531.618     177 5417.236     5484.413     6305.335
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 11 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 87 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 94 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 11 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 87 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 94 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 11 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 87 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 94 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 11 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 87 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 94 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 11 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 87 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 94 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 4 likelihood is underflown
+Pattern 8 likelihood is underflown
+Pattern 11 likelihood is underflown
+Pattern 12 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 30 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 40 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 49 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 60 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 62 likelihood is underflown
+Pattern 63 likelihood is underflown
+Pattern 64 likelihood is underflown
+Pattern 66 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 72 likelihood is underflown
+Pattern 73 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 75 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 84 likelihood is underflown
+Pattern 87 likelihood is underflown
+Pattern 89 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 94 likelihood is underflown
+467  JC+R2         2532.815     177 5419.631     5486.808     6307.729
+Akaike Information Criterion:           K3Pu+F+I+G4
+Corrected Akaike Information Criterion: K3Pu+F+I
+Bayesian Information Criterion:         K3Pu+F+I
+Best-fit model: K3Pu+F+I chosen according to BIC
+
+All model information printed to C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7.model.gz
+CPU time for ModelFinder: 8.094 seconds (0h:0m:8s)
+Wall-clock time for ModelFinder: 2.389 seconds (0h:0m:2s)
+Generating 1000 samples for ultrafast bootstrap (seed: 470179)...
+
+NOTE: 0 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -2466.106
+2. Current log-likelihood: -2431.832
+Optimal log-likelihood: -2431.797
+Rate parameters:  A-C: 1.00000  A-G: 2.78253  A-T: 0.37360  C-G: 0.37360  C-T: 2.78253  G-T: 1.00000
+Base frequencies:  A: 0.153  C: 0.383  G: 0.291  T: 0.172
+Proportion of invariable sites: 0.820
+Parameters optimization took 2 rounds (0.010 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0033425 secs
+Computing ML distances took 0.003500 sec (of wall-clock time) 0.000000 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.0002393 secs
+Computing RapidNJ tree took 0.000941 sec (of wall-clock time) 0.000000 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -2418.511
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.437 second
+Computing log-likelihood of 98 initial trees ... 0.322 seconds
+Current best score: -2415.177
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -2412.498
+Iteration 10 / LogL: -2416.412 / Time: 0h:0m:3s
+Iteration 20 / LogL: -2417.915 / Time: 0h:0m:4s
+Finish initializing candidate tree set (20)
+Current best tree score: -2412.498 / CPU time: 2.014
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -2414.777 / Time: 0h:0m:5s (0h:0m:7s left)
+Iteration 40 / LogL: -2413.352 / Time: 0h:0m:6s (0h:0m:6s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 42: -2411.753
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 47: -2411.733
+Iteration 50 / LogL: -2412.547 / Time: 0h:0m:7s (0h:0m:10s left)
+Log-likelihood cutoff on original alignment: -2432.812
+Iteration 60 / LogL: -2412.556 / Time: 0h:0m:8s (0h:0m:9s left)
+Iteration 70 / LogL: -2411.763 / Time: 0h:0m:10s (0h:0m:8s left)
+Iteration 80 / LogL: -2411.748 / Time: 0h:0m:11s (0h:0m:7s left)
+Iteration 90 / LogL: -2417.426 / Time: 0h:0m:12s (0h:0m:6s left)
+Iteration 100 / LogL: -2411.757 / Time: 0h:0m:13s (0h:0m:5s left)
+Log-likelihood cutoff on original alignment: -2432.812
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.992
+Iteration 110 / LogL: -2411.757 / Time: 0h:0m:15s (0h:0m:10s left)
+Iteration 120 / LogL: -2411.753 / Time: 0h:0m:16s (0h:0m:9s left)
+Iteration 130 / LogL: -2412.555 / Time: 0h:0m:17s (0h:0m:8s left)
+Iteration 140 / LogL: -2424.004 / Time: 0h:0m:19s (0h:0m:7s left)
+TREE SEARCH COMPLETED AFTER 148 ITERATIONS / Time: 0h:0m:20s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -2411.733
+Optimal log-likelihood: -2411.733
+Rate parameters:  A-C: 1.00000  A-G: 2.75004  A-T: 0.25856  C-G: 0.25856  C-T: 2.75004  G-T: 1.00000
+Base frequencies:  A: 0.153  C: 0.383  G: 0.291  T: 0.172
+Proportion of invariable sites: 0.811
+Parameters optimization took 1 rounds (0.003 sec)
+BEST SCORE FOUND : -2411.733
+Creating bootstrap support values...
+Split supports printed to NEXUS file C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7.splits.nex
+Total tree length: 0.108
+
+Total number of iterations: 148
+CPU time used for tree search: 58.531 sec (0h:0m:58s)
+Wall-clock time used for tree search: 17.864 sec (0h:0m:17s)
+Total CPU time used: 67.906 sec (0h:1m:7s)
+Total wall-clock time used: 20.732 sec (0h:0m:20s)
+
+Computing bootstrap consensus tree...
+Reading input file C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7.splits.nex...
+89 taxa and 2487 splits.
+Consensus tree written to C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7.contree
+Reading input trees file C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7.contree
+Log-likelihood of consensus tree: -2413.361
+
+Analysis results written to: 
+  IQ-TREE report:                C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7.iqtree
+  Maximum-likelihood tree:       C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7.treefile
+  Likelihood distances:          C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7.splits.nex
+  Consensus tree:                C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7.contree
+  Screen log file:               C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV2\US7.log
+
+Date and Time: Thu Nov 19 03:29:35 2026

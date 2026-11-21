@@ -1,0 +1,3 @@
+epitope_set	n_peptides	n_alleles	populations_total	populations_fully_typed	world_upper_bound	world_conservative	mean_upper_bound	mean_conservative	median_conservative	min_conservative	max_conservative	pct_fully_typed_pops_above_90
+classii_binders_weak_or_better	9613	27	274	64	100.0	99.64	99.98	98.87	99.63	90.75	100.0	100.0
+classii_strong_binders	3147	27	274	64	100.0	99.64	99.98	98.87	99.63	90.75	100.0	100.0

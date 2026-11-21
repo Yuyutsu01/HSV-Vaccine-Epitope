@@ -1,0 +1,35 @@
+# HSV-1 / HSV-2 conservation, selection and vaccine-epitope pipeline
+# Python 3.11. Pinned to the versions the corrected pipeline was run with on 2026-11-19.
+#
+# External tools NOT installable from pip:
+#   IQ-TREE 2.4.0        bundled in hsv_curated_dataset/bin/iqtree/
+#   HyPhy 2.5.103 (MP)   via Docker image hyphy/hyphy (Docker Desktop must be running)
+#   NCBI datasets CLI    bundled in hsv_curated_dataset/bin/
+#
+# Licence-gated and not yet run (DTU HealthTech academic registration required):
+#   NetMHCIIpan-4.x  (CD4 class II)
+#   BepiPred-3.0     (B-cell linear)
+#   DiscoTope-3      (B-cell conformational)
+
+biopython==1.85
+pandas==2.3.3
+numpy==2.3.4
+scipy==1.16.3
+statsmodels==0.15.0
+scikit-learn==1.7.2
+matplotlib==3.10.7
+
+# Codon-aware multiple sequence alignment (replaces the pairwise star alignment in step09).
+# FAMSA: Deorowicz, Debudaj-Grabysz & Gudys, Sci Rep 6:33964 (2016).
+pyfamsa==0.7.0
+
+# HLA class I binding prediction, used as an instrument (nothing is trained).
+# MHCflurry: O'Donnell et al., Cell Syst 11:42 (2020).
+# After install: mhcflurry-downloads fetch models_class1_presentation
+mhcflurry==2.3.30
+
+# Workflow engine for the Snakefile at the repository root. Optional: every stage is
+# a standalone script and the README lists them in dependency order. The Snakefile's
+# rule graph and script paths have been checked, but it has NOT been dry-run here,
+# because snakemake is not installed in the environment the pipeline was run in.
+# snakemake==8.25.5

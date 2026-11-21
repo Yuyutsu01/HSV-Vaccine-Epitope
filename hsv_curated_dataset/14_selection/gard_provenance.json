@@ -1,0 +1,8 @@
+{
+  "image": "hyphy/hyphy:latest",
+  "version": "HYPHY 2.5.103(MP) for Linux on x86_64 x86 AVX SIMD with FMA3 zlib (v1.3)",
+  "image_id": "sha256:dde6dfda496330d72d4df626f92a006f8b85bab7bf365770aee6427ff5e9c03a",
+  "cpus": "4",
+  "pipeline": "v2-per-type-corrected",
+  "recorded_at": "2026-11-20T19:39:55"
+}

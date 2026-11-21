@@ -1,0 +1,74 @@
+[2026-11-11 22:29:25] ======================================================================
+[2026-11-11 22:29:25] STARTING HYPHY GARD RECOMBINATION SCREENING (10 top genes)
+[2026-11-11 22:29:25] ======================================================================
+[2026-11-11 22:29:27] ERROR [1/10]: UL27_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:29:29] ERROR [1/10]: US6_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:29:30] ERROR [1/10]: UL22_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:29:32] ERROR [1/10]: UL1_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:29:34] ERROR [1/10]: UL44_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:29:35] ERROR [1/10]: UL10_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:29:37] ERROR [1/10]: UL53_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:29:39] ERROR [1/10]: UL30_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:29:40] ERROR [1/10]: UL47_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:29:42] ERROR [1/10]: UL46_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:29:42] ======================================================================
+[2026-11-11 22:29:42] GARD RECOMBINATION SCREENING COMPLETE: 0/10 finished, 10 errors, 0 cached.
+[2026-11-11 22:29:42] ======================================================================
+[2026-11-11 22:32:22] ======================================================================
+[2026-11-11 22:32:22] STARTING HYPHY GARD RECOMBINATION SCREENING (10 top genes)
+[2026-11-11 22:32:22] ======================================================================
+[2026-11-11 22:34:01] ERROR [1/10]: UL27_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:34:09] ERROR [1/10]: US6_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:34:57] ERROR [1/10]: UL22_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:35:02] ERROR [1/10]: UL1_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:35:24] ERROR [1/10]: UL44_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:35:37] ERROR [1/10]: UL10_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:35:39] ERROR [1/10]: UL53_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:38:03] ERROR [1/10]: UL30_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:38:36] ERROR [1/10]: UL47_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:40:07] ERROR [1/10]: UL46_combined GARD failed (code 1):  Check errors.log for execution error details. 
+[2026-11-11 22:40:07] ======================================================================
+[2026-11-11 22:40:07] GARD RECOMBINATION SCREENING COMPLETE: 0/10 finished, 10 errors, 0 cached.
+[2026-11-11 22:40:07] ======================================================================
+[2026-11-11 22:51:07] ======================================================================
+[2026-11-11 22:51:07] STARTING HYPHY GARD RECOMBINATION SCREENING (10 top genes)
+[2026-11-11 22:51:07] ======================================================================
+[2026-11-13 06:26:12] SUCCESS [1/10]: UL27_combined GARD completed in 113704.7s.
+[2026-11-13 08:30:00] SUCCESS [2/10]: US6_combined GARD completed in 7428.7s.
+[2026-11-14 22:27:28] ======================================================================
+[2026-11-14 22:27:28] STARTING HYPHY GARD RECOMBINATION SCREENING (10 top genes)
+[2026-11-14 22:27:28] ======================================================================
+[2026-11-14 22:27:28] CACHED [1/10]: UL27_combined GARD already exists.
+[2026-11-14 22:27:28] CACHED [2/10]: US6_combined GARD already exists.
+[2026-11-16 02:08:56] ======================================================================
+[2026-11-16 02:08:56] STARTING HYPHY GARD RECOMBINATION SCREENING (10 top genes)
+[2026-11-16 02:08:56] ======================================================================
+[2026-11-16 02:08:56] CACHED [1/10]: UL27_combined GARD already exists.
+[2026-11-16 02:08:56] CACHED [2/10]: US6_combined GARD already exists.
+[2026-11-16 02:08:56] CACHED [3/10]: UL22_combined GARD already exists.
+[2026-11-16 14:32:14] ======================================================================
+[2026-11-16 14:32:14] STARTING HYPHY GARD RECOMBINATION SCREENING (10 top genes)
+[2026-11-16 14:32:14] ======================================================================
+[2026-11-16 14:32:14] CACHED [1/10]: UL27_combined GARD already exists.
+[2026-11-16 14:32:14] CACHED [2/10]: US6_combined GARD already exists.
+[2026-11-16 14:32:14] CACHED [3/10]: UL22_combined GARD already exists.
+[2026-11-16 15:16:49] SUCCESS [4/10]: UL1_combined GARD completed in 2675.0s.
+[2026-11-17 05:03:22] SUCCESS [5/10]: UL44_combined GARD completed in 49593.4s.
+[2026-11-17 07:18:06] SUCCESS [6/10]: UL10_combined GARD completed in 8083.4s.
+[2026-11-17 07:57:27] SUCCESS [7/10]: UL53_combined GARD completed in 2361.0s.
+[2026-11-17 22:38:53] ======================================================================
+[2026-11-17 22:38:53] STARTING HYPHY GARD RECOMBINATION SCREENING (10 top genes)
+[2026-11-17 22:38:53] ======================================================================
+[2026-11-17 22:38:53] CACHED [1/10]: UL27_combined GARD already exists.
+[2026-11-17 22:38:53] CACHED [2/10]: US6_combined GARD already exists.
+[2026-11-17 22:38:53] CACHED [3/10]: UL22_combined GARD already exists.
+[2026-11-17 22:38:53] CACHED [4/10]: UL1_combined GARD already exists.
+[2026-11-17 22:38:53] CACHED [5/10]: UL44_combined GARD already exists.
+[2026-11-17 22:38:53] CACHED [6/10]: UL10_combined GARD already exists.
+[2026-11-17 22:38:53] CACHED [7/10]: UL53_combined GARD already exists.
+[2026-11-17 22:38:53] CACHED [8/10]: UL30_combined GARD already exists.
+[2026-11-18 14:39:41] SUCCESS [9/10]: UL47_combined GARD completed in 57647.6s.
+[2026-11-18 16:48:13] SUCCESS [10/10]: UL46_combined GARD completed in 7688.0s.
+======================================================================
+[2026-11-18 16:48:13] GARD RECOMBINATION SCREENING COMPLETE: 10/10 finished, 0 errors, 8 cached.
+======================================================================

@@ -1,0 +1,329 @@
+[2026-11-21 01:51:09] STEP 29: NetMHCIIpan-4.3 class II predictions -> pipeline coordinates
+[2026-11-21 01:51:09] input files: 1
+[2026-11-21 01:51:09] 
+[2026-11-21 01:51:09] --- synthetic_netmhciipan_ok.xls
+[2026-11-21 01:51:09]     data_rows: 380
+[2026-11-21 01:51:09]     n_alleles: 3
+[2026-11-21 01:51:09]     lead_columns: ['Pos', 'Peptide', 'ID', 'Target', 'Core']
+[2026-11-21 01:51:09]     block_columns: ['affinity', 'rank_ba', 'rank_el', 'score_ba', 'score_el']
+[2026-11-21 01:51:09]     alleles: ['DRB1_0101', 'DRB1_1501', 'HLA-DQA10501-DQB10201']
+[2026-11-21 01:51:09]     normalised:
+[2026-11-21 01:51:09]         DRB1_0101                    -> HLA-DRB1*01:01
+[2026-11-21 01:51:09]         DRB1_1501                    -> HLA-DRB1*15:01
+[2026-11-21 01:51:09]         HLA-DQA10501-DQB10201        -> HLA-DQA1*05:01/DQB1*02:01
+[2026-11-21 01:51:09]     parsed rows: 1140
+[2026-11-21 01:51:09] 
+[2026-11-21 01:51:09] --inspect: nothing written. Re-run without --inspect to produce the tables.
+[2026-11-21 01:51:25] STEP 29: NetMHCIIpan-4.3 class II predictions -> pipeline coordinates
+[2026-11-21 01:51:25] input files: 1
+[2026-11-21 01:51:25] 
+[2026-11-21 01:51:25] --- synthetic_netmhciipan_bad.xls
+[2026-11-21 01:51:25]     data_rows: 380
+[2026-11-21 01:51:25]     n_alleles: 3
+[2026-11-21 01:51:25]     lead_columns: ['Pos', 'Peptide', 'ID', 'Target', 'Core']
+[2026-11-21 01:51:25]     block_columns: ['affinity', 'rank_ba', 'rank_el', 'score_ba', 'score_el']
+[2026-11-21 01:51:25]     alleles: ['DRB1_0101', 'DRB1_1501', 'HLA-DQA10501-DQB10201']
+[2026-11-21 01:51:25]     normalised:
+[2026-11-21 01:51:25]         DRB1_0101                    -> HLA-DRB1*01:01
+[2026-11-21 01:51:25]         DRB1_1501                    -> HLA-DRB1*15:01
+[2026-11-21 01:51:25]         HLA-DQA10501-DQB10201        -> HLA-DQA1*05:01/DQB1*02:01
+[2026-11-21 01:51:25]     parsed rows: 1140
+[2026-11-21 01:51:25] 
+[2026-11-21 01:51:25] combined rows: 1140
+[2026-11-21 01:51:25] ABORT: 3 peptide(s) do not occur in the reference protein at the reported position. The coordinates are wrong and nothing was written.
+[2026-11-21 01:51:25]     HSV1 US6 pos 50: ADQLTDPPGVRRVYH != LDQLTDPPGVRRVYH
+[2026-11-21 01:51:25]     HSV1 US6 pos 50: ADQLTDPPGVRRVYH != LDQLTDPPGVRRVYH
+[2026-11-21 01:51:25]     HSV1 US6 pos 50: ADQLTDPPGVRRVYH != LDQLTDPPGVRRVYH
+[2026-11-21 01:51:26] STEP 29: NetMHCIIpan-4.3 class II predictions -> pipeline coordinates
+[2026-11-21 01:51:26] input files: 1
+[2026-11-21 01:51:26] 
+[2026-11-21 01:51:26] --- synthetic_netmhciipan_ok.xls
+[2026-11-21 01:51:26]     data_rows: 380
+[2026-11-21 01:51:26]     n_alleles: 3
+[2026-11-21 01:51:26]     lead_columns: ['Pos', 'Peptide', 'ID', 'Target', 'Core']
+[2026-11-21 01:51:26]     block_columns: ['affinity', 'rank_ba', 'rank_el', 'score_ba', 'score_el']
+[2026-11-21 01:51:26]     alleles: ['DRB1_0101', 'DRB1_1501', 'HLA-DQA10501-DQB10201']
+[2026-11-21 01:51:26]     normalised:
+[2026-11-21 01:51:26]         DRB1_0101                    -> HLA-DRB1*01:01
+[2026-11-21 01:51:26]         DRB1_1501                    -> HLA-DRB1*15:01
+[2026-11-21 01:51:26]         HLA-DQA10501-DQB10201        -> HLA-DQA1*05:01/DQB1*02:01
+[2026-11-21 01:51:26]     parsed rows: 1140
+[2026-11-21 01:51:26] 
+[2026-11-21 01:51:26] combined rows: 1140
+[2026-11-21 01:51:27] coordinate check: all 1140 peptides occur at the reported position
+[2026-11-21 01:51:27] wrote classii_predictions.tsv (1140 rows, 3 alleles, 1 proteins)
+[2026-11-21 01:51:27] wrote classii_binders_by_allele.tsv (107 rows at %Rank_EL <= 10.0)
+[2026-11-21 01:51:27] 
+[2026-11-21 01:51:27] binder levels (strong <= 2.0%, weak <= 10.0%):
+[2026-11-21 01:51:27]     non_binder       1033  (90.6%)
+[2026-11-21 01:51:27]     weak               87  (7.6%)
+[2026-11-21 01:51:27]     strong             20  (1.8%)
+[2026-11-21 01:51:27] 
+[2026-11-21 01:51:27] strong binders per allele:
+[2026-11-21 01:51:27]     HLA-DQA1*05:01/DQB1*02:01               5
+[2026-11-21 01:51:27]     HLA-DRB1*01:01                          6
+[2026-11-21 01:51:27]     HLA-DRB1*15:01                          9
+[2026-11-21 01:51:27] 
+[2026-11-21 01:51:27] Scope note: these are predicted class II binders on the reference proteins. No class II predictor is benchmarked in this study, and %Rank thresholds for class II are looser than class I by convention, so the continuous rank is what should be used downstream.
+[2026-11-21 01:51:42] STEP 29: NetMHCIIpan-4.3 class II predictions -> pipeline coordinates
+[2026-11-21 01:51:42] input files: 1
+[2026-11-21 01:51:42] 
+[2026-11-21 01:51:42] --- synthetic_netmhciipan_bad.xls
+[2026-11-21 01:51:42]     data_rows: 380
+[2026-11-21 01:51:42]     n_alleles: 3
+[2026-11-21 01:51:42]     lead_columns: ['Pos', 'Peptide', 'ID', 'Target', 'Core']
+[2026-11-21 01:51:42]     block_columns: ['affinity', 'rank_ba', 'rank_el', 'score_ba', 'score_el']
+[2026-11-21 01:51:42]     alleles: ['DRB1_0101', 'DRB1_1501', 'HLA-DQA10501-DQB10201']
+[2026-11-21 01:51:42]     normalised:
+[2026-11-21 01:51:42]         DRB1_0101                    -> HLA-DRB1*01:01
+[2026-11-21 01:51:42]         DRB1_1501                    -> HLA-DRB1*15:01
+[2026-11-21 01:51:42]         HLA-DQA10501-DQB10201        -> HLA-DQA1*05:01/DQB1*02:01
+[2026-11-21 01:51:42]     parsed rows: 1140
+[2026-11-21 01:51:42] 
+[2026-11-21 01:51:42] combined rows: 1140
+[2026-11-21 01:51:42] ABORT: 3 peptide(s) do not occur in the reference protein at the reported position. The coordinates are wrong and nothing was written.
+[2026-11-21 01:51:42]     HSV1 US6 pos 50: ADQLTDPPGVRRVYH != LDQLTDPPGVRRVYH
+[2026-11-21 01:51:42]     HSV1 US6 pos 50: ADQLTDPPGVRRVYH != LDQLTDPPGVRRVYH
+[2026-11-21 01:51:42]     HSV1 US6 pos 50: ADQLTDPPGVRRVYH != LDQLTDPPGVRRVYH
+[2026-11-21 01:51:42] SELF-TEST ONLY: the rows logged above came from a SYNTHETIC file built in the scratchpad to validate the parser. classii_predictions.tsv and classii_binders_by_allele.tsv were deleted immediately. No real NetMHCIIpan output has been processed yet.
+[2026-11-21 17:54:32] STEP 29: NetMHCIIpan-4.3 class II predictions -> pipeline coordinates
+[2026-11-21 17:54:32] input files: 2
+[2026-11-21 17:54:32] 
+[2026-11-21 17:54:32] --- 905068_NetMHCIIpan.xls
+[2026-11-21 17:54:32]     command: /tools/src/netMHCIIpan-4.3/Linux_x86_64/bin/NetMHCIIpan-4.3 -w -f /var/www/webface/tmp/server/netmhcIIpan/6B0187F1000D559A7D47E28D/file.0 -a DRB1_0101,DRB1_1501,HLA-DQA10501-DQB10201,DRB3_0301 -length 15 -xls -rankS 1 -rankW 5 -rankF 10 -inptype 0 -termAcon -BA
+[2026-11-21 17:54:32]     thresholds from the run: strong <= 1.0%, weak <= 5.0%
+[2026-11-21 17:54:32]     data_rows: 380
+[2026-11-21 17:54:32]     n_alleles: 4
+[2026-11-21 17:54:32]     lead_columns: ['Pos', 'Peptide', 'ID', 'Target']
+[2026-11-21 17:54:32]     block_columns: ['ave', 'core', 'inverted', 'nb', 'nm', 'rank_ba', 'rank_el', 'score_ba', 'score_el']
+[2026-11-21 17:54:32]     alleles: ['DRB1_0101', 'DRB1_1501', 'DRB3_0301', 'HLA-DQA10501-DQB10201']
+[2026-11-21 17:54:32]     normalised:
+[2026-11-21 17:54:32]         DRB1_0101                    -> HLA-DRB1*01:01
+[2026-11-21 17:54:32]         DRB1_1501                    -> HLA-DRB1*15:01
+[2026-11-21 17:54:32]         DRB3_0301                    -> HLA-DRB3*03:01
+[2026-11-21 17:54:32]         HLA-DQA10501-DQB10201        -> HLA-DQA1*05:01/DQB1*02:01
+[2026-11-21 17:54:32]     parsed rows: 1520
+[2026-11-21 17:54:35] 
+[2026-11-21 17:54:35] --- 905281_NetMHCIIpan.xls
+[2026-11-21 17:54:35]     command: /tools/src/netMHCIIpan-4.3/Linux_x86_64/bin/NetMHCIIpan-4.3 -w -f /var/www/webface/tmp/server/netmhcIIpan/6B0188CE000D56F622800E4B/file.0 -a DRB1_0101,DRB1_0301,DRB1_0401,DRB1_0405,DRB1_0701,DRB1_0802,DRB1_0901,DRB1_1101,DRB1_1201,DRB1_1302,DRB1_1501,DRB3_0101,DRB3_0202,DRB4_0101,DRB5_0101 -length 15 -xls -rankS 1 -rankW 5 -rankF 10 -inptype 0 -termAcon -BA
+[2026-11-21 17:54:35]     thresholds from the run: strong <= 1.0%, weak <= 5.0%
+[2026-11-21 17:54:35]     data_rows: 22624
+[2026-11-21 17:54:35]     n_alleles: 15
+[2026-11-21 17:54:35]     lead_columns: ['Pos', 'Peptide', 'ID', 'Target']
+[2026-11-21 17:54:35]     block_columns: ['ave', 'core', 'inverted', 'nb', 'nm', 'rank_ba', 'rank_el', 'score_ba', 'score_el']
+[2026-11-21 17:54:35]     alleles: ['DRB1_0101', 'DRB1_0301', 'DRB1_0401', 'DRB1_0405', 'DRB1_0701', 'DRB1_0802', 'DRB1_0901', 'DRB1_1101', 'DRB1_1201', 'DRB1_1302', 'DRB1_1501', 'DRB3_0101', 'DRB3_0202', 'DRB4_0101', 'DRB5_0101']
+[2026-11-21 17:54:35]     normalised:
+[2026-11-21 17:54:35]         DRB1_0101                    -> HLA-DRB1*01:01
+[2026-11-21 17:54:35]         DRB1_0301                    -> HLA-DRB1*03:01
+[2026-11-21 17:54:35]         DRB1_0401                    -> HLA-DRB1*04:01
+[2026-11-21 17:54:35]         DRB1_0405                    -> HLA-DRB1*04:05
+[2026-11-21 17:54:35]         DRB1_0701                    -> HLA-DRB1*07:01
+[2026-11-21 17:54:35]         DRB1_0802                    -> HLA-DRB1*08:02
+[2026-11-21 17:54:35]         DRB1_0901                    -> HLA-DRB1*09:01
+[2026-11-21 17:54:35]         DRB1_1101                    -> HLA-DRB1*11:01
+[2026-11-21 17:54:35]         DRB1_1201                    -> HLA-DRB1*12:01
+[2026-11-21 17:54:35]         DRB1_1302                    -> HLA-DRB1*13:02
+[2026-11-21 17:54:35]         DRB1_1501                    -> HLA-DRB1*15:01
+[2026-11-21 17:54:35]         DRB3_0101                    -> HLA-DRB3*01:01
+[2026-11-21 17:54:35]         DRB3_0202                    -> HLA-DRB3*02:02
+[2026-11-21 17:54:35]         DRB4_0101                    -> HLA-DRB4*01:01
+[2026-11-21 17:54:35]         DRB5_0101                    -> HLA-DRB5*01:01
+[2026-11-21 17:54:35]     parsed rows: 339360
+[2026-11-21 17:54:35] 
+[2026-11-21 17:54:35] --inspect: nothing written. Re-run without --inspect to produce the tables.
+[2026-11-21 18:22:53] STEP 29: NetMHCIIpan-4.3 class II predictions -> pipeline coordinates
+[2026-11-21 18:22:53] input files: 2
+[2026-11-21 18:22:56] 
+[2026-11-21 18:22:56] --- run1_DR_15alleles.xls
+[2026-11-21 18:22:56]     command: /tools/src/netMHCIIpan-4.3/Linux_x86_64/bin/NetMHCIIpan-4.3 -w -f /var/www/webface/tmp/server/netmhcIIpan/6B0188CE000D56F622800E4B/file.0 -a DRB1_0101,DRB1_0301,DRB1_0401,DRB1_0405,DRB1_0701,DRB1_0802,DRB1_0901,DRB1_1101,DRB1_1201,DRB1_1302,DRB1_1501,DRB3_0101,DRB3_0202,DRB4_0101,DRB5_0101 -length 15 -xls -rankS 1 -rankW 5 -rankF 10 -inptype 0 -termAcon -BA
+[2026-11-21 18:22:56]     thresholds from the run: strong <= 1.0%, weak <= 5.0%
+[2026-11-21 18:22:56]     data_rows: 22624
+[2026-11-21 18:22:56]     n_alleles: 15
+[2026-11-21 18:22:56]     lead_columns: ['Pos', 'Peptide', 'ID', 'Target']
+[2026-11-21 18:22:56]     block_columns: ['ave', 'core', 'inverted', 'nb', 'nm', 'rank_ba', 'rank_el', 'score_ba', 'score_el']
+[2026-11-21 18:22:56]     alleles: ['DRB1_0101', 'DRB1_0301', 'DRB1_0401', 'DRB1_0405', 'DRB1_0701', 'DRB1_0802', 'DRB1_0901', 'DRB1_1101', 'DRB1_1201', 'DRB1_1302', 'DRB1_1501', 'DRB3_0101', 'DRB3_0202', 'DRB4_0101', 'DRB5_0101']
+[2026-11-21 18:22:56]     normalised:
+[2026-11-21 18:22:56]         DRB1_0101                    -> HLA-DRB1*01:01
+[2026-11-21 18:22:56]         DRB1_0301                    -> HLA-DRB1*03:01
+[2026-11-21 18:22:56]         DRB1_0401                    -> HLA-DRB1*04:01
+[2026-11-21 18:22:56]         DRB1_0405                    -> HLA-DRB1*04:05
+[2026-11-21 18:22:56]         DRB1_0701                    -> HLA-DRB1*07:01
+[2026-11-21 18:22:56]         DRB1_0802                    -> HLA-DRB1*08:02
+[2026-11-21 18:22:56]         DRB1_0901                    -> HLA-DRB1*09:01
+[2026-11-21 18:22:56]         DRB1_1101                    -> HLA-DRB1*11:01
+[2026-11-21 18:22:56]         DRB1_1201                    -> HLA-DRB1*12:01
+[2026-11-21 18:22:56]         DRB1_1302                    -> HLA-DRB1*13:02
+[2026-11-21 18:22:56]         DRB1_1501                    -> HLA-DRB1*15:01
+[2026-11-21 18:22:56]         DRB3_0101                    -> HLA-DRB3*01:01
+[2026-11-21 18:22:56]         DRB3_0202                    -> HLA-DRB3*02:02
+[2026-11-21 18:22:56]         DRB4_0101                    -> HLA-DRB4*01:01
+[2026-11-21 18:22:56]         DRB5_0101                    -> HLA-DRB5*01:01
+[2026-11-21 18:22:56]     parsed rows: 339360
+[2026-11-21 18:22:59] 
+[2026-11-21 18:22:59] --- run2_DQ_DP_12alleles.xls
+[2026-11-21 18:22:59]     command: /tools/src/netMHCIIpan-4.3/Linux_x86_64/bin/NetMHCIIpan-4.3 -w -f /var/www/webface/tmp/server/netmhcIIpan/6B018E39000D618EA79E31B9/file.0 -a HLA-DQA10501-DQB10201,HLA-DQA10501-DQB10301,HLA-DQA10301-DQB10302,HLA-DQA10401-DQB10402,HLA-DQA10101-DQB10501,HLA-DQA10102-DQB10602,HLA-DPA10201-DPB10101,HLA-DPA10103-DPB10201,HLA-DPA10103-DPB10401,HLA-DPA10301-DPB10402,HLA-DPA10201-DPB10501,HLA-DPA10201-DPB11401 -length 15 -xls -rankS 1 -rankW 5 -rankF 10 -inptype 0 -termAcon -BA
+[2026-11-21 18:22:59]     thresholds from the run: strong <= 1.0%, weak <= 5.0%
+[2026-11-21 18:22:59]     data_rows: 22624
+[2026-11-21 18:22:59]     n_alleles: 12
+[2026-11-21 18:22:59]     lead_columns: ['Pos', 'Peptide', 'ID', 'Target']
+[2026-11-21 18:22:59]     block_columns: ['ave', 'core', 'inverted', 'nb', 'nm', 'rank_ba', 'rank_el', 'score_ba', 'score_el']
+[2026-11-21 18:22:59]     alleles: ['HLA-DPA10103-DPB10201', 'HLA-DPA10103-DPB10401', 'HLA-DPA10201-DPB10101', 'HLA-DPA10201-DPB10501', 'HLA-DPA10201-DPB11401', 'HLA-DPA10301-DPB10402', 'HLA-DQA10101-DQB10501', 'HLA-DQA10102-DQB10602', 'HLA-DQA10301-DQB10302', 'HLA-DQA10401-DQB10402', 'HLA-DQA10501-DQB10201', 'HLA-DQA10501-DQB10301']
+[2026-11-21 18:22:59]     normalised:
+[2026-11-21 18:22:59]         HLA-DPA10103-DPB10201        -> HLA-DPA1*01:03/DPB1*02:01
+[2026-11-21 18:22:59]         HLA-DPA10103-DPB10401        -> HLA-DPA1*01:03/DPB1*04:01
+[2026-11-21 18:22:59]         HLA-DPA10201-DPB10101        -> HLA-DPA1*02:01/DPB1*01:01
+[2026-11-21 18:22:59]         HLA-DPA10201-DPB10501        -> HLA-DPA1*02:01/DPB1*05:01
+[2026-11-21 18:22:59]         HLA-DPA10201-DPB11401        -> HLA-DPA1*02:01/DPB1*14:01
+[2026-11-21 18:22:59]         HLA-DPA10301-DPB10402        -> HLA-DPA1*03:01/DPB1*04:02
+[2026-11-21 18:22:59]         HLA-DQA10101-DQB10501        -> HLA-DQA1*01:01/DQB1*05:01
+[2026-11-21 18:22:59]         HLA-DQA10102-DQB10602        -> HLA-DQA1*01:02/DQB1*06:02
+[2026-11-21 18:22:59]         HLA-DQA10301-DQB10302        -> HLA-DQA1*03:01/DQB1*03:02
+[2026-11-21 18:22:59]         HLA-DQA10401-DQB10402        -> HLA-DQA1*04:01/DQB1*04:02
+[2026-11-21 18:22:59]         HLA-DQA10501-DQB10201        -> HLA-DQA1*05:01/DQB1*02:01
+[2026-11-21 18:22:59]         HLA-DQA10501-DQB10301        -> HLA-DQA1*05:01/DQB1*03:01
+[2026-11-21 18:22:59]     parsed rows: 271488
+[2026-11-21 18:22:59] 
+[2026-11-21 18:22:59] combined rows: 610848
+[2026-11-21 18:23:05] coordinate check: all 610848 peptides occur at the reported position
+[2026-11-21 18:23:07] binder thresholds taken from the run: strong <= 1.0%, weak <= 5.0%
+[2026-11-21 18:23:14] wrote classii_predictions.tsv (610848 rows, 27 alleles, 40 proteins)
+[2026-11-21 18:23:15] wrote classii_binders_by_allele.tsv (25855 rows at %Rank_EL <= 5.0)
+[2026-11-21 18:23:15] 
+[2026-11-21 18:23:15] binder levels (strong <= 1.0%, weak <= 5.0%):
+[2026-11-21 18:23:15]     non_binder     584993  (95.8%)
+[2026-11-21 18:23:15]     weak            20994  (3.4%)
+[2026-11-21 18:23:15]     strong           4861  (0.8%)
+[2026-11-21 18:23:15] 
+[2026-11-21 18:23:15] strong binders per allele:
+[2026-11-21 18:23:15]     HLA-DPA1*01:03/DPB1*02:01             120
+[2026-11-21 18:23:15]     HLA-DPA1*01:03/DPB1*04:01             136
+[2026-11-21 18:23:15]     HLA-DPA1*02:01/DPB1*01:01              65
+[2026-11-21 18:23:15]     HLA-DPA1*02:01/DPB1*05:01              52
+[2026-11-21 18:23:15]     HLA-DPA1*02:01/DPB1*14:01             106
+[2026-11-21 18:23:15]     HLA-DPA1*03:01/DPB1*04:02             113
+[2026-11-21 18:23:15]     HLA-DQA1*01:01/DQB1*05:01             160
+[2026-11-21 18:23:15]     HLA-DQA1*01:02/DQB1*06:02             264
+[2026-11-21 18:23:15]     HLA-DQA1*03:01/DQB1*03:02             344
+[2026-11-21 18:23:15]     HLA-DQA1*04:01/DQB1*04:02             238
+[2026-11-21 18:23:15]     HLA-DQA1*05:01/DQB1*02:01             213
+[2026-11-21 18:23:15]     HLA-DQA1*05:01/DQB1*03:01             620
+[2026-11-21 18:23:15]     HLA-DRB1*01:01                        212
+[2026-11-21 18:23:15]     HLA-DRB1*03:01                        151
+[2026-11-21 18:23:15]     HLA-DRB1*04:01                        197
+[2026-11-21 18:23:15]     HLA-DRB1*04:05                        155
+[2026-11-21 18:23:15]     HLA-DRB1*07:01                        157
+[2026-11-21 18:23:15]     HLA-DRB1*08:02                        150
+[2026-11-21 18:23:15]     HLA-DRB1*09:01                        163
+[2026-11-21 18:23:15]     HLA-DRB1*11:01                        174
+[2026-11-21 18:23:15]     HLA-DRB1*12:01                         92
+[2026-11-21 18:23:15]     HLA-DRB1*13:02                        156
+[2026-11-21 18:23:15]     HLA-DRB1*15:01                        129
+[2026-11-21 18:23:15]     HLA-DRB3*01:01                        185
+[2026-11-21 18:23:15]     HLA-DRB3*02:02                        185
+[2026-11-21 18:23:15]     HLA-DRB4*01:01                        118
+[2026-11-21 18:23:15]     HLA-DRB5*01:01                        206
+[2026-11-21 18:23:15] 
+[2026-11-21 18:23:15] Scope note: these are predicted class II binders on the reference proteins. No class II predictor is benchmarked in this study, and %Rank thresholds for class II are looser than class I by convention, so the continuous rank is what should be used downstream.
+[2026-11-21 18:24:09] STEP 29: NetMHCIIpan-4.3 class II predictions -> pipeline coordinates
+[2026-11-21 18:24:09] input files: 2
+[2026-11-21 18:24:10] 
+[2026-11-21 18:24:10] --- 13_epitopes/classii_raw\run1_DR_15alleles.xls.gz
+[2026-11-21 18:24:10]     ERROR: no header row containing both 'Peptide' and 'Pos' was found
+[2026-11-21 18:24:17] STEP 29: NetMHCIIpan-4.3 class II predictions -> pipeline coordinates
+[2026-11-21 18:24:17] input files: 2
+[2026-11-21 18:24:18] 
+[2026-11-21 18:24:18] --- 13_epitopes/classii_raw\run1_DR_15alleles.xls.gz
+[2026-11-21 18:24:18]     ERROR: no header row containing both 'Peptide' and 'Pos' was found
+[2026-11-21 18:24:50] STEP 29: NetMHCIIpan-4.3 class II predictions -> pipeline coordinates
+[2026-11-21 18:24:50] input files: 2
+[2026-11-21 18:24:54] 
+[2026-11-21 18:24:54] --- run1_DR_15alleles.xls.gz
+[2026-11-21 18:24:54]     command: /tools/src/netMHCIIpan-4.3/Linux_x86_64/bin/NetMHCIIpan-4.3 -w -f /var/www/webface/tmp/server/netmhcIIpan/6B0188CE000D56F622800E4B/file.0 -a DRB1_0101,DRB1_0301,DRB1_0401,DRB1_0405,DRB1_0701,DRB1_0802,DRB1_0901,DRB1_1101,DRB1_1201,DRB1_1302,DRB1_1501,DRB3_0101,DRB3_0202,DRB4_0101,DRB5_0101 -length 15 -xls -rankS 1 -rankW 5 -rankF 10 -inptype 0 -termAcon -BA
+[2026-11-21 18:24:54]     thresholds from the run: strong <= 1.0%, weak <= 5.0%
+[2026-11-21 18:24:54]     data_rows: 22624
+[2026-11-21 18:24:54]     n_alleles: 15
+[2026-11-21 18:24:54]     lead_columns: ['Pos', 'Peptide', 'ID', 'Target']
+[2026-11-21 18:24:54]     block_columns: ['ave', 'core', 'inverted', 'nb', 'nm', 'rank_ba', 'rank_el', 'score_ba', 'score_el']
+[2026-11-21 18:24:54]     alleles: ['DRB1_0101', 'DRB1_0301', 'DRB1_0401', 'DRB1_0405', 'DRB1_0701', 'DRB1_0802', 'DRB1_0901', 'DRB1_1101', 'DRB1_1201', 'DRB1_1302', 'DRB1_1501', 'DRB3_0101', 'DRB3_0202', 'DRB4_0101', 'DRB5_0101']
+[2026-11-21 18:24:54]     normalised:
+[2026-11-21 18:24:54]         DRB1_0101                    -> HLA-DRB1*01:01
+[2026-11-21 18:24:54]         DRB1_0301                    -> HLA-DRB1*03:01
+[2026-11-21 18:24:54]         DRB1_0401                    -> HLA-DRB1*04:01
+[2026-11-21 18:24:54]         DRB1_0405                    -> HLA-DRB1*04:05
+[2026-11-21 18:24:54]         DRB1_0701                    -> HLA-DRB1*07:01
+[2026-11-21 18:24:54]         DRB1_0802                    -> HLA-DRB1*08:02
+[2026-11-21 18:24:54]         DRB1_0901                    -> HLA-DRB1*09:01
+[2026-11-21 18:24:54]         DRB1_1101                    -> HLA-DRB1*11:01
+[2026-11-21 18:24:54]         DRB1_1201                    -> HLA-DRB1*12:01
+[2026-11-21 18:24:54]         DRB1_1302                    -> HLA-DRB1*13:02
+[2026-11-21 18:24:54]         DRB1_1501                    -> HLA-DRB1*15:01
+[2026-11-21 18:24:54]         DRB3_0101                    -> HLA-DRB3*01:01
+[2026-11-21 18:24:54]         DRB3_0202                    -> HLA-DRB3*02:02
+[2026-11-21 18:24:54]         DRB4_0101                    -> HLA-DRB4*01:01
+[2026-11-21 18:24:54]         DRB5_0101                    -> HLA-DRB5*01:01
+[2026-11-21 18:24:54]     parsed rows: 339360
+[2026-11-21 18:24:57] 
+[2026-11-21 18:24:57] --- run2_DQ_DP_12alleles.xls.gz
+[2026-11-21 18:24:57]     command: /tools/src/netMHCIIpan-4.3/Linux_x86_64/bin/NetMHCIIpan-4.3 -w -f /var/www/webface/tmp/server/netmhcIIpan/6B018E39000D618EA79E31B9/file.0 -a HLA-DQA10501-DQB10201,HLA-DQA10501-DQB10301,HLA-DQA10301-DQB10302,HLA-DQA10401-DQB10402,HLA-DQA10101-DQB10501,HLA-DQA10102-DQB10602,HLA-DPA10201-DPB10101,HLA-DPA10103-DPB10201,HLA-DPA10103-DPB10401,HLA-DPA10301-DPB10402,HLA-DPA10201-DPB10501,HLA-DPA10201-DPB11401 -length 15 -xls -rankS 1 -rankW 5 -rankF 10 -inptype 0 -termAcon -BA
+[2026-11-21 18:24:57]     thresholds from the run: strong <= 1.0%, weak <= 5.0%
+[2026-11-21 18:24:57]     data_rows: 22624
+[2026-11-21 18:24:57]     n_alleles: 12
+[2026-11-21 18:24:57]     lead_columns: ['Pos', 'Peptide', 'ID', 'Target']
+[2026-11-21 18:24:57]     block_columns: ['ave', 'core', 'inverted', 'nb', 'nm', 'rank_ba', 'rank_el', 'score_ba', 'score_el']
+[2026-11-21 18:24:57]     alleles: ['HLA-DPA10103-DPB10201', 'HLA-DPA10103-DPB10401', 'HLA-DPA10201-DPB10101', 'HLA-DPA10201-DPB10501', 'HLA-DPA10201-DPB11401', 'HLA-DPA10301-DPB10402', 'HLA-DQA10101-DQB10501', 'HLA-DQA10102-DQB10602', 'HLA-DQA10301-DQB10302', 'HLA-DQA10401-DQB10402', 'HLA-DQA10501-DQB10201', 'HLA-DQA10501-DQB10301']
+[2026-11-21 18:24:57]     normalised:
+[2026-11-21 18:24:57]         HLA-DPA10103-DPB10201        -> HLA-DPA1*01:03/DPB1*02:01
+[2026-11-21 18:24:57]         HLA-DPA10103-DPB10401        -> HLA-DPA1*01:03/DPB1*04:01
+[2026-11-21 18:24:57]         HLA-DPA10201-DPB10101        -> HLA-DPA1*02:01/DPB1*01:01
+[2026-11-21 18:24:57]         HLA-DPA10201-DPB10501        -> HLA-DPA1*02:01/DPB1*05:01
+[2026-11-21 18:24:57]         HLA-DPA10201-DPB11401        -> HLA-DPA1*02:01/DPB1*14:01
+[2026-11-21 18:24:57]         HLA-DPA10301-DPB10402        -> HLA-DPA1*03:01/DPB1*04:02
+[2026-11-21 18:24:57]         HLA-DQA10101-DQB10501        -> HLA-DQA1*01:01/DQB1*05:01
+[2026-11-21 18:24:57]         HLA-DQA10102-DQB10602        -> HLA-DQA1*01:02/DQB1*06:02
+[2026-11-21 18:24:57]         HLA-DQA10301-DQB10302        -> HLA-DQA1*03:01/DQB1*03:02
+[2026-11-21 18:24:57]         HLA-DQA10401-DQB10402        -> HLA-DQA1*04:01/DQB1*04:02
+[2026-11-21 18:24:57]         HLA-DQA10501-DQB10201        -> HLA-DQA1*05:01/DQB1*02:01
+[2026-11-21 18:24:57]         HLA-DQA10501-DQB10301        -> HLA-DQA1*05:01/DQB1*03:01
+[2026-11-21 18:24:57]     parsed rows: 271488
+[2026-11-21 18:24:57] 
+[2026-11-21 18:24:57] combined rows: 610848
+[2026-11-21 18:25:02] coordinate check: all 610848 peptides occur at the reported position
+[2026-11-21 18:25:04] binder thresholds taken from the run: strong <= 1.0%, weak <= 5.0%
+[2026-11-21 18:25:20] wrote classii_predictions.tsv.gz (610848 rows, 27 alleles, 40 proteins)
+[2026-11-21 18:25:20] wrote classii_binders_by_allele.tsv (25855 rows at %Rank_EL <= 5.0)
+[2026-11-21 18:25:20] 
+[2026-11-21 18:25:20] binder levels (strong <= 1.0%, weak <= 5.0%):
+[2026-11-21 18:25:20]     non_binder     584993  (95.8%)
+[2026-11-21 18:25:20]     weak            20994  (3.4%)
+[2026-11-21 18:25:20]     strong           4861  (0.8%)
+[2026-11-21 18:25:20] 
+[2026-11-21 18:25:20] strong binders per allele:
+[2026-11-21 18:25:21]     HLA-DPA1*01:03/DPB1*02:01             120
+[2026-11-21 18:25:21]     HLA-DPA1*01:03/DPB1*04:01             136
+[2026-11-21 18:25:21]     HLA-DPA1*02:01/DPB1*01:01              65
+[2026-11-21 18:25:21]     HLA-DPA1*02:01/DPB1*05:01              52
+[2026-11-21 18:25:21]     HLA-DPA1*02:01/DPB1*14:01             106
+[2026-11-21 18:25:21]     HLA-DPA1*03:01/DPB1*04:02             113
+[2026-11-21 18:25:21]     HLA-DQA1*01:01/DQB1*05:01             160
+[2026-11-21 18:25:21]     HLA-DQA1*01:02/DQB1*06:02             264
+[2026-11-21 18:25:21]     HLA-DQA1*03:01/DQB1*03:02             344
+[2026-11-21 18:25:21]     HLA-DQA1*04:01/DQB1*04:02             238
+[2026-11-21 18:25:21]     HLA-DQA1*05:01/DQB1*02:01             213
+[2026-11-21 18:25:21]     HLA-DQA1*05:01/DQB1*03:01             620
+[2026-11-21 18:25:21]     HLA-DRB1*01:01                        212
+[2026-11-21 18:25:21]     HLA-DRB1*03:01                        151
+[2026-11-21 18:25:21]     HLA-DRB1*04:01                        197
+[2026-11-21 18:25:21]     HLA-DRB1*04:05                        155
+[2026-11-21 18:25:21]     HLA-DRB1*07:01                        157
+[2026-11-21 18:25:21]     HLA-DRB1*08:02                        150
+[2026-11-21 18:25:21]     HLA-DRB1*09:01                        163
+[2026-11-21 18:25:21]     HLA-DRB1*11:01                        174
+[2026-11-21 18:25:21]     HLA-DRB1*12:01                         92
+[2026-11-21 18:25:21]     HLA-DRB1*13:02                        156
+[2026-11-21 18:25:21]     HLA-DRB1*15:01                        129
+[2026-11-21 18:25:21]     HLA-DRB3*01:01                        185
+[2026-11-21 18:25:21]     HLA-DRB3*02:02                        185
+[2026-11-21 18:25:21]     HLA-DRB4*01:01                        118
+[2026-11-21 18:25:21]     HLA-DRB5*01:01                        206
+[2026-11-21 18:25:21] 
+[2026-11-21 18:25:21] Scope note: these are predicted class II binders on the reference proteins. No class II predictor is benchmarked in this study, and %Rank thresholds for class II are looser than class I by convention, so the continuous rank is what should be used downstream.

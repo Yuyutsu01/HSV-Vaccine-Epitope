@@ -1,0 +1,2260 @@
+IQ-TREE multicore version 2.4.0 for Windows 64-bit built Feb  7 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    YUYUTSU (AVX512, FMA3, 15 GB RAM)
+Command: C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\bin\iqtree\iqtree-2.4.0-Windows\bin\iqtree2.exe -s C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\hyphy_ready\HSV1\UL23.fasta -m MFP -B 1000 --keep-ident -T 4 --prefix C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23 --quiet -redo
+Seed:    982734 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Nov 19 21:48:43 2026
+Kernel:  AVX+FMA - 4 threads (16 CPU cores detected)
+
+Reading alignment file C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\hyphy_ready\HSV1\UL23.fasta ... Fasta format detected
+Reading fasta file: done in 0.0027342 secs
+Alignment most likely contains DNA/RNA sequences
+Alignment has 108 sequences with 1128 columns, 128 distinct patterns
+49 parsimony-informative, 83 singleton sites, 996 constant sites
+       Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 6.68e-005 secs
+   1  S0001    0.00%    passed     98.63%
+   2  S0002    0.00%    passed     99.41%
+   3  S0003    0.00%    passed     99.97%
+   4  S0004    0.00%    passed     99.56%
+   5  S0005    0.00%    passed    100.00%
+   6  S0006    0.00%    passed     98.91%
+   7  S0007    0.00%    passed    100.00%
+   8  S0008    0.00%    passed     99.51%
+   9  S0009    0.00%    passed     99.99%
+  10  S0010    0.00%    passed     99.71%
+  11  S0011    0.00%    passed     99.99%
+  12  S0012    0.00%    passed     99.71%
+  13  S0013    0.00%    passed     99.30%
+  14  S0014    0.00%    passed     99.98%
+  15  S0015    0.00%    passed     98.22%
+  16  S0016    0.00%    passed     98.81%
+  17  S0017    0.00%    passed     99.99%
+  18  S0018    0.00%    passed     99.69%
+  19  S0019    0.00%    passed     99.98%
+  20  S0020    0.00%    passed     99.99%
+  21  S0021    0.00%    passed     99.83%
+  22  S0022    0.00%    passed     99.99%
+  23  S0023    0.00%    passed     99.49%
+  24  S0024    0.00%    passed     99.99%
+  25  S0025    0.00%    passed     99.99%
+  26  S0026    0.00%    passed     99.93%
+  27  S0027    0.00%    passed     99.65%
+  28  S0028    0.00%    passed     99.69%
+  29  S0029    0.00%    passed     99.98%
+  30  S0030    0.00%    passed     99.95%
+  31  S0031    0.00%    passed     99.97%
+  32  S0032    0.00%    passed     99.74%
+  33  S0033    0.00%    passed     99.83%
+  34  S0034    0.00%    passed     99.27%
+  35  S0035    0.00%    passed     97.88%
+  36  S0036    0.00%    passed    100.00%
+  37  S0037    0.00%    passed     99.93%
+  38  S0038    0.00%    passed     99.83%
+  39  S0039    0.00%    passed     99.40%
+  40  S0040    0.00%    passed     99.27%
+  41  S0041    0.00%    passed     99.42%
+  42  S0042    0.00%    passed     99.95%
+  43  S0043    0.00%    passed     99.99%
+  44  S0044    0.00%    passed     99.71%
+  45  S0045    0.00%    passed     98.09%
+  46  S0046    0.00%    passed    100.00%
+  47  S0047    0.00%    passed     99.99%
+  48  S0048    0.00%    passed     99.75%
+  49  S0049    0.00%    passed     99.99%
+  50  S0050    0.00%    passed     99.89%
+  51  S0051    0.00%    passed     99.96%
+  52  S0052    0.00%    passed    100.00%
+  53  S0053    0.00%    passed     99.59%
+  54  S0054    0.00%    passed     99.64%
+  55  S0055    0.00%    passed     99.88%
+  56  S0056    0.00%    passed     99.93%
+  57  S0057    0.00%    passed     98.22%
+  58  S0058    0.00%    passed     99.45%
+  59  S0059    0.00%    passed     99.58%
+  60  S0060    0.00%    passed     99.99%
+  61  S0061    0.00%    passed     99.86%
+  62  S0062    0.00%    passed     99.95%
+  63  S0063    0.00%    passed     99.94%
+  64  S0064    0.00%    passed     99.89%
+  65  S0065    0.00%    passed     99.79%
+  66  S0066    0.00%    passed     99.67%
+  67  S0067    0.00%    passed     99.01%
+  68  S0068    0.00%    passed     99.89%
+  69  S0069    0.00%    passed     99.94%
+  70  S0070    0.00%    passed     99.78%
+  71  S0071    0.00%    passed     99.99%
+  72  S0072    0.00%    passed    100.00%
+  73  S0073    0.00%    passed     99.92%
+  74  S0074    0.00%    passed     99.99%
+  75  S0075    0.00%    passed     99.96%
+  76  S0076    0.00%    passed     99.94%
+  77  S0077    0.00%    passed     99.99%
+  78  S0078    0.00%    passed     99.99%
+  79  S0079    0.00%    passed     99.87%
+  80  S0080    0.00%    passed     99.01%
+  81  S0081    0.00%    passed     96.73%
+  82  S0082    0.00%    passed     99.89%
+  83  S0083    0.00%    passed     99.83%
+  84  S0084    0.00%    passed    100.00%
+  85  S0085    0.00%    passed     99.71%
+  86  S0086    0.00%    passed     99.88%
+  87  S0087    0.00%    passed     99.59%
+  88  S0088    0.00%    passed     99.95%
+  89  S0089    0.00%    passed     99.99%
+  90  S0090    0.00%    passed     99.93%
+  91  S0091    0.00%    passed    100.00%
+  92  S0092    0.00%    passed     99.65%
+  93  S0093    0.00%    passed     99.97%
+  94  S0094    0.00%    passed     99.99%
+  95  S0095    0.00%    passed     99.96%
+  96  S0096    0.00%    passed     98.82%
+  97  S0097    0.00%    passed     99.97%
+  98  S0098    0.00%    passed     99.15%
+  99  S0099    0.00%    passed     99.93%
+ 100  S0100    0.00%    passed     99.98%
+ 101  S0101    0.00%    passed     99.43%
+ 102  S0102    0.00%    passed    100.00%
+ 103  S0103    0.00%    passed     99.99%
+ 104  S0104    0.00%    passed     99.99%
+ 105  S0105    0.00%    passed     98.58%
+ 106  S0106    0.00%    passed     99.83%
+ 107  S0107    0.00%    passed     99.97%
+ 108  S0108    0.00%    passed     99.58%
+****  TOTAL    0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.006 seconds
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -3270.453
+2. Current log-likelihood: -3269.298
+Optimal log-likelihood: -3268.462
+Rate parameters:  A-C: 0.79205  A-G: 2.22301  A-T: 0.00010  C-G: 0.02007  C-T: 2.75470  G-T: 1.00000
+Warning! Some parameters hit the boundaries
+Base frequencies:  A: 0.175  C: 0.350  G: 0.300  T: 0.175
+Proportion of invariable sites: 0.505
+Gamma shape alpha: 0.222
+Parameters optimization took 2 rounds (0.073 sec)
+Time for fast ML tree search: 0.356 seconds
+
+NOTE: ModelFinder requires 5 MB RAM!
+ModelFinder will test up to 484 DNA models (sample size: 1128 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  1  GTR+F         3448.939     221 7339.878     7448.182     8451.110
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  2  GTR+F+I       3280.145     222 7004.291     7113.696     8120.551
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  3  GTR+F+G4      3298.193     222 7040.387     7149.792     8156.647
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  4  GTR+F+I+G4    3257.460     223 6960.920     7071.433     8082.209
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+  5  GTR+F+R2      3280.057     223 7006.113     7116.627     8127.402
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+  6  GTR+F+R3      3239.990     225 6929.979     7042.729     8061.324
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+  7  GTR+F+R4      3239.717     227 6933.434     7048.448     8074.836
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 14  GTR+F+I+R2    3280.087     224 7008.174     7119.801     8134.491
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+Pattern 71 likelihood is underflown
+ 15  GTR+F+I+R3    3239.707     226 6931.415     7045.293     8067.788
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 16  GTR+F+I+R4    3239.566     228 6935.131     7051.287     8081.561
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 28  SYM+R3        3292.533     222 7029.066     7138.472     8145.327
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+ 37  SYM+I+R3      3292.592     223 7031.184     7141.697     8152.473
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 50  TVM+F+R3      3240.283     224 6928.567     7040.194     8054.884
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 59  TVM+F+I+R3    3239.988     225 6929.977     7042.726     8061.322
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 72  TVMe+R3       3293.364     221 7028.728     7137.032     8139.960
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+ 81  TVMe+I+R3     3293.437     222 7030.875     7140.280     8147.135
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+ 94  TIM3+F+R3     3278.692     223 7003.383     7113.896     8124.672
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+103  TIM3+F+I+R3   3278.468     224 7004.936     7116.564     8131.253
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+116  TIM3e+R3      3327.680     220 7095.360     7202.571     8201.565
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+125  TIM3e+I+R3    3327.690     221 7097.379     7205.684     8208.612
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+138  TIM2+F+R3     3280.514     223 7007.028     7117.541     8128.317
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+147  TIM2+F+I+R3   3280.411     224 7008.823     7120.451     8135.140
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+160  TIM2e+R3      3327.938     220 7095.876     7203.086     8202.080
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+169  TIM2e+I+R3    3327.921     221 7097.841     7206.146     8209.074
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+182  TIM+F+R3      3240.419     223 6926.837     7037.350     8048.126
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+191  TIM+F+I+R3    3240.322     224 6928.644     7040.272     8054.962
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+204  TIMe+R3       3293.555     220 7027.111     7134.321     8133.315
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+213  TIMe+I+R3     3293.565     221 7029.130     7137.434     8140.362
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+226  TPM3u+F+R3    3278.895     222 7001.790     7111.196     8118.051
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+235  TPM3u+F+I+R3  3278.829     223 7003.659     7114.172     8124.948
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+248  TPM3+R3       3328.515     219 7095.030     7201.153     8196.206
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 71 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 71 likelihood is underflown
+257  TPM3+I+R3     3328.539     220 7097.078     7204.289     8203.282
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+270  TPM2u+F+R3    3280.949     222 7005.898     7115.304     8122.159
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+279  TPM2u+F+I+R3  3280.922     223 7007.845     7118.358     8129.134
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+292  TPM2+R3       3328.976     219 7095.952     7202.076     8197.128
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+301  TPM2+I+R3     3328.987     220 7097.974     7205.185     8204.179
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+314  K3Pu+F+R3     3240.827     222 6925.653     7035.059     8041.914
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+323  K3Pu+F+I+R3   3240.795     223 6927.590     7038.103     8048.879
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+336  K3P+R3        3294.556     219 7027.112     7133.236     8128.288
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 28 likelihood is underflown
+345  K3P+I+R3      3294.565     220 7029.130     7136.340     8135.334
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 12 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 28 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 59 likelihood is underflown
+Pattern 67 likelihood is underflown
+Pattern 85 likelihood is underflown
+Pattern 99 likelihood is underflown
+Pattern 105 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 12 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 28 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 59 likelihood is underflown
+Pattern 67 likelihood is underflown
+Pattern 85 likelihood is underflown
+Pattern 99 likelihood is underflown
+Pattern 105 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 12 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 28 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 59 likelihood is underflown
+Pattern 67 likelihood is underflown
+Pattern 85 likelihood is underflown
+Pattern 99 likelihood is underflown
+Pattern 105 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 12 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 28 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 59 likelihood is underflown
+Pattern 67 likelihood is underflown
+Pattern 85 likelihood is underflown
+Pattern 99 likelihood is underflown
+Pattern 105 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 12 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 28 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 59 likelihood is underflown
+Pattern 67 likelihood is underflown
+Pattern 85 likelihood is underflown
+Pattern 99 likelihood is underflown
+Pattern 105 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 12 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 28 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 59 likelihood is underflown
+Pattern 67 likelihood is underflown
+Pattern 85 likelihood is underflown
+Pattern 99 likelihood is underflown
+Pattern 105 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 12 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 28 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 59 likelihood is underflown
+Pattern 67 likelihood is underflown
+Pattern 85 likelihood is underflown
+Pattern 99 likelihood is underflown
+Pattern 105 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 12 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 28 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 59 likelihood is underflown
+Pattern 67 likelihood is underflown
+Pattern 85 likelihood is underflown
+Pattern 99 likelihood is underflown
+Pattern 105 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 12 likelihood is underflown
+Pattern 21 likelihood is underflown
+Pattern 26 likelihood is underflown
+Pattern 28 likelihood is underflown
+Pattern 36 likelihood is underflown
+Pattern 51 likelihood is underflown
+Pattern 59 likelihood is underflown
+Pattern 67 likelihood is underflown
+Pattern 85 likelihood is underflown
+Pattern 99 likelihood is underflown
+Pattern 105 likelihood is underflown
+358  TN+F+R3       3283.075     222 7010.151     7119.556     8126.411
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+367  TN+F+I+R3     3283.071     223 7012.141     7122.655     8133.430
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+380  TNe+R3        3328.250     219 7094.501     7200.624     8195.677
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+389  TNe+I+R3      3328.251     220 7096.503     7203.713     8202.707
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+402  HKY+F+R3      3283.515     221 7009.030     7117.335     8120.263
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+411  HKY+F+I+R3    3283.512     222 7011.023     7120.429     8127.284
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+424  K2P+R3        3329.266     218 7094.531     7199.574     8190.679
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+Pattern 28 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 9 likelihood is underflown
+Pattern 28 likelihood is underflown
+433  K2P+I+R3      3329.266     219 7096.533     7202.656     8197.709
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+446  F81+F+R3      3372.519     220 7185.038     7292.249     8291.243
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+455  F81+F+I+R3    3372.525     221 7187.051     7295.355     8298.283
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+468  JC+R3         3406.486     217 7246.972     7350.942     8338.092
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 5 likelihood is underflown
+Pattern 9 likelihood is underflown
+Pattern 14 likelihood is underflown
+Pattern 15 likelihood is underflown
+Pattern 16 likelihood is underflown
+Pattern 17 likelihood is underflown
+Pattern 18 likelihood is underflown
+Pattern 20 likelihood is underflown
+Pattern 22 likelihood is underflown
+Pattern 23 likelihood is underflown
+Pattern 24 likelihood is underflown
+Pattern 25 likelihood is underflown
+Pattern 27 likelihood is underflown
+Pattern 32 likelihood is underflown
+Pattern 33 likelihood is underflown
+Pattern 34 likelihood is underflown
+Pattern 35 likelihood is underflown
+Pattern 37 likelihood is underflown
+Pattern 38 likelihood is underflown
+Pattern 42 likelihood is underflown
+Pattern 46 likelihood is underflown
+Pattern 47 likelihood is underflown
+Pattern 52 likelihood is underflown
+Pattern 54 likelihood is underflown
+Pattern 56 likelihood is underflown
+Pattern 57 likelihood is underflown
+Pattern 58 likelihood is underflown
+Pattern 61 likelihood is underflown
+Pattern 69 likelihood is underflown
+Pattern 70 likelihood is underflown
+Pattern 74 likelihood is underflown
+Pattern 81 likelihood is underflown
+Pattern 82 likelihood is underflown
+Pattern 86 likelihood is underflown
+Pattern 88 likelihood is underflown
+Pattern 90 likelihood is underflown
+Pattern 91 likelihood is underflown
+Pattern 93 likelihood is underflown
+Pattern 94 likelihood is underflown
+Pattern 97 likelihood is underflown
+Pattern 98 likelihood is underflown
+Pattern 100 likelihood is underflown
+Pattern 107 likelihood is underflown
+Pattern 109 likelihood is underflown
+Pattern 114 likelihood is underflown
+Pattern 115 likelihood is underflown
+Pattern 118 likelihood is underflown
+Pattern 119 likelihood is underflown
+Pattern 120 likelihood is underflown
+Pattern 122 likelihood is underflown
+Pattern 123 likelihood is underflown
+Pattern 125 likelihood is underflown
+Pattern 126 likelihood is underflown
+Pattern 127 likelihood is underflown
+477  JC+I+R3       3406.488     218 7248.975     7354.018     8345.123
+Akaike Information Criterion:           K3Pu+F+R3
+Corrected Akaike Information Criterion: K3Pu+F+R3
+Bayesian Information Criterion:         K3Pu+F+R3
+Best-fit model: K3Pu+F+R3 chosen according to BIC
+
+All model information printed to C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23.model.gz
+CPU time for ModelFinder: 27.391 seconds (0h:0m:27s)
+Wall-clock time for ModelFinder: 8.608 seconds (0h:0m:8s)
+Generating 1000 samples for ultrafast bootstrap (seed: 982734)...
+
+NOTE: 1 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3372.981
+2. Current log-likelihood: -3317.366
+3. Current log-likelihood: -3240.879
+Optimal log-likelihood: -3240.810
+Rate parameters:  A-C: 1.00000  A-G: 2.75621  A-T: 0.03183  C-G: 0.03183  C-T: 2.75621  G-T: 1.00000
+Base frequencies:  A: 0.175  C: 0.350  G: 0.300  T: 0.175
+Site proportion and rates:  (0.695,0.000) (0.281,1.737) (0.024,21.381)
+Parameters optimization took 3 rounds (0.145 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0218806 secs
+Computing ML distances took 0.022118 sec (of wall-clock time) 0.015625 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.0004802 secs
+Computing RapidNJ tree took 0.001755 sec (of wall-clock time) 0.000000 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3246.811
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 1.097 second
+Computing log-likelihood of 98 initial trees ... 0.669 seconds
+Current best score: -3219.001
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3215.050
+Estimate model parameters (epsilon = 0.100)
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 53 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 53 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 53 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 53 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 53 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 53 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 53 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 53 likelihood is underflown
+WARNING: Numerical underflow for lh-branch, use `-safe` option to avoid this warning
+Pattern 53 likelihood is underflown
+BETTER TREE FOUND at iteration 6: -3209.705
+Iteration 10 / LogL: -3223.223 / Time: 0h:0m:13s
+Iteration 20 / LogL: -3220.793 / Time: 0h:0m:16s
+Finish initializing candidate tree set (20)
+Current best tree score: -3209.705 / CPU time: 7.433
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 28: -3209.211
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 29: -3207.989
+Iteration 30 / LogL: -3211.185 / Time: 0h:0m:19s (0h:0m:37s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 32: -3205.194
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 35: -3203.731
+Iteration 40 / LogL: -3204.419 / Time: 0h:0m:23s (0h:0m:35s left)
+BETTER TREE FOUND at iteration 44: -3203.731
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 50: -3203.423
+Iteration 50 / LogL: -3203.423 / Time: 0h:0m:26s (0h:0m:37s left)
+Log-likelihood cutoff on original alignment: -3237.255
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 52: -3201.965
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 58: -3201.467
+Iteration 60 / LogL: -3202.931 / Time: 0h:0m:31s (0h:0m:38s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 68: -3201.159
+Iteration 70 / LogL: -3205.580 / Time: 0h:0m:35s (0h:0m:37s left)
+Iteration 80 / LogL: -3204.302 / Time: 0h:0m:38s (0h:0m:33s left)
+Iteration 90 / LogL: -3201.482 / Time: 0h:0m:41s (0h:0m:29s left)
+Iteration 100 / LogL: -3206.996 / Time: 0h:0m:45s (0h:0m:25s left)
+Log-likelihood cutoff on original alignment: -3237.196
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.981
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -3201.168 / Time: 0h:0m:51s (0h:0m:35s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 118: -3200.856
+Iteration 120 / LogL: -3201.173 / Time: 0h:0m:55s (0h:0m:38s left)
+BETTER TREE FOUND at iteration 122: -3200.856
+Iteration 130 / LogL: -3203.035 / Time: 0h:0m:59s (0h:0m:36s left)
+Iteration 140 / LogL: -3203.245 / Time: 0h:1m:2s (0h:0m:32s left)
+BETTER TREE FOUND at iteration 141: -3200.854
+Iteration 150 / LogL: -3203.376 / Time: 0h:1m:6s (0h:0m:35s left)
+Log-likelihood cutoff on original alignment: -3237.196
+Iteration 160 / LogL: -3200.856 / Time: 0h:1m:11s (0h:0m:32s left)
+Iteration 170 / LogL: -3201.374 / Time: 0h:1m:15s (0h:0m:28s left)
+Iteration 180 / LogL: -3205.471 / Time: 0h:1m:20s (0h:0m:24s left)
+Iteration 190 / LogL: -3203.486 / Time: 0h:1m:25s (0h:0m:20s left)
+Iteration 200 / LogL: -3201.145 / Time: 0h:1m:30s (0h:0m:16s left)
+Log-likelihood cutoff on original alignment: -3237.196
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.991
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 207: -3200.645
+Iteration 210 / LogL: -3201.121 / Time: 0h:1m:35s (0h:0m:40s left)
+Iteration 220 / LogL: -3201.391 / Time: 0h:1m:40s (0h:0m:36s left)
+Iteration 230 / LogL: -3201.129 / Time: 0h:1m:45s (0h:0m:32s left)
+BETTER TREE FOUND at iteration 239: -3200.645
+Iteration 240 / LogL: -3208.609 / Time: 0h:1m:49s (0h:0m:41s left)
+Iteration 250 / LogL: -3208.805 / Time: 0h:1m:53s (0h:0m:37s left)
+Log-likelihood cutoff on original alignment: -3237.196
+Iteration 260 / LogL: -3201.752 / Time: 0h:1m:59s (0h:0m:33s left)
+Iteration 270 / LogL: -3203.661 / Time: 0h:2m:4s (0h:0m:29s left)
+Iteration 280 / LogL: -3217.281 / Time: 0h:2m:9s (0h:0m:25s left)
+Iteration 290 / LogL: -3200.895 / Time: 0h:2m:14s (0h:0m:21s left)
+BETTER TREE FOUND at iteration 300: -3200.642
+Iteration 300 / LogL: -3200.642 / Time: 0h:2m:19s (0h:0m:43s left)
+Log-likelihood cutoff on original alignment: -3237.118
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.988
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 310 / LogL: -3204.534 / Time: 0h:2m:26s (0h:0m:40s left)
+Iteration 320 / LogL: -3200.890 / Time: 0h:2m:33s (0h:0m:36s left)
+Iteration 330 / LogL: -3204.007 / Time: 0h:2m:43s (0h:0m:32s left)
+Iteration 340 / LogL: -3202.810 / Time: 0h:2m:50s (0h:0m:28s left)
+Iteration 350 / LogL: -3201.417 / Time: 0h:2m:56s (0h:0m:24s left)
+Log-likelihood cutoff on original alignment: -3237.118
+Iteration 360 / LogL: -3200.894 / Time: 0h:3m:2s (0h:0m:19s left)
+Iteration 370 / LogL: -3203.317 / Time: 0h:3m:9s (0h:0m:14s left)
+Iteration 380 / LogL: -3204.088 / Time: 0h:3m:14s (0h:0m:9s left)
+Iteration 390 / LogL: -3203.215 / Time: 0h:3m:20s (0h:0m:4s left)
+Iteration 400 / LogL: -3208.687 / Time: 0h:3m:26s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3237.118
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.987
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 410 / LogL: -3203.662 / Time: 0h:3m:32s (0h:0m:44s left)
+Iteration 420 / LogL: -3213.650 / Time: 0h:3m:39s (0h:0m:40s left)
+Iteration 430 / LogL: -3201.217 / Time: 0h:3m:44s (0h:0m:35s left)
+Iteration 440 / LogL: -3204.082 / Time: 0h:3m:51s (0h:0m:30s left)
+Iteration 450 / LogL: -3212.827 / Time: 0h:3m:57s (0h:0m:25s left)
+Log-likelihood cutoff on original alignment: -3237.118
+Iteration 460 / LogL: -3202.806 / Time: 0h:4m:4s (0h:0m:20s left)
+Iteration 470 / LogL: -3209.615 / Time: 0h:4m:11s (0h:0m:15s left)
+Iteration 480 / LogL: -3210.880 / Time: 0h:4m:19s (0h:0m:10s left)
+Iteration 490 / LogL: -3203.579 / Time: 0h:4m:27s (0h:0m:5s left)
+Iteration 500 / LogL: -3201.752 / Time: 0h:4m:34s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3237.118
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.992
+TREE SEARCH COMPLETED AFTER 500 ITERATIONS / Time: 0h:4m:35s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3200.642
+Optimal log-likelihood: -3200.635
+Rate parameters:  A-C: 1.00000  A-G: 2.75712  A-T: 0.03331  C-G: 0.03331  C-T: 2.75712  G-T: 1.00000
+Base frequencies:  A: 0.175  C: 0.350  G: 0.300  T: 0.175
+Site proportion and rates:  (0.697,0.000) (0.278,1.783) (0.024,20.767)
+Parameters optimization took 1 rounds (0.040 sec)
+BEST SCORE FOUND : -3200.635
+Creating bootstrap support values...
+Split supports printed to NEXUS file C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23.splits.nex
+Total tree length: 0.228
+
+Total number of iterations: 500
+CPU time used for tree search: 758.922 sec (0h:12m:38s)
+Wall-clock time used for tree search: 266.331 sec (0h:4m:26s)
+Total CPU time used: 789.250 sec (0h:13m:9s)
+Total wall-clock time used: 276.238 sec (0h:4m:36s)
+
+Computing bootstrap consensus tree...
+Reading input file C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23.splits.nex...
+108 taxa and 4500 splits.
+Consensus tree written to C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23.contree
+Reading input trees file C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23.contree
+Log-likelihood of consensus tree: -3202.452
+
+Analysis results written to: 
+  IQ-TREE report:                C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23.iqtree
+  Maximum-likelihood tree:       C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23.treefile
+  Likelihood distances:          C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23.splits.nex
+  Consensus tree:                C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23.contree
+  Screen log file:               C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\HSV1\UL23.log
+
+Date and Time: Thu Nov 19 21:53:21 2026

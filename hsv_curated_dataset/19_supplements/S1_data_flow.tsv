@@ -1,0 +1,17 @@
+stage	level	n	detail
+1. Records retrieved from NCBI Virus	genome	1305	HSV-1 taxid 10298 + HSV-2 taxid 10310
+2. Metadata curated	genome	1305	one row per genome record
+3. Passed genome-level filters (PASS)	genome	417	length, %N<=1%, not engineered/synthetic, not duplicate
+3a. Flagged but retained (FLAGGED)	genome	29	kept in the analysis; reasons in S3_removed_sequences.tsv
+3b. Excluded at genome level (EXCLUDED)	genome	859	see S3_removed_sequences.tsv
+4. Analysis-ready genomes (HSV-1)	genome	303	HSV1_filtered.fasta -- tier 1 + anchor
+4. Analysis-ready genomes (HSV-2)	genome	117	HSV2_filtered.fasta -- tier 1 + anchor
+4. Analysis-ready genomes (HSV-2 tier 2)	genome	229	HSV2_filtered_tier2.fasta -- readmitted from stage 3b (1-2% ambiguity); POOLED with tier 1 downstream, not analysed separately
+4a. Analysis-ready genomes (total)	genome	649	exceeds stage 3 because it includes FLAGGED records, reference anchors and the readmitted tier-2 set
+5. CDS rows in the per-sequence QC log	CDS	11504	07_cds_qc_log.tsv; does NOT cover the full carried-forward set (see stage 6b)
+6. Of those, passing QC	CDS	11340	ATG start, stop codon, in frame, no internal stop, %N limit, length ratio 0.95-1.05
+6a. Of those, failing QC	CDS	164	see S3_removed_sequences.tsv
+6b. CDS carried forward to deduplication	CDS	12054	05_cds_qc_passed/; exceeds stage 6 because a later extraction top-up updated the FASTAs and 06_cds_extraction_log but not 07_cds_qc_log -- this is the number to cite
+7. Unique sequences after exact-duplicate collapse	CDS	4163	from 12054 clean CDS; cluster sizes retained for population frequencies
+8. Sequences in rebuilt per-type codon alignments	CDS	4203	40 alignments, includes one reference anchor each
+9. Sequences entering selection analysis	CDS	4163	40 gene x type cohorts, reference anchor removed

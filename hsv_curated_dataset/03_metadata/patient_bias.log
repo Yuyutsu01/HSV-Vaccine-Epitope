@@ -1,0 +1,30 @@
+[2026-11-19 00:46:01] ==============================================================================
+[2026-11-19 00:46:01] STEP 20: patient-level identity and sampling-bias tabulation
+[2026-11-19 00:46:01] Loaded 1305 metadata rows
+[2026-11-19 00:46:01] 1208 distinct patients across 1305 records
+[2026-11-19 00:46:01] 35 patients contribute more than one record (132 records in total)
+[2026-11-19 00:46:01]     patient HSV1-v54: 12 records
+[2026-11-19 00:46:01]     patient v43: 8 records
+[2026-11-19 00:46:01]     patient A: 8 records
+[2026-11-19 00:46:01]     patient Z: 8 records
+[2026-11-19 00:46:01]     patient v46: 6 records
+[2026-11-19 00:46:01]     patient C: 5 records
+[2026-11-19 00:46:01]     patient B: 5 records
+[2026-11-19 00:46:01]     patient HSV1-v59: 5 records
+[2026-11-19 00:46:01]     patient HSV1-v55: 4 records
+[2026-11-19 00:46:01]     patient D: 4 records
+[2026-11-19 00:46:01]     patient HSV1-v53: 4 records
+[2026-11-19 00:46:01]     patient Y: 4 records
+[2026-11-19 00:46:01] Basis for patient assignment: accession_singleton=1061, serial_isolate_name=145, isolate_code=62, biosample=37
+[2026-11-19 00:46:01] Wrote sampling_bias_tables.tsv (103 rows)
+[2026-11-19 00:46:01]   country: 82.5% UNKNOWN; top known: USA (170), France (18), Germany (16), Belgium (8), China (5)
+[2026-11-19 00:46:01]   collection_year: 91.6% UNKNOWN; top known: 2009.0 (25), 2015.0 (11), 2010.0 (9), 2011.0 (8), 2007.0 (6)
+[2026-11-19 00:46:01]   HSV1 RL2: 187 sequences from 184 patients -> 184 in the one-per-patient subcohort
+[2026-11-19 00:46:01]   HSV1 RS1: 215 sequences from 190 patients -> 190 in the one-per-patient subcohort
+[2026-11-19 00:46:02]   HSV1 UL10: 120 sequences from 119 patients -> 119 in the one-per-patient subcohort
+[2026-11-19 00:46:02]   HSV1 UL1: 78 sequences from 78 patients -> 78 in the one-per-patient subcohort
+[2026-11-19 00:46:02]   HSV1 UL22: 148 sequences from 146 patients -> 146 in the one-per-patient subcohort
+[2026-11-19 00:46:02]   HSV1 UL23: 108 sequences from 108 patients -> 108 in the one-per-patient subcohort
+[2026-11-19 00:46:02]   HSV1 UL27: 147 sequences from 147 patients -> 147 in the one-per-patient subcohort
+[2026-11-19 00:46:02]   HSV1 UL30: 167 sequences from 165 patients -> 165 in the one-per-patient subcohort
+[2026-11-19 00:46:02]   HSV1 UL44: 123 sequences from 122 patients -> 122 in the one-per-patient subcohort

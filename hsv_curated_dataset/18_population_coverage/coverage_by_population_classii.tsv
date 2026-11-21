@@ -1,0 +1,549 @@
+epitope_set	population	coverage_upper_bound	coverage_conservative	n_loci_typed	loci_typed	scorable	coverage_HLA-DRB1	coverage_HLA-DQA1	coverage_HLA-DQB1	coverage_HLA-DPA1	coverage_HLA-DPB1
+classii_binders_weak_or_better	Algeria	99.59	90.07	3	DQA1;DQB1;DRB1	False	80.75	50.61	95.65		
+classii_binders_weak_or_better	Algeria Arab	99.59	90.07	3	DQA1;DQB1;DRB1	False	80.75	50.61	95.65		
+classii_binders_weak_or_better	Amerindian	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	55.44	100.0	99.74	100.0	100.0
+classii_binders_weak_or_better	Arab	99.99	97.33	4	DPB1;DQA1;DQB1;DRB1	False	84.34	86.9	95.47		94.55
+classii_binders_weak_or_better	Argentina	100.0	99.52	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	67.74	100.0	98.01	27.24	92.04
+classii_binders_weak_or_better	Argentina Amerindian	100.0	99.87	4	DPB1;DQA1;DQB1;DRB1	False	49.12	100.0	99.75		98.1
+classii_binders_weak_or_better	Argentina Caucasoid	99.91	92.84	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	80.65	56.7	94.43	27.24	74.7
+classii_binders_weak_or_better	Asian	100.0	98.98	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	83.3	72.93	79.21	96.2	88.88
+classii_binders_weak_or_better	Australia	99.98	83.71	4	DPB1;DQA1;DQB1;DRB1	False	44.2	97.03	72.97		94.75
+classii_binders_weak_or_better	Australia Australian Aborigines	99.98	83.71	4	DPB1;DQA1;DQB1;DRB1	False	44.2	97.03	72.97		94.75
+classii_binders_weak_or_better	Australian Aborigines	99.98	83.71	4	DPB1;DQA1;DQB1;DRB1	False	44.2	97.03	72.97		94.75
+classii_binders_weak_or_better	Austria	99.97	93.34	3	DPB1;DQB1;DRB1	False	93.34		89.44		95.22
+classii_binders_weak_or_better	Austria Caucasoid	99.97	93.34	3	DPB1;DQB1;DRB1	False	93.34		89.44		95.22
+classii_binders_weak_or_better	Austronesian	99.57	77.29	4	DPB1;DQA1;DQB1;DRB1	False	54.02	62.05	81.57		86.56
+classii_binders_weak_or_better	Belarus	43.81	43.81	1	DRB1	False	43.81				
+classii_binders_weak_or_better	Belarus Caucasoid	43.81	43.81	1	DRB1	False	43.81				
+classii_binders_weak_or_better	Belgium	99.94	80.25	4	DPB1;DQA1;DQB1;DRB1	False	79.39	4.35	96.42		90.82
+classii_binders_weak_or_better	Belgium Caucasoid	99.94	80.25	4	DPB1;DQA1;DQB1;DRB1	False	79.39	4.35	96.42		90.82
+classii_binders_weak_or_better	Berber	99.14	74.47	2	DQB1;DRB1	False	74.47		96.64		
+classii_binders_weak_or_better	Black	100.0	99.7	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	71.66	95.39	96.82	96.09	89.47
+classii_binders_weak_or_better	Bolivia	98.91	77.82	2	DQB1;DRB1	False	77.82		95.07		
+classii_binders_weak_or_better	Bolivia Amerindian	98.91	77.82	2	DQB1;DRB1	False	77.82		95.07		
+classii_binders_weak_or_better	Borneo	81.95	49.02	2	DPB1;DRB1	False	49.02				64.6
+classii_binders_weak_or_better	Borneo Austronesian	81.95	49.02	2	DPB1;DRB1	False	49.02				64.6
+classii_binders_weak_or_better	Brazil	100.0	99.98	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	68.25	100.0	97.69	99.42	97.41
+classii_binders_weak_or_better	Brazil Amerindian	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	50.0	100.0	99.86	99.42	97.41
+classii_binders_weak_or_better	Brazil Caucasoid	96.18	86.6	2	DQB1;DRB1	False	86.6		71.48		
+classii_binders_weak_or_better	Brazil Mixed	99.59	94.76	3	DQA1;DQB1;DRB1	False	80.46	85.25	85.86		
+classii_binders_weak_or_better	Brazil Mulatto	95.01	74.09	2	DQB1;DRB1	False	74.09		80.73		
+classii_binders_weak_or_better	Bulgaria	57.23	57.23	1	DRB1	False	57.23				
+classii_binders_weak_or_better	Bulgaria Caucasoid	57.23	57.23	1	DRB1	False	57.23				
+classii_binders_weak_or_better	Cameroon	100.0	98.84	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	49.87	90.54	88.8	98.07	89.95
+classii_binders_weak_or_better	Cameroon Black	100.0	98.84	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	49.87	90.54	88.8	98.07	89.95
+classii_binders_weak_or_better	Canada	100.0	95.29	3	DQA1;DQB1;DRB1	False	38.41	99.96	92.38		
+classii_binders_weak_or_better	Canada Amerindian	100.0	95.29	3	DQA1;DQB1;DRB1	False	38.41	99.96	92.38		
+classii_binders_weak_or_better	Cape Verde	80.38	80.38	1	DRB1	False	80.38				
+classii_binders_weak_or_better	Cape Verde Black	80.38	80.38	1	DRB1	False	80.38				
+classii_binders_weak_or_better	Caucasoid	100.0	99.77	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.33	89.68	82.75	99.85	91.81
+classii_binders_weak_or_better	Central Africa	100.0	99.61	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	66.03	93.5	95.22	97.62	91.84
+classii_binders_weak_or_better	Central African Republic	99.98	82.69	3	DPB1;DQB1;DRB1	False	82.69		97.6		96.2
+classii_binders_weak_or_better	Central African Republic Black	99.98	82.69	3	DPB1;DQB1;DRB1	False	82.69		97.6		96.2
+classii_binders_weak_or_better	Central America	100.0	99.51	4	DPB1;DQA1;DQB1;DRB1	False	51.47	99.0	100.0		98.56
+classii_binders_weak_or_better	Chile	99.98	98.18	3	DQA1;DQB1;DRB1	False	67.08	98.88	95.54		
+classii_binders_weak_or_better	Chile Amerindian	72.65	72.65	1	DRB1	False	72.65				
+classii_binders_weak_or_better	Chile Hispanic	99.99	98.16	2	DQA1;DQB1	False		98.88	99.28		
+classii_binders_weak_or_better	Chile Mixed	91.06	52.65	2	DQB1;DRB1	False	52.65		81.11		
+classii_binders_weak_or_better	China	99.99	97.64	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	72.69	92.45	75.95	79.75	88.96
+classii_binders_weak_or_better	China Oriental	99.99	97.64	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	72.69	92.45	75.95	79.75	88.96
+classii_binders_weak_or_better	Colombia	100.0	100.0	4	DPB1;DQA1;DQB1;DRB1	False	80.69	100.0	100.0		100.0
+classii_binders_weak_or_better	Colombia Amerindian	100.0	100.0	4	DPB1;DQA1;DQB1;DRB1	False	69.83	100.0	99.98		100.0
+classii_binders_weak_or_better	Colombia Black	100.0	99.65	4	DPB1;DQA1;DQB1;DRB1	False	85.62	98.85	98.68		93.86
+classii_binders_weak_or_better	Colombia Mestizo	98.62	56.31	2	DQB1;DRB1	False	56.31		96.83		
+classii_binders_weak_or_better	Congo	99.99	96.53	4	DPB1;DQA1;DQB1;DRB1	False	68.66	90.7	98.04		88.64
+classii_binders_weak_or_better	Congo Black	99.99	96.53	4	DPB1;DQA1;DQB1;DRB1	False	68.66	90.7	98.04		88.64
+classii_binders_weak_or_better	Cook Islands	100.0	99.99	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	80.51	99.41	88.98	99.96	99.75
+classii_binders_weak_or_better	Cook Islands Polynesian	100.0	99.99	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	80.51	99.41	88.98	99.96	99.75
+classii_binders_weak_or_better	Costa Rica	100.0	99.24	4	DPB1;DQA1;DQB1;DRB1	False	24.31	99.0	100.0		98.56
+classii_binders_weak_or_better	Costa Rica Mestizo	100.0	99.24	4	DPB1;DQA1;DQB1;DRB1	False	24.31	99.0	100.0		98.56
+classii_binders_weak_or_better	Croatia	99.93	96.91	3	DQA1;DQB1;DRB1	False	66.71	96.33	94.17		
+classii_binders_weak_or_better	Croatia Caucasoid	99.93	96.91	3	DQA1;DQB1;DRB1	False	66.71	96.33	94.17		
+classii_binders_weak_or_better	Cuba	92.72	86.29	3	DQA1;DQB1;DRB1	False	85.48	13.14	42.24		
+classii_binders_weak_or_better	Cuba Mixed	92.72	86.29	3	DQA1;DQB1;DRB1	False	85.48	13.14	42.24		
+classii_binders_weak_or_better	Czech Republic	99.99	97.2	4	DPB1;DQA1;DQB1;DRB1	False	86.63	85.72	92.19		96.27
+classii_binders_weak_or_better	Czech Republic Caucasoid	100.0	97.94	4	DPB1;DQA1;DQB1;DRB1	False	89.31	85.21	94.7		95.91
+classii_binders_weak_or_better	Czech Republic Other	99.97	84.24	4	DPB1;DQA1;DQB1;DRB1	False	64.14	88.63	63.25		97.98
+classii_binders_weak_or_better	Denmark	99.91	97.44	3	DQA1;DQB1;DRB1	False	88.98	80.11	95.8		
+classii_binders_weak_or_better	Denmark Caucasoid	99.91	97.44	3	DQA1;DQB1;DRB1	False	88.98	80.11	95.8		
+classii_binders_weak_or_better	East Africa	100.0	99.81	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	68.3	98.71	97.57	94.81	88.17
+classii_binders_weak_or_better	East Asia	99.93	95.33	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	85.93	76.0	73.93	27.38	88.45
+classii_binders_weak_or_better	Ecuador	100.0	99.46	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	52.25	77.65	99.72	94.98	100.0
+classii_binders_weak_or_better	Ecuador Amerindian	100.0	81.97	4	DPB1;DQA1;DQB1;DRB1	False	52.25	65.19	95.46		99.56
+classii_binders_weak_or_better	Ecuador Black	100.0	98.12	4	DPA1;DPB1;DQA1;DQB1	False		92.87	79.93	94.98	97.6
+classii_binders_weak_or_better	England	100.0	99.53	4	DPB1;DQA1;DQB1;DRB1	False	94.95	93.37	97.17		94.01
+classii_binders_weak_or_better	England Caucasoid	100.0	99.53	4	DPB1;DQA1;DQB1;DRB1	False	94.95	93.37	97.17		95.6
+classii_binders_weak_or_better	England Mixed	93.75	0.0	1	DPB1	False					93.75
+classii_binders_weak_or_better	Equatorial Guinea	95.51	73.56	3	DQA1;DQB1;DRB1	False	47.58	66.71	74.3		
+classii_binders_weak_or_better	Equatorial Guinea Black	95.51	73.56	3	DQA1;DQB1;DRB1	False	47.58	66.71	74.3		
+classii_binders_weak_or_better	Ethiopia	99.22	92.87	3	DQA1;DQB1;DRB1	False	83.0	85.87	67.6		
+classii_binders_weak_or_better	Ethiopia Black	99.22	92.87	3	DQA1;DQB1;DRB1	False	83.0	85.87	67.6		
+classii_binders_weak_or_better	Europe	100.0	99.77	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.62	90.65	83.23	99.34	93.03
+classii_binders_weak_or_better	Fiji	99.97	97.34	3	DQA1;DQB1;DRB1	False	80.02	98.7	87.82		
+classii_binders_weak_or_better	Fiji Melanesian	99.97	97.34	3	DQA1;DQB1;DRB1	False	80.02	98.7	87.82		
+classii_binders_weak_or_better	Finland	99.85	51.14	3	DPB1;DQB1;DRB1	False	51.14		90.94		96.61
+classii_binders_weak_or_better	Finland Caucasoid	99.85	51.14	3	DPB1;DQB1;DRB1	False	51.14		90.94		96.61
+classii_binders_weak_or_better	France	100.0	99.93	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.53	95.11	92.87	99.8	94.41
+classii_binders_weak_or_better	France Caucasoid	100.0	99.93	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.53	95.11	92.87	99.8	94.41
+classii_binders_weak_or_better	Gabon	100.0	99.81	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	41.78	99.21	97.69	96.9	92.29
+classii_binders_weak_or_better	Gabon Black	100.0	99.81	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	41.78	99.21	97.69	96.9	92.29
+classii_binders_weak_or_better	Gambia	100.0	97.15	4	DPA1;DPB1;DQA1;DQB1	False		95.96	92.98	98.64	74.58
+classii_binders_weak_or_better	Gambia Black	100.0	97.15	4	DPA1;DPB1;DQA1;DQB1	False		95.96	92.98	98.64	74.58
+classii_binders_weak_or_better	Georgia	99.98	96.22	4	DPB1;DQA1;DQB1;DRB1	False	75.2	89.04	95.2		87.33
+classii_binders_weak_or_better	Georgia Caucasoid	99.98	96.22	4	DPB1;DQA1;DQB1;DRB1	False	75.2	89.04	95.2		87.33
+classii_binders_weak_or_better	Germany	100.0	98.93	4	DPB1;DQA1;DQB1;DRB1	False	91.16	92.59	94.98		93.11
+classii_binders_weak_or_better	Germany Caucasoid	100.0	98.93	4	DPB1;DQA1;DQB1;DRB1	False	91.16	92.59	94.98		93.11
+classii_binders_weak_or_better	Greece	99.98	92.87	4	DPB1;DQA1;DQB1;DRB1	False	69.11	87.85	87.54		96.44
+classii_binders_weak_or_better	Greece Caucasoid	99.98	92.87	4	DPB1;DQA1;DQB1;DRB1	False	69.11	87.85	87.54		96.44
+classii_binders_weak_or_better	Guatemala	99.0	49.16	2	DQB1;DRB1	False	49.16		98.04		
+classii_binders_weak_or_better	Guatemala Amerindian	99.0	49.16	2	DQB1;DRB1	False	49.16		98.04		
+classii_binders_weak_or_better	Guinea-Bissau	71.16	71.16	1	DRB1	False	71.16				
+classii_binders_weak_or_better	Guinea-Bissau Black	71.16	71.16	1	DRB1	False	71.16				
+classii_binders_weak_or_better	Hispanic	99.99	99.11	3	DQA1;DQB1;DRB1	False	72.98	98.88	97.82		
+classii_binders_weak_or_better	India	100.0	98.91	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.38	72.93	81.9	96.2	88.88
+classii_binders_weak_or_better	India Asian	100.0	98.91	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.38	72.93	81.9	96.2	88.88
+classii_binders_weak_or_better	Indonesia	99.53	75.88	4	DPB1;DQA1;DQB1;DRB1	False	49.85	62.05	83.65		84.77
+classii_binders_weak_or_better	Indonesia Austronesian	99.53	75.88	4	DPB1;DQA1;DQB1;DRB1	False	49.85	62.05	83.65		84.77
+classii_binders_weak_or_better	Iran	99.94	96.77	3	DQA1;DQB1;DRB1	False	75.12	97.85	88.92		
+classii_binders_weak_or_better	Iran Kurd	99.69	92.01	3	DQA1;DQB1;DRB1	False	55.78	94.94	86.31		
+classii_binders_weak_or_better	Iran Persian	99.95	97.35	3	DQA1;DQB1;DRB1	False	79.71	97.54	89.11		
+classii_binders_weak_or_better	Ireland Northern	100.0	94.89	3	DPB1;DQB1;DRB1	False	94.89		97.34		96.87
+classii_binders_weak_or_better	Ireland Northern Caucasoid	100.0	94.89	3	DPB1;DQB1;DRB1	False	94.89		97.34		96.87
+classii_binders_weak_or_better	Ireland South	99.96	93.15	3	DPB1;DQB1;DRB1	False	93.15		91.04		94.05
+classii_binders_weak_or_better	Ireland South Caucasoid	99.96	93.15	3	DPB1;DQB1;DRB1	False	93.15		91.04		94.05
+classii_binders_weak_or_better	Israel	99.61	92.23	3	DQA1;DQB1;DRB1	False	70.63	78.38	93.83		
+classii_binders_weak_or_better	Israel Arab	97.3	80.92	3	DQA1;DQB1;DRB1	False	69.93	43.45	84.1		
+classii_binders_weak_or_better	Israel Jew	99.54	92.09	3	DQA1;DQB1;DRB1	False	70.98	78.54	92.62		
+classii_binders_weak_or_better	Italy	99.83	92.96	4	DPB1;DQA1;DQB1;DRB1	False	85.9	85.08	58.85		80.66
+classii_binders_weak_or_better	Italy Caucasoid	99.83	92.96	4	DPB1;DQA1;DQB1;DRB1	False	85.9	85.08	58.85		80.66
+classii_binders_weak_or_better	Jamaica	97.91	64.18	3	DQA1;DQB1;DRB1	False	27.41	93.75	54.03		
+classii_binders_weak_or_better	Jamaica Black	97.91	64.18	3	DQA1;DQB1;DRB1	False	27.41	93.75	54.03		
+classii_binders_weak_or_better	Japan	100.0	98.18	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	83.47	95.81	65.55	75.18	93.67
+classii_binders_weak_or_better	Japan Oriental	100.0	98.18	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	83.47	95.81	65.55	75.18	93.67
+classii_binders_weak_or_better	Jew	99.54	92.09	3	DQA1;DQB1;DRB1	False	70.98	78.54	92.62		
+classii_binders_weak_or_better	Jordan	99.49	92.6	3	DQA1;DQB1;DRB1	False	70.73	83.35	89.63		
+classii_binders_weak_or_better	Jordan Arab	99.49	92.6	3	DQA1;DQB1;DRB1	False	70.73	83.35	89.63		
+classii_binders_weak_or_better	Kenya	100.0	99.19	4	DPA1;DPB1;DQA1;DQB1	False		98.83	97.47	94.43	82.36
+classii_binders_weak_or_better	Kenya Black	100.0	99.19	4	DPA1;DPB1;DQA1;DQB1	False		98.83	97.47	94.43	82.36
+classii_binders_weak_or_better	Kiribati	97.03	69.13	3	DQA1;DQB1;DRB1	False	10.89	75.79	86.24		
+classii_binders_weak_or_better	Kiribati Micronesian	97.03	69.13	3	DQA1;DQB1;DRB1	False	10.89	75.79	86.24		
+classii_binders_weak_or_better	Korea; South	99.35	90.75	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	85.61	47.8	74.7	0.0	65.72
+classii_binders_weak_or_better	Korea; South Oriental	99.35	90.75	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	85.61	47.8	74.7	0.0	65.72
+classii_binders_weak_or_better	Kurd	99.69	92.01	3	DQA1;DQB1;DRB1	False	55.78	94.94	86.31		
+classii_binders_weak_or_better	Lebanon	99.98	81.62	3	DPB1;DQB1;DRB1	False	81.62		98.32		94.72
+classii_binders_weak_or_better	Lebanon Arab	99.98	81.62	3	DPB1;DQB1;DRB1	False	81.62		98.32		94.72
+classii_binders_weak_or_better	Liberia	99.51	86.22	2	DPA1;DPB1	False				91.53	94.19
+classii_binders_weak_or_better	Liberia Black	99.51	86.22	2	DPA1;DPB1	False				91.53	94.19
+classii_binders_weak_or_better	Macedonia	99.95	94.9	3	DQA1;DQB1;DRB1	False	67.93	99.04	84.91		
+classii_binders_weak_or_better	Macedonia Caucasoid	99.95	94.9	3	DQA1;DQB1;DRB1	False	67.93	99.04	84.91		
+classii_binders_weak_or_better	Malaysia	99.22	69.44	3	DPB1;DQB1;DRB1	False	69.44		84.24		83.76
+classii_binders_weak_or_better	Malaysia Austronesian	99.0	61.84	3	DPB1;DQB1;DRB1	False	61.84		83.87		83.76
+classii_binders_weak_or_better	Malaysia Oriental	96.32	85.45	2	DQB1;DRB1	False	85.45		74.7		
+classii_binders_weak_or_better	Martinique	96.16	75.99	2	DQB1;DRB1	False	75.99		84.0		
+classii_binders_weak_or_better	Martinique Black	96.16	75.99	2	DQB1;DRB1	False	75.99		84.0		
+classii_binders_weak_or_better	Melanesian	100.0	99.85	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	82.47	99.4	77.86	96.31	99.91
+classii_binders_weak_or_better	Mestizo	100.0	99.4	4	DPB1;DQA1;DQB1;DRB1	False	71.57	99.21	98.67		97.89
+classii_binders_weak_or_better	Mexico	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	69.11	99.86	99.86	99.96	99.75
+classii_binders_weak_or_better	Mexico Amerindian	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	54.46	100.0	100.0	99.96	99.75
+classii_binders_weak_or_better	Mexico Mestizo	100.0	99.33	3	DQA1;DQB1;DRB1	False	69.58	98.7	99.07		
+classii_binders_weak_or_better	Micronesian	98.31	79.17	3	DQA1;DQB1;DRB1	False	25.99	83.11	86.46		
+classii_binders_weak_or_better	Mixed	100.0	98.16	4	DPB1;DQA1;DQB1;DRB1	False	76.18	99.76	92.51		93.57
+classii_binders_weak_or_better	Mongolia	100.0	97.51	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.26	85.88	87.12	22.72	97.98
+classii_binders_weak_or_better	Mongolia Oriental	100.0	97.51	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.26	85.88	87.12	22.72	97.98
+classii_binders_weak_or_better	Morocco	99.88	96.96	3	DQA1;DQB1;DRB1	False	83.44	86.23	94.67		
+classii_binders_weak_or_better	Morocco Arab	99.98	98.66	3	DQA1;DQB1;DRB1	False	85.07	92.52	98.38		
+classii_binders_weak_or_better	Morocco Caucasoid	99.55	93.86	3	DQA1;DQB1;DRB1	False	79.75	77.15	90.33		
+classii_binders_weak_or_better	Mulatto	95.01	74.09	2	DQB1;DRB1	False	74.09		80.73		
+classii_binders_weak_or_better	Nauru	99.08	85.83	3	DQA1;DQB1;DRB1	False	38.69	88.71	86.68		
+classii_binders_weak_or_better	Nauru Micronesian	99.08	85.83	3	DQA1;DQB1;DRB1	False	38.69	88.71	86.68		
+classii_binders_weak_or_better	Netherlands	99.95	93.03	4	DPB1;DQA1;DQB1;DRB1	False	83.44	70.47	82.23		94.59
+classii_binders_weak_or_better	Netherlands Caucasoid	99.95	93.03	4	DPB1;DQA1;DQB1;DRB1	False	83.44	70.47	82.23		94.59
+classii_binders_weak_or_better	New Caledonia	99.97	97.5	3	DQA1;DQB1;DRB1	False	81.51	98.86	87.47		
+classii_binders_weak_or_better	New Caledonia Melanesian	99.97	97.5	3	DQA1;DQB1;DRB1	False	81.51	98.86	87.47		
+classii_binders_weak_or_better	New Zealand	100.0	96.83	4	DPA1;DPB1;DQB1;DRB1	False	86.31		84.24	77.25	99.44
+classii_binders_weak_or_better	New Zealand Polynesian	100.0	96.83	4	DPA1;DPB1;DQB1;DRB1	False	86.31		84.24	77.25	99.44
+classii_binders_weak_or_better	Nigeria	99.36	84.31	2	DPA1;DPB1	False				90.08	93.6
+classii_binders_weak_or_better	Nigeria Black	99.36	84.31	2	DPA1;DPB1	False				90.08	93.6
+classii_binders_weak_or_better	Niue	100.0	98.72	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	77.82	98.34	91.0	44.94	99.98
+classii_binders_weak_or_better	Niue Polynesian	100.0	98.72	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	77.82	98.34	91.0	44.94	99.98
+classii_binders_weak_or_better	North Africa	99.99	97.13	4	DPB1;DQA1;DQB1;DRB1	False	82.84	88.63	93.97		89.89
+classii_binders_weak_or_better	North America	100.0	99.99	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.89	99.5	96.55	99.99	98.1
+classii_binders_weak_or_better	Northeast Asia	99.99	97.64	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	72.69	92.45	75.95	79.75	88.96
+classii_binders_weak_or_better	Norway	100.0	99.62	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	94.71	96.39	96.39	0.0	96.76
+classii_binders_weak_or_better	Norway Caucasoid	100.0	99.62	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	94.71	96.39	96.39	0.0	96.76
+classii_binders_weak_or_better	Oceania	100.0	99.17	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.19	97.78	81.48	78.54	99.73
+classii_binders_weak_or_better	Oriental	99.93	94.13	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	79.09	82.06	74.09	31.71	89.59
+classii_binders_weak_or_better	Other	100.0	95.81	4	DPB1;DQA1;DQB1;DRB1	False	80.23	83.5	94.37		97.98
+classii_binders_weak_or_better	Pakistan	43.22	1.18	2	DQB1;DRB1	False	1.18		42.54		
+classii_binders_weak_or_better	Pakistan Asian	41.8	1.45	2	DQB1;DRB1	False	1.45		40.94		
+classii_binders_weak_or_better	Pakistan Mixed	36.94	0.0	2	DQB1;DRB1	False	0.0		36.94		
+classii_binders_weak_or_better	Papua New Guinea	100.0	99.82	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.41	99.62	74.35	96.31	99.91
+classii_binders_weak_or_better	Papua New Guinea Melanesian	100.0	99.82	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.41	99.62	74.35	96.31	99.91
+classii_binders_weak_or_better	Paraguay	100.0	48.37	3	DQA1;DQB1;DRB1	False	7.47	44.2	100.0		
+classii_binders_weak_or_better	Paraguay Amerindian	100.0	48.37	3	DQA1;DQB1;DRB1	False	7.47	44.2	100.0		
+classii_binders_weak_or_better	Persian	99.95	97.35	3	DQA1;DQB1;DRB1	False	79.71	97.54	89.11		
+classii_binders_weak_or_better	Peru	99.47	85.52	3	DQA1;DQB1;DRB1	False	54.0	71.38	96.0		
+classii_binders_weak_or_better	Peru Amerindian	99.81	86.36	3	DQA1;DQB1;DRB1	False	54.0	71.38	98.55		
+classii_binders_weak_or_better	Peru Mestizo	87.18	0.0	1	DQB1	False			87.18		
+classii_binders_weak_or_better	Philippines	28.56	28.56	1	DRB1	False	28.56				
+classii_binders_weak_or_better	Philippines Austronesian	28.56	28.56	1	DRB1	False	28.56				
+classii_binders_weak_or_better	Poland	99.94	98.4	3	DQA1;DQB1;DRB1	False	88.71	94.69	90.66		
+classii_binders_weak_or_better	Poland Caucasoid	99.94	98.4	3	DQA1;DQB1;DRB1	False	88.71	94.69	90.66		
+classii_binders_weak_or_better	Polynesian	100.0	99.31	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.6	98.49	85.14	76.78	99.85
+classii_binders_weak_or_better	Portugal	99.7	95.48	3	DQA1;DQB1;DRB1	False	82.49	82.27	90.18		
+classii_binders_weak_or_better	Portugal Caucasoid	99.7	95.48	3	DQA1;DQB1;DRB1	False	82.49	82.27	90.18		
+classii_binders_weak_or_better	Russia	100.0	99.97	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.31	95.79	93.82	97.08	99.77
+classii_binders_weak_or_better	Russia Caucasoid	100.0	99.43	4	DPB1;DQA1;DQB1;DRB1	False	93.55	94.62	96.33		93.75
+classii_binders_weak_or_better	Russia Mixed	99.89	92.73	2	DQA1;DQB1	False		97.82	94.8		
+classii_binders_weak_or_better	Russia Other	99.47	94.21	3	DQA1;DQB1;DRB1	False	85.1	68.96	88.61		
+classii_binders_weak_or_better	Russia Siberian	100.0	99.96	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	86.85	96.25	93.3	97.08	100.0
+classii_binders_weak_or_better	Rwanda	98.33	62.79	2	DQB1;DRB1	False	62.79		95.51		
+classii_binders_weak_or_better	Rwanda Black	98.33	62.79	2	DQB1;DRB1	False	62.79		95.51		
+classii_binders_weak_or_better	Samoa	100.0	98.34	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	80.86	98.63	77.4	63.46	99.94
+classii_binders_weak_or_better	Samoa Polynesian	100.0	98.34	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	80.86	98.63	77.4	63.46	99.94
+classii_binders_weak_or_better	Sao Tome and Principe	66.5	66.5	1	DRB1	False	66.5				
+classii_binders_weak_or_better	Sao Tome and Principe Black	66.5	66.5	1	DRB1	False	66.5				
+classii_binders_weak_or_better	Saudi Arabia	99.95	85.85	3	DPB1;DQB1;DRB1	False	85.85		83.69		98.04
+classii_binders_weak_or_better	Saudi Arabia Arab	99.95	85.85	3	DPB1;DQB1;DRB1	False	85.85		83.69		98.04
+classii_binders_weak_or_better	Scotland	99.28	90.82	2	DQA1;DRB1	False	90.82	92.16			
+classii_binders_weak_or_better	Scotland Caucasoid	99.28	90.82	2	DQA1;DRB1	False	90.82	92.16			
+classii_binders_weak_or_better	Senegal	30.28	30.28	1	DRB1	False	30.28				
+classii_binders_weak_or_better	Senegal Black	30.28	30.28	1	DRB1	False	30.28				
+classii_binders_weak_or_better	Siberian	100.0	99.96	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	86.85	96.25	93.3	97.08	100.0
+classii_binders_weak_or_better	Singapore	99.06	65.78	3	DPB1;DQB1;DRB1	False	65.78		86.82		79.21
+classii_binders_weak_or_better	Singapore Austronesian	99.06	65.78	3	DPB1;DQB1;DRB1	False	65.78		86.82		79.21
+classii_binders_weak_or_better	Slovakia	99.87	18.28	3	DPB1;DQB1;DRB1	False	18.28		94.38		97.21
+classii_binders_weak_or_better	Slovakia Caucasoid	99.87	18.28	3	DPB1;DQB1;DRB1	False	18.28		94.38		97.21
+classii_binders_weak_or_better	Slovenia	100.0	99.91	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	85.16	95.71	91.65	99.61	95.53
+classii_binders_weak_or_better	Slovenia Caucasoid	100.0	99.91	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	85.16	95.71	91.65	99.61	95.53
+classii_binders_weak_or_better	South Africa	32.1	32.1	1	DRB1	False	32.1				
+classii_binders_weak_or_better	South Africa Black	32.1	32.1	1	DRB1	False	32.1				
+classii_binders_weak_or_better	South America	100.0	99.98	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	70.42	100.0	98.84	95.0	99.81
+classii_binders_weak_or_better	South Asia	100.0	98.9	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.08	72.93	82.06	96.2	88.88
+classii_binders_weak_or_better	Southeast Asia	99.92	89.03	4	DPB1;DQA1;DQB1;DRB1	False	66.67	90.33	74.25		90.72
+classii_binders_weak_or_better	Southwest Asia	100.0	97.12	4	DPB1;DQA1;DQB1;DRB1	False	77.79	92.96	93.64		95.25
+classii_binders_weak_or_better	Spain	100.0	99.56	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	86.91	82.17	88.3	99.85	87.89
+classii_binders_weak_or_better	Spain Caucasoid	100.0	99.58	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.16	82.17	88.97	99.85	87.89
+classii_binders_weak_or_better	Spain Jew	0.0	0.0	1	DRB1	False	0.0				
+classii_binders_weak_or_better	Spain Other	75.59	6.3	2	DQB1;DRB1	False	6.3		73.95		
+classii_binders_weak_or_better	Sudan	99.48	60.56	3	DPB1;DQB1;DRB1	False	60.56		87.33		89.66
+classii_binders_weak_or_better	Sudan Black	89.44	0.0	1	DPB1	False					89.44
+classii_binders_weak_or_better	Sudan Mixed	99.47	60.56	3	DPB1;DQB1;DRB1	False	60.56		87.33		89.44
+classii_binders_weak_or_better	Sweden	100.0	99.93	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.4	92.46	93.66	99.64	95.11
+classii_binders_weak_or_better	Sweden Caucasoid	100.0	99.93	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.4	92.46	93.66	99.64	95.11
+classii_binders_weak_or_better	Taiwan	99.98	89.9	4	DPB1;DQA1;DQB1;DRB1	False	71.64	92.82	69.36		96.83
+classii_binders_weak_or_better	Taiwan Oriental	99.98	89.9	4	DPB1;DQA1;DQB1;DRB1	False	71.64	92.82	69.36		96.83
+classii_binders_weak_or_better	Thailand	99.81	88.19	4	DPB1;DQA1;DQB1;DRB1	False	65.58	92.56	70.96		74.66
+classii_binders_weak_or_better	Thailand Oriental	99.81	88.19	4	DPB1;DQA1;DQB1;DRB1	False	65.58	92.56	70.96		74.66
+classii_binders_weak_or_better	Tokelau	100.0	96.95	4	DPA1;DPB1;DQB1;DRB1	False	55.11		89.76	93.24	99.96
+classii_binders_weak_or_better	Tokelau Polynesian	100.0	96.95	4	DPA1;DPB1;DQB1;DRB1	False	55.11		89.76	93.24	99.96
+classii_binders_weak_or_better	Tonga	100.0	90.33	4	DPA1;DPB1;DQB1;DRB1	False	71.91		71.91	65.6	99.98
+classii_binders_weak_or_better	Tonga Polynesian	100.0	90.33	4	DPA1;DPB1;DQB1;DRB1	False	71.91		71.91	65.6	99.98
+classii_binders_weak_or_better	Tunisia	99.98	95.7	4	DPB1;DQA1;DQB1;DRB1	False	84.8	75.89	94.52		90.58
+classii_binders_weak_or_better	Tunisia Arab	99.98	96.41	4	DPB1;DQA1;DQB1;DRB1	False	87.57	75.89	93.77		90.58
+classii_binders_weak_or_better	Tunisia Berber	99.14	74.47	2	DQB1;DRB1	False	74.47		96.64		
+classii_binders_weak_or_better	Turkey	99.43	92.94	3	DQA1;DQB1;DRB1	False	76.19	88.19	79.75		
+classii_binders_weak_or_better	Turkey Caucasoid	99.43	92.94	3	DQA1;DQB1;DRB1	False	76.19	88.19	79.75		
+classii_binders_weak_or_better	Uganda	100.0	97.87	4	DPA1;DPB1;DQA1;DQB1	False		95.46	85.25	95.88	92.38
+classii_binders_weak_or_better	Uganda Black	100.0	97.87	4	DPA1;DPB1;DQA1;DQB1	False		95.46	85.25	95.88	92.38
+classii_binders_weak_or_better	Ukraine	50.64	50.64	1	DRB1	False	50.64				
+classii_binders_weak_or_better	Ukraine Caucasoid	50.64	50.64	1	DRB1	False	50.64				
+classii_binders_weak_or_better	United Arab Emirates	32.92	32.92	1	DRB1	False	32.92				
+classii_binders_weak_or_better	United Arab Emirates Arab	32.92	32.92	1	DRB1	False	32.92				
+classii_binders_weak_or_better	United Kingdom	96.58	28.23	4	DPA1;DPB1;DQA1;DQB1	False		0.0	55.11	31.77	88.84
+classii_binders_weak_or_better	United Kingdom Caucasoid	96.58	28.23	4	DPA1;DPB1;DQA1;DQB1	False		0.0	55.11	31.77	88.84
+classii_binders_weak_or_better	United States	100.0	99.98	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	88.1	99.06	95.54	99.99	96.5
+classii_binders_weak_or_better	United States Amerindian	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	50.76	100.0	99.47	99.99	99.64
+classii_binders_weak_or_better	United States Asian	95.13	78.84	2	DQB1;DRB1	False	78.84		77.01		
+classii_binders_weak_or_better	United States Austronesian	99.47	58.27	3	DPB1;DQB1;DRB1	False	58.27		66.71		96.2
+classii_binders_weak_or_better	United States Black	99.99	96.72	4	DPB1;DQA1;DQB1;DRB1	False	72.48	90.27	97.58		85.94
+classii_binders_weak_or_better	United States Caucasoid	99.99	97.94	4	DPB1;DQA1;DQB1;DRB1	False	90.15	87.61	90.28		93.91
+classii_binders_weak_or_better	United States Hispanic	99.38	72.98	2	DQB1;DRB1	False	72.98		97.7		
+classii_binders_weak_or_better	United States Mestizo	99.97	73.15	3	DPB1;DQB1;DRB1	False	73.15		97.55		95.12
+classii_binders_weak_or_better	United States Polynesian	100.0	96.68	4	DPB1;DQA1;DQB1;DRB1	False	78.66	94.1	89.76		98.9
+classii_binders_weak_or_better	Venezuela	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	3.17	100.0	100.0	43.01	99.87
+classii_binders_weak_or_better	Venezuela Amerindian	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	0.0	100.0	100.0	43.01	99.87
+classii_binders_weak_or_better	Venezuela Mixed	3.17	3.17	1	DRB1	False	3.17				
+classii_binders_weak_or_better	Vietnam	92.31	58.4	2	DQB1;DRB1	False	58.4		81.52		
+classii_binders_weak_or_better	Vietnam Oriental	92.31	58.4	2	DQB1;DRB1	False	58.4		81.52		
+classii_binders_weak_or_better	Wales	0.0	0.0	1	DRB1	False	0.0				
+classii_binders_weak_or_better	Wales Caucasoid	0.0	0.0	1	DRB1	False	0.0				
+classii_binders_weak_or_better	West Africa	100.0	99.39	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	68.4	95.96	92.98	95.63	85.92
+classii_binders_weak_or_better	West Indies	99.74	95.3	3	DQA1;DQB1;DRB1	False	79.7	92.18	83.39		
+classii_binders_weak_or_better	World	100.0	99.64	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.15	92.25	88.99	88.62	94.93
+classii_binders_weak_or_better	Zimbabwe	100.0	99.05	4	DPB1;DQA1;DQB1;DRB1	False	68.3	98.86	98.12		90.01
+classii_binders_weak_or_better	Zimbabwe Black	100.0	99.05	4	DPB1;DQA1;DQB1;DRB1	False	68.3	98.86	98.12		90.01
+classii_strong_binders	Algeria	99.59	90.07	3	DQA1;DQB1;DRB1	False	80.75	50.61	95.65		
+classii_strong_binders	Algeria Arab	99.59	90.07	3	DQA1;DQB1;DRB1	False	80.75	50.61	95.65		
+classii_strong_binders	Amerindian	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	55.44	100.0	99.74	100.0	100.0
+classii_strong_binders	Arab	99.99	97.33	4	DPB1;DQA1;DQB1;DRB1	False	84.34	86.9	95.47		94.55
+classii_strong_binders	Argentina	100.0	99.52	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	67.74	100.0	98.01	27.24	92.04
+classii_strong_binders	Argentina Amerindian	100.0	99.87	4	DPB1;DQA1;DQB1;DRB1	False	49.12	100.0	99.75		98.1
+classii_strong_binders	Argentina Caucasoid	99.91	92.84	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	80.65	56.7	94.43	27.24	74.7
+classii_strong_binders	Asian	100.0	98.98	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	83.3	72.93	79.21	96.2	88.88
+classii_strong_binders	Australia	99.98	83.71	4	DPB1;DQA1;DQB1;DRB1	False	44.2	97.03	72.97		94.75
+classii_strong_binders	Australia Australian Aborigines	99.98	83.71	4	DPB1;DQA1;DQB1;DRB1	False	44.2	97.03	72.97		94.75
+classii_strong_binders	Australian Aborigines	99.98	83.71	4	DPB1;DQA1;DQB1;DRB1	False	44.2	97.03	72.97		94.75
+classii_strong_binders	Austria	99.97	93.34	3	DPB1;DQB1;DRB1	False	93.34		89.44		95.22
+classii_strong_binders	Austria Caucasoid	99.97	93.34	3	DPB1;DQB1;DRB1	False	93.34		89.44		95.22
+classii_strong_binders	Austronesian	99.57	77.29	4	DPB1;DQA1;DQB1;DRB1	False	54.02	62.05	81.57		86.56
+classii_strong_binders	Belarus	43.81	43.81	1	DRB1	False	43.81				
+classii_strong_binders	Belarus Caucasoid	43.81	43.81	1	DRB1	False	43.81				
+classii_strong_binders	Belgium	99.94	80.25	4	DPB1;DQA1;DQB1;DRB1	False	79.39	4.35	96.42		90.82
+classii_strong_binders	Belgium Caucasoid	99.94	80.25	4	DPB1;DQA1;DQB1;DRB1	False	79.39	4.35	96.42		90.82
+classii_strong_binders	Berber	99.14	74.47	2	DQB1;DRB1	False	74.47		96.64		
+classii_strong_binders	Black	100.0	99.7	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	71.66	95.39	96.82	96.09	89.47
+classii_strong_binders	Bolivia	98.91	77.82	2	DQB1;DRB1	False	77.82		95.07		
+classii_strong_binders	Bolivia Amerindian	98.91	77.82	2	DQB1;DRB1	False	77.82		95.07		
+classii_strong_binders	Borneo	81.95	49.02	2	DPB1;DRB1	False	49.02				64.6
+classii_strong_binders	Borneo Austronesian	81.95	49.02	2	DPB1;DRB1	False	49.02				64.6
+classii_strong_binders	Brazil	100.0	99.98	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	68.25	100.0	97.69	99.42	97.41
+classii_strong_binders	Brazil Amerindian	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	50.0	100.0	99.86	99.42	97.41
+classii_strong_binders	Brazil Caucasoid	96.18	86.6	2	DQB1;DRB1	False	86.6		71.48		
+classii_strong_binders	Brazil Mixed	99.59	94.76	3	DQA1;DQB1;DRB1	False	80.46	85.25	85.86		
+classii_strong_binders	Brazil Mulatto	95.01	74.09	2	DQB1;DRB1	False	74.09		80.73		
+classii_strong_binders	Bulgaria	57.23	57.23	1	DRB1	False	57.23				
+classii_strong_binders	Bulgaria Caucasoid	57.23	57.23	1	DRB1	False	57.23				
+classii_strong_binders	Cameroon	100.0	98.84	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	49.87	90.54	88.8	98.07	89.95
+classii_strong_binders	Cameroon Black	100.0	98.84	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	49.87	90.54	88.8	98.07	89.95
+classii_strong_binders	Canada	100.0	95.29	3	DQA1;DQB1;DRB1	False	38.41	99.96	92.38		
+classii_strong_binders	Canada Amerindian	100.0	95.29	3	DQA1;DQB1;DRB1	False	38.41	99.96	92.38		
+classii_strong_binders	Cape Verde	80.38	80.38	1	DRB1	False	80.38				
+classii_strong_binders	Cape Verde Black	80.38	80.38	1	DRB1	False	80.38				
+classii_strong_binders	Caucasoid	100.0	99.77	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.33	89.68	82.75	99.85	91.81
+classii_strong_binders	Central Africa	100.0	99.61	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	66.03	93.5	95.22	97.62	91.84
+classii_strong_binders	Central African Republic	99.98	82.69	3	DPB1;DQB1;DRB1	False	82.69		97.6		96.2
+classii_strong_binders	Central African Republic Black	99.98	82.69	3	DPB1;DQB1;DRB1	False	82.69		97.6		96.2
+classii_strong_binders	Central America	100.0	99.51	4	DPB1;DQA1;DQB1;DRB1	False	51.47	99.0	100.0		98.56
+classii_strong_binders	Chile	99.98	98.18	3	DQA1;DQB1;DRB1	False	67.08	98.88	95.54		
+classii_strong_binders	Chile Amerindian	72.65	72.65	1	DRB1	False	72.65				
+classii_strong_binders	Chile Hispanic	99.99	98.16	2	DQA1;DQB1	False		98.88	99.28		
+classii_strong_binders	Chile Mixed	91.06	52.65	2	DQB1;DRB1	False	52.65		81.11		
+classii_strong_binders	China	99.99	97.64	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	72.69	92.45	75.95	79.75	88.96
+classii_strong_binders	China Oriental	99.99	97.64	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	72.69	92.45	75.95	79.75	88.96
+classii_strong_binders	Colombia	100.0	100.0	4	DPB1;DQA1;DQB1;DRB1	False	80.69	100.0	100.0		100.0
+classii_strong_binders	Colombia Amerindian	100.0	100.0	4	DPB1;DQA1;DQB1;DRB1	False	69.83	100.0	99.98		100.0
+classii_strong_binders	Colombia Black	100.0	99.65	4	DPB1;DQA1;DQB1;DRB1	False	85.62	98.85	98.68		93.86
+classii_strong_binders	Colombia Mestizo	98.62	56.31	2	DQB1;DRB1	False	56.31		96.83		
+classii_strong_binders	Congo	99.99	96.53	4	DPB1;DQA1;DQB1;DRB1	False	68.66	90.7	98.04		88.64
+classii_strong_binders	Congo Black	99.99	96.53	4	DPB1;DQA1;DQB1;DRB1	False	68.66	90.7	98.04		88.64
+classii_strong_binders	Cook Islands	100.0	99.99	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	80.51	99.41	88.98	99.96	99.75
+classii_strong_binders	Cook Islands Polynesian	100.0	99.99	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	80.51	99.41	88.98	99.96	99.75
+classii_strong_binders	Costa Rica	100.0	99.24	4	DPB1;DQA1;DQB1;DRB1	False	24.31	99.0	100.0		98.56
+classii_strong_binders	Costa Rica Mestizo	100.0	99.24	4	DPB1;DQA1;DQB1;DRB1	False	24.31	99.0	100.0		98.56
+classii_strong_binders	Croatia	99.93	96.91	3	DQA1;DQB1;DRB1	False	66.71	96.33	94.17		
+classii_strong_binders	Croatia Caucasoid	99.93	96.91	3	DQA1;DQB1;DRB1	False	66.71	96.33	94.17		
+classii_strong_binders	Cuba	92.72	86.29	3	DQA1;DQB1;DRB1	False	85.48	13.14	42.24		
+classii_strong_binders	Cuba Mixed	92.72	86.29	3	DQA1;DQB1;DRB1	False	85.48	13.14	42.24		
+classii_strong_binders	Czech Republic	99.99	97.2	4	DPB1;DQA1;DQB1;DRB1	False	86.63	85.72	92.19		96.27
+classii_strong_binders	Czech Republic Caucasoid	100.0	97.94	4	DPB1;DQA1;DQB1;DRB1	False	89.31	85.21	94.7		95.91
+classii_strong_binders	Czech Republic Other	99.97	84.24	4	DPB1;DQA1;DQB1;DRB1	False	64.14	88.63	63.25		97.98
+classii_strong_binders	Denmark	99.91	97.44	3	DQA1;DQB1;DRB1	False	88.98	80.11	95.8		
+classii_strong_binders	Denmark Caucasoid	99.91	97.44	3	DQA1;DQB1;DRB1	False	88.98	80.11	95.8		
+classii_strong_binders	East Africa	100.0	99.81	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	68.3	98.71	97.57	94.81	88.17
+classii_strong_binders	East Asia	99.93	95.33	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	85.93	76.0	73.93	27.38	88.45
+classii_strong_binders	Ecuador	100.0	99.46	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	52.25	77.65	99.72	94.98	100.0
+classii_strong_binders	Ecuador Amerindian	100.0	81.97	4	DPB1;DQA1;DQB1;DRB1	False	52.25	65.19	95.46		99.56
+classii_strong_binders	Ecuador Black	100.0	98.12	4	DPA1;DPB1;DQA1;DQB1	False		92.87	79.93	94.98	97.6
+classii_strong_binders	England	100.0	99.53	4	DPB1;DQA1;DQB1;DRB1	False	94.95	93.37	97.17		94.01
+classii_strong_binders	England Caucasoid	100.0	99.53	4	DPB1;DQA1;DQB1;DRB1	False	94.95	93.37	97.17		95.6
+classii_strong_binders	England Mixed	93.75	0.0	1	DPB1	False					93.75
+classii_strong_binders	Equatorial Guinea	95.51	73.56	3	DQA1;DQB1;DRB1	False	47.58	66.71	74.3		
+classii_strong_binders	Equatorial Guinea Black	95.51	73.56	3	DQA1;DQB1;DRB1	False	47.58	66.71	74.3		
+classii_strong_binders	Ethiopia	99.22	92.87	3	DQA1;DQB1;DRB1	False	83.0	85.87	67.6		
+classii_strong_binders	Ethiopia Black	99.22	92.87	3	DQA1;DQB1;DRB1	False	83.0	85.87	67.6		
+classii_strong_binders	Europe	100.0	99.77	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.62	90.65	83.23	99.34	93.03
+classii_strong_binders	Fiji	99.97	97.34	3	DQA1;DQB1;DRB1	False	80.02	98.7	87.82		
+classii_strong_binders	Fiji Melanesian	99.97	97.34	3	DQA1;DQB1;DRB1	False	80.02	98.7	87.82		
+classii_strong_binders	Finland	99.85	51.14	3	DPB1;DQB1;DRB1	False	51.14		90.94		96.61
+classii_strong_binders	Finland Caucasoid	99.85	51.14	3	DPB1;DQB1;DRB1	False	51.14		90.94		96.61
+classii_strong_binders	France	100.0	99.93	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.53	95.11	92.87	99.8	94.41
+classii_strong_binders	France Caucasoid	100.0	99.93	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.53	95.11	92.87	99.8	94.41
+classii_strong_binders	Gabon	100.0	99.81	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	41.78	99.21	97.69	96.9	92.29
+classii_strong_binders	Gabon Black	100.0	99.81	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	41.78	99.21	97.69	96.9	92.29
+classii_strong_binders	Gambia	100.0	97.15	4	DPA1;DPB1;DQA1;DQB1	False		95.96	92.98	98.64	74.58
+classii_strong_binders	Gambia Black	100.0	97.15	4	DPA1;DPB1;DQA1;DQB1	False		95.96	92.98	98.64	74.58
+classii_strong_binders	Georgia	99.98	96.22	4	DPB1;DQA1;DQB1;DRB1	False	75.2	89.04	95.2		87.33
+classii_strong_binders	Georgia Caucasoid	99.98	96.22	4	DPB1;DQA1;DQB1;DRB1	False	75.2	89.04	95.2		87.33
+classii_strong_binders	Germany	100.0	98.93	4	DPB1;DQA1;DQB1;DRB1	False	91.16	92.59	94.98		93.11
+classii_strong_binders	Germany Caucasoid	100.0	98.93	4	DPB1;DQA1;DQB1;DRB1	False	91.16	92.59	94.98		93.11
+classii_strong_binders	Greece	99.98	92.87	4	DPB1;DQA1;DQB1;DRB1	False	69.11	87.85	87.54		96.44
+classii_strong_binders	Greece Caucasoid	99.98	92.87	4	DPB1;DQA1;DQB1;DRB1	False	69.11	87.85	87.54		96.44
+classii_strong_binders	Guatemala	99.0	49.16	2	DQB1;DRB1	False	49.16		98.04		
+classii_strong_binders	Guatemala Amerindian	99.0	49.16	2	DQB1;DRB1	False	49.16		98.04		
+classii_strong_binders	Guinea-Bissau	71.16	71.16	1	DRB1	False	71.16				
+classii_strong_binders	Guinea-Bissau Black	71.16	71.16	1	DRB1	False	71.16				
+classii_strong_binders	Hispanic	99.99	99.11	3	DQA1;DQB1;DRB1	False	72.98	98.88	97.82		
+classii_strong_binders	India	100.0	98.91	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.38	72.93	81.9	96.2	88.88
+classii_strong_binders	India Asian	100.0	98.91	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.38	72.93	81.9	96.2	88.88
+classii_strong_binders	Indonesia	99.53	75.88	4	DPB1;DQA1;DQB1;DRB1	False	49.85	62.05	83.65		84.77
+classii_strong_binders	Indonesia Austronesian	99.53	75.88	4	DPB1;DQA1;DQB1;DRB1	False	49.85	62.05	83.65		84.77
+classii_strong_binders	Iran	99.94	96.77	3	DQA1;DQB1;DRB1	False	75.12	97.85	88.92		
+classii_strong_binders	Iran Kurd	99.69	92.01	3	DQA1;DQB1;DRB1	False	55.78	94.94	86.31		
+classii_strong_binders	Iran Persian	99.95	97.35	3	DQA1;DQB1;DRB1	False	79.71	97.54	89.11		
+classii_strong_binders	Ireland Northern	100.0	94.89	3	DPB1;DQB1;DRB1	False	94.89		97.34		96.87
+classii_strong_binders	Ireland Northern Caucasoid	100.0	94.89	3	DPB1;DQB1;DRB1	False	94.89		97.34		96.87
+classii_strong_binders	Ireland South	99.96	93.15	3	DPB1;DQB1;DRB1	False	93.15		91.04		94.05
+classii_strong_binders	Ireland South Caucasoid	99.96	93.15	3	DPB1;DQB1;DRB1	False	93.15		91.04		94.05
+classii_strong_binders	Israel	99.61	92.23	3	DQA1;DQB1;DRB1	False	70.63	78.38	93.83		
+classii_strong_binders	Israel Arab	97.3	80.92	3	DQA1;DQB1;DRB1	False	69.93	43.45	84.1		
+classii_strong_binders	Israel Jew	99.54	92.09	3	DQA1;DQB1;DRB1	False	70.98	78.54	92.62		
+classii_strong_binders	Italy	99.83	92.96	4	DPB1;DQA1;DQB1;DRB1	False	85.9	85.08	58.85		80.66
+classii_strong_binders	Italy Caucasoid	99.83	92.96	4	DPB1;DQA1;DQB1;DRB1	False	85.9	85.08	58.85		80.66
+classii_strong_binders	Jamaica	97.91	64.18	3	DQA1;DQB1;DRB1	False	27.41	93.75	54.03		
+classii_strong_binders	Jamaica Black	97.91	64.18	3	DQA1;DQB1;DRB1	False	27.41	93.75	54.03		
+classii_strong_binders	Japan	100.0	98.18	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	83.47	95.81	65.55	75.18	93.67
+classii_strong_binders	Japan Oriental	100.0	98.18	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	83.47	95.81	65.55	75.18	93.67
+classii_strong_binders	Jew	99.54	92.09	3	DQA1;DQB1;DRB1	False	70.98	78.54	92.62		
+classii_strong_binders	Jordan	99.49	92.6	3	DQA1;DQB1;DRB1	False	70.73	83.35	89.63		
+classii_strong_binders	Jordan Arab	99.49	92.6	3	DQA1;DQB1;DRB1	False	70.73	83.35	89.63		
+classii_strong_binders	Kenya	100.0	99.19	4	DPA1;DPB1;DQA1;DQB1	False		98.83	97.47	94.43	82.36
+classii_strong_binders	Kenya Black	100.0	99.19	4	DPA1;DPB1;DQA1;DQB1	False		98.83	97.47	94.43	82.36
+classii_strong_binders	Kiribati	97.03	69.13	3	DQA1;DQB1;DRB1	False	10.89	75.79	86.24		
+classii_strong_binders	Kiribati Micronesian	97.03	69.13	3	DQA1;DQB1;DRB1	False	10.89	75.79	86.24		
+classii_strong_binders	Korea; South	99.35	90.75	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	85.61	47.8	74.7	0.0	65.72
+classii_strong_binders	Korea; South Oriental	99.35	90.75	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	85.61	47.8	74.7	0.0	65.72
+classii_strong_binders	Kurd	99.69	92.01	3	DQA1;DQB1;DRB1	False	55.78	94.94	86.31		
+classii_strong_binders	Lebanon	99.98	81.62	3	DPB1;DQB1;DRB1	False	81.62		98.32		94.72
+classii_strong_binders	Lebanon Arab	99.98	81.62	3	DPB1;DQB1;DRB1	False	81.62		98.32		94.72
+classii_strong_binders	Liberia	99.51	86.22	2	DPA1;DPB1	False				91.53	94.19
+classii_strong_binders	Liberia Black	99.51	86.22	2	DPA1;DPB1	False				91.53	94.19
+classii_strong_binders	Macedonia	99.95	94.9	3	DQA1;DQB1;DRB1	False	67.93	99.04	84.91		
+classii_strong_binders	Macedonia Caucasoid	99.95	94.9	3	DQA1;DQB1;DRB1	False	67.93	99.04	84.91		
+classii_strong_binders	Malaysia	99.22	69.44	3	DPB1;DQB1;DRB1	False	69.44		84.24		83.76
+classii_strong_binders	Malaysia Austronesian	99.0	61.84	3	DPB1;DQB1;DRB1	False	61.84		83.87		83.76
+classii_strong_binders	Malaysia Oriental	96.32	85.45	2	DQB1;DRB1	False	85.45		74.7		
+classii_strong_binders	Martinique	96.16	75.99	2	DQB1;DRB1	False	75.99		84.0		
+classii_strong_binders	Martinique Black	96.16	75.99	2	DQB1;DRB1	False	75.99		84.0		
+classii_strong_binders	Melanesian	100.0	99.85	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	82.47	99.4	77.86	96.31	99.91
+classii_strong_binders	Mestizo	100.0	99.4	4	DPB1;DQA1;DQB1;DRB1	False	71.57	99.21	98.67		97.89
+classii_strong_binders	Mexico	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	69.11	99.86	99.86	99.96	99.75
+classii_strong_binders	Mexico Amerindian	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	54.46	100.0	100.0	99.96	99.75
+classii_strong_binders	Mexico Mestizo	100.0	99.33	3	DQA1;DQB1;DRB1	False	69.58	98.7	99.07		
+classii_strong_binders	Micronesian	98.31	79.17	3	DQA1;DQB1;DRB1	False	25.99	83.11	86.46		
+classii_strong_binders	Mixed	100.0	98.16	4	DPB1;DQA1;DQB1;DRB1	False	76.18	99.76	92.51		93.57
+classii_strong_binders	Mongolia	100.0	97.51	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.26	85.88	87.12	22.72	97.98
+classii_strong_binders	Mongolia Oriental	100.0	97.51	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.26	85.88	87.12	22.72	97.98
+classii_strong_binders	Morocco	99.88	96.96	3	DQA1;DQB1;DRB1	False	83.44	86.23	94.67		
+classii_strong_binders	Morocco Arab	99.98	98.66	3	DQA1;DQB1;DRB1	False	85.07	92.52	98.38		
+classii_strong_binders	Morocco Caucasoid	99.55	93.86	3	DQA1;DQB1;DRB1	False	79.75	77.15	90.33		
+classii_strong_binders	Mulatto	95.01	74.09	2	DQB1;DRB1	False	74.09		80.73		
+classii_strong_binders	Nauru	99.08	85.83	3	DQA1;DQB1;DRB1	False	38.69	88.71	86.68		
+classii_strong_binders	Nauru Micronesian	99.08	85.83	3	DQA1;DQB1;DRB1	False	38.69	88.71	86.68		
+classii_strong_binders	Netherlands	99.95	93.03	4	DPB1;DQA1;DQB1;DRB1	False	83.44	70.47	82.23		94.59
+classii_strong_binders	Netherlands Caucasoid	99.95	93.03	4	DPB1;DQA1;DQB1;DRB1	False	83.44	70.47	82.23		94.59
+classii_strong_binders	New Caledonia	99.97	97.5	3	DQA1;DQB1;DRB1	False	81.51	98.86	87.47		
+classii_strong_binders	New Caledonia Melanesian	99.97	97.5	3	DQA1;DQB1;DRB1	False	81.51	98.86	87.47		
+classii_strong_binders	New Zealand	100.0	96.83	4	DPA1;DPB1;DQB1;DRB1	False	86.31		84.24	77.25	99.44
+classii_strong_binders	New Zealand Polynesian	100.0	96.83	4	DPA1;DPB1;DQB1;DRB1	False	86.31		84.24	77.25	99.44
+classii_strong_binders	Nigeria	99.36	84.31	2	DPA1;DPB1	False				90.08	93.6
+classii_strong_binders	Nigeria Black	99.36	84.31	2	DPA1;DPB1	False				90.08	93.6
+classii_strong_binders	Niue	100.0	98.72	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	77.82	98.34	91.0	44.94	99.98
+classii_strong_binders	Niue Polynesian	100.0	98.72	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	77.82	98.34	91.0	44.94	99.98
+classii_strong_binders	North Africa	99.99	97.13	4	DPB1;DQA1;DQB1;DRB1	False	82.84	88.63	93.97		89.89
+classii_strong_binders	North America	100.0	99.99	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.89	99.5	96.55	99.99	98.1
+classii_strong_binders	Northeast Asia	99.99	97.64	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	72.69	92.45	75.95	79.75	88.96
+classii_strong_binders	Norway	100.0	99.62	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	94.71	96.39	96.39	0.0	96.76
+classii_strong_binders	Norway Caucasoid	100.0	99.62	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	94.71	96.39	96.39	0.0	96.76
+classii_strong_binders	Oceania	100.0	99.17	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.19	97.78	81.48	78.54	99.73
+classii_strong_binders	Oriental	99.93	94.13	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	79.09	82.06	74.09	31.71	89.59
+classii_strong_binders	Other	100.0	95.81	4	DPB1;DQA1;DQB1;DRB1	False	80.23	83.5	94.37		97.98
+classii_strong_binders	Pakistan	43.22	1.18	2	DQB1;DRB1	False	1.18		42.54		
+classii_strong_binders	Pakistan Asian	41.8	1.45	2	DQB1;DRB1	False	1.45		40.94		
+classii_strong_binders	Pakistan Mixed	36.94	0.0	2	DQB1;DRB1	False	0.0		36.94		
+classii_strong_binders	Papua New Guinea	100.0	99.82	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.41	99.62	74.35	96.31	99.91
+classii_strong_binders	Papua New Guinea Melanesian	100.0	99.82	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.41	99.62	74.35	96.31	99.91
+classii_strong_binders	Paraguay	100.0	48.37	3	DQA1;DQB1;DRB1	False	7.47	44.2	100.0		
+classii_strong_binders	Paraguay Amerindian	100.0	48.37	3	DQA1;DQB1;DRB1	False	7.47	44.2	100.0		
+classii_strong_binders	Persian	99.95	97.35	3	DQA1;DQB1;DRB1	False	79.71	97.54	89.11		
+classii_strong_binders	Peru	99.47	85.52	3	DQA1;DQB1;DRB1	False	54.0	71.38	96.0		
+classii_strong_binders	Peru Amerindian	99.81	86.36	3	DQA1;DQB1;DRB1	False	54.0	71.38	98.55		
+classii_strong_binders	Peru Mestizo	87.18	0.0	1	DQB1	False			87.18		
+classii_strong_binders	Philippines	28.56	28.56	1	DRB1	False	28.56				
+classii_strong_binders	Philippines Austronesian	28.56	28.56	1	DRB1	False	28.56				
+classii_strong_binders	Poland	99.94	98.4	3	DQA1;DQB1;DRB1	False	88.71	94.69	90.66		
+classii_strong_binders	Poland Caucasoid	99.94	98.4	3	DQA1;DQB1;DRB1	False	88.71	94.69	90.66		
+classii_strong_binders	Polynesian	100.0	99.31	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.6	98.49	85.14	76.78	99.85
+classii_strong_binders	Portugal	99.7	95.48	3	DQA1;DQB1;DRB1	False	82.49	82.27	90.18		
+classii_strong_binders	Portugal Caucasoid	99.7	95.48	3	DQA1;DQB1;DRB1	False	82.49	82.27	90.18		
+classii_strong_binders	Russia	100.0	99.97	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.31	95.79	93.82	97.08	99.77
+classii_strong_binders	Russia Caucasoid	100.0	99.43	4	DPB1;DQA1;DQB1;DRB1	False	93.55	94.62	96.33		93.75
+classii_strong_binders	Russia Mixed	99.89	92.73	2	DQA1;DQB1	False		97.82	94.8		
+classii_strong_binders	Russia Other	99.47	94.21	3	DQA1;DQB1;DRB1	False	85.1	68.96	88.61		
+classii_strong_binders	Russia Siberian	100.0	99.96	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	86.85	96.25	93.3	97.08	100.0
+classii_strong_binders	Rwanda	98.33	62.79	2	DQB1;DRB1	False	62.79		95.51		
+classii_strong_binders	Rwanda Black	98.33	62.79	2	DQB1;DRB1	False	62.79		95.51		
+classii_strong_binders	Samoa	100.0	98.34	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	80.86	98.63	77.4	63.46	99.94
+classii_strong_binders	Samoa Polynesian	100.0	98.34	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	80.86	98.63	77.4	63.46	99.94
+classii_strong_binders	Sao Tome and Principe	66.5	66.5	1	DRB1	False	66.5				
+classii_strong_binders	Sao Tome and Principe Black	66.5	66.5	1	DRB1	False	66.5				
+classii_strong_binders	Saudi Arabia	99.95	85.85	3	DPB1;DQB1;DRB1	False	85.85		83.69		98.04
+classii_strong_binders	Saudi Arabia Arab	99.95	85.85	3	DPB1;DQB1;DRB1	False	85.85		83.69		98.04
+classii_strong_binders	Scotland	99.28	90.82	2	DQA1;DRB1	False	90.82	92.16			
+classii_strong_binders	Scotland Caucasoid	99.28	90.82	2	DQA1;DRB1	False	90.82	92.16			
+classii_strong_binders	Senegal	30.28	30.28	1	DRB1	False	30.28				
+classii_strong_binders	Senegal Black	30.28	30.28	1	DRB1	False	30.28				
+classii_strong_binders	Siberian	100.0	99.96	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	86.85	96.25	93.3	97.08	100.0
+classii_strong_binders	Singapore	99.06	65.78	3	DPB1;DQB1;DRB1	False	65.78		86.82		79.21
+classii_strong_binders	Singapore Austronesian	99.06	65.78	3	DPB1;DQB1;DRB1	False	65.78		86.82		79.21
+classii_strong_binders	Slovakia	99.87	18.28	3	DPB1;DQB1;DRB1	False	18.28		94.38		97.21
+classii_strong_binders	Slovakia Caucasoid	99.87	18.28	3	DPB1;DQB1;DRB1	False	18.28		94.38		97.21
+classii_strong_binders	Slovenia	100.0	99.91	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	85.16	95.71	91.65	99.61	95.53
+classii_strong_binders	Slovenia Caucasoid	100.0	99.91	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	85.16	95.71	91.65	99.61	95.53
+classii_strong_binders	South Africa	32.1	32.1	1	DRB1	False	32.1				
+classii_strong_binders	South Africa Black	32.1	32.1	1	DRB1	False	32.1				
+classii_strong_binders	South America	100.0	99.98	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	70.42	100.0	98.84	95.0	99.81
+classii_strong_binders	South Asia	100.0	98.9	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	81.08	72.93	82.06	96.2	88.88
+classii_strong_binders	Southeast Asia	99.92	89.03	4	DPB1;DQA1;DQB1;DRB1	False	66.67	90.33	74.25		90.72
+classii_strong_binders	Southwest Asia	100.0	97.12	4	DPB1;DQA1;DQB1;DRB1	False	77.79	92.96	93.64		95.25
+classii_strong_binders	Spain	100.0	99.56	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	86.91	82.17	88.3	99.85	87.89
+classii_strong_binders	Spain Caucasoid	100.0	99.58	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.16	82.17	88.97	99.85	87.89
+classii_strong_binders	Spain Jew	0.0	0.0	1	DRB1	False	0.0				
+classii_strong_binders	Spain Other	75.59	6.3	2	DQB1;DRB1	False	6.3		73.95		
+classii_strong_binders	Sudan	99.48	60.56	3	DPB1;DQB1;DRB1	False	60.56		87.33		89.66
+classii_strong_binders	Sudan Black	89.44	0.0	1	DPB1	False					89.44
+classii_strong_binders	Sudan Mixed	99.47	60.56	3	DPB1;DQB1;DRB1	False	60.56		87.33		89.44
+classii_strong_binders	Sweden	100.0	99.93	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.4	92.46	93.66	99.64	95.11
+classii_strong_binders	Sweden Caucasoid	100.0	99.93	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	89.4	92.46	93.66	99.64	95.11
+classii_strong_binders	Taiwan	99.98	89.9	4	DPB1;DQA1;DQB1;DRB1	False	71.64	92.82	69.36		96.83
+classii_strong_binders	Taiwan Oriental	99.98	89.9	4	DPB1;DQA1;DQB1;DRB1	False	71.64	92.82	69.36		96.83
+classii_strong_binders	Thailand	99.81	88.19	4	DPB1;DQA1;DQB1;DRB1	False	65.58	92.56	70.96		74.66
+classii_strong_binders	Thailand Oriental	99.81	88.19	4	DPB1;DQA1;DQB1;DRB1	False	65.58	92.56	70.96		74.66
+classii_strong_binders	Tokelau	100.0	96.95	4	DPA1;DPB1;DQB1;DRB1	False	55.11		89.76	93.24	99.96
+classii_strong_binders	Tokelau Polynesian	100.0	96.95	4	DPA1;DPB1;DQB1;DRB1	False	55.11		89.76	93.24	99.96
+classii_strong_binders	Tonga	100.0	90.33	4	DPA1;DPB1;DQB1;DRB1	False	71.91		71.91	65.6	99.98
+classii_strong_binders	Tonga Polynesian	100.0	90.33	4	DPA1;DPB1;DQB1;DRB1	False	71.91		71.91	65.6	99.98
+classii_strong_binders	Tunisia	99.98	95.7	4	DPB1;DQA1;DQB1;DRB1	False	84.8	75.89	94.52		90.58
+classii_strong_binders	Tunisia Arab	99.98	96.41	4	DPB1;DQA1;DQB1;DRB1	False	87.57	75.89	93.77		90.58
+classii_strong_binders	Tunisia Berber	99.14	74.47	2	DQB1;DRB1	False	74.47		96.64		
+classii_strong_binders	Turkey	99.43	92.94	3	DQA1;DQB1;DRB1	False	76.19	88.19	79.75		
+classii_strong_binders	Turkey Caucasoid	99.43	92.94	3	DQA1;DQB1;DRB1	False	76.19	88.19	79.75		
+classii_strong_binders	Uganda	100.0	97.87	4	DPA1;DPB1;DQA1;DQB1	False		95.46	85.25	95.88	92.38
+classii_strong_binders	Uganda Black	100.0	97.87	4	DPA1;DPB1;DQA1;DQB1	False		95.46	85.25	95.88	92.38
+classii_strong_binders	Ukraine	50.64	50.64	1	DRB1	False	50.64				
+classii_strong_binders	Ukraine Caucasoid	50.64	50.64	1	DRB1	False	50.64				
+classii_strong_binders	United Arab Emirates	32.92	32.92	1	DRB1	False	32.92				
+classii_strong_binders	United Arab Emirates Arab	32.92	32.92	1	DRB1	False	32.92				
+classii_strong_binders	United Kingdom	96.58	28.23	4	DPA1;DPB1;DQA1;DQB1	False		0.0	55.11	31.77	88.84
+classii_strong_binders	United Kingdom Caucasoid	96.58	28.23	4	DPA1;DPB1;DQA1;DQB1	False		0.0	55.11	31.77	88.84
+classii_strong_binders	United States	100.0	99.98	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	88.1	99.06	95.54	99.99	96.5
+classii_strong_binders	United States Amerindian	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	50.76	100.0	99.47	99.99	99.64
+classii_strong_binders	United States Asian	95.13	78.84	2	DQB1;DRB1	False	78.84		77.01		
+classii_strong_binders	United States Austronesian	99.47	58.27	3	DPB1;DQB1;DRB1	False	58.27		66.71		96.2
+classii_strong_binders	United States Black	99.99	96.72	4	DPB1;DQA1;DQB1;DRB1	False	72.48	90.27	97.58		85.94
+classii_strong_binders	United States Caucasoid	99.99	97.94	4	DPB1;DQA1;DQB1;DRB1	False	90.15	87.61	90.28		93.91
+classii_strong_binders	United States Hispanic	99.38	72.98	2	DQB1;DRB1	False	72.98		97.7		
+classii_strong_binders	United States Mestizo	99.97	73.15	3	DPB1;DQB1;DRB1	False	73.15		97.55		95.12
+classii_strong_binders	United States Polynesian	100.0	96.68	4	DPB1;DQA1;DQB1;DRB1	False	78.66	94.1	89.76		98.9
+classii_strong_binders	Venezuela	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	3.17	100.0	100.0	43.01	99.87
+classii_strong_binders	Venezuela Amerindian	100.0	100.0	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	0.0	100.0	100.0	43.01	99.87
+classii_strong_binders	Venezuela Mixed	3.17	3.17	1	DRB1	False	3.17				
+classii_strong_binders	Vietnam	92.31	58.4	2	DQB1;DRB1	False	58.4		81.52		
+classii_strong_binders	Vietnam Oriental	92.31	58.4	2	DQB1;DRB1	False	58.4		81.52		
+classii_strong_binders	Wales	0.0	0.0	1	DRB1	False	0.0				
+classii_strong_binders	Wales Caucasoid	0.0	0.0	1	DRB1	False	0.0				
+classii_strong_binders	West Africa	100.0	99.39	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	68.4	95.96	92.98	95.63	85.92
+classii_strong_binders	West Indies	99.74	95.3	3	DQA1;DQB1;DRB1	False	79.7	92.18	83.39		
+classii_strong_binders	World	100.0	99.64	5	DPA1;DPB1;DQA1;DQB1;DRB1	True	87.15	92.25	88.99	88.62	94.93
+classii_strong_binders	Zimbabwe	100.0	99.05	4	DPB1;DQA1;DQB1;DRB1	False	68.3	98.86	98.12		90.01
+classii_strong_binders	Zimbabwe Black	100.0	99.05	4	DPB1;DQA1;DQB1;DRB1	False	68.3	98.86	98.12		90.01

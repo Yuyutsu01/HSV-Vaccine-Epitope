@@ -1,3 +1,163 @@
 [2026-11-19 00:13:54] ==============================================================================
 [2026-11-19 00:13:54] STEP 10b: HyPhy-ready alignments and per-type trees (combined cohorts excluded)
 [2026-11-19 00:13:55] Prepared 2 HyPhy-ready alignments (reference rows dropped)
+[2026-11-19 00:15:05] US6 HSV1: OK n=91 len=1182 model=K3Pu+F+R3 70.4s
+[2026-11-19 00:17:33] US6 HSV2: OK n=54 len=1179 model=K3Pu+F+I 148.4s
+[2026-11-19 00:17:33] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\tree_summary_v2.tsv: 2/2 trees available
+[2026-11-19 00:17:43] ==============================================================================
+[2026-11-19 00:17:43] STEP 10b: HyPhy-ready alignments and per-type trees (combined cohorts excluded)
+[2026-11-19 00:17:43] Prepared 40 HyPhy-ready alignments (reference rows dropped)
+[2026-11-19 00:35:21] RL2 HSV1: OK n=187 len=2325 model=TIM+F+I+R3 1058.0s
+[2026-11-19 00:58:12] RS1 HSV1: OK n=215 len=3897 model=K3Pu+F+R4 1370.0s
+[2026-11-19 01:08:59] UL10 HSV1: OK n=120 len=1419 model=K3Pu+F+R3 647.2s
+[2026-11-19 01:09:17] UL1 HSV1: OK n=78 len=672 model=K3P+I 18.0s
+[2026-11-19 01:18:30] UL22 HSV1: OK n=148 len=2514 model=K3Pu+F+I+R2 553.7s
+[2026-11-19 01:25:13] UL23 HSV1: FAILED n=108 len=1128 model=? 402.4s
+[2026-11-19 01:25:13]   stderr: ERROR: Numerical underflow (lh-derivative). Run again with the safe likelihood kernel via `-safe` option
+
+[2026-11-19 01:26:52] UL27 HSV1: FAILED n=147 len=2712 model=? 99.1s
+[2026-11-19 01:26:52]   stderr: ERROR: Numerical underflow (lh-derivative). Run again with the safe likelihood kernel via `-safe` option
+
+[2026-11-19 01:33:59] UL30 HSV1: OK n=167 len=3705 model=TIM+F+R4 427.4s
+[2026-11-19 01:38:14] UL44 HSV1: OK n=123 len=1533 model=K3Pu+F+R2 254.8s
+[2026-11-19 01:44:32] UL46 HSV1: OK n=136 len=2151 model=K3Pu+F+I+R2 378.2s
+[2026-11-19 01:48:52] UL47 HSV1: FAILED n=127 len=2079 model=? 259.5s
+[2026-11-19 01:48:52]   stderr: ERROR: Numerical underflow (lh-derivative). Run again with the safe likelihood kernel via `-safe` option
+
+[2026-11-19 01:59:51] UL48 HSV1: FAILED n=116 len=1470 model=? 659.1s
+[2026-11-19 01:59:51]   stderr: ERROR: Numerical underflow (lh-derivative). Run again with the safe likelihood kernel via `-safe` option
+
+[2026-11-19 02:01:46] UL49A HSV1: OK n=32 len=273 model=HKY+F 115.3s
+[2026-11-19 02:08:14] UL49 HSV1: OK n=81 len=903 model=K3Pu+F+I+G4 387.3s
+[2026-11-19 02:10:43] UL53 HSV1: OK n=68 len=1014 model=K3Pu+F+I 149.2s
+[2026-11-19 02:11:11] UL54 HSV1: OK n=99 len=1536 model=K3Pu+F+G4 27.7s
+[2026-11-19 02:11:59] US4 HSV1: OK n=86 len=714 model=TIM+F+R2 48.4s
+[2026-11-19 02:11:59] US6 HSV1: tree cached, skipped
+[2026-11-19 02:13:10] US7 HSV1: OK n=127 len=1170 model=K3Pu+F+R2 70.7s
+[2026-11-19 02:15:01] US8 HSV1: OK n=127 len=1650 model=K3Pu+F+R2 111.7s
+[2026-11-19 02:17:16] RL2 HSV2: OK n=75 len=2421 model=GTR+F+R3 134.8s
+[2026-11-19 02:18:04] RS1 HSV2: OK n=57 len=3948 model=TPM3u+F+R3 48.2s
+[2026-11-19 02:18:23] UL10 HSV2: OK n=73 len=1401 model=HKY+F+I 18.8s
+[2026-11-19 02:20:32] UL1 HSV2: OK n=32 len=672 model=HKY+F 128.6s
+[2026-11-19 02:31:43] UL22 HSV2: FAILED n=128 len=2514 model=? 670.8s
+[2026-11-19 02:31:43]   stderr: ERROR: Numerical underflow (lh-derivative). Run again with the safe likelihood kernel via `-safe` option
+
+[2026-11-19 02:31:57] UL23 HSV2: OK n=68 len=1128 model=K3Pu+F+I 14.4s
+[2026-11-19 02:44:33] UL27 HSV2: OK n=155 len=2703 model=HKY+F+R3 756.5s
+[2026-11-19 02:56:29] UL30 HSV2: FAILED n=145 len=3720 model=? 715.3s
+[2026-11-19 02:56:29]   stderr: ERROR: Numerical underflow (lh-derivative). Run again with the safe likelihood kernel via `-safe` option
+
+[2026-11-19 03:02:11] UL44 HSV2: OK n=90 len=1440 model=TPM2u+F+R3 342.6s
+[2026-11-19 03:10:28] UL46 HSV2: FAILED n=116 len=2163 model=? 496.2s
+[2026-11-19 03:10:28]   stderr: ERROR: Numerical underflow (lh-derivative). Run again with the safe likelihood kernel via `-safe` option
+
+[2026-11-19 03:11:49] UL47 HSV2: OK n=100 len=2088 model=K3Pu+F+I 81.8s
+[2026-11-19 03:12:13] UL48 HSV2: OK n=71 len=1470 model=K3Pu+F+I 23.2s
+[2026-11-19 03:13:26] UL49A HSV2: OK n=28 len=261 model=K3Pu+F 73.4s
+[2026-11-19 03:21:19] UL49 HSV2: OK n=119 len=906 model=K3Pu+F+I+R2 473.1s
+[2026-11-19 03:22:22] UL53 HSV2: OK n=74 len=1014 model=HKY+F+I+G4 62.8s
+[2026-11-19 03:26:09] UL54 HSV2: OK n=65 len=1536 model=HKY+F 227.1s
+[2026-11-19 03:29:14] US4 HSV2: OK n=147 len=2094 model=TIM+F+R3 184.9s
+[2026-11-19 03:29:14] US6 HSV2: tree cached, skipped
+[2026-11-19 03:29:35] US7 HSV2: OK n=89 len=1116 model=K3Pu+F+I 20.9s
+[2026-11-19 03:29:55] US8 HSV2: OK n=94 len=1644 model=TVM+F+I 20.2s
+[2026-11-19 03:29:55] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\tree_summary_v2.tsv: 33/40 trees available
+[2026-11-19 21:46:25] ==============================================================================
+[2026-11-19 21:46:25] STEP 10b: HyPhy-ready alignments and per-type trees (combined cohorts excluded)
+[2026-11-19 21:46:26] Prepared 40 HyPhy-ready alignments (reference rows dropped)
+[2026-11-19 21:46:26] RL2 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] RS1 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL10 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL1 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL22 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL23 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL27 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL30 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL44 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL46 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL47 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL48 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL49A HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL49 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL53 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] UL54 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] US4 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] US6 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] US7 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] US8 HSV1: tree cached, skipped
+[2026-11-19 21:46:26] RL2 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] RS1 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL10 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL1 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL22 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL23 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL27 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL30 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL44 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL46 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL47 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL48 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL49A HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL49 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL53 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] UL54 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] US4 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] US6 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] US7 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] US8 HSV2: tree cached, skipped
+[2026-11-19 21:46:26] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\tree_summary_v2.tsv: 40/40 trees available
+[2026-11-19 21:48:42] ==============================================================================
+[2026-11-19 21:48:42] STEP 10b: HyPhy-ready alignments and per-type trees (combined cohorts excluded)
+[2026-11-19 21:48:42] Prepared 40 HyPhy-ready alignments (reference rows dropped)
+[2026-11-19 21:48:42] RL2 HSV1: tree cached, skipped
+[2026-11-19 21:48:42] RS1 HSV1: tree cached, skipped
+[2026-11-19 21:48:42] UL10 HSV1: tree cached, skipped
+[2026-11-19 21:48:42] UL1 HSV1: tree cached, skipped
+[2026-11-19 21:48:42] UL22 HSV1: tree cached, skipped
+[2026-11-19 21:48:42] UL23 HSV1: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 21:53:21] UL23 HSV1: OK n=108 len=1128 model=K3Pu+F+R3 278.1s
+[2026-11-19 21:53:21] UL27 HSV1: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 21:55:52] UL27 HSV1: numerical underflow, retrying with -safe
+[2026-11-19 21:58:23] UL27 HSV1: OK n=147 len=2712 model=TIM+F+R3 302.7s
+[2026-11-19 21:58:23] UL30 HSV1: tree cached, skipped
+[2026-11-19 21:58:23] UL44 HSV1: tree cached, skipped
+[2026-11-19 21:58:23] UL46 HSV1: tree cached, skipped
+[2026-11-19 21:58:23] UL47 HSV1: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 22:01:01] UL47 HSV1: numerical underflow, retrying with -safe
+[2026-11-19 22:03:55] UL47 HSV1: OK n=127 len=2079 model=K3Pu+F+R3 332.1s
+[2026-11-19 22:03:55] UL48 HSV1: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 22:13:48] UL48 HSV1: OK n=116 len=1470 model=K3Pu+F+R3 593.0s
+[2026-11-19 22:13:48] UL49A HSV1: tree cached, skipped
+[2026-11-19 22:13:48] UL49 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] UL53 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] UL54 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] US4 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] US6 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] US7 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] US8 HSV1: tree cached, skipped
+[2026-11-19 22:13:48] RL2 HSV2: tree cached, skipped
+[2026-11-19 22:13:48] RS1 HSV2: tree cached, skipped
+[2026-11-19 22:13:48] UL10 HSV2: tree cached, skipped
+[2026-11-19 22:13:48] UL1 HSV2: tree cached, skipped
+[2026-11-19 22:13:48] UL22 HSV2: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 22:21:12] UL22 HSV2: OK n=128 len=2514 model=HKY+F+R3 443.2s
+[2026-11-19 22:21:12] UL23 HSV2: tree cached, skipped
+[2026-11-19 22:21:12] UL27 HSV2: tree cached, skipped
+[2026-11-19 22:21:12] UL30 HSV2: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 22:23:04] UL30 HSV2: numerical underflow, retrying with -safe
+[2026-11-19 22:41:41] UL30 HSV2: OK n=145 len=3720 model=HKY+F+R3 1229.8s
+[2026-11-19 22:41:41] UL44 HSV2: tree cached, skipped
+[2026-11-19 22:41:41] UL46 HSV2: previous tree has no .iqtree report (died before bootstrapping finished); re-inferring
+[2026-11-19 22:52:12] UL46 HSV2: numerical underflow, retrying with -safe
+[2026-11-19 23:04:59] UL46 HSV2: OK n=116 len=2163 model=HKY+F+R3 1397.7s
+[2026-11-19 23:04:59] UL47 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] UL48 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] UL49A HSV2: tree cached, skipped
+[2026-11-19 23:04:59] UL49 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] UL53 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] UL54 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] US4 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] US6 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] US7 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] US8 HSV2: tree cached, skipped
+[2026-11-19 23:04:59] Wrote C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\09_scripts\..\06_alignments_v2\trees_v2\tree_summary_v2.tsv: 40/40 trees available

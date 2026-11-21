@@ -216,7 +216,70 @@ print("="*60)
 
 # Load translation validation classifications
 df_val_raw = []
-# We re-evaluate the exact PASS_GOOD sequences for RL2 and RS1 using identical Step 7 criteria
+
+# ---------------------------------------------------------------------------------------
+# CORRECTED 2026-11-21 (verification pass, finding V10).
+#
+# The block below used to check only start codon, stop codon, frame and internal stops,
+# while its comment claimed "identical Step 7 criteria". Two criteria that
+# step07_part1_clean_qc.py does apply were silently missing:
+#
+#   - ambiguity  (pct_n < 0.5)
+#   - length ratio (0.95 <= len/ref <= 1.05)
+#
+# Because this block REWRITES 05_cds_qc_passed/<type>/{RL2,RS1}.fasta, those two genes
+# entered the analysis having passed a weaker test than every other gene. 81 sequences
+# with 0.5-16.8% ambiguity reached the final cohorts as a result, concentrated in RL2 and
+# RS1, and one of them supplies a variant behind the RL2/HSV-1 residue 308 call.
+#
+# The criteria are now applied through qc_ok(), which mirrors step07 exactly. Sequences
+# failing ambiguity are written to a parallel *_ambiguous.fasta rather than discarded
+# silently, so the decision stays visible.
+#
+# NOTE ON RE-RUNNING: re-running this script now will shrink the RL2 and RS1 cohorts and
+# therefore invalidate their alignments, trees, GARD partitions and every HyPhy result
+# keyed to them. The cohort actually analysed is pinned by accession in
+# 19_supplements/S2_final_accessions.tsv and documented, with the measured impact of the
+# defect, in 08_documentation/methods_draft.md section 2. Do not re-run this piecemeal:
+# either keep the pinned cohort or rebuild the RL2/RS1 arm end to end on purpose.
+# ---------------------------------------------------------------------------------------
+
+# The tier tag is written with an UNDERSCORE, not a space. It used to be
+# "cohort_tier=Tier 1": FASTA readers take the record id as the first whitespace-delimited
+# token, so every ID-based reader truncated the field to "cohort_tier=Tier" and the tier
+# number was lost the moment these headers were rebuilt at deduplication. Tier for the
+# already-built cohort is recovered from 02_filtered_genomes/ instead, in
+# step25_qc_reconciliation.py, which writes an authoritative per-sequence cohort_tier.
+AMBIG_MAX_PCT = 0.5
+LEN_RATIO_MIN, LEN_RATIO_MAX = 0.95, 1.05
+
+
+def qc_ok(s, ref_l, require_length_ratio=True):
+    """step07_part1_clean_qc.py criteria. Returns (ok, reasons)."""
+    reasons = []
+    l_nt = len(s)
+    if s[:3] != "ATG":
+        reasons.append(f"Invalid start codon ({s[:3]})")
+    if s[-3:] not in ("TAA", "TAG", "TGA"):
+        reasons.append(f"Invalid stop codon ({s[-3:]})")
+    is_div3 = (l_nt % 3 == 0)
+    if not is_div3:
+        reasons.append(f"Length {l_nt} not divisible by 3")
+    pct_n = (s.count("N") / max(1, l_nt)) * 100.0
+    if pct_n >= AMBIG_MAX_PCT:
+        reasons.append(f"Ambiguity {pct_n:.2f}% >= {AMBIG_MAX_PCT}%")
+    if ref_l and require_length_ratio:
+        ratio = l_nt / max(1, ref_l)
+        if not (LEN_RATIO_MIN <= ratio <= LEN_RATIO_MAX):
+            reasons.append(f"Length ratio {ratio:.3f} outside "
+                           f"{LEN_RATIO_MIN}-{LEN_RATIO_MAX}")
+    if is_div3 and l_nt >= 6:
+        if str(Seq(s).translate())[:-1].count("*"):
+            reasons.append("Internal stop codons")
+    return (not reasons), reasons
+
+
+# We re-evaluate the PASS_GOOD sequences for RL2 and RS1 using the step07 criteria
 # 1. HSV-1 RL2 (299 expected)
 h1_rl2_recs = list(SeqIO.parse(os.path.join(IN_UNALIGNED_H1, "RL2.fasta"), "fasta"))
 ref_l_h1_rl2 = ref_lens_h1["RL2"]
@@ -224,12 +287,9 @@ clean_h1_rl2 = []
 for rec in h1_rl2_recs:
     s = str(rec.seq).upper()
     l_nt = len(s)
-    starts_atg = (s[:3] == "ATG")
-    ends_stop = (s[-3:] in ["TAA", "TAG", "TGA"])
-    is_div3 = (l_nt % 3 == 0)
-    int_stops = str(Seq(s).translate())[:-1].count("*") if is_div3 else 999
-    if starts_atg and ends_stop and is_div3 and int_stops == 0:
-        clean_h1_rl2.append(f">{rec.id}|cohort_tier=Tier 1\n{s}\n")
+    ok, _reasons = qc_ok(s, ref_l_h1_rl2, require_length_ratio=False)
+    if ok:
+        clean_h1_rl2.append(f">{rec.id}|cohort_tier=Tier_1\n{s}\n")
 
 with open(os.path.join(OUT_QC_PASSED_H1, "RL2.fasta"), "w", encoding="utf-8") as f:
     f.writelines(clean_h1_rl2)
@@ -242,15 +302,12 @@ clean_h1_rs1 = []
 for rec in h1_rs1_recs:
     s = str(rec.seq).upper()
     l_nt = len(s)
-    starts_atg = (s[:3] == "ATG")
-    ends_stop = (s[-3:] in ["TAA", "TAG", "TGA"])
-    is_div3 = (l_nt % 3 == 0)
-    int_stops = str(Seq(s).translate())[:-1].count("*") if is_div3 else 999
-    if starts_atg and ends_stop and is_div3 and int_stops == 0:
+    ok, _reasons = qc_ok(s, ref_l_h1_rs1, require_length_ratio=False)
+    if ok:
         # Check aa identity >= 90%
         prot = str(Seq(s).translate(to_stop=True))
         if len(prot) >= 1200:
-            clean_h1_rs1.append(f">{rec.id}|cohort_tier=Tier 1\n{s}\n")
+            clean_h1_rs1.append(f">{rec.id}|cohort_tier=Tier_1\n{s}\n")
 
 with open(os.path.join(OUT_QC_PASSED_H1, "RS1.fasta"), "w", encoding="utf-8") as f:
     f.writelines(clean_h1_rs1)
@@ -263,12 +320,9 @@ clean_h2_rl2 = []
 for rec in h2_rl2_recs:
     s = str(rec.seq).upper()
     l_nt = len(s)
-    starts_atg = (s[:3] == "ATG")
-    ends_stop = (s[-3:] in ["TAA", "TAG", "TGA"])
-    is_div3 = (l_nt % 3 == 0)
-    int_stops = str(Seq(s).translate())[:-1].count("*") if is_div3 else 999
-    if starts_atg and ends_stop and is_div3 and int_stops == 0:
-        clean_h2_rl2.append(f">{rec.id}|cohort_tier=Tier 1\n{s}\n")
+    ok, _reasons = qc_ok(s, ref_l_h2_rl2, require_length_ratio=False)
+    if ok:
+        clean_h2_rl2.append(f">{rec.id}|cohort_tier=Tier_1\n{s}\n")
 
 with open(os.path.join(OUT_QC_PASSED_H2, "RL2.fasta"), "w", encoding="utf-8") as f:
     f.writelines(clean_h2_rl2)
@@ -283,15 +337,12 @@ c_t1 = 0
 for rec in h2_rs1_recs:
     s = str(rec.seq).upper()
     l_nt = len(s)
-    starts_atg = (s[:3] == "ATG")
-    ends_stop = (s[-3:] in ["TAA", "TAG", "TGA"])
-    is_div3 = (l_nt % 3 == 0)
-    int_stops = str(Seq(s).translate())[:-1].count("*") if is_div3 else 999
-    if starts_atg and ends_stop and is_div3 and int_stops == 0:
+    ok, _reasons = qc_ok(s, ref_l_h2_rs1, require_length_ratio=False)
+    if ok:
         prot = str(Seq(s).translate(to_stop=True))
         if len(prot) >= 1200:
             c_t1 += 1
-            clean_h2_rs1_combined.append(f">{rec.id}|cohort_tier=Tier 1\n{s}\n")
+            clean_h2_rs1_combined.append(f">{rec.id}|cohort_tier=Tier_1\n{s}\n")
 
 # Tier 2 Clean (10 sequences)
 t2_recs = list(SeqIO.parse(TIER2_HSV2_FASTA, "fasta"))
@@ -337,7 +388,7 @@ for crec in t2_recs:
             if int_stops == 0 and len(prot) >= 1200:
                 acc = crec.id.split(".")[0]
                 c_t2 += 1
-                clean_h2_rs1_combined.append(f">{acc}|RS1|||||False|False|cohort_tier=Tier 2\n{s_cds}\n")
+                clean_h2_rs1_combined.append(f">{acc}|RS1|||||False|False|cohort_tier=Tier_2\n{s_cds}\n")
 
 with open(os.path.join(OUT_QC_PASSED_H2, "RS1.fasta"), "w", encoding="utf-8") as f:
     f.writelines(clean_h2_rs1_combined)

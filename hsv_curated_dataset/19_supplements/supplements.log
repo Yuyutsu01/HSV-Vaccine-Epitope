@@ -1,0 +1,246 @@
+[2026-11-19 01:07:51] ==============================================================================
+[2026-11-19 01:07:51] STEP 24: building publication supplements
+[2026-11-19 01:07:52] S1_data_flow.tsv (13 stages)
+[2026-11-19 01:07:52]     1. Records retrieved from NCBI Virus                    1305  [genome]
+[2026-11-19 01:07:52]     2. Metadata curated                                     1305  [genome]
+[2026-11-19 01:07:52]     3. Passed genome-level filters                           417  [genome]
+[2026-11-19 01:07:52]     3a. Excluded at genome level                             888  [genome]
+[2026-11-19 01:07:52]     4. Analysis-ready genomes (HSV-1)                        303  [genome]
+[2026-11-19 01:07:52]     4. Analysis-ready genomes (HSV-2)                        117  [genome]
+[2026-11-19 01:07:52]     4. Analysis-ready genomes (HSV-2 tier 2)                 229  [genome]
+[2026-11-19 01:07:52]     5. CDS extracted and QC-assessed                       11504  [CDS]
+[2026-11-19 01:07:52]     6. CDS passing QC                                      11340  [CDS]
+[2026-11-19 01:07:52]     6a. CDS failing QC                                       164  [CDS]
+[2026-11-19 01:07:52]     7. Unique sequences after exact-duplicate collapse      4163  [CDS]
+[2026-11-19 01:07:52]     8. Sequences in rebuilt per-type codon alignments       4203  [CDS]
+[2026-11-19 01:07:52]     9. Sequences entering selection analysis                4163  [CDS]
+[2026-11-19 01:07:52] S2_final_accessions.tsv (4163 rows, 558 distinct accessions, 12054 isolates represented)
+[2026-11-19 01:07:52] S4_per_gene_cohorts.tsv (40 gene x type cohorts)
+[2026-11-19 01:07:52] S3_removed_sequences.tsv (1329 rows)
+[2026-11-19 01:07:52]     genome filtering: 888
+[2026-11-19 01:07:52]     per-gene CDS QC: 164
+[2026-11-19 01:07:52]     alignment outlier screen: 163
+[2026-11-19 01:07:52]     type verification: 80
+[2026-11-19 01:07:52]     occupancy masking: 34
+[2026-11-19 01:07:52] S5_software_versions.tsv (16 tools)
+[2026-11-20 23:44:20] ==============================================================================
+[2026-11-20 23:44:20] STEP 24: building publication supplements
+[2026-11-20 23:44:21] S1_data_flow.tsv (13 stages)
+[2026-11-20 23:44:21]     1. Records retrieved from NCBI Virus                    1305  [genome]
+[2026-11-20 23:44:21]     2. Metadata curated                                     1305  [genome]
+[2026-11-20 23:44:21]     3. Passed genome-level filters                           417  [genome]
+[2026-11-20 23:44:21]     3a. Excluded at genome level                             888  [genome]
+[2026-11-20 23:44:21]     4. Analysis-ready genomes (HSV-1)                        303  [genome]
+[2026-11-20 23:44:21]     4. Analysis-ready genomes (HSV-2)                        117  [genome]
+[2026-11-20 23:44:21]     4. Analysis-ready genomes (HSV-2 tier 2)                 229  [genome]
+[2026-11-20 23:44:21]     5. CDS extracted and QC-assessed                       11504  [CDS]
+[2026-11-20 23:44:21]     6. CDS passing QC                                      11340  [CDS]
+[2026-11-20 23:44:21]     6a. CDS failing QC                                       164  [CDS]
+[2026-11-20 23:44:21]     7. Unique sequences after exact-duplicate collapse      4163  [CDS]
+[2026-11-20 23:44:21]     8. Sequences in rebuilt per-type codon alignments       4203  [CDS]
+[2026-11-20 23:44:21]     9. Sequences entering selection analysis                4163  [CDS]
+[2026-11-20 23:44:21] S2_final_accessions.tsv (4163 rows, 558 distinct accessions, 12054 isolates represented)
+[2026-11-20 23:44:21] S4_per_gene_cohorts.tsv (40 gene x type cohorts)
+[2026-11-20 23:44:21] S3_removed_sequences.tsv (1329 rows)
+[2026-11-20 23:44:21]     genome filtering: 888
+[2026-11-20 23:44:21]     per-gene CDS QC: 164
+[2026-11-20 23:44:21]     alignment outlier screen: 163
+[2026-11-20 23:44:21]     type verification: 80
+[2026-11-20 23:44:21]     occupancy masking: 34
+[2026-11-20 23:44:21] S5_software_versions.tsv (16 tools)
+[2026-11-21 00:10:43] ==============================================================================
+[2026-11-21 00:10:43] STEP 24: building publication supplements
+[2026-11-21 00:10:44] S1_data_flow.tsv (16 stages)
+[2026-11-21 00:10:44]     1. Records retrieved from NCBI Virus                    1305  [genome]
+[2026-11-21 00:10:44]     2. Metadata curated                                     1305  [genome]
+[2026-11-21 00:10:44]     3. Passed genome-level filters (PASS)                    417  [genome]
+[2026-11-21 00:10:44]     3a. Flagged but retained (FLAGGED)                        29  [genome]
+[2026-11-21 00:10:44]     3b. Excluded at genome level (EXCLUDED)                  859  [genome]
+[2026-11-21 00:10:44]     4. Analysis-ready genomes (HSV-1)                        303  [genome]
+[2026-11-21 00:10:44]     4. Analysis-ready genomes (HSV-2)                        117  [genome]
+[2026-11-21 00:10:44]     4. Analysis-ready genomes (HSV-2 tier 2)                 229  [genome]
+[2026-11-21 00:10:44]     4a. Analysis-ready genomes (total)                       649  [genome]
+[2026-11-21 00:10:44]     5. CDS rows in the per-sequence QC log                 11504  [CDS]
+[2026-11-21 00:10:44]     6. Of those, passing QC                                11340  [CDS]
+[2026-11-21 00:10:44]     6a. Of those, failing QC                                 164  [CDS]
+[2026-11-21 00:10:44]     6b. CDS carried forward to deduplication               12054  [CDS]
+[2026-11-21 00:10:44]     7. Unique sequences after exact-duplicate collapse      4163  [CDS]
+[2026-11-21 00:10:44]     8. Sequences in rebuilt per-type codon alignments       4203  [CDS]
+[2026-11-21 00:10:44]     9. Sequences entering selection analysis                4163  [CDS]
+[2026-11-21 00:10:44] S2_final_accessions.tsv (4163 rows, 558 distinct accessions, 12054 isolates represented)
+[2026-11-21 00:10:44] S4_per_gene_cohorts.tsv (40 gene x type cohorts)
+[2026-11-21 00:10:44] S3_removed_sequences.tsv (1329 rows)
+[2026-11-21 00:10:44]     genome filtering: 888
+[2026-11-21 00:10:44]     per-gene CDS QC: 164
+[2026-11-21 00:10:44]     alignment outlier screen: 163
+[2026-11-21 00:10:44]     type verification: 80
+[2026-11-21 00:10:44]     occupancy masking: 34
+[2026-11-21 00:10:44] S5_software_versions.tsv (16 tools)
+[2026-11-21 00:10:54] ==============================================================================
+[2026-11-21 00:10:54] STEP 24: building publication supplements
+[2026-11-21 00:10:55] S1_data_flow.tsv (16 stages)
+[2026-11-21 00:10:55]     1. Records retrieved from NCBI Virus                    1305  [genome]
+[2026-11-21 00:10:55]     2. Metadata curated                                     1305  [genome]
+[2026-11-21 00:10:55]     3. Passed genome-level filters (PASS)                    417  [genome]
+[2026-11-21 00:10:55]     3a. Flagged but retained (FLAGGED)                        29  [genome]
+[2026-11-21 00:10:55]     3b. Excluded at genome level (EXCLUDED)                  859  [genome]
+[2026-11-21 00:10:55]     4. Analysis-ready genomes (HSV-1)                        303  [genome]
+[2026-11-21 00:10:55]     4. Analysis-ready genomes (HSV-2)                        117  [genome]
+[2026-11-21 00:10:55]     4. Analysis-ready genomes (HSV-2 tier 2)                 229  [genome]
+[2026-11-21 00:10:55]     4a. Analysis-ready genomes (total)                       649  [genome]
+[2026-11-21 00:10:55]     5. CDS rows in the per-sequence QC log                 11504  [CDS]
+[2026-11-21 00:10:55]     6. Of those, passing QC                                11340  [CDS]
+[2026-11-21 00:10:55]     6a. Of those, failing QC                                 164  [CDS]
+[2026-11-21 00:10:55]     6b. CDS carried forward to deduplication               12054  [CDS]
+[2026-11-21 00:10:55]     7. Unique sequences after exact-duplicate collapse      4163  [CDS]
+[2026-11-21 00:10:55]     8. Sequences in rebuilt per-type codon alignments       4203  [CDS]
+[2026-11-21 00:10:55]     9. Sequences entering selection analysis                4163  [CDS]
+[2026-11-21 00:10:55] S2_final_accessions.tsv (4163 rows, 558 distinct accessions, 12054 isolates represented)
+[2026-11-21 00:10:55] S4_per_gene_cohorts.tsv (40 gene x type cohorts)
+[2026-11-21 00:10:55] S3_removed_sequences.tsv (1329 rows)
+[2026-11-21 00:10:55]     genome filtering: 888
+[2026-11-21 00:10:55]     per-gene CDS QC: 164
+[2026-11-21 00:10:55]     alignment outlier screen: 163
+[2026-11-21 00:10:55]     type verification: 80
+[2026-11-21 00:10:55]     occupancy masking: 34
+[2026-11-21 00:10:55] S5_software_versions.tsv (16 tools)
+[2026-11-21 00:22:47] ==============================================================================
+[2026-11-21 00:22:47] STEP 24: building publication supplements
+[2026-11-21 00:22:48] S1_data_flow.tsv (16 stages)
+[2026-11-21 00:22:48]     1. Records retrieved from NCBI Virus                    1305  [genome]
+[2026-11-21 00:22:48]     2. Metadata curated                                     1305  [genome]
+[2026-11-21 00:22:48]     3. Passed genome-level filters (PASS)                    417  [genome]
+[2026-11-21 00:22:48]     3a. Flagged but retained (FLAGGED)                        29  [genome]
+[2026-11-21 00:22:48]     3b. Excluded at genome level (EXCLUDED)                  859  [genome]
+[2026-11-21 00:22:48]     4. Analysis-ready genomes (HSV-1)                        303  [genome]
+[2026-11-21 00:22:48]     4. Analysis-ready genomes (HSV-2)                        117  [genome]
+[2026-11-21 00:22:48]     4. Analysis-ready genomes (HSV-2 tier 2)                 229  [genome]
+[2026-11-21 00:22:48]     4a. Analysis-ready genomes (total)                       649  [genome]
+[2026-11-21 00:22:48]     5. CDS rows in the per-sequence QC log                 11504  [CDS]
+[2026-11-21 00:22:48]     6. Of those, passing QC                                11340  [CDS]
+[2026-11-21 00:22:48]     6a. Of those, failing QC                                 164  [CDS]
+[2026-11-21 00:22:48]     6b. CDS carried forward to deduplication               12054  [CDS]
+[2026-11-21 00:22:48]     7. Unique sequences after exact-duplicate collapse      4163  [CDS]
+[2026-11-21 00:22:48]     8. Sequences in rebuilt per-type codon alignments       4203  [CDS]
+[2026-11-21 00:22:48]     9. Sequences entering selection analysis                4163  [CDS]
+[2026-11-21 00:22:48] S2_final_accessions.tsv (4163 rows, 558 distinct accessions, 12054 isolates represented)
+[2026-11-21 00:22:48] S4_per_gene_cohorts.tsv (40 gene x type cohorts)
+[2026-11-21 00:22:48] S3_removed_sequences.tsv (1329 rows)
+[2026-11-21 00:22:48]     genome filtering: 888
+[2026-11-21 00:22:48]     per-gene CDS QC: 164
+[2026-11-21 00:22:48]     alignment outlier screen: 163
+[2026-11-21 00:22:48]     type verification: 80
+[2026-11-21 00:22:48]     occupancy masking: 34
+[2026-11-21 00:22:48] S5_software_versions.tsv (16 tools)
+[2026-11-21 01:25:56] ==============================================================================
+[2026-11-21 01:25:56] STEP 24: building publication supplements
+[2026-11-21 01:25:56] S1_data_flow.tsv (16 stages)
+[2026-11-21 01:25:56]     1. Records retrieved from NCBI Virus                    1305  [genome]
+[2026-11-21 01:25:56]     2. Metadata curated                                     1305  [genome]
+[2026-11-21 01:25:56]     3. Passed genome-level filters (PASS)                    417  [genome]
+[2026-11-21 01:25:56]     3a. Flagged but retained (FLAGGED)                        29  [genome]
+[2026-11-21 01:25:56]     3b. Excluded at genome level (EXCLUDED)                  859  [genome]
+[2026-11-21 01:25:56]     4. Analysis-ready genomes (HSV-1)                        303  [genome]
+[2026-11-21 01:25:56]     4. Analysis-ready genomes (HSV-2)                        117  [genome]
+[2026-11-21 01:25:56]     4. Analysis-ready genomes (HSV-2 tier 2)                 229  [genome]
+[2026-11-21 01:25:56]     4a. Analysis-ready genomes (total)                       649  [genome]
+[2026-11-21 01:25:56]     5. CDS rows in the per-sequence QC log                 11504  [CDS]
+[2026-11-21 01:25:56]     6. Of those, passing QC                                11340  [CDS]
+[2026-11-21 01:25:56]     6a. Of those, failing QC                                 164  [CDS]
+[2026-11-21 01:25:56]     6b. CDS carried forward to deduplication               12054  [CDS]
+[2026-11-21 01:25:56]     7. Unique sequences after exact-duplicate collapse      4163  [CDS]
+[2026-11-21 01:25:56]     8. Sequences in rebuilt per-type codon alignments       4203  [CDS]
+[2026-11-21 01:25:56]     9. Sequences entering selection analysis                4163  [CDS]
+[2026-11-21 01:25:57] S2_final_accessions.tsv (4163 rows, 558 distinct accessions, 12054 isolates represented)
+[2026-11-21 01:25:57] S4_per_gene_cohorts.tsv (40 gene x type cohorts)
+[2026-11-21 01:25:57] S3_removed_sequences.tsv (1329 rows)
+[2026-11-21 01:25:57]     genome filtering: 888
+[2026-11-21 01:25:57]     per-gene CDS QC: 164
+[2026-11-21 01:25:57]     alignment outlier screen: 163
+[2026-11-21 01:25:57]     type verification: 80
+[2026-11-21 01:25:57]     occupancy masking: 34
+[2026-11-21 01:25:57] S5_software_versions.tsv (16 tools)
+[2026-11-21 01:26:33] ==============================================================================
+[2026-11-21 01:26:33] STEP 24: building publication supplements
+[2026-11-21 01:26:34] S1_data_flow.tsv (16 stages)
+[2026-11-21 01:26:34]     1. Records retrieved from NCBI Virus                    1305  [genome]
+[2026-11-21 01:26:34]     2. Metadata curated                                     1305  [genome]
+[2026-11-21 01:26:34]     3. Passed genome-level filters (PASS)                    417  [genome]
+[2026-11-21 01:26:34]     3a. Flagged but retained (FLAGGED)                        29  [genome]
+[2026-11-21 01:26:34]     3b. Excluded at genome level (EXCLUDED)                  859  [genome]
+[2026-11-21 01:26:34]     4. Analysis-ready genomes (HSV-1)                        303  [genome]
+[2026-11-21 01:26:34]     4. Analysis-ready genomes (HSV-2)                        117  [genome]
+[2026-11-21 01:26:34]     4. Analysis-ready genomes (HSV-2 tier 2)                 229  [genome]
+[2026-11-21 01:26:34]     4a. Analysis-ready genomes (total)                       649  [genome]
+[2026-11-21 01:26:34]     5. CDS rows in the per-sequence QC log                 11504  [CDS]
+[2026-11-21 01:26:34]     6. Of those, passing QC                                11340  [CDS]
+[2026-11-21 01:26:34]     6a. Of those, failing QC                                 164  [CDS]
+[2026-11-21 01:26:34]     6b. CDS carried forward to deduplication               12054  [CDS]
+[2026-11-21 01:26:34]     7. Unique sequences after exact-duplicate collapse      4163  [CDS]
+[2026-11-21 01:26:34]     8. Sequences in rebuilt per-type codon alignments       4203  [CDS]
+[2026-11-21 01:26:34]     9. Sequences entering selection analysis                4163  [CDS]
+[2026-11-21 01:26:34] S2_final_accessions.tsv (4163 rows, 558 distinct accessions, 12054 isolates represented)
+[2026-11-21 01:26:34] S4_per_gene_cohorts.tsv (40 gene x type cohorts)
+[2026-11-21 01:26:34] S3_removed_sequences.tsv (1329 rows)
+[2026-11-21 01:26:34]     genome filtering: 888
+[2026-11-21 01:26:34]     per-gene CDS QC: 164
+[2026-11-21 01:26:34]     alignment outlier screen: 163
+[2026-11-21 01:26:34]     type verification: 80
+[2026-11-21 01:26:34]     occupancy masking: 34
+[2026-11-21 01:26:34] S5_software_versions.tsv (16 tools)
+[2026-11-21 01:45:23] ==============================================================================
+[2026-11-21 01:45:23] STEP 24: building publication supplements
+[2026-11-21 01:45:24] S1_data_flow.tsv (16 stages)
+[2026-11-21 01:45:24]     1. Records retrieved from NCBI Virus                    1305  [genome]
+[2026-11-21 01:45:24]     2. Metadata curated                                     1305  [genome]
+[2026-11-21 01:45:24]     3. Passed genome-level filters (PASS)                    417  [genome]
+[2026-11-21 01:45:24]     3a. Flagged but retained (FLAGGED)                        29  [genome]
+[2026-11-21 01:45:24]     3b. Excluded at genome level (EXCLUDED)                  859  [genome]
+[2026-11-21 01:45:24]     4. Analysis-ready genomes (HSV-1)                        303  [genome]
+[2026-11-21 01:45:24]     4. Analysis-ready genomes (HSV-2)                        117  [genome]
+[2026-11-21 01:45:24]     4. Analysis-ready genomes (HSV-2 tier 2)                 229  [genome]
+[2026-11-21 01:45:24]     4a. Analysis-ready genomes (total)                       649  [genome]
+[2026-11-21 01:45:24]     5. CDS rows in the per-sequence QC log                 11504  [CDS]
+[2026-11-21 01:45:24]     6. Of those, passing QC                                11340  [CDS]
+[2026-11-21 01:45:24]     6a. Of those, failing QC                                 164  [CDS]
+[2026-11-21 01:45:24]     6b. CDS carried forward to deduplication               12054  [CDS]
+[2026-11-21 01:45:24]     7. Unique sequences after exact-duplicate collapse      4163  [CDS]
+[2026-11-21 01:45:24]     8. Sequences in rebuilt per-type codon alignments       4203  [CDS]
+[2026-11-21 01:45:24]     9. Sequences entering selection analysis                4163  [CDS]
+[2026-11-21 01:45:24] S2_final_accessions.tsv (4163 rows, 558 distinct accessions, 12054 isolates represented)
+[2026-11-21 01:45:24] S4_per_gene_cohorts.tsv (40 gene x type cohorts)
+[2026-11-21 01:45:24] S3_removed_sequences.tsv (1329 rows)
+[2026-11-21 01:45:24]     genome filtering: 888
+[2026-11-21 01:45:24]     per-gene CDS QC: 164
+[2026-11-21 01:45:24]     alignment outlier screen: 163
+[2026-11-21 01:45:24]     type verification: 80
+[2026-11-21 01:45:24]     occupancy masking: 34
+[2026-11-21 01:45:25] S5_software_versions.tsv (16 tools)
+[2026-11-21 18:36:46] ==============================================================================
+[2026-11-21 18:36:46] STEP 24: building publication supplements
+[2026-11-21 18:36:48] S1_data_flow.tsv (16 stages)
+[2026-11-21 18:36:48]     1. Records retrieved from NCBI Virus                    1305  [genome]
+[2026-11-21 18:36:48]     2. Metadata curated                                     1305  [genome]
+[2026-11-21 18:36:48]     3. Passed genome-level filters (PASS)                    417  [genome]
+[2026-11-21 18:36:48]     3a. Flagged but retained (FLAGGED)                        29  [genome]
+[2026-11-21 18:36:48]     3b. Excluded at genome level (EXCLUDED)                  859  [genome]
+[2026-11-21 18:36:48]     4. Analysis-ready genomes (HSV-1)                        303  [genome]
+[2026-11-21 18:36:48]     4. Analysis-ready genomes (HSV-2)                        117  [genome]
+[2026-11-21 18:36:48]     4. Analysis-ready genomes (HSV-2 tier 2)                 229  [genome]
+[2026-11-21 18:36:48]     4a. Analysis-ready genomes (total)                       649  [genome]
+[2026-11-21 18:36:48]     5. CDS rows in the per-sequence QC log                 11504  [CDS]
+[2026-11-21 18:36:48]     6. Of those, passing QC                                11340  [CDS]
+[2026-11-21 18:36:48]     6a. Of those, failing QC                                 164  [CDS]
+[2026-11-21 18:36:48]     6b. CDS carried forward to deduplication               12054  [CDS]
+[2026-11-21 18:36:48]     7. Unique sequences after exact-duplicate collapse      4163  [CDS]
+[2026-11-21 18:36:48]     8. Sequences in rebuilt per-type codon alignments       4203  [CDS]
+[2026-11-21 18:36:48]     9. Sequences entering selection analysis                4163  [CDS]
+[2026-11-21 18:36:48] S2_final_accessions.tsv (4163 rows, 558 distinct accessions, 12054 isolates represented)
+[2026-11-21 18:36:48] S4_per_gene_cohorts.tsv (40 gene x type cohorts)
+[2026-11-21 18:36:48] S3_removed_sequences.tsv (1329 rows)
+[2026-11-21 18:36:48]     genome filtering: 888
+[2026-11-21 18:36:48]     per-gene CDS QC: 164
+[2026-11-21 18:36:48]     alignment outlier screen: 163
+[2026-11-21 18:36:48]     type verification: 80
+[2026-11-21 18:36:48]     occupancy masking: 34
+[2026-11-21 18:36:49] S5_software_versions.tsv (16 tools)

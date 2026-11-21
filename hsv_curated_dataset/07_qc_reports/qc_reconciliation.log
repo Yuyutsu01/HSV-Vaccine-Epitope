@@ -1,0 +1,111 @@
+[2026-11-21 00:15:18] STEP 25: complete CDS QC record over the carried-forward set
+[2026-11-21 00:15:19] prior QC log: 11504 rows, reference lengths for 38 cohorts
+[2026-11-21 00:15:20] extraction log: 47339 rows
+[2026-11-21 00:15:21] tier assignments from 02_filtered_genomes: 649 accessions
+[2026-11-21 00:15:21] sequences in the final analysis cohorts: 4163
+[2026-11-21 00:15:22] wrote 07d_cds_qc_log_complete.tsv (12054 rows)
+[2026-11-21 00:15:22] 
+[2026-11-21 00:15:22] status over the carried-forward set:
+[2026-11-21 00:15:22]     PASS_GOOD                    11950
+[2026-11-21 00:15:22]     FAIL                         84
+[2026-11-21 00:15:22]     PASS_LENGTH_POLYMORPHISM     20
+[2026-11-21 00:15:22] 
+[2026-11-21 00:15:22] coverage by the prior log:
+[2026-11-21 00:15:22]     PASS_GOOD                    11338
+[2026-11-21 00:15:22]     NOT_IN_PRIOR_LOG             697
+[2026-11-21 00:15:22]     FAIL                         19
+[2026-11-21 00:15:23] 
+[2026-11-21 00:15:23] PASS_LENGTH_POLYMORPHISM: 20 sequences, 9 of them in the final analysis
+[2026-11-21 00:15:23]     HSV1 RS1: 1 (ratios 0.929-0.929, 1 analysed)
+[2026-11-21 00:15:23]     HSV1 US7: 19 (ratios 1.054-1.087, 8 analysed)
+[2026-11-21 00:15:23] 
+[2026-11-21 00:15:23] FAIL on a correctness criterion: 84 sequences, 81 of them in the final analysis
+[2026-11-21 00:15:23]     *** these are in the analysed cohort and must be reported as a defect ***
+[2026-11-21 00:15:23]     HSV1 RL2 PZ169715: Ambiguity 2.62% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RL2 OR771687: Ambiguity 0.56% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PZ169720: Ambiguity 1.06% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PZ169712: Ambiguity 0.61% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PZ169706: Ambiguity 3.99% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PZ169705: Ambiguity 0.72% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PZ169703: Ambiguity 0.82% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PZ169702: Ambiguity 2.20% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PZ169692: Ambiguity 3.96% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PZ169684: Ambiguity 0.95% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PZ169682: Ambiguity 0.64% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PP379033: Ambiguity 1.13% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PP379032: Ambiguity 6.11% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 PP379031: Ambiguity 0.92% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OP431911: Ambiguity 16.78% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OP431878: Ambiguity 4.67% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OP431910: Ambiguity 0.51% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OP431899: Ambiguity 4.25% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OP431868: Ambiguity 0.95% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR833069: Ambiguity 1.48% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR833068: Ambiguity 1.41% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR833067: Ambiguity 1.72% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR771693: Ambiguity 2.90% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR771692: Ambiguity 2.23% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR771687: Ambiguity 1.06% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR771686: Ambiguity 0.82% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR771685: Ambiguity 1.10% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR771684: Ambiguity 1.00% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR771683: Ambiguity 1.21% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR771682: Ambiguity 1.61% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR771680: Ambiguity 0.95% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR771672: Ambiguity 0.94% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 OR771670: Ambiguity 0.59% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 ON007161: Ambiguity 6.18% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 ON007160: Ambiguity 10.61% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 ON007155: Ambiguity 15.26% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 ON007154: Ambiguity 0.72% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 ON007144: Ambiguity 1.18% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 MK952185: Ambiguity 4.37% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 MG708292: Ambiguity 13.82% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 MG708290: Ambiguity 1.28% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 MG708289: Ambiguity 5.10% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 MG708284: Ambiguity 0.54% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 KX265042: Ambiguity 1.90% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 KX265041: Ambiguity 14.15% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 KX265028: Ambiguity 4.41% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 KX265026: Ambiguity 4.32% >= 0.5%
+[2026-11-21 00:15:23]     HSV1 RS1 KR011298: Ambiguity 8.53% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 PQ065520: Ambiguity 3.47% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 PQ065511: Ambiguity 3.47% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 PQ065500: Ambiguity 5.26% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 PP100077: Ambiguity 2.43% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 PP100069: Ambiguity 1.44% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 PP100021: Ambiguity 5.12% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 PP100004: Ambiguity 5.20% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 PP099997: Ambiguity 1.90% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 MH790654: Ambiguity 3.59% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 MH790651: Ambiguity 5.78% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 MH790605: Ambiguity 3.22% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RL2 MH790630: Ambiguity 6.31% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PZ135824: Ambiguity 2.81% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065518: Ambiguity 2.86% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065513: Ambiguity 1.84% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065511: Ambiguity 3.96% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065509: Ambiguity 1.06% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065508: Ambiguity 1.16% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065507: Ambiguity 1.65% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065506: Ambiguity 8.87% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065504: Ambiguity 0.78% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065503: Ambiguity 4.84% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065502: Ambiguity 8.42% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065500: Ambiguity 4.16% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065497: Ambiguity 6.52% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065495: Ambiguity 0.86% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065493: Ambiguity 0.63% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 PQ065492: Ambiguity 0.91% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 MH790655: Ambiguity 2.29% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 MH790641: Ambiguity 5.18% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 MH790631: Ambiguity 2.67% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 MH790626: Ambiguity 1.66% >= 0.5%
+[2026-11-21 00:15:23]     HSV2 RS1 MH790561: Ambiguity 7.42% >= 0.5%
+[2026-11-21 00:15:23] 
+[2026-11-21 00:15:23] tier composition of the final analysis cohorts:
+[2026-11-21 00:15:23]     HSV1: 2383 sequences, 272 accessions, 0 of them Tier_2 (0.0%)  {'Tier_1': 2383}
+[2026-11-21 00:15:23]     HSV2: 1780 sequences, 286 accessions, 178 of them Tier_2 (62.2%)  {'Tier_1': 965, 'Tier_2': 815}
+[2026-11-21 00:15:23] 
+[2026-11-21 00:15:23] headers whose cohort_tier field is truncated to 'Tier': 0 (the field is written with a space, so ID-based readers cut it; the cohort_tier column of this file is derived from 02_filtered_genomes instead)
+[2026-11-21 00:15:23] wrote 07e_qc_reconciliation.tsv

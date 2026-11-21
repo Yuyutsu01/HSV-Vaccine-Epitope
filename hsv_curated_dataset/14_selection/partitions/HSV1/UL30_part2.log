@@ -1,0 +1,317 @@
+IQ-TREE multicore version 2.4.0 for Windows 64-bit built Feb  7 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    YUYUTSU (AVX512, FMA3, 15 GB RAM)
+Command: C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\bin\iqtree\iqtree-2.4.0-Windows\bin\iqtree2.exe -s C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV1\UL30_part2.fasta -m GTR+F+G4 --keep-ident -T 4 --prefix C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV1\UL30_part2 --quiet -redo
+Seed:    644344 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Nov 20 19:54:37 2026
+Kernel:  AVX+FMA - 4 threads (16 CPU cores detected)
+
+Reading alignment file C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV1\UL30_part2.fasta ... Fasta format detected
+Reading fasta file: done in 0.0044299 secs
+Alignment most likely contains DNA/RNA sequences
+Alignment has 167 sequences with 1896 columns, 206 distinct patterns
+80 parsimony-informative, 153 singleton sites, 1663 constant sites
+       Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 4.66e-005 secs
+   1  S0001    0.00%    passed     99.99%
+   2  S0002    0.00%    passed     99.75%
+   3  S0003    0.00%    passed     99.89%
+   4  S0004    0.00%    passed     99.97%
+   5  S0005    0.00%    passed     99.95%
+   6  S0006    0.00%    passed     99.99%
+   7  S0007    0.00%    passed     99.99%
+   8  S0008    0.00%    passed     99.98%
+   9  S0009    0.00%    passed     99.99%
+  10  S0010    0.00%    passed     99.55%
+  11  S0011    0.00%    passed     99.95%
+  12  S0012    0.00%    passed     99.89%
+  13  S0013    0.00%    passed     99.99%
+  14  S0014    0.00%    passed     99.96%
+  15  S0015    0.00%    passed     99.96%
+  16  S0016    0.00%    passed     99.99%
+  17  S0017    0.00%    passed     99.92%
+  18  S0018    0.00%    passed     99.84%
+  19  S0019    0.00%    passed     99.99%
+  20  S0020    0.00%    passed     99.96%
+  21  S0021    0.00%    passed     99.44%
+  22  S0022    0.00%    passed     99.89%
+  23  S0023    0.00%    passed     99.99%
+  24  S0024    0.00%    passed     99.99%
+  25  S0025    0.00%    passed     99.94%
+  26  S0026    0.00%    passed     99.54%
+  27  S0027    0.00%    passed     99.97%
+  28  S0028    0.00%    passed     99.96%
+  29  S0029    0.00%    passed     99.89%
+  30  S0030    0.00%    passed     99.97%
+  31  S0031    0.00%    passed     99.98%
+  32  S0032    0.00%    passed     99.95%
+  33  S0033    0.00%    passed     99.95%
+  34  S0034    0.00%    passed     99.94%
+  35  S0035    0.00%    passed    100.00%
+  36  S0036    0.00%    passed     99.88%
+  37  S0037    0.00%    passed     99.99%
+  38  S0038    0.00%    passed     99.91%
+  39  S0039    0.00%    passed     99.94%
+  40  S0040    0.00%    passed     99.94%
+  41  S0041    0.00%    passed     99.99%
+  42  S0042    0.00%    passed    100.00%
+  43  S0043    0.00%    passed     99.95%
+  44  S0044    0.00%    passed     99.74%
+  45  S0045    0.00%    passed     99.99%
+  46  S0046    0.00%    passed     99.78%
+  47  S0047    0.00%    passed     99.95%
+  48  S0048    0.00%    passed     99.97%
+  49  S0049    0.00%    passed     99.99%
+  50  S0050    0.00%    passed     99.82%
+  51  S0051    0.00%    passed     99.94%
+  52  S0052    0.00%    passed     99.74%
+  53  S0053    0.00%    passed     99.78%
+  54  S0054    0.00%    passed     99.99%
+  55  S0055    0.00%    passed     99.95%
+  56  S0056    0.00%    passed     99.93%
+  57  S0057    0.00%    passed     99.97%
+  58  S0058    0.00%    passed     99.60%
+  59  S0059    0.00%    passed     99.77%
+  60  S0060    0.00%    passed     99.96%
+  61  S0061    0.00%    passed     99.93%
+  62  S0062    0.00%    passed     99.94%
+  63  S0063    0.00%    passed     99.74%
+  64  S0064    0.00%    passed     99.95%
+  65  S0065    0.00%    passed     99.94%
+  66  S0066    0.00%    passed     99.98%
+  67  S0067    0.00%    passed     99.47%
+  68  S0068    0.00%    passed     99.97%
+  69  S0069    0.00%    passed     99.99%
+  70  S0070    0.00%    passed     99.99%
+  71  S0071    0.00%    passed     99.92%
+  72  S0072    0.00%    passed     99.94%
+  73  S0073    0.00%    passed     99.97%
+  74  S0074    0.00%    passed     99.92%
+  75  S0075    0.00%    passed     99.97%
+  76  S0076    0.00%    passed     99.88%
+  77  S0077    0.00%    passed     99.83%
+  78  S0078    0.00%    passed     99.88%
+  79  S0079    0.00%    passed     99.94%
+  80  S0080    0.00%    passed     99.93%
+  81  S0081    0.00%    passed     99.92%
+  82  S0082    0.00%    passed     99.91%
+  83  S0083    0.00%    passed     99.96%
+  84  S0084    0.00%    passed     99.99%
+  85  S0085    0.00%    passed     99.96%
+  86  S0086    0.00%    passed     99.88%
+  87  S0087    0.00%    passed     99.98%
+  88  S0088    0.00%    passed     99.55%
+  89  S0089    0.00%    passed     99.12%
+  90  S0090    0.00%    passed     99.93%
+  91  S0091    0.00%    passed     99.95%
+  92  S0092    0.00%    passed     99.99%
+  93  S0093    0.00%    passed     99.92%
+  94  S0094    0.00%    passed     99.99%
+  95  S0095    0.00%    passed     99.89%
+  96  S0096    0.00%    passed     99.85%
+  97  S0097    0.00%    passed    100.00%
+  98  S0098    0.00%    passed     99.99%
+  99  S0099    0.00%    passed     99.95%
+ 100  S0100    0.00%    passed     99.94%
+ 101  S0101    0.00%    passed     99.99%
+ 102  S0102    0.00%    passed     99.99%
+ 103  S0103    0.00%    passed     99.94%
+ 104  S0104    0.00%    passed     99.99%
+ 105  S0105    0.00%    passed     99.99%
+ 106  S0106    0.00%    passed     99.98%
+ 107  S0107    0.00%    passed     99.81%
+ 108  S0108    0.00%    passed     99.94%
+ 109  S0109    0.00%    passed     99.46%
+ 110  S0110    0.00%    passed     99.88%
+ 111  S0111    0.00%    passed     99.97%
+ 112  S0112    0.00%    passed     99.92%
+ 113  S0113    0.00%    passed     99.74%
+ 114  S0114    0.00%    passed     99.06%
+ 115  S0115    0.00%    passed     99.94%
+ 116  S0116    0.00%    passed    100.00%
+ 117  S0117    0.00%    passed     99.44%
+ 118  S0118    0.00%    passed    100.00%
+ 119  S0119    0.00%    passed     99.97%
+ 120  S0120    0.00%    passed     99.90%
+ 121  S0121    0.00%    passed     99.56%
+ 122  S0122    0.32%    passed     99.96%
+ 123  S0123    0.00%    passed    100.00%
+ 124  S0124    0.00%    passed     99.99%
+ 125  S0125    0.00%    passed     99.94%
+ 126  S0126    0.00%    passed     99.99%
+ 127  S0127    0.00%    passed     99.74%
+ 128  S0128    0.00%    passed     99.92%
+ 129  S0129    0.00%    passed     99.99%
+ 130  S0130    0.00%    passed     99.95%
+ 131  S0131    0.00%    passed     99.74%
+ 132  S0132    0.00%    passed     99.82%
+ 133  S0133    0.63%    passed     99.98%
+ 134  S0134    0.00%    passed     99.99%
+ 135  S0135    0.00%    passed    100.00%
+ 136  S0136    0.00%    passed     99.99%
+ 137  S0137    0.00%    passed     99.96%
+ 138  S0138    0.00%    passed     99.82%
+ 139  S0139    0.00%    passed     99.99%
+ 140  S0140    0.00%    passed     99.99%
+ 141  S0141    0.00%    passed     99.98%
+ 142  S0142    0.00%    passed    100.00%
+ 143  S0143    0.00%    passed     99.99%
+ 144  S0144    0.00%    passed     99.98%
+ 145  S0145    0.00%    passed    100.00%
+ 146  S0146    0.00%    passed     99.94%
+ 147  S0147    0.00%    passed     99.99%
+ 148  S0148    0.00%    passed     99.95%
+ 149  S0149    0.00%    passed     99.99%
+ 150  S0150    0.00%    passed     99.94%
+ 151  S0151    0.00%    passed     99.99%
+ 152  S0152    0.00%    passed     99.99%
+ 153  S0153    0.00%    passed     99.96%
+ 154  S0154    0.00%    passed     99.97%
+ 155  S0155    0.00%    passed     99.84%
+ 156  S0156    0.00%    passed     99.99%
+ 157  S0157    0.00%    passed     99.94%
+ 158  S0158    0.00%    passed     99.97%
+ 159  S0159    0.00%    passed     99.97%
+ 160  S0160    0.00%    passed    100.00%
+ 161  S0161    0.00%    passed    100.00%
+ 162  S0162    0.00%    passed     99.93%
+ 163  S0163    0.00%    passed     99.95%
+ 164  S0164    0.00%    passed     99.94%
+ 165  S0165    0.00%    passed     99.96%
+ 166  S0166    0.00%    passed     99.94%
+ 167  S0167    0.00%    passed     99.74%
+****  TOTAL    0.01%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.009 seconds
+
+NOTE: 4 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -T AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -5574.499
+2. Current log-likelihood: -5397.865
+3. Current log-likelihood: -5393.279
+Optimal log-likelihood: -5393.208
+Rate parameters:  A-C: 1.22947  A-G: 2.48402  A-T: 0.10607  C-G: 0.33613  C-T: 3.01508  G-T: 1.00000
+Base frequencies:  A: 0.177  C: 0.337  G: 0.332  T: 0.154
+Gamma shape alpha: 0.020
+Parameters optimization took 3 rounds (0.158 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0396289 secs using 473.1% CPU
+Computing ML distances took 0.039941 sec (of wall-clock time) 0.187500 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.0006004 secs using 2602% CPU
+Computing RapidNJ tree took 0.002872 sec (of wall-clock time) 0.046875 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -5385.006
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 1.069 second
+Computing log-likelihood of 98 initial trees ... 0.784 seconds
+Current best score: -5370.998
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -5370.423
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -5369.743
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 9: -5368.469
+Iteration 10 / LogL: -5372.264 / Time: 0h:0m:3s
+Iteration 20 / LogL: -5384.470 / Time: 0h:0m:3s
+Finish initializing candidate tree set (20)
+Current best tree score: -5368.469 / CPU time: 3.483
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 21: -5368.160
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 22: -5365.948
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 23: -5365.258
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 25: -5360.268
+Iteration 30 / LogL: -5373.413 / Time: 0h:0m:5s (0h:0m:18s left)
+Iteration 40 / LogL: -5363.896 / Time: 0h:0m:6s (0h:0m:14s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 49: -5360.196
+Iteration 50 / LogL: -5362.098 / Time: 0h:0m:8s (0h:0m:16s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 53: -5360.159
+Iteration 60 / LogL: -5390.190 / Time: 0h:0m:9s (0h:0m:14s left)
+Iteration 70 / LogL: -5360.216 / Time: 0h:0m:10s (0h:0m:12s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 72: -5359.576
+Iteration 80 / LogL: -5368.968 / Time: 0h:0m:11s (0h:0m:13s left)
+Iteration 90 / LogL: -5363.181 / Time: 0h:0m:13s (0h:0m:12s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 100: -5359.458
+Iteration 100 / LogL: -5359.458 / Time: 0h:0m:14s (0h:0m:14s left)
+Iteration 110 / LogL: -5372.241 / Time: 0h:0m:15s (0h:0m:12s left)
+Iteration 120 / LogL: -5359.695 / Time: 0h:0m:17s (0h:0m:11s left)
+Iteration 130 / LogL: -5359.461 / Time: 0h:0m:18s (0h:0m:9s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 140: -5358.357
+Iteration 140 / LogL: -5358.357 / Time: 0h:0m:19s (0h:0m:14s left)
+Iteration 150 / LogL: -5359.517 / Time: 0h:0m:20s (0h:0m:12s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 160: -5356.360
+Iteration 160 / LogL: -5356.360 / Time: 0h:0m:22s (0h:0m:13s left)
+Iteration 170 / LogL: -5359.480 / Time: 0h:0m:23s (0h:0m:12s left)
+Iteration 180 / LogL: -5356.723 / Time: 0h:0m:24s (0h:0m:11s left)
+BETTER TREE FOUND at iteration 182: -5356.359
+Iteration 190 / LogL: -5357.351 / Time: 0h:0m:26s (0h:0m:12s left)
+Iteration 200 / LogL: -5367.518 / Time: 0h:0m:27s (0h:0m:11s left)
+BETTER TREE FOUND at iteration 205: -5356.359
+Iteration 210 / LogL: -5356.362 / Time: 0h:0m:28s (0h:0m:13s left)
+BETTER TREE FOUND at iteration 216: -5356.358
+Iteration 220 / LogL: -5356.360 / Time: 0h:0m:30s (0h:0m:13s left)
+Iteration 230 / LogL: -5356.359 / Time: 0h:0m:31s (0h:0m:11s left)
+Iteration 240 / LogL: -5362.283 / Time: 0h:0m:32s (0h:0m:10s left)
+Iteration 250 / LogL: -5362.700 / Time: 0h:0m:34s (0h:0m:9s left)
+Iteration 260 / LogL: -5356.364 / Time: 0h:0m:35s (0h:0m:7s left)
+Iteration 270 / LogL: -5370.007 / Time: 0h:0m:36s (0h:0m:6s left)
+BETTER TREE FOUND at iteration 277: -5356.357
+Iteration 280 / LogL: -5356.362 / Time: 0h:0m:37s (0h:0m:13s left)
+Iteration 290 / LogL: -5356.728 / Time: 0h:0m:39s (0h:0m:11s left)
+Iteration 300 / LogL: -5356.360 / Time: 0h:0m:40s (0h:0m:10s left)
+Iteration 310 / LogL: -5361.466 / Time: 0h:0m:41s (0h:0m:9s left)
+Iteration 320 / LogL: -5360.988 / Time: 0h:0m:42s (0h:0m:7s left)
+Iteration 330 / LogL: -5359.115 / Time: 0h:0m:44s (0h:0m:6s left)
+Iteration 340 / LogL: -5365.083 / Time: 0h:0m:45s (0h:0m:4s left)
+Iteration 350 / LogL: -5375.973 / Time: 0h:0m:46s (0h:0m:3s left)
+Iteration 360 / LogL: -5360.503 / Time: 0h:0m:48s (0h:0m:2s left)
+Iteration 370 / LogL: -5361.820 / Time: 0h:0m:49s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 378 ITERATIONS / Time: 0h:0m:50s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5356.357
+2. Current log-likelihood: -5356.346
+Optimal log-likelihood: -5356.345
+Rate parameters:  A-C: 1.32542  A-G: 2.68290  A-T: 0.11444  C-G: 0.36698  C-T: 3.28562  G-T: 1.00000
+Base frequencies:  A: 0.177  C: 0.337  G: 0.332  T: 0.154
+Gamma shape alpha: 0.020
+Parameters optimization took 2 rounds (0.041 sec)
+BEST SCORE FOUND : -5356.345
+Total tree length: 0.236
+
+Total number of iterations: 378
+CPU time used for tree search: 175.312 sec (0h:2m:55s)
+Wall-clock time used for tree search: 49.766 sec (0h:0m:49s)
+Total CPU time used: 176.969 sec (0h:2m:56s)
+Total wall-clock time used: 50.283 sec (0h:0m:50s)
+
+Analysis results written to: 
+  IQ-TREE report:                C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV1\UL30_part2.iqtree
+  Maximum-likelihood tree:       C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV1\UL30_part2.treefile
+  Likelihood distances:          C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV1\UL30_part2.mldist
+  Screen log file:               C:\Users\shiva\OneDrive\Desktop\vaccine project\hsv_curated_dataset\14_selection\partitions\HSV1\UL30_part2.log
+
+Date and Time: Fri Nov 20 19:55:27 2026

@@ -1,0 +1,11 @@
+gene	role	sequences	sites_nt	baseline_aicc	best_aicc	delta_aicc	num_breakpoints	breakpoint_positions	verdict
+UL27	gB (primary entry fusogen)	302	2736	32089.68	31778.84	310.84	1	735	RECOMBINANT
+US6	gD (receptor-binding subunit target)	145	1182	9385.84	9385.84	0.0	0	None	STRICTLY CLONAL
+UL22	gH (core fusion heterodimer partner)	276	2514	35924.31	35456.08	468.23	1	604	RECOMBINANT
+UL1	gL (core fusion heterodimer partner)	110	672	6377.54	6377.54	0.0	0	None	STRICTLY CLONAL
+UL44	gC (complement C3b receptor)	213	1533	18377.02	18377.02	0.0	0	None	STRICTLY CLONAL
+UL10	gM (structural envelope protein)	193	1422	13023.13	13023.13	0.0	0	None	STRICTLY CLONAL
+UL53	gK (syncytial entry regulator)	142	1014	8355.48	8355.48	0.0	0	None	STRICTLY CLONAL
+UL30	DNA polymerase catalytic subunit	312	3723	57020.39	50401.28	6619.11	1	2018	RECOMBINANT
+UL47	VP13/14 major tegument protein	227	2106	17580.15	17580.15	0.0	0	None	STRICTLY CLONAL
+UL46	VP11/12 tegument phosphoprotein	252	2217	34061.98	31676.27	2385.71	1	1713	RECOMBINANT

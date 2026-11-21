@@ -1,0 +1,198 @@
+[2026-11-19 00:58:37] ==============================================================================
+[2026-11-19 00:58:37] STEP 22: structural mapping of conservation, epitopes and selected sites
+[2026-11-19 00:58:38] Loaded 40 reference proteins, 22955 conservation rows, 23184 IEDB residue flags, 18684 shortlisted residues, 0 selected sites (selection still running -- column will be all False)
+[2026-11-19 00:58:38] 2C36: HSV-1 gD ectodomain with nectin-1
+[2026-11-19 00:58:40]   downloaded 2C36 (459918 bytes)
+[2026-11-19 00:58:42]   chain A: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-19 00:58:42]   chain B: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-19 00:58:42] 2GUM: HSV-1 gB ectodomain
+[2026-11-19 00:58:45]   downloaded 2GUM (1226340 bytes)
+[2026-11-19 00:58:50]   chain A: 576 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-19 00:58:51]   chain B: 581 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-19 00:58:51]   chain C: 575 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-19 00:58:51] 3M1C: HSV-2 gH/gL heterodimer
+[2026-11-19 00:58:53]   downloaded 3M1C (1139265 bytes)
+[2026-11-19 00:58:56]   chain A: 719 aa -> HSV2 UL22 (identity 0.999)
+[2026-11-19 00:58:56]   chain B: 146 aa -> HSV2 UL1 (identity 1.000)
+[2026-11-19 00:58:56] Wrote structure_residue_annotation.tsv (3145 residues), chain_assignments.tsv (7 chains), conserved_exposed_patches.tsv (40 patches)
+[2026-11-19 00:58:56]   2C36 US6: 548 residues mapped to reference numbering, 138 exposed (RSA>=0.25), 134 conserved AND exposed, 548 inside a known IEDB epitope
+[2026-11-19 00:58:56]   2GUM UL27: 1732 residues mapped to reference numbering, 650 exposed (RSA>=0.25), 644 conserved AND exposed, 746 inside a known IEDB epitope
+[2026-11-19 00:58:56]   3M1C UL1: 146 residues mapped to reference numbering, 58 exposed (RSA>=0.25), 56 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-19 00:58:56]   3M1C UL22: 719 residues mapped to reference numbering, 253 exposed (RSA>=0.25), 248 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-19 00:58:56] Top conserved, exposed surface patches (>= 5 residues):
+[2026-11-19 00:58:56]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:58:56]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:58:56]     2GUM UL27  ref 134-142 len=9   PTRPEGQNY                mean RSA=0.52 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:58:56]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-19 00:58:56]     2GUM UL27  ref 238-245 len=8   NAATRTSR                 mean RSA=0.39 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:58:56]     2GUM UL27  ref 326-339 len=8   YARDLTAP                 mean RSA=0.59 min ident=100.0% known-epitope residues=3
+[2026-11-19 00:58:56]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-19 00:58:56]     2GUM UL27  ref 458-494 len=8   NTLASVER                 mean RSA=0.57 min ident=100.0% known-epitope residues=5
+[2026-11-19 00:58:56]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.38 min ident=100.0% known-epitope residues=8
+[2026-11-19 00:58:56]     3M1C UL22  ref 532-539 len=8   AGAPSAEQ                 mean RSA=0.47 min ident=99.4% known-epitope residues=0
+[2026-11-19 00:58:56]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.46 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:58:56]     3M1C UL1   ref 108-117 len=7   SHSVDTQ                  mean RSA=0.50 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:58:56] PyMOL scripts in 17_structures\figures -- open in PyMOL or ChimeraX to render the figures.
+[2026-11-19 00:58:56] Re-run this step after step18 so positively selected sites appear on the structures and in the .pml scripts.
+[2026-11-19 00:59:21] ==============================================================================
+[2026-11-19 00:59:21] STEP 22: structural mapping of conservation, epitopes and selected sites
+[2026-11-19 00:59:21] Loaded 40 reference proteins, 22955 conservation rows, 23184 IEDB residue flags, 18684 shortlisted residues, 0 selected sites (selection still running -- column will be all False)
+[2026-11-19 00:59:21] 2C36: HSV-1 gD ectodomain with nectin-1
+[2026-11-19 00:59:23]   chain A: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-19 00:59:23]   chain B: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-19 00:59:23] 2GUM: HSV-1 gB ectodomain
+[2026-11-19 00:59:28]   chain A: 576 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-19 00:59:29]   chain B: 581 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-19 00:59:29]   chain C: 575 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-19 00:59:29] 3M1C: HSV-2 gH/gL heterodimer
+[2026-11-19 00:59:32]   chain A: 719 aa -> HSV2 UL22 (identity 0.999)
+[2026-11-19 00:59:32]   chain B: 146 aa -> HSV2 UL1 (identity 1.000)
+[2026-11-19 00:59:32] Wrote structure_residue_annotation.tsv (3145 residues), chain_assignments.tsv (7 chains), conserved_exposed_patches.tsv (33 patches)
+[2026-11-19 00:59:32]   2C36 US6: 548 residues mapped to reference numbering, 138 exposed (RSA>=0.25), 134 conserved AND exposed, 548 inside a known IEDB epitope
+[2026-11-19 00:59:32]   2GUM UL27: 1732 residues mapped to reference numbering, 650 exposed (RSA>=0.25), 644 conserved AND exposed, 746 inside a known IEDB epitope
+[2026-11-19 00:59:32]   3M1C UL1: 146 residues mapped to reference numbering, 58 exposed (RSA>=0.25), 56 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-19 00:59:32]   3M1C UL22: 719 residues mapped to reference numbering, 253 exposed (RSA>=0.25), 248 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-19 00:59:32] Top conserved, exposed surface patches (>= 5 residues):
+[2026-11-19 00:59:32]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:59:32]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:59:32]     2GUM UL27  ref 134-142 len=9   PTRPEGQNY                mean RSA=0.52 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:59:32]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-19 00:59:32]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-19 00:59:32]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.38 min ident=100.0% known-epitope residues=8
+[2026-11-19 00:59:32]     3M1C UL22  ref 532-539 len=8   AGAPSAEQ                 mean RSA=0.47 min ident=99.4% known-epitope residues=0
+[2026-11-19 00:59:32]     2GUM UL27  ref 238-245 len=8   NAATRTSR                 mean RSA=0.39 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:59:32]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.45 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:59:32]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.46 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:59:32]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.46 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:59:32]     3M1C UL22  ref 462-468 len=7   EREQSLV                  mean RSA=0.44 min ident=100.0% known-epitope residues=0
+[2026-11-19 00:59:32] PyMOL scripts in 17_structures\figures -- open in PyMOL or ChimeraX to render the figures.
+[2026-11-19 00:59:32] Re-run this step after step18 so positively selected sites appear on the structures and in the .pml scripts.
+[2026-11-19 01:10:31] ==============================================================================
+[2026-11-19 01:10:31] STEP 22: structural mapping of conservation, epitopes and selected sites
+[2026-11-19 01:10:31] Loaded 40 reference proteins, 22955 conservation rows, 23184 IEDB residue flags, 18684 shortlisted residues, 0 selected sites (selection still running -- column will be all False)
+[2026-11-19 01:10:31] 2C36: HSV-1 gD ectodomain with nectin-1
+[2026-11-19 01:10:33]   chain A: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-19 01:10:33]   chain B: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-19 01:10:33] 2GUM: HSV-1 gB ectodomain
+[2026-11-19 01:10:38]   chain A: 576 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-19 01:10:38]   chain B: 581 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-19 01:10:39]   chain C: 575 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-19 01:10:39] 3M1C: HSV-2 gH/gL heterodimer
+[2026-11-19 01:10:41]   chain A: 719 aa -> HSV2 UL22 (identity 0.999)
+[2026-11-19 01:10:42]   chain B: 146 aa -> HSV2 UL1 (identity 1.000)
+[2026-11-19 01:10:42] Wrote structure_residue_annotation.tsv (3145 residues), chain_assignments.tsv (7 chains), conserved_exposed_patches.tsv (33 patches)
+[2026-11-19 01:10:42]   2C36 US6: 548 residues mapped to reference numbering, 138 exposed (RSA>=0.25), 134 conserved AND exposed, 548 inside a known IEDB epitope
+[2026-11-19 01:10:42]   2GUM UL27: 1732 residues mapped to reference numbering, 650 exposed (RSA>=0.25), 644 conserved AND exposed, 746 inside a known IEDB epitope
+[2026-11-19 01:10:42]   3M1C UL1: 146 residues mapped to reference numbering, 58 exposed (RSA>=0.25), 56 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-19 01:10:42]   3M1C UL22: 719 residues mapped to reference numbering, 253 exposed (RSA>=0.25), 248 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-19 01:10:42] Top conserved, exposed surface patches (>= 5 residues):
+[2026-11-19 01:10:42]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-19 01:10:42]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-19 01:10:42]     2GUM UL27  ref 134-142 len=9   PTRPEGQNY                mean RSA=0.52 min ident=100.0% known-epitope residues=0
+[2026-11-19 01:10:42]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-19 01:10:42]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-19 01:10:42]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.38 min ident=100.0% known-epitope residues=8
+[2026-11-19 01:10:42]     3M1C UL22  ref 532-539 len=8   AGAPSAEQ                 mean RSA=0.47 min ident=99.4% known-epitope residues=0
+[2026-11-19 01:10:42]     2GUM UL27  ref 238-245 len=8   NAATRTSR                 mean RSA=0.39 min ident=100.0% known-epitope residues=0
+[2026-11-19 01:10:42]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.45 min ident=100.0% known-epitope residues=0
+[2026-11-19 01:10:42]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.46 min ident=100.0% known-epitope residues=0
+[2026-11-19 01:10:42]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.46 min ident=100.0% known-epitope residues=0
+[2026-11-19 01:10:42]     3M1C UL22  ref 462-468 len=7   EREQSLV                  mean RSA=0.44 min ident=100.0% known-epitope residues=0
+[2026-11-19 01:10:42] PyMOL scripts in 17_structures\figures -- open in PyMOL or ChimeraX to render the figures.
+[2026-11-19 01:10:42] Re-run this step after step18 so positively selected sites appear on the structures and in the .pml scripts.
+[2026-11-20 23:44:03] ==============================================================================
+[2026-11-20 23:44:03] STEP 22: structural mapping of conservation, epitopes and selected sites
+[2026-11-20 23:44:04] Loaded 40 reference proteins, 22955 conservation rows, 23184 IEDB residue flags, 18681 shortlisted residues, 2 selected sites
+[2026-11-20 23:44:04] 2C36: HSV-1 gD ectodomain with nectin-1
+[2026-11-20 23:44:05]   chain A: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-20 23:44:06]   chain B: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-20 23:44:06] 2GUM: HSV-1 gB ectodomain
+[2026-11-20 23:44:10]   chain A: 576 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-20 23:44:10]   chain B: 581 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-20 23:44:10]   chain C: 575 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-20 23:44:10] 3M1C: HSV-2 gH/gL heterodimer
+[2026-11-20 23:44:12]   chain A: 719 aa -> HSV2 UL22 (identity 0.999)
+[2026-11-20 23:44:13]   chain B: 146 aa -> HSV2 UL1 (identity 1.000)
+[2026-11-20 23:44:13] Wrote structure_residue_annotation.tsv (3145 residues), chain_assignments.tsv (7 chains), conserved_exposed_patches.tsv (33 patches)
+[2026-11-20 23:44:13]   2C36 US6: 548 residues mapped to reference numbering, 138 exposed (RSA>=0.25), 134 conserved AND exposed, 548 inside a known IEDB epitope
+[2026-11-20 23:44:13]   2GUM UL27: 1732 residues mapped to reference numbering, 650 exposed (RSA>=0.25), 644 conserved AND exposed, 746 inside a known IEDB epitope
+[2026-11-20 23:44:13]   3M1C UL1: 146 residues mapped to reference numbering, 58 exposed (RSA>=0.25), 56 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-20 23:44:13]   3M1C UL22: 719 residues mapped to reference numbering, 253 exposed (RSA>=0.25), 248 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-20 23:44:13] Top conserved, exposed surface patches (>= 5 residues):
+[2026-11-20 23:44:13]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-20 23:44:13]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-20 23:44:13]     2GUM UL27  ref 134-142 len=9   PTRPEGQNY                mean RSA=0.52 min ident=100.0% known-epitope residues=0
+[2026-11-20 23:44:13]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-20 23:44:13]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-20 23:44:13]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.38 min ident=100.0% known-epitope residues=8
+[2026-11-20 23:44:13]     3M1C UL22  ref 532-539 len=8   AGAPSAEQ                 mean RSA=0.47 min ident=99.4% known-epitope residues=0
+[2026-11-20 23:44:13]     2GUM UL27  ref 238-245 len=8   NAATRTSR                 mean RSA=0.39 min ident=100.0% known-epitope residues=0
+[2026-11-20 23:44:13]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.45 min ident=100.0% known-epitope residues=0
+[2026-11-20 23:44:13]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.46 min ident=100.0% known-epitope residues=0
+[2026-11-20 23:44:13]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.46 min ident=100.0% known-epitope residues=0
+[2026-11-20 23:44:13]     3M1C UL22  ref 462-468 len=7   EREQSLV                  mean RSA=0.44 min ident=100.0% known-epitope residues=0
+[2026-11-20 23:44:13] PyMOL scripts in 17_structures\figures -- open in PyMOL or ChimeraX to render the figures.
+[2026-11-21 00:21:32] ==============================================================================
+[2026-11-21 00:21:32] STEP 22: structural mapping of conservation, epitopes and selected sites
+[2026-11-21 00:21:33] Loaded 40 reference proteins, 22955 conservation rows, 23184 IEDB residue flags, 18681 shortlisted residues, 2 selected sites
+[2026-11-21 00:21:33] 2C36: HSV-1 gD ectodomain with nectin-1
+[2026-11-21 00:21:34]   chain A: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-21 00:21:34]   chain B: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-21 00:21:34] 2GUM: HSV-1 gB ectodomain
+[2026-11-21 00:21:38]   chain A: 576 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-21 00:21:39]   chain B: 581 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-21 00:21:39]   chain C: 575 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-21 00:21:39] 3M1C: HSV-2 gH/gL heterodimer
+[2026-11-21 00:21:41]   chain A: 719 aa -> HSV2 UL22 (identity 0.999)
+[2026-11-21 00:21:41]   chain B: 146 aa -> HSV2 UL1 (identity 1.000)
+[2026-11-21 00:21:41] Wrote structure_residue_annotation.tsv (3145 residues), chain_assignments.tsv (7 chains), conserved_exposed_patches.tsv (33 patches)
+[2026-11-21 00:21:41]   2C36 US6: 548 residues mapped to reference numbering, 138 exposed (RSA>=0.25), 134 conserved AND exposed, 548 inside a known IEDB epitope
+[2026-11-21 00:21:41]   2GUM UL27: 1732 residues mapped to reference numbering, 650 exposed (RSA>=0.25), 644 conserved AND exposed, 746 inside a known IEDB epitope
+[2026-11-21 00:21:41]   3M1C UL1: 146 residues mapped to reference numbering, 58 exposed (RSA>=0.25), 56 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-21 00:21:41]   3M1C UL22: 719 residues mapped to reference numbering, 253 exposed (RSA>=0.25), 248 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-21 00:21:41] Top conserved, exposed surface patches (>= 5 residues):
+[2026-11-21 00:21:41]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-21 00:21:41]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-21 00:21:41]     2GUM UL27  ref 134-142 len=9   PTRPEGQNY                mean RSA=0.52 min ident=100.0% known-epitope residues=0
+[2026-11-21 00:21:41]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-21 00:21:41]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-21 00:21:41]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.38 min ident=100.0% known-epitope residues=8
+[2026-11-21 00:21:41]     3M1C UL22  ref 532-539 len=8   AGAPSAEQ                 mean RSA=0.47 min ident=99.4% known-epitope residues=0
+[2026-11-21 00:21:41]     2GUM UL27  ref 238-245 len=8   NAATRTSR                 mean RSA=0.39 min ident=100.0% known-epitope residues=0
+[2026-11-21 00:21:41]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.45 min ident=100.0% known-epitope residues=0
+[2026-11-21 00:21:41]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.46 min ident=100.0% known-epitope residues=0
+[2026-11-21 00:21:41]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.46 min ident=100.0% known-epitope residues=0
+[2026-11-21 00:21:41]     3M1C UL22  ref 462-468 len=7   EREQSLV                  mean RSA=0.44 min ident=100.0% known-epitope residues=0
+[2026-11-21 00:21:41] PyMOL scripts in 17_structures\figures -- open in PyMOL or ChimeraX to render the figures.
+[2026-11-21 01:23:24] ==============================================================================
+[2026-11-21 01:23:24] STEP 22: structural mapping of conservation, epitopes and selected sites
+[2026-11-21 01:23:24] Loaded 40 reference proteins, 22955 conservation rows, 23184 IEDB residue flags, 18681 shortlisted residues, 2 selected sites
+[2026-11-21 01:23:24] 2C36: HSV-1 gD ectodomain with nectin-1
+[2026-11-21 01:23:26]   chain A: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-21 01:23:26]   chain B: 274 aa -> HSV1 US6 (identity 1.000)
+[2026-11-21 01:23:26] 2GUM: HSV-1 gB ectodomain
+[2026-11-21 01:23:31]   chain A: 576 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-21 01:23:31]   chain B: 581 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-21 01:23:32]   chain C: 575 aa -> HSV1 UL27 (identity 0.995)
+[2026-11-21 01:23:32] 3M1C: HSV-2 gH/gL heterodimer
+[2026-11-21 01:23:34]   chain A: 719 aa -> HSV2 UL22 (identity 0.999)
+[2026-11-21 01:23:34]   chain B: 146 aa -> HSV2 UL1 (identity 1.000)
+[2026-11-21 01:23:34] Wrote structure_residue_annotation.tsv (3145 residues), chain_assignments.tsv (7 chains), conserved_exposed_patches.tsv (33 patches)
+[2026-11-21 01:23:34]   2C36 US6: 548 residues mapped to reference numbering, 138 exposed (RSA>=0.25), 134 conserved AND exposed, 548 inside a known IEDB epitope
+[2026-11-21 01:23:34]   2GUM UL27: 1732 residues mapped to reference numbering, 650 exposed (RSA>=0.25), 644 conserved AND exposed, 746 inside a known IEDB epitope
+[2026-11-21 01:23:34]   3M1C UL1: 146 residues mapped to reference numbering, 58 exposed (RSA>=0.25), 56 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-21 01:23:34]   3M1C UL22: 719 residues mapped to reference numbering, 253 exposed (RSA>=0.25), 248 conserved AND exposed, 0 inside a known IEDB epitope
+[2026-11-21 01:23:34] Top conserved, exposed surface patches (>= 5 residues):
+[2026-11-21 01:23:34]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-21 01:23:34]     2GUM UL27  ref 134-144 len=11  PTRPEGQNYTE              mean RSA=0.49 min ident=100.0% known-epitope residues=0
+[2026-11-21 01:23:34]     2GUM UL27  ref 134-142 len=9   PTRPEGQNY                mean RSA=0.52 min ident=100.0% known-epitope residues=0
+[2026-11-21 01:23:34]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-21 01:23:34]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.40 min ident=100.0% known-epitope residues=8
+[2026-11-21 01:23:34]     2GUM UL27  ref 257-264 len=8   SRVEAFHR                 mean RSA=0.38 min ident=100.0% known-epitope residues=8
+[2026-11-21 01:23:34]     3M1C UL22  ref 532-539 len=8   AGAPSAEQ                 mean RSA=0.47 min ident=99.4% known-epitope residues=0
+[2026-11-21 01:23:34]     2GUM UL27  ref 238-245 len=8   NAATRTSR                 mean RSA=0.39 min ident=100.0% known-epitope residues=0
+[2026-11-21 01:23:34]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.45 min ident=100.0% known-epitope residues=0
+[2026-11-21 01:23:34]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.46 min ident=100.0% known-epitope residues=0
+[2026-11-21 01:23:34]     2GUM UL27  ref 225-231 len=7   RDDHETD                  mean RSA=0.46 min ident=100.0% known-epitope residues=0
+[2026-11-21 01:23:34]     3M1C UL22  ref 462-468 len=7   EREQSLV                  mean RSA=0.44 min ident=100.0% known-epitope residues=0
+[2026-11-21 01:23:34] PyMOL scripts in 17_structures\figures -- open in PyMOL or ChimeraX to render the figures.

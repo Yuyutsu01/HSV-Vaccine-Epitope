@@ -1,0 +1,41 @@
+[2026-11-21 01:21:20] STEP 28: B-cell epitope layer (BepiPred-3.0 linear, DiscoTope-3.0 structural)
+[2026-11-21 01:21:20] reference proteins: 40 (23184 residues)
+[2026-11-21 01:21:20] BepiPred rows: 23184, accessions: 40
+[2026-11-21 01:21:20] BepiPred adapted: 23184 residues over 40 proteins, all in register
+[2026-11-21 01:21:20] wrote bcell_linear_scores.tsv (23184 rows)
+[2026-11-21 01:21:20]     residues at or above the BepiPred threshold 0.1512: 8647 of 23184 (37.3%)
+[2026-11-21 01:21:20]     per-gene mean linear epitope score, highest 8:
+[2026-11-21 01:21:20]         HSV1 UL49   0.2155
+[2026-11-21 01:21:20]         HSV2 UL49   0.2144
+[2026-11-21 01:21:20]         HSV2 UL1    0.2014
+[2026-11-21 01:21:20]         HSV1 UL1    0.1892
+[2026-11-21 01:21:20]         HSV1 UL54   0.1843
+[2026-11-21 01:21:20]         HSV2 UL54   0.1840
+[2026-11-21 01:21:20]         HSV1 RL2    0.1782
+[2026-11-21 01:21:20]         HSV2 UL49A  0.1700
+[2026-11-21 01:21:20] 
+[2026-11-21 01:21:20] wrote:
+[2026-11-21 01:21:20]     13_epitopes\bcell_linear_scores.tsv
+[2026-11-21 01:21:20]     13_epitopes\bcell_predictor_provenance.tsv
+[2026-11-21 01:21:20] 
+[2026-11-21 01:21:20] Scope note: both predictors are run on the TYPE REFERENCE protein and on solved structures of reference-like strains, not per isolate. A B-cell score is therefore a property of the reference antigen, and the conservation layer is what carries the per-isolate variability. Nothing here is validated against experimentally mapped HSV B-cell epitopes in this study.
+[2026-11-21 01:43:11] STEP 28: B-cell epitope layer (BepiPred-3.0 linear, DiscoTope-3.0 structural)
+[2026-11-21 01:43:11] reference proteins: 40 (23184 residues)
+[2026-11-21 01:43:11] DiscoTope CSV files: 7
+[2026-11-21 01:43:11] coordinate map: 3145 (pdb, chain, resnum) keys from step22
+[2026-11-21 01:43:11] DiscoTope rows mapped: 3145; unmapped (outside the step22 map, i.e. chains or residues with no reference assignment): 0; residue-letter mismatches dropped: 0
+[2026-11-21 01:43:11] wrote bcell_conformational_scores.tsv (3145 rows)
+[2026-11-21 01:43:11]     per chain: residues scored, mean score, high-confidence count
+[2026-11-21 01:43:11]         2C36 A  HSV1 US6    n= 274  mean=0.1544  high-conf(>=0.9)=0
+[2026-11-21 01:43:11]         2C36 B  HSV1 US6    n= 274  mean=0.1548  high-conf(>=0.9)=0
+[2026-11-21 01:43:11]         2GUM A  HSV1 UL27   n= 576  mean=0.0801  high-conf(>=0.9)=0
+[2026-11-21 01:43:11]         2GUM B  HSV1 UL27   n= 581  mean=0.0800  high-conf(>=0.9)=0
+[2026-11-21 01:43:11]         2GUM C  HSV1 UL27   n= 575  mean=0.0807  high-conf(>=0.9)=0
+[2026-11-21 01:43:11]         3M1C A  HSV2 UL22   n= 719  mean=0.0557  high-conf(>=0.9)=0
+[2026-11-21 01:43:11]         3M1C B  HSV2 UL1    n= 146  mean=0.2769  high-conf(>=0.9)=0
+[2026-11-21 01:43:11] 
+[2026-11-21 01:43:11] wrote:
+[2026-11-21 01:43:11]     13_epitopes\bcell_conformational_scores.tsv
+[2026-11-21 01:43:11]     13_epitopes\bcell_predictor_provenance.tsv
+[2026-11-21 01:43:11] 
+[2026-11-21 01:43:11] Scope note: both predictors are run on the TYPE REFERENCE protein and on solved structures of reference-like strains, not per isolate. A B-cell score is therefore a property of the reference antigen, and the conservation layer is what carries the per-isolate variability. Nothing here is validated against experimentally mapped HSV B-cell epitopes in this study.

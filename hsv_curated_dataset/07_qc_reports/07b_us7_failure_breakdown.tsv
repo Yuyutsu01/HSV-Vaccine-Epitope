@@ -1,0 +1,36 @@
+accession	length_nt	ref_length_nt	length_ratio	pct_N	internal_stops	failure_reason
+QP771543	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+PX911520	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+PX911519	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+PX837190	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+PX763612	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+OR833070	1310	1173	1.117	7.48	999	Invalid stop codon (CCC); Length 1310 not divisible by 3; Length ratio 1.117 outside 0.95-1.05; Ambiguity 7.48% >= 0.5%; Internal stop codons (999)
+OR833069	1293	1173	1.102	7.66	0	Length ratio 1.102 outside 0.95-1.05; Ambiguity 7.66% >= 0.5%
+OR833068	1293	1173	1.102	7.66	0	Length ratio 1.102 outside 0.95-1.05; Ambiguity 7.66% >= 0.5%
+OR833063	1310	1173	1.117	7.48	999	Invalid stop codon (CCC); Length 1310 not divisible by 3; Length ratio 1.117 outside 0.95-1.05; Ambiguity 7.48% >= 0.5%; Internal stop codons (999)
+OR833062	1174	1173	1.001	0.0	999	Length 1174 not divisible by 3; Internal stop codons (999)
+OR771693	1236	1173	1.054	0.0	0	Length ratio 1.054 outside 0.95-1.05
+OR723971	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+MG999889	1310	1173	1.117	0.08	999	Invalid stop codon (CAA); Length 1310 not divisible by 3; Length ratio 1.117 outside 0.95-1.05; Internal stop codons (999)
+OQ724936	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+OQ724892	1172	1173	0.999	0.0	999	Length 1172 not divisible by 3; Internal stop codons (999)
+OP871859	1022	1173	0.871	0.0	999	Invalid stop codon (CCC); Length 1022 not divisible by 3; Length ratio 0.871 outside 0.95-1.05; Internal stop codons (999)
+OP871858	1073	1173	0.915	0.0	999	Invalid stop codon (ACG); Length 1073 not divisible by 3; Length ratio 0.915 outside 0.95-1.05; Internal stop codons (999)
+OP871857	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+OP871856	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+OP871852	1031	1173	0.879	0.0	999	Invalid stop codon (ACC); Length 1031 not divisible by 3; Length ratio 0.879 outside 0.95-1.05; Internal stop codons (999)
+OP871851	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+OP871850	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+OP871848	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+OP871846	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+OP871844	1258	1173	1.072	0.0	999	Length 1258 not divisible by 3; Length ratio 1.072 outside 0.95-1.05; Internal stop codons (999)
+OP871842	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+OP871840	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+OP297880	1042	1173	0.888	0.0	999	Invalid start codon (GCT); Length 1042 not divisible by 3; Length ratio 0.888 outside 0.95-1.05; Internal stop codons (999)
+OP297869	1167	1173	0.995	0.0	0	Invalid start codon (TGT)
+OP297864	1199	1173	1.022	0.0	999	Length 1199 not divisible by 3; Internal stop codons (999)
+ON783216	1275	1173	1.087	0.0	0	Length ratio 1.087 outside 0.95-1.05
+OL638990	1257	1173	1.072	0.0	0	Length ratio 1.072 outside 0.95-1.05
+MH999849	949	1173	0.809	0.0	999	Invalid stop codon (CGA); Length 949 not divisible by 3; Length ratio 0.809 outside 0.95-1.05; Internal stop codons (999)
+MH999840	1260	1173	1.074	0.0	0	Length ratio 1.074 outside 0.95-1.05
+KR011298	1174	1173	1.001	0.0	999	Length 1174 not divisible by 3; Internal stop codons (999)

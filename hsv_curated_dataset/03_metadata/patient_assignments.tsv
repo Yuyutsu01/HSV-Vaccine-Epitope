@@ -1,0 +1,1306 @@
+accession	virus	isolate	patient_id	patient_basis	sample_day	country	collection_year	BioSample	BioProject	submitter
+PZ347688	HSV-1	HSV1-1981-H186	PZ347688	accession_singleton						
+PZ169720	HSV-1	Z_d40_skin	Z	serial_isolate_name	40.0					
+PZ169719	HSV-1	Z_d40_skin_culture	Z	serial_isolate_name	40.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169718	HSV-1	Z_d39_plasma	Z	serial_isolate_name	39.0					
+PZ169717	HSV-1	Z_d10_skin	Z	serial_isolate_name	10.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169716	HSV-1	Z_d10_culture	Z	serial_isolate_name	10.0	USA				Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169715	HSV-1	Z_d10_plasma	Z	serial_isolate_name	10.0					
+PZ169714	HSV-1	Z_d9_eye	Z	serial_isolate_name	9.0					
+PZ169713	HSV-1	Z_d9_eye_culture	Z	serial_isolate_name	9.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169712	HSV-1	F_d10_plasma	F	serial_isolate_name	10.0					
+PZ169711	HSV-1	F_d10_plasma_culture	F	serial_isolate_name	10.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169710	HSV-1	D_d12_skin	D	serial_isolate_name	12.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169709	HSV-1	D_d12_skin_culture	D	serial_isolate_name	12.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169708	HSV-1	D_d12_rectum	D	serial_isolate_name	12.0					
+PZ169707	HSV-1	D_d12_eye	D	serial_isolate_name	12.0					
+PZ169706	HSV-1	C_d10_plasma	C	serial_isolate_name	10.0					
+PZ169705	HSV-1	C_d10_plasma_culture	C	serial_isolate_name	10.0					
+PZ169704	HSV-1	C_d10_liver	C	serial_isolate_name	10.0					
+PZ169703	HSV-1	C_d10_liver_culture	C	serial_isolate_name	10.0					
+PZ169702	HSV-1	C_d10_eye	C	serial_isolate_name	10.0					
+PZ169701	HSV-1	E_d25_skin	E	serial_isolate_name	25.0					
+PZ169700	HSV-1	E_d12_plasma	E	serial_isolate_name	12.0					
+PZ169699	HSV-1	B_d9_rectum	B	serial_isolate_name	9.0					
+PZ169698	HSV-1	B_d9_pharynx	B	serial_isolate_name	9.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169697	HSV-1	B_d9_eye	B	serial_isolate_name	9.0					
+PZ169696	HSV-1	B_d8_plasma	B	serial_isolate_name	8.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169695	HSV-1	B_d8_plasma_culture	B	serial_isolate_name	8.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169694	HSV-1	W_d15_skin	W	serial_isolate_name	15.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169693	HSV-1	W_d15_skin_culture	W	serial_isolate_name	15.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169692	HSV-1	W_d15_plasma	W	serial_isolate_name	15.0					
+PZ169691	HSV-1	Y_d9_plasma	Y	serial_isolate_name	9.0					
+PZ169690	HSV-1	Y_d8_skin	Y	serial_isolate_name	8.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169689	HSV-1	Y_d8_skin_culture	Y	serial_isolate_name	8.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169688	HSV-1	Y_d8_eye	Y	serial_isolate_name	8.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169687	HSV-1	X_d8_skin	X	serial_isolate_name	8.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169686	HSV-1	X_d8_skin_culture	X	serial_isolate_name	8.0					
+PZ169685	HSV-1	X_d8_plasma	X	serial_isolate_name	8.0					
+PZ169684	HSV-1	A_d8_CSF	A	serial_isolate_name	8.0					
+PZ169683	HSV-1	A_d7_plasma	A	serial_isolate_name	7.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169682	HSV-1	A_d7_eye	A	serial_isolate_name	7.0					
+PZ169681	HSV-1	A_d7_eye_culture	A	serial_isolate_name	7.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169680	HSV-1	A_d6_swab	A	serial_isolate_name	6.0					
+PZ169679	HSV-1	A_d6_swab_culture	A	serial_isolate_name	6.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169678	HSV-1	A_d6_skin	A	serial_isolate_name	6.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PZ169677	HSV-1	A_d6_skin_culture	A	serial_isolate_name	6.0	USA	2009.0			Penn State, Department of Biology and Biochemistry and Molecular Biology
+PV754022	HSV-1	HaNa	PV754022	accession_singleton						
+QS368914	HSV-1		QS368914	accession_singleton						
+QS392184	HSV-1		QS392184	accession_singleton						
+QQ274048	HSV-1		QQ274048	accession_singleton						
+QP771544	HSV-1		QP771544	accession_singleton						
+QP771543	HSV-1		QP771543	accession_singleton						
+PX911520	HSV-1		PX911520	accession_singleton						
+PX911519	HSV-1		PX911519	accession_singleton						
+PX969520	HSV-1		PX969520	accession_singleton		USA				Cedars-Sinai Health Sciences University, Surgery
+PX712187	HSV-1	HSV-1/Spain/ADA41/2023	PX712187	accession_singleton						
+PX837190	HSV-1		PX837190	accession_singleton						
+PX763612	HSV-1		PX763612	accession_singleton		USA				Cedars-Sinai Health Sciences University, Surgery
+OZ349004	HSV-1	139	SAMEA120222668	biosample		Germany		SAMEA120222668	PRJEB91485	CVG, Institute of Virology - clinical virus genomics, Herrmann-Herder-Str 11, 79104 Freiburg
+OZ348992	HSV-1	136	SAMEA120222665	biosample		Germany		SAMEA120222665	PRJEB91485	CVG, Institute of Virology - clinical virus genomics, Herrmann-Herder-Str 11, 79104 Freiburg
+OZ348988	HSV-1	140	SAMEA120222669	biosample		Germany		SAMEA120222669	PRJEB91485	CVG, Institute of Virology - clinical virus genomics, Herrmann-Herder-Str 11, 79104 Freiburg
+OZ348811	HSV-1	138	SAMEA120222667	biosample		Germany		SAMEA120222667	PRJEB91485	CVG, Institute of Virology - clinical virus genomics, Herrmann-Herder-Str 11, 79104 Freiburg
+OZ348666	HSV-1	137	SAMEA120222666	biosample		Germany		SAMEA120222666	PRJEB91485	CVG, Institute of Virology - clinical virus genomics, Herrmann-Herder-Str 11, 79104 Freiburg
+PV146402	HSV-1	SJZ196/2019	PV146402	accession_singleton		China	2019.0			Academy of Military Medical Sciences, State Key Laboratory of Pathogen and Biosecurity
+PV146403	HSV-1	GZ291/2015	PV146403	accession_singleton		China	2015.0			Academy of Military Medical Sciences, State Key Laboratory of Pathogen and Biosecurity
+PP379034	HSV-1	HSV1-Namibia-2016-oral309combined	PP379034	accession_singleton						
+PP379033	HSV-1	HSV1-Namibia-2015-oral055	PP379033	accession_singleton						
+PP379032	HSV-1	HSV1-Namibia-2015-oral050	PP379032	accession_singleton						
+PP379031	HSV-1	HSV1-Namibia-2015-oral038	PP379031	accession_singleton						
+PQ569920	HSV-1	MacIntyre	PQ569920	accession_singleton		Spain	2007.0			Vircell S.L., I+D, Molecular Diagnostics
+OP431913	HSV-1	HSV1-v55_d381_gen	HSV1-v55	serial_isolate_name	381.0					
+OP431912	HSV-1	v59_d119_gen_les	v59	serial_isolate_name	119.0					
+OP431911	HSV-1	HSV1-v51_d189_gen_les	HSV1-v51	serial_isolate_name	189.0					
+OP431907	HSV-1	HSV1-v64_d94_gen	HSV1-v64	serial_isolate_name	94.0					
+OP431900	HSV-1	HSV1-v64_d73_gen	HSV1-v64	serial_isolate_name	73.0					
+OP431898	HSV-1	HSV1-v54_d352_gen_les	HSV1-v54	serial_isolate_name	352.0					
+OP431896	HSV-1	HSV1-v54_d363_gen_les	HSV1-v54	serial_isolate_name	363.0					
+OP431893	HSV-1	HSV1-v54_d74_gen	HSV1-v54	serial_isolate_name	74.0					
+OP431892	HSV-1	HSV1-v54_d74_gen_les	HSV1-v54	serial_isolate_name	74.0					
+OP431888	HSV-1	HSV1-v54_d67_gen_les	HSV1-v54	serial_isolate_name	67.0					
+OP431887	HSV-1	HSV1-v51_d2_gen_les	HSV1-v51	serial_isolate_name	2.0					
+OP431885	HSV-1	HSV1-v55_d383_gen	HSV1-v55	serial_isolate_name	383.0					
+OP431878	HSV-1	HSV1-v55_d382_gen	HSV1-v55	serial_isolate_name	382.0					
+OP431873	HSV-1	HSV1-v54_d353_gen_les	HSV1-v54	serial_isolate_name	353.0					
+OP431871	HSV-1	HSV1-v54_d363_gen	HSV1-v54	serial_isolate_name	363.0					
+OP431876	HSV-1	HSV1-v54_d352_gen	HSV1-v54	serial_isolate_name	352.0					
+OP431910	HSV-1	HSV1-v59_d83_gen_les	HSV1-v59	serial_isolate_name	83.0					
+OP431909	HSV-1	HSV1-v62_d3_gen_les	HSV1-v62	serial_isolate_name	3.0					
+OP431908	HSV-1	HSV1-v53_d85_gen	HSV1-v53	serial_isolate_name	85.0					
+OP431906	HSV-1	HSV1-v57_d3_gen_les	HSV1-v57	serial_isolate_name	3.0					
+OP431905	HSV-1	HSV1-v60_d349_oral	HSV1-v60	serial_isolate_name	349.0					
+OP431904	HSV-1	HSV1-v59_d120_gen_les	HSV1-v59	serial_isolate_name	120.0					
+OP431903	HSV-1	HSV1-v63_d284_oral	HSV1-v63	serial_isolate_name	284.0					
+OP431902	HSV-1	HSV1-v53_d3_gen_les	HSV1-v53	serial_isolate_name	3.0					
+OP431901	HSV-1	HSV1-v66_d6_gen	HSV1-v66	serial_isolate_name	6.0					
+OP431899	HSV-1	HSV1-v67_d345_gen	HSV1-v67	serial_isolate_name	345.0					
+OP431897	HSV-1	HSV1-v56_d6_gen_les	HSV1-v56	serial_isolate_name	6.0					
+OP431895	HSV-1	HSV1-v54_d353_gen	HSV1-v54	serial_isolate_name	353.0					
+OP431894	HSV-1	HSV1-v50_d142_gen_les	HSV1-v50	serial_isolate_name	142.0					
+OP431891	HSV-1	HSV1-v61_d308_gen	HSV1-v61	serial_isolate_name	308.0					
+OP431890	HSV-1	HSV1-v63_d84_oral	HSV1-v63	serial_isolate_name	84.0					
+OP431889	HSV-1	HSV1-v54_d67_gen	HSV1-v54	serial_isolate_name	67.0					
+OP431886	HSV-1	HSV1-v53_d36_gen_les	HSV1-v53	serial_isolate_name	36.0					
+OP431884	HSV-1	HSV1-v59_d121_gen_les	HSV1-v59	serial_isolate_name	121.0					
+OP431883	HSV-1	HSV1-v61_d2_gen_les	HSV1-v61	serial_isolate_name	2.0					
+OP431882	HSV-1	HSV1-v53_d96_oral	HSV1-v53	serial_isolate_name	96.0					
+OP431881	HSV-1	HSV1-v55_d384_gen	HSV1-v55	serial_isolate_name	384.0					
+OP431880	HSV-1	HSV1-v61_d309_gen	HSV1-v61	serial_isolate_name	309.0					
+OP431879	HSV-1	HSV1-v52_d2_gen_les	HSV1-v52	serial_isolate_name	2.0					
+OP431877	HSV-1	HSV1-v58_d354_gen	HSV1-v58	serial_isolate_name	354.0					
+OP431875	HSV-1	HSV1-v50_d0_gen_les	HSV1-v50	serial_isolate_name	0.0					
+OP431874	HSV-1	HSV1-v57_d101_gen_les	HSV1-v57	serial_isolate_name	101.0					
+OP431872	HSV-1	HSV1-v65_d323_oral	HSV1-v65	serial_isolate_name	323.0					
+OP431870	HSV-1	HSV1-v52_d84_gen_les	HSV1-v52	serial_isolate_name	84.0					
+OP431869	HSV-1	HSV1-v54_d169_gen_les	HSV1-v54	serial_isolate_name	169.0					
+OP431868	HSV-1	HSV1-v59_d84_gen_les	HSV1-v59	serial_isolate_name	84.0					
+PP680711	HSV-1		PP680711	accession_singleton						
+OQ077661	HSV-1		OQ077661	accession_singleton						
+OR833071	HSV-1	HSV1/USA/WA-UW-2R10/2020	OR833071	accession_singleton						
+OR833070	HSV-1	HSV1/USA/WA-UW-2R6/2020	OR833070	accession_singleton						
+OR833069	HSV-1	HSV1/USA/WA-UW-2M3/2020	OR833069	accession_singleton						
+OR833068	HSV-1	HSV1/USA/WA-UW-2K8/2019	OR833068	accession_singleton						
+OR833067	HSV-1	HSV1/USA/WA-UW-2K2/2019	OR833067	accession_singleton						
+OR833066	HSV-1	HSV1/USA/WA-UW-2J8/2019	OR833066	accession_singleton						
+OR833065	HSV-1	HSV1/USA/WA-UW-2J7/2019	OR833065	accession_singleton						
+OR833064	HSV-1	HSV1/USA/WA-UW-2F3/2019	OR833064	accession_singleton						
+OR833063	HSV-1	HSV1/USA/WA-UW-1C4/2020	OR833063	accession_singleton						
+OR833062	HSV-1	HSV1/USA/WA-UW-1C2/2020	OR833062	accession_singleton						
+OR771695	HSV-1	HSV1/USA/WA-UW-2R8/2020	OR771695	accession_singleton						
+OR771694	HSV-1	HSV1/USA/WA-UW-2R7/2020	OR771694	accession_singleton						
+OR771693	HSV-1	HSV1/USA/WA-UW-2R1/2020	OR771693	accession_singleton						
+OR771692	HSV-1	HSV1/USA/WA-UW-2Q9/2020	OR771692	accession_singleton						
+OR771691	HSV-1	HSV1/USA/WA-UW-2Q6/2020	OR771691	accession_singleton						
+OR771690	HSV-1	HSV1/USA/WA-UW-2O7/2020	OR771690	accession_singleton						
+OR771689	HSV-1	HSV1/USA/WA-UW-2O5/2020	OR771689	accession_singleton						
+OR771688	HSV-1	HSV1/USA/WA-UW-2O2/2020	OR771688	accession_singleton						
+OR771687	HSV-1	HSV1/USA/WA-UW-2N3/2020	OR771687	accession_singleton						
+OR771686	HSV-1	HSV1/USA/WA-UW-2N2/2020	OR771686	accession_singleton						
+OR771685	HSV-1	HSV1/USA/WA-UW-2L9/2020	SAMN38051240	biosample		USA	2020.0	SAMN38051240	PRJNA1034094	UW Virology, Laboratory Medicine
+OR771684	HSV-1	HSV1/USA/WA-UW-2L3/2019	OR771684	accession_singleton						
+OR771683	HSV-1	HSV1/USA/WA-UW-2L1/2019	OR771683	accession_singleton						
+OR771682	HSV-1	HSV1/USA/WA-UW-2K10/2019	OR771682	accession_singleton						
+OR771681	HSV-1	HSV1/USA/WA-UW-2K5/2019	OR771681	accession_singleton						
+OR771680	HSV-1	HSV1/USA/WA-UW-2K4/2019	OR771680	accession_singleton						
+OR771679	HSV-1	HSV1/USA/WA-UW-2K3/2019	OR771679	accession_singleton						
+OR771678	HSV-1	HSV1/USA/WA-UW-2J3/2019	OR771678	accession_singleton						
+OR771677	HSV-1	HSV1/USA/WA-UW-2I2/2019	OR771677	accession_singleton						
+OR771676	HSV-1	HSV1/USA/WA-UW-2I1/2019	OR771676	accession_singleton						
+OR771675	HSV-1	HSV1/USA/WA-UW-2G3/2019	OR771675	accession_singleton						
+OR771674	HSV-1	HSV1/USA/WA-UW-2E9/2019	OR771674	accession_singleton						
+OR771673	HSV-1	HSV1/USA/WA-UW-2C7/2019	OR771673	accession_singleton						
+OR771672	HSV-1	HSV1/USA/WA-UW-1B4/2020	SAMN38051268	biosample		USA	2020.0	SAMN38051268	PRJNA1034094	UW Virology, Laboratory Medicine
+OR771671	HSV-1	HSV1/USA/WA-UW-1B3/2020	OR771671	accession_singleton						
+OR771670	HSV-1	HSV1/USA/WA-UW-1B2/2020	OR771670	accession_singleton						
+OR771669	HSV-1	HSV1/USA/WA-UW-1A7/2020	OR771669	accession_singleton						
+OR771668	HSV-1	HSV1/USA/WA-UW-1A6/2020	OR771668	accession_singleton						
+OR723971	HSV-1	dsncRNA12	OR723971	accession_singleton		USA	2021.0			Cedars Sinai Medical Center, Surgery
+MH925774	HSV-1	HSV-hepatitis7	MH925774	accession_singleton						
+MH813994	HSV-1	2018-6057	MH813994	accession_singleton						
+MH813993	HSV-1	2018-5967	MH813993	accession_singleton						
+MH813992	HSV-1	2018-5965	MH813992	accession_singleton						
+MH813991	HSV-1	2018-6317	MH813991	accession_singleton						
+MH813990	HSV-1	2018-5974	MH813990	accession_singleton						
+MH813989	HSV-1	2018-5966	MH813989	accession_singleton						
+MH813988	HSV-1	2018-5968	MH813988	accession_singleton						
+MH813987	HSV-1	2018-5971	MH813987	accession_singleton						
+MH813986	HSV-1	2018-5969	MH813986	accession_singleton						
+MH813985	HSV-1	2018-5973	MH813985	accession_singleton						
+MH813984	HSV-1	2018-5970	MH813984	accession_singleton						
+MH813983	HSV-1	2018-6056	MH813983	accession_singleton						
+MH813982	HSV-1	2018-5972	MH813982	accession_singleton						
+MH813981	HSV-1	2018-6594	MH813981	accession_singleton						
+MG999887	HSV-1	2006-50683	MG999887	accession_singleton						
+MG999861	HSV-1	1998-7487	MG999861	accession_singleton						
+MH160391	HSV-1	HSV1-CULTURE-H8	MH160391	accession_singleton						
+MH160390	HSV-1	HSV1-ORIGINAL-G6	MH160390	accession_singleton						
+MH160389	HSV-1	HSV1-CULTURE-G6	MH160389	accession_singleton						
+MH160388	HSV-1	HSV1-ORIGINAL-G10	MH160388	accession_singleton						
+MH160387	HSV-1	HSV1-CULTURE-I7	MH160387	accession_singleton						
+MH160386	HSV-1	HSV1-CULTURE-G8	MH160386	accession_singleton						
+MH160385	HSV-1	HSV1-CULTURE-H2	MH160385	accession_singleton						
+MH160384	HSV-1	HSV1-ORIGINAL-I5	MH160384	accession_singleton						
+MH160383	HSV-1	HSV1-ORIGINAL-G8	MH160383	accession_singleton						
+MH160382	HSV-1	HSV1-CULTURE-G7	MH160382	accession_singleton						
+MH160381	HSV-1	HSV1-CULTURE-H4	MH160381	accession_singleton						
+MH160380	HSV-1	HSV1-CULTURE-I2	MH160380	accession_singleton						
+MH160378	HSV-1	HSV1-ORIGINAL-H9	MH160378	accession_singleton						
+MH160377	HSV-1	HSV1-ORIGINAL-H2	MH160377	accession_singleton						
+MH160376	HSV-1	HSV1-CULTURE-H7	MH160376	accession_singleton						
+MH160375	HSV-1	HSV1-CULTURE-G10	MH160375	accession_singleton						
+MH160374	HSV-1	HSV1-ORIGINAL-H4	MH160374	accession_singleton						
+MH160373	HSV-1	HSV1-ORIGINAL-H5	MH160373	accession_singleton						
+MH160372	HSV-1	HSV1-CULTURE-I5	MH160372	accession_singleton						
+MH160371	HSV-1	HSV1-ORIGINAL-I6	MH160371	accession_singleton						
+MH160370	HSV-1	HSV1-ORIGINAL-I2	MH160370	accession_singleton						
+MH160369	HSV-1	HSV1-CULTURE-G9	MH160369	accession_singleton						
+MH160368	HSV-1	HSV1-CULTURE-H9	MH160368	accession_singleton						
+MH160367	HSV-1	HSV1-ORIGINAL-H1	MH160367	accession_singleton						
+MH160366	HSV-1	HSV1-ORIGINAL-I7	MH160366	accession_singleton						
+MH160365	HSV-1	HSV1-CULTURE-H3	MH160365	accession_singleton						
+MH160364	HSV-1	HSV1-ORIGINAL-H8	MH160364	accession_singleton						
+MH160363	HSV-1	HSV1-ORIGINAL-H7	MH160363	accession_singleton						
+MH160362	HSV-1	HSV1-CULTURE-H1	MH160362	accession_singleton						
+MH160361	HSV-1	HSV1-ORIGINAL-G7	MH160361	accession_singleton						
+MH160360	HSV-1	HSV1-CULTURE-I6	MH160360	accession_singleton						
+MH160359	HSV-1	HSV1-ORIGINAL-H3	MH160359	accession_singleton						
+MH160358	HSV-1	HSV1-CULTURE-H5	MH160358	accession_singleton						
+OR405519	HSV-1		OR405519	accession_singleton						
+MN401208	HSV-1	Sammple11_DOCK8	MN401208	accession_singleton						
+MN401207	HSV-1	Sample9_DOCK8	MN401207	accession_singleton						
+MN401206	HSV-1	Sample8_DOCK8	MN401206	accession_singleton						
+MN401205	HSV-1	Sample6_DOCK8	MN401205	accession_singleton						
+MN401204	HSV-1	Sample3_DOCK8	MN401204	accession_singleton						
+MN401203	HSV-1	Sample2_DOCK8	MN401203	accession_singleton						
+MN401202	HSV-1	Sample1_DOCK8	MN401202	accession_singleton						
+MN401201	HSV-1	Brother_DOCK8	MN401201	accession_singleton						
+MG999899	HSV-1	2009-29406	MG999899	accession_singleton						
+MG999898	HSV-1	2011-3153	MG999898	accession_singleton						
+MG999897	HSV-1	2011-1026	MG999897	accession_singleton						
+MG999896	HSV-1	2011-17239	MG999896	accession_singleton						
+MG999895	HSV-1	2007-03494_S436_L001	MG999895	accession_singleton						
+MG999894	HSV-1	2014-32338	MG999894	accession_singleton						
+MG999893	HSV-1	2011-12741	MG999893	accession_singleton						
+MG999892	HSV-1	2011-12689	MG999892	accession_singleton						
+MG999891	HSV-1	2015-30637	MG999891	accession_singleton						
+MG999890	HSV-1	2009-39486	MG999890	accession_singleton						
+MG999889	HSV-1	2011-12742	MG999889	accession_singleton						
+MG999888	HSV-1	2010-28641	MG999888	accession_singleton						
+MG999886	HSV-1	2016-1040	MG999886	accession_singleton						
+MG999885	HSV-1	2007-21335	MG999885	accession_singleton						
+MG999884	HSV-1	2006-57683	MG999884	accession_singleton						
+MG999883	HSV-1	2007-12932	MG999883	accession_singleton						
+MG999882	HSV-1	2011-13906	MG999882	accession_singleton						
+MG999881	HSV-1	2007-16123	MG999881	accession_singleton						
+MG999880	HSV-1	2007-16426	MG999880	accession_singleton						
+MG999879	HSV-1	2011-17275	MG999879	accession_singleton						
+MG999878	HSV-1	1998-6343	MG999878	accession_singleton						
+MG999877	HSV-1	2004-63623	MG999877	accession_singleton						
+MG999876	HSV-1	2011-5438	MG999876	accession_singleton						
+MG999875	HSV-1	2009-20371	MG999875	accession_singleton						
+MG999874	HSV-1	29_2011-12691	MG999874	accession_singleton						
+MG999873	HSV-1	28_2010-32106	MG999873	accession_singleton						
+MG999872	HSV-1	2003-15756	MG999872	accession_singleton						
+MG999871	HSV-1	2009-25015	MG999871	accession_singleton						
+MG999870	HSV-1	2010-32082	MG999870	accession_singleton						
+MG999869	HSV-1	2011-5409	MG999869	accession_singleton						
+MG999868	HSV-1	1996-27502	MG999868	accession_singleton						
+MG999867	HSV-1	2011-12719	MG999867	accession_singleton						
+MG999866	HSV-1	2005-589	MG999866	accession_singleton						
+MG999865	HSV-1	2009-25772	MG999865	accession_singleton						
+MG999864	HSV-1	2012-35807	MG999864	accession_singleton						
+MG999863	HSV-1	2011-31213	MG999863	accession_singleton						
+MG999862	HSV-1	1995-63175	MG999862	accession_singleton						
+MG999860	HSV-1	25_2006-37406	MG999860	accession_singleton						
+MG999859	HSV-1	2011-15240	MG999859	accession_singleton						
+MG999858	HSV-1	2011-21041	MG999858	accession_singleton						
+MG999857	HSV-1	2009-19950	MG999857	accession_singleton						
+MG999856	HSV-1	2011-16318	MG999856	accession_singleton						
+MG999855	HSV-1	1996-13975	MG999855	accession_singleton						
+MG999854	HSV-1	2010-21371	MG999854	accession_singleton						
+MG999853	HSV-1	2010-28683	MG999853	accession_singleton						
+MG999852	HSV-1	2011-12715	MG999852	accession_singleton						
+MG999851	HSV-1	2000-24198	MG999851	accession_singleton						
+MG999850	HSV-1	2010-25244	MG999850	accession_singleton						
+MG999849	HSV-1	1997-5801	MG999849	accession_singleton						
+MG999848	HSV-1	1998-4895	MG999848	accession_singleton						
+MG999847	HSV-1	2007-1997	MG999847	accession_singleton						
+MG999846	HSV-1	1995-75216	MG999846	accession_singleton						
+MG999845	HSV-1	2009-25575	MG999845	accession_singleton						
+MG999844	HSV-1	2011-12717	MG999844	accession_singleton						
+MG999843	HSV-1	2011-12714	MG999843	accession_singleton						
+MG999841	HSV-1	2009-29964	MG999841	accession_singleton						
+MG999840	HSV-1	2006-57630	MG999840	accession_singleton						
+MG999839	HSV-1	2009-39273	MG999839	accession_singleton						
+MG999838	HSV-1	2011-31164	MG999838	accession_singleton						
+OQ724963	HSV-1	CJ858	CJ858	isolate_code						
+OQ724962	HSV-1	CJ505	CJ505	isolate_code						
+OQ724957	HSV-1	Ikey	OQ724957	accession_singleton						
+OQ724956	HSV-1	CJ515	CJ515	isolate_code						
+OQ724955	HSV-1	CJ462	CJ462	isolate_code						
+OQ724954	HSV-1	CJ455	CJ455	isolate_code						
+OQ724941	HSV-1	BP-L14	OQ724941	accession_singleton		USA	2012.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724940	HSV-1	BP-L13	OQ724940	accession_singleton		USA	2011.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724939	HSV-1	BP-L12	OQ724939	accession_singleton		USA	2010.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724938	HSV-1	BP-L11	OQ724938	accession_singleton		USA	2010.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724937	HSV-1	BP-L10	OQ724937	accession_singleton						
+OQ724936	HSV-1	BP-L9	OQ724936	accession_singleton		USA	2009.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724935	HSV-1	BP-L5	OQ724935	accession_singleton		USA	2003.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724934	HSV-1	BP-L4	OQ724934	accession_singleton		USA	2003.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724933	HSV-1	BP-L2	OQ724933	accession_singleton		USA	2003.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724932	HSV-1	BP-L1	OQ724932	accession_singleton		USA	2002.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724914	HSV-1	BP-K16	OQ724914	accession_singleton		USA	2015.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724913	HSV-1	BP-K15	OQ724913	accession_singleton		USA	2015.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724912	HSV-1	BP-K13	OQ724912	accession_singleton		USA	2014.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724911	HSV-1	BP-K12	OQ724911	accession_singleton		USA	2012.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724910	HSV-1	BP-K11	OQ724910	accession_singleton		USA	2011.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724895	HSV-1	BP-K10	OQ724895	accession_singleton		USA	2011.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724894	HSV-1	BP-K9	OQ724894	accession_singleton		USA	2011.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724893	HSV-1	BP-K8	OQ724893	accession_singleton		USA	2011.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724892	HSV-1	BP-K6	OQ724892	accession_singleton		USA	2010.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724891	HSV-1	BP-K5	OQ724891	accession_singleton		USA	2010.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724890	HSV-1	BP-K4	OQ724890	accession_singleton		USA	2009.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724889	HSV-1	BP-K3	OQ724889	accession_singleton		USA	2009.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724888	HSV-1	BP-K2	OQ724888	accession_singleton		USA	2009.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724867	HSV-1	BP-C15	OQ724867	accession_singleton		USA	2015.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724866	HSV-1	BP-C14	OQ724866	accession_singleton		USA	2015.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724865	HSV-1	BP-C12	OQ724865	accession_singleton		USA	2010.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724864	HSV-1	BP-C11	OQ724864	accession_singleton		USA	2008.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724863	HSV-1	BP-C9	OQ724863	accession_singleton		USA	2005.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724836	HSV-1	BP-C8	OQ724836	accession_singleton		USA	2005.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724835	HSV-1	BP-C5	OQ724835	accession_singleton		USA	2005.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724834	HSV-1	BP-C4	OQ724834	accession_singleton		USA	2004.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724833	HSV-1	BP-C3	OQ724833	accession_singleton		USA	2004.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724915	HSV-1	BP-K14	OQ724915	accession_singleton		USA	2015.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724868	HSV-1	BP-K1	OQ724868	accession_singleton		USA	2002.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724832	HSV-1	BP-C2	OQ724832	accession_singleton		USA	2004.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ724831	HSV-1	BP-C1	OQ724831	accession_singleton		USA	2001.0			University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871859	HSV-1	INV-9B	OP871859	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871858	HSV-1	INV-7E	OP871858	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871857	HSV-1	INV-7A	OP871857	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871856	HSV-1	INV-2C	OP871856	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871855	HSV-1	INV-2B	OP871855	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871854	HSV-1	INV-1G	OP871854	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871853	HSV-1	INV-1B	OP871853	accession_singleton						
+OP871852	HSV-1	INV-NN	OP871852	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871851	HSV-1	INV-25D	OP871851	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871850	HSV-1	INV-25C	OP871850	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871849	HSV-1	INV-25B	OP871849	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871848	HSV-1	INV-22C	OP871848	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871847	HSV-1	INV-22B	OP871847	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871846	HSV-1	INV-20C	OP871846	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871845	HSV-1	INV-20A	OP871845	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871844	HSV-1	INV-17A	OP871844	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871843	HSV-1	INV-16E	OP871843	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871842	HSV-1	INV-16D	OP871842	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871841	HSV-1	INV-15B	OP871841	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OP871840	HSV-1	INV-11A	OP871840	accession_singleton		USA				University of Wisconsin-Madison, Ophthalmology and Visual Sciences
+OQ658624	HSV-1	ES	OQ658624	accession_singleton						
+OP866822	HSV-1	RV-1013	OP866822	accession_singleton						
+OP866820	HSV-1	RV-760	OP866820	accession_singleton						
+OP866819	HSV-1	RV-726	OP866819	accession_singleton						
+OP866818	HSV-1	RV-502	OP866818	accession_singleton						
+OP866817	HSV-1	RV-494	OP866817	accession_singleton						
+OP866816	HSV-1	RV-411	OP866816	accession_singleton						
+OP866815	HSV-1	RV-336	OP866815	accession_singleton						
+OP866813	HSV-1	RV-154	OP866813	accession_singleton						
+OP866811	HSV-1	RV-103	OP866811	accession_singleton						
+OP866810	HSV-1	RV-91	OP866810	accession_singleton						
+OP950682	HSV-1		OP950682	accession_singleton						
+OP950680	HSV-1		OP950680	accession_singleton						
+OQ102003	HSV-1	352/08	OQ102003	accession_singleton						
+ON023028	HSV-1	AA-41	ON023028	accession_singleton						
+ON513441	HSV-1	NIVD4	NIVD4	isolate_code		China	2017.0			National Institute for Viral Disease Control and Prevention, Department of Viral Morphology
+OP297886	HSV-1	HSV1-v72_d53_cu_gen_les	HSV1-v72	serial_isolate_name	53.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297885	HSV-1	HSV1-v67_d346_cu_gen_les	HSV1-v67	serial_isolate_name	346.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297884	HSV-1	HSV1-v57_d3_cu_gen_les	HSV1-v57	serial_isolate_name	3.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297883	HSV-1	HSV1-v75_d23_cu_gen_les	HSV1-v75	serial_isolate_name	23.0					
+OP297882	HSV-1	HSV1-v76_d266_cu_gen_les	HSV1-v76	serial_isolate_name	266.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297881	HSV-1	v45_d4_cu_gen_les	v45	serial_isolate_name	4.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297880	HSV-1	HSV1-v68_d8_cu_gen_les	HSV1-v68	serial_isolate_name	8.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297879	HSV-1	HSV1-v63_d284_cu_oral	HSV1-v63	serial_isolate_name	284.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297878	HSV-1	HSV1-v43_d17_cu_gen_les	HSV1-v43	serial_isolate_name	17.0					
+OP297877	HSV-1	HSV1-v66_d6_cu_gen	HSV1-v66	serial_isolate_name	6.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297876	HSV-1	HSV1-v59_d121_cu_gen_les	HSV1-v59	serial_isolate_name	121.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297875	HSV-1	v49_d257_cu_gen_les	v49	serial_isolate_name	257.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297874	HSV-1	HSV1-v74_d193_cu_gen	HSV1-v74	serial_isolate_name	193.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297873	HSV-1	HSV1-v54_d71_cu_gen_les	HSV1-v54	serial_isolate_name	71.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297872	HSV-1	HSV1-v62_d3_cu_gen_les	HSV1-v62	serial_isolate_name	3.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297871	HSV-1	HSV1-v69_d2_cu_gen_les	HSV1-v69	serial_isolate_name	2.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297870	HSV-1	HSV1-v58_d1_cu_gen_les	HSV1-v58	serial_isolate_name	1.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297869	HSV-1	HSV1-v42_d338_cu_gen_les	HSV1-v42	serial_isolate_name	338.0					
+OP297868	HSV-1	HSV1-v46_d349_cu_gen_les	HSV1-v46	serial_isolate_name	349.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297867	HSV-1	HSV1-v52_d84_cu_gen_les	HSV1-v52	serial_isolate_name	84.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297866	HSV-1	HSV1-v71_d395_cu_gen_les	HSV1-v71	serial_isolate_name	395.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297865	HSV-1	HSV1-v44_d2_cu_gen_les	HSV1-v44	serial_isolate_name	2.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297864	HSV-1	HSV1-v56_d6_cu_gen_les	HSV1-v56	serial_isolate_name	6.0					
+OP297863	HSV-1	HSV1-v61_d2_cu_gen_les	HSV1-v61	serial_isolate_name	2.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297862	HSV-1	HSV1-v73_d4_cu_gen_les	HSV1-v73	serial_isolate_name	4.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297861	HSV-1	HSV1-v70_d1_cu_gen_les	HSV1-v70	serial_isolate_name	1.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OP297860	HSV-1	HSV1-v60_d3_cu_gen_les	HSV1-v60	serial_isolate_name	3.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON783217	HSV-1	B^3x1.1D	ON783217	accession_singleton		USA	2015.0			Albert Einstein college of Medicine, Microbiology and Immunology
+ON783216	HSV-1	B^3x1.1C	ON783216	accession_singleton		USA	2015.0			Albert Einstein college of Medicine, Microbiology and Immunology
+ON783215	HSV-1	B^3x1.1B	ON783215	accession_singleton		USA	2015.0			Albert Einstein college of Medicine, Microbiology and Immunology
+ON783214	HSV-1	B^3x1.1A	ON783214	accession_singleton		USA	2015.0			Albert Einstein college of Medicine, Microbiology and Immunology
+ON960061	HSV-1	HSV1-Atlanta-USA-1965-E377	ON960061	accession_singleton		USA	1965.0			Pennsylvania State University, Biochemistry/Molecular Biology
+ON960060	HSV-1	HSV1-San-Francisco-USA-1967-RE	ON960060	accession_singleton		USA	1967.0			Pennsylvania State University, Biochemistry/Molecular Biology
+ON960059	HSV-1	HSV1-San-Francisco-USA-1974-HTZ	ON960059	accession_singleton		USA	1974.0			Pennsylvania State University, Biochemistry/Molecular Biology
+ON960058	HSV-1	HSV1-San-Francisco-USA-1979-H144	ON960058	accession_singleton		USA	1979.0			Pennsylvania State University, Biochemistry/Molecular Biology
+ON960057	HSV-1	HSV1-San-Francisco-USA-1979-DAB1	ON960057	accession_singleton		USA	1979.0			Pennsylvania State University, Biochemistry/Molecular Biology
+ON960056	HSV-1	HSV1-San-Francisco-USA-1980-EKN	ON960056	accession_singleton		USA	1980.0			Pennsylvania State University, Biochemistry/Molecular Biology
+ON960055	HSV-1	HSV1-San-Francisco-USA-1982-H193-BB	ON960055	accession_singleton		USA	1982.0			Pennsylvania State University, Biochemistry/Molecular Biology
+ON960054	HSV-1	HSV1-San-Francisco-USA-1982-H193-CSF	ON960054	accession_singleton		USA	1982.0			Pennsylvania State University, Biochemistry/Molecular Biology
+ON152716	HSV-1	astronaunt_post_orbit_saliva_HSV_1	ON152716	accession_singleton		USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON152715	HSV-1	astronaunt_in_orbit_rash_HSV_1	ON152715	accession_singleton		USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007164	HSV-1	v42_d339_gen	v42	serial_isolate_name	339.0					
+ON007163	HSV-1	v47_d61-79_gen	ON007163	accession_singleton						
+ON007162	HSV-1	v43_d352_gen_les	v43	serial_isolate_name	352.0					
+ON007161	HSV-1	v48_d102_oral	v48	serial_isolate_name	102.0					
+ON007160	HSV-1	v42_d130_gen_les	v42	serial_isolate_name	130.0					
+ON007159	HSV-1	v43_d350_gen_les	v43	serial_isolate_name	350.0					
+ON007157	HSV-1	v41_d354_oral	v41	serial_isolate_name	354.0					
+ON007156	HSV-1	v43_d137_gen_les	v43	serial_isolate_name	137.0					
+ON007155	HSV-1	v48_d100_oral	v48	serial_isolate_name	100.0					
+ON007153	HSV-1	v40_y14_oral1	ON007153	accession_singleton						
+ON007152	HSV-1	v43_d350_gen	v43	serial_isolate_name	350.0					
+ON007148	HSV-1	v43_d349_gen	v43	serial_isolate_name	349.0					
+ON007147	HSV-1	v43_d349_gen_les	v43	serial_isolate_name	349.0					
+ON007141	HSV-1	v43_d17_gen_les	v43	serial_isolate_name	17.0					
+ON007140	HSV-1	v48_d103_oral	v48	serial_isolate_name	103.0					
+ON007139	HSV-1	v41_d100_gen	v41	serial_isolate_name	100.0					
+ON007135	HSV-1	v43_d352_gen	v43	serial_isolate_name	352.0					
+ON007134	HSV-1	v44_d2_gen_les	v44	serial_isolate_name	2.0					
+ON007133	HSV-1	v46_y16_oral	ON007133	accession_singleton						
+ON007158	HSV-1	v46_d349_gen_les1	v46	serial_isolate_name	349.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007154	HSV-1	v40_y14_oral2	ON007154	accession_singleton		USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007151	HSV-1	v46_d349_gen_les3	v46	serial_isolate_name	349.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007150	HSV-1	v46_d348_gen	v46	serial_isolate_name	348.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007149	HSV-1	v49_d349_gen_les	v49	serial_isolate_name	349.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007146	HSV-1	v46_d349_gen	v46	serial_isolate_name	349.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007145	HSV-1	v45_d4_gen_les	v45	serial_isolate_name	4.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007144	HSV-1	v46_d345_gen	v46	serial_isolate_name	345.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007143	HSV-1	v46_d349_gen_les2	v46	serial_isolate_name	349.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007142	HSV-1	v49_d257_gen_les	v49	serial_isolate_name	257.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007138	HSV-1	v42_d338_gen_les	v42	serial_isolate_name	338.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007137	HSV-1	v42_d131_gen_les	v42	serial_isolate_name	131.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007136	HSV-1	v48_d101_oral	v48	serial_isolate_name	101.0	USA				Pennsylvania State University, Biochemistry/Molecular Biology
+ON007132	HSV-1	v40_unk_gen	ON007132	accession_singleton		USA				Pennsylvania State University, Biochemistry/Molecular Biology
+OL514328	HSV-1	DU_Ad_UL23	OL514328	accession_singleton						
+OL514326	HSV-1	BO_Od_UL23	OL514326	accession_singleton						
+OL514325	HSV-1	CO_An_UL23	OL514325	accession_singleton						
+OL638991	HSV-1	McKrae	OL638991	accession_singleton		USA	1965.0			Cedars Sinai Medical Center, Surgery
+OL638990	HSV-1	dsncRNA1	OL638990	accession_singleton		USA	2018.0			Cedars Sinai Medical Center, Surgery
+MT876428	HSV-1	6439cm	MT876428	accession_singleton						
+BK012101	HSV-1	17	BK012101	accession_singleton		Germany				University of Wuerzburg, Institute for Virology and Immunobiology
+KF498959	HSV-1	RE	KF498959	accession_singleton		USA	1967.0			University of Pittsburgh, Department of Ophthalmology
+MN925871	HSV-1	Sample4_DOCK8	MN925871	accession_singleton		USA	2015.0		PRJNA562737	University of Washington, Department of Laboratory Medicine
+MK952185	HSV-1	Mother_viremic_blood_HSV_1	MK952185	accession_singleton						
+MK952184	HSV-1	Neonate_disseminated_blood_HSV_1	MK952184	accession_singleton						
+MK952183	HSV-1	Neonate_disseminated_skin_HSV_1	MK952183	accession_singleton						
+MN159383	HSV-1	Sc16	Sc16	isolate_code						University of Surrey, Microbial Sciences
+MN159382	HSV-1	s17pp22a	MN159382	accession_singleton						
+MN159381	HSV-1	s17pp8	MN159381	accession_singleton						
+MN159380	HSV-1	s17pp7a	MN159380	accession_singleton						
+MN159379	HSV-1	s17pp5	MN159379	accession_singleton						University of Surrey, Microbial Sciences
+MN159378	HSV-1	s17pp4	MN159378	accession_singleton						University of Surrey, Microbial Sciences
+MN159377	HSV-1	s17pp3	MN159377	accession_singleton						University of Surrey, Microbial Sciences
+MN159376	HSV-1	s17pp	MN159376	accession_singleton						
+MN136524	HSV-1	McKrae	MN136524	accession_singleton		USA	1965.0			Frederick National Laboratory for Cancer Research, Laboratory of Human Retrovirology and Immunoinformatics, Applied Developmental Research Directorate
+MN136523	HSV-1	MacIntyre	MN136523	accession_singleton		USA	1951.0			Frederick National Laboratory for Cancer Research, Laboratory of Human Retrovirology and Immunoinformatics, Applied Developmental Research Directorate
+MH480513	HSV-1	MCL-18-H-1091	MH480513	accession_singleton		India	2018.0			National Institute of Virology, Maximum Containment Laboratory
+MH319852	HSV-1	NIV1613762	MH319852	accession_singleton		India	2016.0			National Institue of Virology, Maximum Containment Laboratory
+KX946970	HSV-1	SC16	SC16	isolate_code						
+MH999851	HSV-1	HSV-H1412	MH999851	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999850	HSV-1	HSV-H15119	MH999850	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999849	HSV-1	HSV-H1312	MH999849	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999848	HSV-1	HSV-H1311	MH999848	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999847	HSV-1	HSV-H12118	MH999847	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999846	HSV-1	HSV-H1215	MH999846	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999845	HSV-1	HSV-H12117	MH999845	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999844	HSV-1	HSV-H12114	MH999844	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999843	HSV-1	HSV-H1211	MH999843	accession_singleton						
+MH999842	HSV-1	HSV-H12113	MH999842	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999841	HSV-1	Ty148	Ty148	isolate_code		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999840	HSV-1	Ty25	Ty25	isolate_code		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999839	HSV-1	K86	K86	isolate_code		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MH999838	HSV-1	K47	K47	isolate_code						
+MG646679	HSV-1	NIV	MG646679	accession_singleton						
+NC_001806	HSV-1	17	NC_001806	accession_singleton		United Kingdom			PRJNA485481	National Center for Biotechnology Information, NIH
+MH160379	HSV-1	HSV1-ORIGINAL-G9	MH160379	accession_singleton						
+MH102298	HSV-1	HSV-v29_site16_day1	MH102298	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MG708292	HSV-1	HSV-v29_site14_day2	MG708292	accession_singleton						
+MG708291	HSV-1	HSV-v29_site13_day3	MG708291	accession_singleton						
+MG708290	HSV-1	HSV-v29_site13_day2	MG708290	accession_singleton						
+MG708289	HSV-1	HSV-v29_site12_day3	MG708289	accession_singleton						
+MG708288	HSV-1	HSV-v29_day60_culture3	MG708288	accession_singleton						
+MG708287	HSV-1	HSV-v29_day1_culture2	MG708287	accession_singleton						
+MG708286	HSV-1	HSV-v29_day-90_culture1	MG708286	accession_singleton						
+MG708285	HSV-1	HSV-v29_site18_day2	MG708285	accession_singleton						
+MG708284	HSV-1	HSV-v29_site16_day2	MG708284	accession_singleton						
+MG999842	HSV-1	27_2006-50140	MG999842	accession_singleton						
+LT594457	HSV-1	132/1998	SAMEA4017978	biosample		Germany	1998.0	SAMEA4017978	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493
+LT594192	HSV-1	160/1982	SAMEA4017977	biosample		Germany	1982.0	SAMEA4017977	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493
+LT594112	HSV-1	369/2007	SAMEA4017984	biosample		Germany	2007.0	SAMEA4017984	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493
+LT594111	HSV-1	1394/2005	SAMEA4017980	biosample		Germany	2005.0	SAMEA4017980	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493
+LT594110	HSV-1	66/2007	SAMEA4017982	biosample		Germany	2007.0	SAMEA4017982	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493
+LT594109	HSV-1	270/2007	SAMEA4017983	biosample		Germany	2007.0	SAMEA4017983	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493
+LT594108	HSV-1	1319/2005	SAMEA4017979	biosample		Germany	2005.0	SAMEA4017979	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493
+LT594107	HSV-1	3083/2008	SAMEA4017986	biosample		Germany	2008.0	SAMEA4017986	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493
+LT594106	HSV-1	2158/2007	SAMEA4017985	biosample		Germany	2007.0	SAMEA4017985	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493
+LT594105	HSV-1	172/2010	SAMEA4017987	biosample		Germany	2010.0	SAMEA4017987	PRJEB14190	Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, Suedufer 10, 17493, 17493
+KY922719	HSV-1	HSV-N-7	KY922719	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+KY922718	HSV-1	HSV-R-13	KY922718	accession_singleton		USA				Pennsylvania State University, Department of Biochemistry and Molecular Biology
+MF156584	HSV-1	K(delta)25/26	SAMN06927022	biosample		not collected		SAMN06927022	PRJNA386147	JCVI, Informatics
+KX424525	HSV-1	ZW6	ZW6	isolate_code		China	2013.0			Chinese Academy of Medical Sciences, Institute of medical biology
+KM222727	HSV-1	H166syn	KM222727	accession_singleton						
+KM222726	HSV-1	H166	H166	isolate_code						
+KM222725	HSV-1	F	KM222725	accession_singleton						
+KM222724	HSV-1	F	KM222724	accession_singleton						
+KM222723	HSV-1	KOS	KM222723	accession_singleton						
+KM222722	HSV-1	KOS	KM222722	accession_singleton						
+KM222721	HSV-1	KOS	KM222721	accession_singleton						
+AB618031	HSV-1	RH2	SAMD00010721	biosample		Japan		SAMD00010721	PRJDB2363	Osaka University Graduate School of Dentistry, Osaka University; yamadaoka1-8, Suita, Osaka 565-0871
+FJ593289	HSV-1	17	FJ593289	accession_singleton						MRC Virology Unit
+KU310661	HSV-1	B	KU310661	accession_singleton						
+KU310660	HSV-1	B	KU310660	accession_singleton						
+KU310659	HSV-1	B	KU310659	accession_singleton						
+KU310658	HSV-1	B	KU310658	accession_singleton						
+KU310657	HSV-1	B	KU310657	accession_singleton						
+AH003715	HSV-1	17	AH003715	accession_singleton						
+LT608134	HSV-1	17	LT608134	accession_singleton						
+LC114184	HSV-1		LC114184	accession_singleton						
+LC114178	HSV-1		LC114178	accession_singleton						
+LC114174	HSV-1		LC114174	accession_singleton						
+LC114173	HSV-1		LC114173	accession_singleton						
+LC114172	HSV-1		LC114172	accession_singleton						
+LC114171	HSV-1		LC114171	accession_singleton						
+LC114170	HSV-1		LC114170	accession_singleton						
+LC114169	HSV-1		LC114169	accession_singleton						
+LC114168	HSV-1		LC114168	accession_singleton						
+LC114167	HSV-1		LC114167	accession_singleton						
+LC114166	HSV-1		LC114166	accession_singleton						
+LC114165	HSV-1		LC114165	accession_singleton						
+KX265046	HSV-1	914-R2	KX265046	accession_singleton						
+KX265045	HSV-1	20-14-2	KX265045	accession_singleton						
+KX265044	HSV-1	20-14-23	KX265044	accession_singleton						
+KX265043	HSV-1	914-B	KX265043	accession_singleton						
+KX265042	HSV-1	914-T2	KX265042	accession_singleton						
+KX265041	HSV-1	20-14-1	KX265041	accession_singleton						
+KX265040	HSV-1	914-A3	KX265040	accession_singleton						
+KX265039	HSV-1	20-14-22	KX265039	accession_singleton						
+KX265038	HSV-1	20-14-7	KX265038	accession_singleton						
+KX265037	HSV-1	914-E3	KX265037	accession_singleton						
+KX265036	HSV-1	914-Z	KX265036	accession_singleton						
+KX265035	HSV-1	914-Y2	KX265035	accession_singleton						
+KX265034	HSV-1	IV-1	KX265034	accession_singleton						
+KX265033	HSV-1	20-14-24	KX265033	accession_singleton						
+KX265032	HSV-1	IV-6	KX265032	accession_singleton						
+KX265031	HSV-1	914-H2	KX265031	accession_singleton						
+KX265030	HSV-1	20-14-18	KX265030	accession_singleton						
+KX265029	HSV-1	914-N3	KX265029	accession_singleton						
+KX265028	HSV-1	20-14-8	KX265028	accession_singleton						
+KX265027	HSV-1	IV-7	KX265027	accession_singleton						
+KX265026	HSV-1	914-D2	KX265026	accession_singleton						
+KX265025	HSV-1	914-B2	KX265025	accession_singleton						
+KX265024	HSV-1	914-Q	KX265024	accession_singleton						
+KX265023	HSV-1	IV-2	KX265023	accession_singleton						
+KX265022	HSV-1	914-O2	KX265022	accession_singleton						
+LT576871	HSV-1	17	LT576871	accession_singleton						
+LT576870	HSV-1	17	LT576870	accession_singleton						
+LT576869	HSV-1	17	LT576869	accession_singleton						
+LT576868	HSV-1	17	LT576868	accession_singleton						
+LT576867	HSV-1	17	LT576867	accession_singleton						
+LT576866	HSV-1	17	LT576866	accession_singleton						
+JN555585	HSV-1	17	JN555585	accession_singleton		United Kingdom				MRC - University of Glasgow Centre for Virus Research
+KT780616	HSV-1	L2	L2	isolate_code						
+JN420342	HSV-1	OD4	OD4	isolate_code						
+KT887224	HSV-1	KOS 1.1	KT887224	accession_singleton		USA	1964.0			Harvard Medical School, Department of Microbiology and Immunobiology
+KT899744	HSV-1	KOS	KT899744	accession_singleton		USA	1964.0			Harvard Medical School, Department of Microbiology and Immunobiology
+KT425110	HSV-1	KOS63	KOS63	isolate_code						
+KT425109	HSV-1	KOS79	KOS79	isolate_code		USA				Pennsylvannia State University
+KT425108	HSV-1	RDH193	RDH193	isolate_code						
+KT425107	HSV-1	McKrae	KT425107	accession_singleton						
+KR781518	HSV-1	dl1403	dl1403	isolate_code		USA				Washington State University, Veterinary Microbiology and Pathology
+KR052508	HSV-1	81L	KR052508	accession_singleton						
+KR052507	HSV-1	78S	KR052507	accession_singleton						
+KR011312	HSV-1	65M	KR011312	accession_singleton						
+KR011311	HSV-1	5-4-2	KR011311	accession_singleton						
+KR011310	HSV-1	83M	KR011310	accession_singleton						
+KR011309	HSV-1	10-11-3	KR011309	accession_singleton						
+KR011308	HSV-1	26S	KR011308	accession_singleton						
+KR011307	HSV-1	82S	KR011307	accession_singleton						
+KR011306	HSV-1	10-6-2	KR011306	accession_singleton						
+KR011305	HSV-1	47M	KR011305	accession_singleton						
+KR011304	HSV-1	31XL	KR011304	accession_singleton						
+KR011303	HSV-1	16S	KR011303	accession_singleton						
+KR011302	HSV-1	10-1-2	KR011302	accession_singleton						
+KR011301	HSV-1	10-5-1	KR011301	accession_singleton						
+KR011300	HSV-1	76M	KR011300	accession_singleton						
+KR011299	HSV-1	5-1-1	KR011299	accession_singleton						
+KR011298	HSV-1	12-12-2	KR011298	accession_singleton						
+KR011297	HSV-1	27S	KR011297	accession_singleton						
+KR011296	HSV-1	10-6-1	KR011296	accession_singleton						
+KR011295	HSV-1	5-5-2	KR011295	accession_singleton						
+KR011294	HSV-1	11M	KR011294	accession_singleton						
+KR011293	HSV-1	19Lsyn	KR011293	accession_singleton						
+KR011292	HSV-1	2-5-3	KR011292	accession_singleton						
+KR011291	HSV-1	10-14-1	KR011291	accession_singleton						
+KR011290	HSV-1	10-7-1	KR011290	accession_singleton						
+KR011289	HSV-1	20L	KR011289	accession_singleton						
+KR011288	HSV-1	2-4-2	KR011288	accession_singleton						
+KR011287	HSV-1	10-11-2	KR011287	accession_singleton						
+KR011286	HSV-1	12-12-67	KR011286	accession_singleton						
+KR011285	HSV-1	5-2-1	KR011285	accession_singleton						
+KR011284	HSV-1	10-6-3	KR011284	accession_singleton						
+KR011283	HSV-1	CJ994	CJ994	isolate_code						
+KR011282	HSV-1	3M	KR011282	accession_singleton						
+KR011281	HSV-1	66S	KR011281	accession_singleton						
+KR011280	HSV-1	8S	KR011280	accession_singleton						
+KR011279	HSV-1	36L	KR011279	accession_singleton						
+KR011278	HSV-1	4M	KR011278	accession_singleton						
+KR011277	HSV-1	10-2-2	KR011277	accession_singleton						
+KR011276	HSV-1	57M	KR011276	accession_singleton						
+KR011275	HSV-1	34L	KR011275	accession_singleton						
+KR011274	HSV-1	10-2-3	KR011274	accession_singleton						
+KJ847330	HSV-1	HSV-1/0116209/India/2011	KJ847330	accession_singleton		India	2011.0			National Institute of Virology, Encephalitis Group
+KM222720	HSV-1	MacIntyre	KM222720	accession_singleton						
+HM585515	HSV-1	R62	R62	isolate_code						
+HM585514	HSV-1	R11	R11	isolate_code						
+HM585513	HSV-1	S25	S25	isolate_code						
+HM585512	HSV-1	S23	S23	isolate_code						
+HM585511	HSV-1	E19	E19	isolate_code						
+HM585510	HSV-1	E14	E14	isolate_code						
+HM585509	HSV-1	E03	E03	isolate_code						
+HM585508	HSV-1	CR38	CR38	isolate_code						
+HM585507	HSV-1	E35	E35	isolate_code						
+HM585506	HSV-1	E25	E25	isolate_code						
+HM585505	HSV-1	E23	E23	isolate_code						
+HM585504	HSV-1	E22	E22	isolate_code						
+HM585503	HSV-1	E15	E15	isolate_code						
+HM585502	HSV-1	E13	E13	isolate_code						
+HM585501	HSV-1	E12	E12	isolate_code						
+HM585500	HSV-1	E11	E11	isolate_code						
+HM585499	HSV-1	E10	E10	isolate_code						
+HM585498	HSV-1	E08	E08	isolate_code						
+HM585497	HSV-1	E07	E07	isolate_code						
+HM585496	HSV-1	E06	E06	isolate_code						
+JX392974	HSV-1	UV11_20	JX392974	accession_singleton						
+JX392972	HSV-1	UV11_18	JX392972	accession_singleton						
+JX392961	HSV-1	UV11_7	JX392961	accession_singleton						
+JN415119	HSV-1	HSV328058	JN415119	accession_singleton		Belgium	2006.0			Rega Institute for Medical Research, Microbiology and Immunology
+JN415118	HSV-1	RV_179	JN415118	accession_singleton		Belgium	2011.0			Rega Institute for Medical Research, Microbiology and Immunology
+JN415117	HSV-1	RV_117	JN415117	accession_singleton		Belgium	2010.0			Rega Institute for Medical Research, Microbiology and Immunology
+JQ730035	HSV-1	McKrae	JQ730035	accession_singleton						
+JX142173	HSV-1	Mckrae	JX142173	accession_singleton						
+GU734772	HSV-1	H129	H129	isolate_code		USA			PRJNA43419	Princeton University, Dept. of Molecular Biology and Lewis-Sigler Institute for Integrative Genomics
+GU734771	HSV-1	F	GU734771	accession_singleton		USA			PRJNA43419	Princeton University, Dept. of Molecular Biology and Lewis-Sigler Institute for Integrative Genomics
+JQ673480	HSV-1	KOS	JQ673480	accession_singleton		USA				University of Kansas, Department of Molecular Biosciences
+JQ352285	HSV-1	374/2010	JQ352285	accession_singleton						
+JQ352278	HSV-1	064/2010	JQ352278	accession_singleton						
+JQ352277	HSV-1	063/2010	JQ352277	accession_singleton						
+JQ352276	HSV-1	062/2010	JQ352276	accession_singleton						
+JQ352274	HSV-1	060/2010	JQ352274	accession_singleton						
+JQ352272	HSV-1	058/2010	JQ352272	accession_singleton						
+JQ352270	HSV-1	003/2010	JQ352270	accession_singleton						
+JQ352269	HSV-1	3624/2009	JQ352269	accession_singleton						
+JQ352267	HSV-1	3579/2009	JQ352267	accession_singleton						
+JQ352266	HSV-1	3578/2009	JQ352266	accession_singleton						
+JQ352263	HSV-1	3573/2009	JQ352263	accession_singleton						
+JQ352258	HSV-1	2339/2009	JQ352258	accession_singleton						
+JQ352257	HSV-1	1756/2009	JQ352257	accession_singleton						
+JQ352256	HSV-1	1539/2009	JQ352256	accession_singleton						
+JQ780693	HSV-1	KOS	JQ780693	accession_singleton		USA				University of Pittsburgh, Ophthalmology
+JN420341	HSV-1	CJ970	CJ970	isolate_code						
+JN420340	HSV-1	CJ394	CJ394	isolate_code						
+JN420339	HSV-1	CJ360	CJ360	isolate_code						
+JN420338	HSV-1	CJ311	CJ311	isolate_code						
+JN420337	HSV-1	TFT401	TFT401	isolate_code						
+JN400093	HSV-1	134	JN400093	accession_singleton						
+EF157315	HSV-1	KOSc	EF157315	accession_singleton						
+EF157314	HSV-1	KOSc	EF157314	accession_singleton						
+DQ889502	HSV-1	HF	DQ889502	accession_singleton						
+HQ123162	HSV-1	07051077	HQ123162	accession_singleton						
+HQ123161	HSV-1	07501285	HQ123161	accession_singleton						
+HQ123160	HSV-1	07500611	HQ123160	accession_singleton						
+HQ123159	HSV-1	07350294	HQ123159	accession_singleton						
+HQ123158	HSV-1	10070463	HQ123158	accession_singleton						
+HQ123157	HSV-1	07410371	HQ123157	accession_singleton						
+FV537009	HSV-1		FV537009	accession_singleton						
+FV537008	HSV-1		FV537008	accession_singleton						
+FV537007	HSV-1		FV537007	accession_singleton						
+FV537006	HSV-1		FV537006	accession_singleton						
+X14112	HSV-1	17	X14112	accession_singleton						McGeoch D.J., MRC Virology Institute, Institute of Virology, Church Street, Glasgow G11 5JR
+AF251159	HSV-1		AF251159	accession_singleton						
+PZ135825	HSV-2	51-SV_uncultured	PZ135825	accession_singleton		USA	2021.0			Lurie Children's Hospital of Chicago, Division of Infectious Diseases
+PZ135824	HSV-2	51-M_uncultured	PZ135824	accession_singleton						
+PZ135823	HSV-2	51-M_cultured	PZ135823	accession_singleton						
+MH790662	HSV-2	1998-5562	MH790662	accession_singleton						
+PX259988	HSV-2	MCL-24-H-4739	PX259988	accession_singleton						
+PX259987	HSV-2	MCL-24-H-4741	PX259987	accession_singleton						
+PX259986	HSV-2	MCL-24-H-4738	PX259986	accession_singleton						
+PX242236	HSV-2	MCL-24-H-4740	PX242236	accession_singleton						
+PV972685	HSV-2	KM-1	PV972685	accession_singleton						
+PV798442	HSV-2	MCL-24-H-4741	PV798442	accession_singleton						
+PV798441	HSV-2	MCL-24-H-4740	PV798441	accession_singleton						
+PQ065522	HSV-2	HSV2/USA/WA-UW-2R9/2020	PQ065522	accession_singleton						
+PQ065521	HSV-2	HSV2/USA/WA-UW-2R5/2020	PQ065521	accession_singleton						
+PQ065520	HSV-2	HSV2/USA/WA-UW-2R2/2020	PQ065520	accession_singleton						
+PQ065519	HSV-2	HSV2/USA/WA-UW-2Q7/2020	PQ065519	accession_singleton						
+PQ065518	HSV-2	HSV2/USA/WA-UW-2Q4/2020	PQ065518	accession_singleton						
+PQ065517	HSV-2	HSV2/USA/WA-UW-2P6/2020	PQ065517	accession_singleton						
+PQ065516	HSV-2	HSV2/USA/WA-UW-2P5/2020	PQ065516	accession_singleton						
+PQ065515	HSV-2	HSV2/USA/WA-UW-2P4/2020	PQ065515	accession_singleton						
+PQ065514	HSV-2	HSV2/USA/WA-UW-2P3/2020	PQ065514	accession_singleton						
+PQ065513	HSV-2	HSV2/USA/WA-UW-2P2/2020	PQ065513	accession_singleton						
+PQ065512	HSV-2	HSV2/USA/WA-UW-2P1/2020	PQ065512	accession_singleton						
+PQ065511	HSV-2	HSV2/USA/WA-UW-2O1/2020	PQ065511	accession_singleton						
+PQ065510	HSV-2	HSV2/USA/WA-UW-2N10/2020	PQ065510	accession_singleton						
+PQ065509	HSV-2	HSV2/USA/WA-UW-2N8/2020	PQ065509	accession_singleton						
+PQ065508	HSV-2	HSV2/USA/WA-UW-2N7/2020	PQ065508	accession_singleton						
+PQ065507	HSV-2	HSV2/USA/WA-UW-2N6/2020	PQ065507	accession_singleton						
+PQ065506	HSV-2	HSV2/USA/WA-UW-2L10/2020	PQ065506	accession_singleton						
+PQ065505	HSV-2	HSV2/USA/WA-UW-2L6/2020	PQ065505	accession_singleton						
+PQ065504	HSV-2	HSV2/USA/WA-UW-2L5/2019	PQ065504	accession_singleton						
+PQ065503	HSV-2	HSV2/USA/WA-UW-2K9/2019	PQ065503	accession_singleton						
+PQ065502	HSV-2	HSV2/USA/WA-UW-2J9/2019	PQ065502	accession_singleton						
+PQ065501	HSV-2	HSV2/USA/WA-UW-2J5/2019	PQ065501	accession_singleton						
+PQ065500	HSV-2	HSV2/USA/WA-UW-2J4/2019	PQ065500	accession_singleton						
+PQ065499	HSV-2	HSV2/USA/WA-UW-2J2/2019	PQ065499	accession_singleton						
+PQ065498	HSV-2	HSV2/USA/WA-UW-2I8/2019	PQ065498	accession_singleton						
+PQ065497	HSV-2	HSV2/USA/WA-UW-2H10/2019	PQ065497	accession_singleton						
+PQ065496	HSV-2	HSV2/USA/WA-UW-2H8/2019	PQ065496	accession_singleton						
+PQ065495	HSV-2	HSV2/USA/WA-UW-2G8/2019	PQ065495	accession_singleton						
+PQ065494	HSV-2	HSV2/USA/WA-UW-2G1/2019	PQ065494	accession_singleton						
+PQ065493	HSV-2	HSV2/USA/WA-UW-2F7/2019	PQ065493	accession_singleton						
+PQ065492	HSV-2	HSV2/USA/WA-UW-2D4/2019	PQ065492	accession_singleton						
+PP100117	HSV-2	23	PP100117	accession_singleton						
+PP100116	HSV-2	27	PP100116	accession_singleton						
+PP100115	HSV-2	17	PP100115	accession_singleton						
+PP100114	HSV-2	26	PP100114	accession_singleton						
+PP100113	HSV-2	4	PP100113	accession_singleton						
+PP100112	HSV-2	5	PP100112	accession_singleton						
+PP100111	HSV-2	13	PP100111	accession_singleton						
+PP100110	HSV-2	37	PP100110	accession_singleton						
+PP100109	HSV-2	43	PP100109	accession_singleton						
+PP100108	HSV-2	34	PP100108	accession_singleton						
+PP100107	HSV-2	24	PP100107	accession_singleton						
+PP100106	HSV-2	9	PP100106	accession_singleton						
+PP100105	HSV-2	39	PP100105	accession_singleton						
+PP100104	HSV-2	38	PP100104	accession_singleton						
+PP100103	HSV-2	8	PP100103	accession_singleton						
+PP100102	HSV-2	40	PP100102	accession_singleton						
+PP100101	HSV-2	45	PP100101	accession_singleton						
+PP100100	HSV-2	31	PP100100	accession_singleton						
+PP100099	HSV-2	46	PP100099	accession_singleton						
+PP100098	HSV-2	28	PP100098	accession_singleton						
+PP100097	HSV-2	19	PP100097	accession_singleton						
+PP100096	HSV-2	16	PP100096	accession_singleton						
+PP100095	HSV-2		PP100095	accession_singleton						
+PP100094	HSV-2	41	PP100094	accession_singleton						
+PP100093	HSV-2	3	PP100093	accession_singleton						
+PP100092	HSV-2	15	PP100092	accession_singleton						
+PP100091	HSV-2	12	PP100091	accession_singleton						
+PP100090	HSV-2	10	PP100090	accession_singleton						
+PP100089	HSV-2	14	PP100089	accession_singleton						
+PP100088	HSV-2	32	PP100088	accession_singleton						
+PP100087	HSV-2	7	PP100087	accession_singleton						
+PP100086	HSV-2	48	PP100086	accession_singleton						
+PP100085	HSV-2	6	PP100085	accession_singleton						
+PP100084	HSV-2	11	PP100084	accession_singleton						
+PP100083	HSV-2	47	PP100083	accession_singleton						
+PP100082	HSV-2	44	PP100082	accession_singleton						
+PP100081	HSV-2	22	PP100081	accession_singleton						
+PP100080	HSV-2	35	PP100080	accession_singleton						
+PP100079	HSV-2	30	PP100079	accession_singleton						
+PP100078	HSV-2	36	PP100078	accession_singleton						
+PP100077	HSV-2	21	PP100077	accession_singleton						
+PP100076	HSV-2	20	PP100076	accession_singleton						
+PP100075	HSV-2	29	PP100075	accession_singleton						
+PP100074	HSV-2	49	PP100074	accession_singleton						
+PP100073	HSV-2	33	PP100073	accession_singleton						
+PP100072	HSV-2	25	PP100072	accession_singleton						
+PP100071	HSV-2	42	PP100071	accession_singleton						
+PP100070	HSV-2	18	PP100070	accession_singleton						
+PP100069	HSV-2	1	PP100069	accession_singleton						
+PP100068	HSV-2	56	PP100068	accession_singleton						
+PP100067	HSV-2	72	PP100067	accession_singleton						
+PP100066	HSV-2	73	PP100066	accession_singleton						
+PP100065	HSV-2	63	PP100065	accession_singleton						
+PP100064	HSV-2	66	PP100064	accession_singleton						
+PP100063	HSV-2	64	PP100063	accession_singleton						
+PP100062	HSV-2	53	PP100062	accession_singleton						
+PP100061	HSV-2	58	PP100061	accession_singleton						
+PP100060	HSV-2	70	PP100060	accession_singleton						
+PP100059	HSV-2	67	PP100059	accession_singleton						
+PP100058	HSV-2	69	PP100058	accession_singleton						
+PP100057	HSV-2	59	PP100057	accession_singleton						
+PP100056	HSV-2	61	PP100056	accession_singleton						
+PP100055	HSV-2	71	PP100055	accession_singleton						
+PP100054	HSV-2	52	PP100054	accession_singleton						
+PP100053	HSV-2	54	PP100053	accession_singleton						
+PP100052	HSV-2	68	PP100052	accession_singleton						
+PP100051	HSV-2	57	PP100051	accession_singleton						
+PP100050	HSV-2	65	PP100050	accession_singleton						
+PP100049	HSV-2	74	PP100049	accession_singleton						
+PP100048	HSV-2	50	PP100048	accession_singleton						
+PP100047	HSV-2	55	PP100047	accession_singleton						
+PP100046	HSV-2	51	PP100046	accession_singleton						
+PP100045	HSV-2	62	PP100045	accession_singleton						
+PP100044	HSV-2	60	PP100044	accession_singleton						
+PP100043	HSV-2	97	PP100043	accession_singleton						
+PP100042	HSV-2	88	PP100042	accession_singleton						
+PP100041	HSV-2	77	PP100041	accession_singleton						
+PP100040	HSV-2	99	PP100040	accession_singleton						
+PP100039	HSV-2	98	PP100039	accession_singleton						
+PP100038	HSV-2	96	PP100038	accession_singleton						
+PP100037	HSV-2	95	PP100037	accession_singleton						
+PP100036	HSV-2	94	PP100036	accession_singleton						
+PP100035	HSV-2	93	PP100035	accession_singleton						
+PP100034	HSV-2	92	PP100034	accession_singleton						
+PP100033	HSV-2	91	PP100033	accession_singleton						
+PP100032	HSV-2	90	PP100032	accession_singleton						
+PP100031	HSV-2	89	PP100031	accession_singleton						
+PP100030	HSV-2	87	PP100030	accession_singleton						
+PP100029	HSV-2	86	PP100029	accession_singleton						
+PP100028	HSV-2	85	PP100028	accession_singleton						
+PP100027	HSV-2	84	PP100027	accession_singleton						
+PP100026	HSV-2	83	PP100026	accession_singleton						
+PP100025	HSV-2	82	PP100025	accession_singleton						
+PP100024	HSV-2	81	PP100024	accession_singleton						
+PP100023	HSV-2	80	PP100023	accession_singleton						
+PP100022	HSV-2	79	PP100022	accession_singleton						
+PP100021	HSV-2	78	PP100021	accession_singleton						
+PP100020	HSV-2	76	PP100020	accession_singleton						
+PP100019	HSV-2	75	PP100019	accession_singleton						
+PP100018	HSV-2	105	PP100018	accession_singleton						
+PP100017	HSV-2	115	PP100017	accession_singleton						
+PP100016	HSV-2	114	PP100016	accession_singleton						
+PP100015	HSV-2	118	PP100015	accession_singleton						
+PP100014	HSV-2	104	PP100014	accession_singleton						
+PP100013	HSV-2	109	PP100013	accession_singleton						
+PP100012	HSV-2	108	PP100012	accession_singleton						
+PP100011	HSV-2	119	PP100011	accession_singleton						
+PP100010	HSV-2	101	PP100010	accession_singleton						
+PP100009	HSV-2	107	PP100009	accession_singleton						
+PP100008	HSV-2	106	PP100008	accession_singleton						
+PP100007	HSV-2	112	PP100007	accession_singleton						
+PP100006	HSV-2	111	PP100006	accession_singleton						
+PP100005	HSV-2	100	PP100005	accession_singleton						
+PP100004	HSV-2	102	PP100004	accession_singleton						
+PP100003	HSV-2	103	PP100003	accession_singleton						
+PP100002	HSV-2	113	PP100002	accession_singleton						
+PP100001	HSV-2	116	PP100001	accession_singleton						
+PP100000	HSV-2	110	PP100000	accession_singleton						
+PP099999	HSV-2	117	PP099999	accession_singleton						
+PP099998	HSV-2	134	PP099998	accession_singleton						
+PP099997	HSV-2	133	PP099997	accession_singleton						
+PP099996	HSV-2	132	PP099996	accession_singleton						
+PP099995	HSV-2	131	PP099995	accession_singleton						
+PP099994	HSV-2	130	PP099994	accession_singleton						
+PP099993	HSV-2	129	PP099993	accession_singleton						
+PP099992	HSV-2	128	PP099992	accession_singleton						
+PP099991	HSV-2	127	PP099991	accession_singleton						
+PP099990	HSV-2	126	PP099990	accession_singleton						
+PP099989	HSV-2	125	PP099989	accession_singleton						
+PP099988	HSV-2	124	PP099988	accession_singleton						
+PP099987	HSV-2	123	PP099987	accession_singleton						
+PP099986	HSV-2	122	PP099986	accession_singleton						
+PP099985	HSV-2	121	PP099985	accession_singleton						
+PP099984	HSV-2	120	PP099984	accession_singleton						
+PP099983	HSV-2	135	PP099983	accession_singleton						
+PP099982	HSV-2	138	PP099982	accession_singleton						
+PP099981	HSV-2	143	PP099981	accession_singleton						
+PP099980	HSV-2	141	PP099980	accession_singleton						
+PP099979	HSV-2	142	PP099979	accession_singleton						
+PP099978	HSV-2	139	PP099978	accession_singleton						
+PP099977	HSV-2	145	PP099977	accession_singleton						
+PP099976	HSV-2	144	PP099976	accession_singleton						
+PP099975	HSV-2	140	PP099975	accession_singleton						
+PP099974	HSV-2	137	PP099974	accession_singleton						
+PP099973	HSV-2	136	PP099973	accession_singleton						
+PP386309	HSV-2	MBC024	MBC024	isolate_code						
+MH790594	HSV-2	1999-4603	MH790594	accession_singleton						
+MF621258	HSV-2	2009-4463	MF621258	accession_singleton						
+MF621256	HSV-2	2007-38113	MF621256	accession_singleton						
+MF621255	HSV-2	2006-46602	MF621255	accession_singleton						
+MF621254	HSV-2	2005-37403	MF621254	accession_singleton						
+MH899846	HSV-2	2006-15095	MH899846	accession_singleton						
+MH790671	HSV-2	2014-8176	MH790671	accession_singleton						
+MH790670	HSV-2	1996-45091	MH790670	accession_singleton						
+MH790669	HSV-2	2009-33886	MH790669	accession_singleton						
+MH790668	HSV-2	2007-15346	MH790668	accession_singleton						
+MH790667	HSV-2	2018-3118	MH790667	accession_singleton						
+MH790665	HSV-2	1996-53309	MH790665	accession_singleton						
+MH790663	HSV-2	2010-3487	MH790663	accession_singleton						
+MH790661	HSV-2	2000-3429	MH790661	accession_singleton						
+MH790660	HSV-2	2008-483	MH790660	accession_singleton						
+MH790657	HSV-2	2012-545	MH790657	accession_singleton						
+MH790654	HSV-2	2002-8734	MH790654	accession_singleton						
+MH790653	HSV-2	2004-51444	MH790653	accession_singleton						
+MH790652	HSV-2	2012-26422	MH790652	accession_singleton						
+MH790651	HSV-2	2002-12329	MH790651	accession_singleton						
+MH790650	HSV-2	2011-6227	MH790650	accession_singleton						
+MH790648	HSV-2	2005-35399	MH790648	accession_singleton						
+MH790647	HSV-2	2005-51214	MH790647	accession_singleton						
+MH790646	HSV-2	2007-43967	MH790646	accession_singleton						
+MH790645	HSV-2	2018-3111	MH790645	accession_singleton						
+MH790644	HSV-2	2009-11820	MH790644	accession_singleton						
+MH790643	HSV-2	2005-42278	MH790643	accession_singleton						
+MH790642	HSV-2	2007-29227	MH790642	accession_singleton						
+MH790641	HSV-2	2013-3040	MH790641	accession_singleton						
+MH790639	HSV-2	2012-33841	MH790639	accession_singleton						
+MH790638	HSV-2	1996-26333	MH790638	accession_singleton						
+MH790637	HSV-2	2012-5447	MH790637	accession_singleton						
+MH790636	HSV-2	2004-1497	MH790636	accession_singleton						
+MH790635	HSV-2	2010-8179	MH790635	accession_singleton						
+MH790634	HSV-2	2000-9815	MH790634	accession_singleton						
+MH790633	HSV-2	2006-57677	MH790633	accession_singleton						
+MH790632	HSV-2	2009-24855	MH790632	accession_singleton						
+MH790631	HSV-2	2010-4919	MH790631	accession_singleton						
+MH790629	HSV-2	1999-10594	MH790629	accession_singleton						
+MH790628	HSV-2	2018-3107	MH790628	accession_singleton						
+MH790627	HSV-2	2006-11821	MH790627	accession_singleton						
+MH790626	HSV-2	2005-51213	MH790626	accession_singleton						
+MH790624	HSV-2	2018-3121	MH790624	accession_singleton						
+MH790622	HSV-2	1999-38470	MH790622	accession_singleton						
+MH790621	HSV-2	1998-5748	MH790621	accession_singleton						
+MH790620	HSV-2	2013-22594	MH790620	accession_singleton						
+MH790619	HSV-2	2004-242	MH790619	accession_singleton						
+MH790618	HSV-2	2011-21768	MH790618	accession_singleton						
+MH790617	HSV-2	2006-57030	MH790617	accession_singleton						
+MH790616	HSV-2	2005-8614	MH790616	accession_singleton						
+MH790615	HSV-2	2004-43128	MH790615	accession_singleton						
+MH790614	HSV-2	1998-8243	MH790614	accession_singleton						
+MH790613	HSV-2	2011-12249	MH790613	accession_singleton						
+MH790611	HSV-2	1995-67203	MH790611	accession_singleton						
+MH790609	HSV-2	2018-3113	MH790609	accession_singleton						
+MH790607	HSV-2	2005-35403	MH790607	accession_singleton						
+MH790606	HSV-2	2015-27216	MH790606	accession_singleton						
+MH790605	HSV-2	2011-16336	MH790605	accession_singleton						
+MH790602	HSV-2	2005-31227	MH790602	accession_singleton						
+MH790601	HSV-2	2013-37246	MH790601	accession_singleton						
+MH790600	HSV-2	2004-16150	MH790600	accession_singleton						
+MH790599	HSV-2	2015-24108	MH790599	accession_singleton						
+MH790598	HSV-2	2008-4122	MH790598	accession_singleton						
+MH790597	HSV-2	2018-3120	MH790597	accession_singleton						
+MH790596	HSV-2	2018-3108	MH790596	accession_singleton						
+MH790592	HSV-2	2008-36694	MH790592	accession_singleton						
+MH790591	HSV-2	2006-200	MH790591	accession_singleton						
+MH790589	HSV-2	2004-2897	MH790589	accession_singleton						
+MH790587	HSV-2	2013-37885	MH790587	accession_singleton						
+MH790586	HSV-2	2016-8369	MH790586	accession_singleton						
+MH790585	HSV-2	2002-14972	MH790585	accession_singleton						
+MH790584	HSV-2	2012-10336	MH790584	accession_singleton						
+MH790583	HSV-2	2003-24998	MH790583	accession_singleton						
+MH790581	HSV-2	2011-5095	MH790581	accession_singleton						
+MH790580	HSV-2	1997-3671	MH790580	accession_singleton						
+MH790579	HSV-2	2018-3109	MH790579	accession_singleton						
+MH790578	HSV-2	2018-3110	MH790578	accession_singleton						
+MH790577	HSV-2	2007-22053	MH790577	accession_singleton						
+MH790575	HSV-2	2007-41207	MH790575	accession_singleton						
+MH790574	HSV-2	2005-48385	MH790574	accession_singleton						
+MH790573	HSV-2	2011-14064	MH790573	accession_singleton						
+MH790572	HSV-2	1998-7832	MH790572	accession_singleton						
+MH790571	HSV-2	2004-46095	MH790571	accession_singleton						
+MH790570	HSV-2	2004-56880	MH790570	accession_singleton						
+MH790569	HSV-2	2010-1114	MH790569	accession_singleton						
+MH790568	HSV-2	2012-4759	MH790568	accession_singleton						
+MH790567	HSV-2	2006-38237	MH790567	accession_singleton						
+MH790565	HSV-2	2009-25036	MH790565	accession_singleton						
+MH790564	HSV-2	2008-29150	MH790564	accession_singleton						
+MH790563	HSV-2	2007-32812	MH790563	accession_singleton						
+MH790562	HSV-2	1996-38251	MH790562	accession_singleton						
+MH790561	HSV-2	2003-27026	MH790561	accession_singleton						
+MH790560	HSV-2	2008-7628	MH790560	accession_singleton						
+MH790559	HSV-2	2012-5456	MH790559	accession_singleton						
+MH790558	HSV-2	2005-48390	MH790558	accession_singleton						
+MH790557	HSV-2	2011-28591	MH790557	accession_singleton						
+MH790556	HSV-2	2012-15948	MH790556	accession_singleton						
+MH790555	HSV-2	2004-41447	MH790555	accession_singleton						
+MH790554	HSV-2	2001-6723	MH790554	accession_singleton						
+MH790553	HSV-2	2005-14172	MH790553	accession_singleton						
+MH790552	HSV-2	2013-35042	MH790552	accession_singleton						
+MH790551	HSV-2	2018-3119	MH790551	accession_singleton						
+MH790550	HSV-2	2011-31810	MH790550	accession_singleton						
+MF621257	HSV-2	2008-15116	MF621257	accession_singleton						
+MF510371	HSV-2	2008-83	MF510371	accession_singleton						
+MF510370	HSV-2	2009-143	MF510370	accession_singleton						
+MF510369	HSV-2	2002-9529	MF510369	accession_singleton						
+MF510368	HSV-2	2012-3154	MF510368	accession_singleton						
+MF510366	HSV-2	2012-18588	MF510366	accession_singleton						
+MF510365	HSV-2	2010-49	MF510365	accession_singleton						
+MF510364	HSV-2	1995-74779	MF510364	accession_singleton						
+MF510363	HSV-2	2015-14086	MF510363	accession_singleton						
+MF510360	HSV-2	2013-20710	MF510360	accession_singleton						
+MF510359	HSV-2	1996-45513	MF510359	accession_singleton						
+MF510357	HSV-2	2006-47348	MF510357	accession_singleton						
+MF510356	HSV-2	2014-23324	MF510356	accession_singleton						
+MF510355	HSV-2	2001-33392	MF510355	accession_singleton						
+MF510354	HSV-2	1994-31838	MF510354	accession_singleton						
+MF510353	HSV-2	2009-6972	MF510353	accession_singleton						
+MF510352	HSV-2	2007-225	MF510352	accession_singleton						
+MF510351	HSV-2	2013-7939	MF510351	accession_singleton						
+MF510350	HSV-2	2007-37750	MF510350	accession_singleton						
+MF510349	HSV-2	2012-15074	MF510349	accession_singleton						
+MF510346	HSV-2	1996-63142	MF510346	accession_singleton						
+MF510344	HSV-2	2006-25060	MF510344	accession_singleton						
+MF510342	HSV-2	2013-40864	MF510342	accession_singleton						
+MF510340	HSV-2	2013-44623	MF510340	accession_singleton						
+MF510339	HSV-2	1995-63092	MF510339	accession_singleton						
+MF510338	HSV-2	2015-30814	MF510338	accession_singleton						
+MF510336	HSV-2	2007-36717	MF510336	accession_singleton						
+MF510335	HSV-2	2013-5465	MF510335	accession_singleton						
+MF510334	HSV-2	2007-38191	MF510334	accession_singleton						
+MF510333	HSV-2	2010-19222	MF510333	accession_singleton						
+MF510332	HSV-2	1998-573	MF510332	accession_singleton						
+MF510331	HSV-2	2015-30415	MF510331	accession_singleton						
+MF510329	HSV-2	1994-32289	MF510329	accession_singleton						
+MF510328	HSV-2	2010-147	MF510328	accession_singleton						
+MF510327	HSV-2	2010-26	MF510327	accession_singleton						
+MF510324	HSV-2	2012-18385	MF510324	accession_singleton						
+MF510321	HSV-2	2009-28138	MF510321	accession_singleton						
+MF510319	HSV-2	2010-131	MF510319	accession_singleton						
+MF510318	HSV-2	1994-19218	MF510318	accession_singleton						
+MF510317	HSV-2	2015-2427	MF510317	accession_singleton						
+MF510316	HSV-2	2013-10248	MF510316	accession_singleton						
+MF510314	HSV-2	2000-20217	MF510314	accession_singleton						
+MF510313	HSV-2	2004-35508	MF510313	accession_singleton						
+MF510311	HSV-2	2007-141	MF510311	accession_singleton						
+MF510310	HSV-2	1998-3173	MF510310	accession_singleton						
+MF510308	HSV-2	1995-45304	MF510308	accession_singleton						
+MF510307	HSV-2	2010-21163	MF510307	accession_singleton						
+MF510306	HSV-2	2014-14807	MF510306	accession_singleton						
+MF510305	HSV-2	1997-1262	MF510305	accession_singleton						
+MF510304	HSV-2	1995-6523	MF510304	accession_singleton						
+MF510301	HSV-2	2004-3896	MF510301	accession_singleton						
+MF510300	HSV-2	2007-40102	MF510300	accession_singleton						
+MF510297	HSV-2	2014-7140	MF510297	accession_singleton						
+MF510295	HSV-2	2005-177	MF510295	accession_singleton						
+MF510294	HSV-2	2014-12235	MF510294	accession_singleton						
+MF510293	HSV-2	2013-41862	MF510293	accession_singleton						
+MF510292	HSV-2	2014-14811	MF510292	accession_singleton						
+MF510291	HSV-2	2004-35599	MF510291	accession_singleton						
+MF510290	HSV-2	2009-33613	MF510290	accession_singleton						
+MF510288	HSV-2	2000-24123	MF510288	accession_singleton						
+MF510286	HSV-2	2007-49	MF510286	accession_singleton						
+MF510285	HSV-2	1995-13482	MF510285	accession_singleton						
+MF510284	HSV-2	2015-3877	MF510284	accession_singleton						
+MF510282	HSV-2	2004-8527	MF510282	accession_singleton						
+MF510281	HSV-2	2006-17607	MF510281	accession_singleton						
+MF510279	HSV-2	1998-7600	MF510279	accession_singleton						
+MF510278	HSV-2	2001-13795	MF510278	accession_singleton						
+MF510277	HSV-2	2013-19050	MF510277	accession_singleton						
+MF510276	HSV-2	2012-35322	MF510276	accession_singleton						
+MF510274	HSV-2	2002-7934	MF510274	accession_singleton						
+MF510273	HSV-2	2008-15067	MF510273	accession_singleton						
+MF510272	HSV-2	2004-35598	MF510272	accession_singleton						
+MF510271	HSV-2	2006-36626	MF510271	accession_singleton						
+MF510270	HSV-2	2001-25659	MF510270	accession_singleton						
+MF510267	HSV-2	1994-24134	MF510267	accession_singleton						
+OM370995	HSV-2	G	OM370995	accession_singleton		USA				Frederick National Laboratory for Cancer Research, Laboratory of Human Retrovirology and Immunoinformatics
+MT919989	HSV-2	186	MT919989	accession_singleton						
+MT461027	HSV-2	2020-3450AC	MT461027	accession_singleton						
+MT461026	HSV-2	2020-3449AC	MT461026	accession_singleton						
+MT364888	HSV-2		MT364888	accession_singleton						
+MK855052	HSV-2	MS	MK855052	accession_singleton		Spain				Centro de Biologia Molecular Severo Ochoa, Virology
+MN187895	HSV-2	HJ12	HJ12	isolate_code		China				Institute of medical biology
+MH697501	HSV-2	HSV2_21	MH697501	accession_singleton						
+MH790666	HSV-2	2006-18141CAM	MH790666	accession_singleton						
+MH790664	HSV-2	1995-57888	MH790664	accession_singleton						
+MH790659	HSV-2	2006-18717CAM	MH790659	accession_singleton						
+MH790658	HSV-2	2006-16150CAM	MH790658	accession_singleton						
+MH790656	HSV-2	2006-15449CAM	MH790656	accession_singleton						
+MH790655	HSV-2	2006-15377CAM	MH790655	accession_singleton						
+MH790649	HSV-2	2006-14337CAM	MH790649	accession_singleton						
+MH790640	HSV-2	2006-14474CAM	MH790640	accession_singleton						
+MH790630	HSV-2	2006-14300CAM	MH790630	accession_singleton						
+MH790625	HSV-2	2006-15867CAM	MH790625	accession_singleton						
+MH790623	HSV-2	2006-13847CAM	MH790623	accession_singleton						
+MH790612	HSV-2	2006-16337CAM	MH790612	accession_singleton						
+MH790610	HSV-2	2006-17947CAM	MH790610	accession_singleton						
+MH790608	HSV-2	2006-13867CAM	MH790608	accession_singleton						
+MH790604	HSV-2	2014-13047	MH790604	accession_singleton						
+MH790603	HSV-2	2006-13869CAM	MH790603	accession_singleton						
+MH790595	HSV-2	2006-14635CAM	MH790595	accession_singleton						
+MH790593	HSV-2	2006-18003CAM	MH790593	accession_singleton						
+MH790590	HSV-2	2006-15771CAM	MH790590	accession_singleton						
+MH790588	HSV-2	1995-56864	MH790588	accession_singleton						
+MH790582	HSV-2	2018-5934	MH790582	accession_singleton						
+MH790576	HSV-2	2006-15840CAM	MH790576	accession_singleton						
+MH790566	HSV-2	2013-34209	MH790566	accession_singleton						
+MK106004	HSV-2	SEM18	SEM18	isolate_code						
+MK106003	HSV-2	SEM13	SEM13	isolate_code						
+MK106002	HSV-2	SEM02	SEM02	isolate_code						
+MK106001	HSV-2	DISS29	DISS29	isolate_code						
+MK106000	HSV-2	DISS14	DISS14	isolate_code						
+MK105999	HSV-2	CNS17	CNS17	isolate_code						
+MK105998	HSV-2	CNS15	CNS15	isolate_code						
+MK105997	HSV-2	CNS12	CNS12	isolate_code						
+MK105996	HSV-2	CNS11	CNS11	isolate_code						
+MK105995	HSV-2	CNS03	CNS03	isolate_code						
+LT799380	HSV-2	9	SAMEA3941935	biosample		France		SAMEA3941935	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797786	HSV-2	16	SAMEA3941942	biosample		France		SAMEA3941942	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797682	HSV-2	18	SAMEA3941944	biosample		France		SAMEA3941944	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797636	HSV-2	17	SAMEA3941943	biosample		France		SAMEA3941943	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797635	HSV-2	11	SAMEA3941937	biosample		France		SAMEA3941937	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797634	HSV-2	14	SAMEA3941940	biosample		France		SAMEA3941940	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797633	HSV-2	12	SAMEA3941938	biosample		France		SAMEA3941938	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797632	HSV-2	5	SAMEA3941931	biosample		France		SAMEA3941931	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797631	HSV-2	3	SAMEA3941929	biosample		France		SAMEA3941929	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797630	HSV-2	15	SAMEA3941941	biosample		France		SAMEA3941941	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797629	HSV-2	10	SAMEA3941936	biosample		France		SAMEA3941936	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797628	HSV-2	4	SAMEA3941930	biosample		France		SAMEA3941930	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797627	HSV-2	1	SAMEA3941927	biosample		France		SAMEA3941927	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797626	HSV-2	7	SAMEA3941933	biosample		France		SAMEA3941933	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797625	HSV-2	8	SAMEA3941934	biosample		France		SAMEA3941934	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797624	HSV-2	6	SAMEA3941932	biosample		France		SAMEA3941932	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797623	HSV-2	13	SAMEA3941939	biosample		France		SAMEA3941939	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LT797622	HSV-2	2	SAMEA3941928	biosample		France		SAMEA3941928	PRJEB13741	ROBERT KOCH INSTITUT, Epidemiology of Highly Pathogenic, Microorganisms, Robert-Koch Institut, Nordufer 20, 13353
+LS480640	HSV-2	333	LS480640	accession_singleton						
+MF510367	HSV-2	2001_6349	MF510367	accession_singleton						
+MF510362	HSV-2	2005_10915	MF510362	accession_singleton						
+MF510361	HSV-2	2009_2265	MF510361	accession_singleton						
+MF510358	HSV-2	2012_20191	MF510358	accession_singleton						
+MF510348	HSV-2	2006_21876	MF510348	accession_singleton						
+MF510347	HSV-2	2009_3488	MF510347	accession_singleton						
+MF510345	HSV-2	2014_23891	MF510345	accession_singleton						
+MF510343	HSV-2	2009_2139	MF510343	accession_singleton						
+MF510341	HSV-2	2007_22031	MF510341	accession_singleton						
+MF510337	HSV-2	2012_18420	MF510337	accession_singleton						
+MF510330	HSV-2	2009_2254	MF510330	accession_singleton						
+MF510326	HSV-2	1997_1393	MF510326	accession_singleton						
+MF510325	HSV-2	2009_393	MF510325	accession_singleton						
+MF510323	HSV-2	2000_24411	MF510323	accession_singleton						
+MF510322	HSV-2	2006_46019	MF510322	accession_singleton						
+MF510320	HSV-2	2006_46638	MF510320	accession_singleton						
+MF510315	HSV-2	2002_8781	MF510315	accession_singleton						
+MF510312	HSV-2	2009_2246	MF510312	accession_singleton						
+MF510309	HSV-2	2006_20641	MF510309	accession_singleton						
+MF510303	HSV-2	2009_406	MF510303	accession_singleton						
+MF510302	HSV-2	2006_23142	MF510302	accession_singleton						
+MF510299	HSV-2	2009_2222	MF510299	accession_singleton						
+MF510298	HSV-2	2003_18061	MF510298	accession_singleton						
+MF510296	HSV-2	2009_3539	MF510296	accession_singleton						
+MF510289	HSV-2	2009_3425	MF510289	accession_singleton						
+MF510287	HSV-2	2009_2258	MF510287	accession_singleton						
+MF510283	HSV-2	2012_9333	MF510283	accession_singleton						
+MF510280	HSV-2	2009_3495	MF510280	accession_singleton						
+MF510275	HSV-2	2009_4532	MF510275	accession_singleton						
+MF510269	HSV-2	2006_46118	MF510269	accession_singleton						
+MF510268	HSV-2	1995_45410	MF510268	accession_singleton						
+KY922726	HSV-2	HSV2-H12212	KY922726	accession_singleton		USA				Pennslyvania State University, Department of Biochemistry and Molecular Biology
+KY922725	HSV-2	HSV2-H12211	KY922725	accession_singleton		USA				Pennslyvania State University, Department of Biochemistry and Molecular Biology
+KY922724	HSV-2	HSV2-H1526	KY922724	accession_singleton						
+KY922723	HSV-2	HSV2-H1421	KY922723	accession_singleton						
+KY922722	HSV-2	HSV2-H1229	KY922722	accession_singleton						
+KY922721	HSV-2	HSV2-H1227	KY922721	accession_singleton		USA				Pennslyvania State University, Department of Biochemistry and Molecular Biology
+KY922720	HSV-2	HSV2-H1226	KY922720	accession_singleton		USA				Pennslyvania State University, Department of Biochemistry and Molecular Biology
+MF783886	HSV-2	16	MF783886	accession_singleton						
+MF564037	HSV-2	sample 19	MF564037	accession_singleton		USA	2008.0			Saint Louis University, Molecular Microbiology and Immunology
+MF564036	HSV-2	sample 16	MF564036	accession_singleton		USA	2007.0			Saint Louis University, Molecular Microbiology and Immunology
+MF564035	HSV-2	sample 14	MF564035	accession_singleton		USA	2004.0			Saint Louis University, Molecular Microbiology and Immunology
+MF564034	HSV-2	sample 08	MF564034	accession_singleton		USA	2004.0			Saint Louis University, Molecular Microbiology and Immunology
+KX574906	HSV-2	2012-9333	KX574906	accession_singleton						
+KX574905	HSV-2	2009-2198	KX574905	accession_singleton						
+KX574904	HSV-2	2004-20601	KX574904	accession_singleton						
+KX574903	HSV-2	2003-16029	KX574903	accession_singleton						
+KX574902	HSV-2	2009-409	KX574902	accession_singleton						
+KX574901	HSV-2	2012-32825	KX574901	accession_singleton						
+KX574899	HSV-2	2011-34727	KX574899	accession_singleton						
+KX574898	HSV-2	2011-33490	KX574898	accession_singleton						
+KX574897	HSV-2	2011-21761	KX574897	accession_singleton						
+KX574896	HSV-2	2010-6416	KX574896	accession_singleton						
+KX574895	HSV-2	2010-21	KX574895	accession_singleton						
+KX574894	HSV-2	2009-4556	KX574894	accession_singleton						
+KX574893	HSV-2	2009-4550	KX574893	accession_singleton						
+KX574892	HSV-2	2009-3532	KX574892	accession_singleton						
+KX574891	HSV-2	2009-33778	KX574891	accession_singleton						
+KX574890	HSV-2	2009-31735	KX574890	accession_singleton						
+KX574889	HSV-2	2009-13458	KX574889	accession_singleton						
+KX574888	HSV-2	2009-1245	KX574888	accession_singleton						
+KX574887	HSV-2	2008-7539	KX574887	accession_singleton						
+KX574886	HSV-2	2008-37744	KX574886	accession_singleton						
+KX574885	HSV-2	2008-37496	KX574885	accession_singleton						
+KX574884	HSV-2	2008-16404	KX574884	accession_singleton						
+KX574883	HSV-2	2007-8222	KX574883	accession_singleton						
+KX574882	HSV-2	2007-40807	KX574882	accession_singleton						
+KX574881	HSV-2	2007-39729	KX574881	accession_singleton						
+KX574880	HSV-2	2007-39712	KX574880	accession_singleton						
+KX574879	HSV-2	2007-39521	KX574879	accession_singleton						
+KX574878	HSV-2	2007-39303	KX574878	accession_singleton						
+KX574877	HSV-2	2007-38910	KX574877	accession_singleton						
+KX574876	HSV-2	2007-38901	KX574876	accession_singleton						
+KX574875	HSV-2	2007-38807	KX574875	accession_singleton						
+KX574874	HSV-2	2007-38627	KX574874	accession_singleton						
+KX574873	HSV-2	2007-38606	KX574873	accession_singleton						
+KX574872	HSV-2	2007-38249	KX574872	accession_singleton						
+KX574871	HSV-2	2007-38120	KX574871	accession_singleton						
+KX574870	HSV-2	2007-22031	KX574870	accession_singleton						
+KX574869	HSV-2	2006-50074	KX574869	accession_singleton						
+KX574868	HSV-2	2006-49895	KX574868	accession_singleton						
+KX574867	HSV-2	2006-45028	KX574867	accession_singleton						
+KX574866	HSV-2	2006-30937	KX574866	accession_singleton						
+KX574865	HSV-2	2006-30839	KX574865	accession_singleton						
+KX574864	HSV-2	2006-29060	KX574864	accession_singleton						
+KX574863	HSV-2	2006-21832	KX574863	accession_singleton						
+KX574862	HSV-2	2006-19390	KX574862	accession_singleton						
+KX574861	HSV-2	2004-4373	KX574861	accession_singleton						
+KX574860	HSV-2	2007-38205	KX574860	accession_singleton						
+KX574908	HSV-2	2011-21400	KX574908	accession_singleton						
+KX574907	HSV-2	2006-38659	KX574907	accession_singleton						
+KX574900	HSV-2	2011-34957	KX574900	accession_singleton						
+KU310668	HSV-2	G	KU310668	accession_singleton						
+KU310667	HSV-2	4674	KU310667	accession_singleton						
+KU310666	HSV-2	B	KU310666	accession_singleton						
+KU310665	HSV-2	B	KU310665	accession_singleton						
+KU310664	HSV-2	B	KU310664	accession_singleton						
+KU310663	HSV-2	B	KU310663	accession_singleton						
+KU310662	HSV-2	B	KU310662	accession_singleton						
+NC_001798	HSV-2	HG52	HG52	isolate_code		United Kingdom			PRJNA15218	National Center for Biotechnology Information, NIH
+JN561323	HSV-2	HG52	HG52	isolate_code		United Kingdom				MRC - University of Glasgow Centre for Virus Research
+AY038368	HSV-2	RR	AY038368	accession_singleton						
+KR135331	HSV-2	HSV-2/US/BID-G44422/333-R519	KR135331	accession_singleton						
+KR135330	HSV-2	HSV-2/US/BID-G1929/BethesdaP5	KR135330	accession_singleton						
+KR135329	HSV-2	HSV-2/JP/BID-G32593/JA9	KR135329	accession_singleton						
+KR135328	HSV-2	HSV-2/JP/BID-G32592/JA8	KR135328	accession_singleton						
+KR135327	HSV-2	HSV-2/JP/BID-G32591/JA7	KR135327	accession_singleton						
+KR135326	HSV-2	HSV-2/JP/BID-G32590/JA6	KR135326	accession_singleton						
+KR135325	HSV-2	HSV-2/JP/BID-G32589/JA5	KR135325	accession_singleton						
+KR135324	HSV-2	HSV-2/JP/BID-G32588/JA3	KR135324	accession_singleton						
+KR135323	HSV-2	HSV-2/JP/BID-G32587/JA2	KR135323	accession_singleton						
+KR135322	HSV-2	HSV-2/JP/BID-G32586/JA1	KR135322	accession_singleton						
+KR135321	HSV-2	HSV-2/US/BID-G19094/89-390/1989	KR135321	accession_singleton						
+KR135320	HSV-2	HSV-2/ZA/BID-G19093/SD66/1995	KR135320	accession_singleton						
+KR135319	HSV-2	HSV-2/UG/BID-G19091/D39765/2008	KR135319	accession_singleton						
+KR135318	HSV-2	HSV-2/UG/BID-G19090/D39650/2008	KR135318	accession_singleton						
+KR135317	HSV-2	HSV-2/UG/BID-G19089/A76832/2007	KR135317	accession_singleton						
+KR135316	HSV-2	HSV-2/UG/BID-G19088/G75809/2007	KR135316	accession_singleton						
+KR135315	HSV-2	HSV-2/UG/BID-G19087/J32715/2007	KR135315	accession_singleton						
+KR135314	HSV-2	HSV-2/US/BID-G19086/7444-1996-25809/1996	KR135314	accession_singleton						
+KR135313	HSV-2	HSV-2/US/BID-G19085/9335-2007-14/2011	KR135313	accession_singleton						
+KR135312	HSV-2	HSV-2/US/BID-G19084/9335-2005-576/2009	KR135312	accession_singleton						
+KR135311	HSV-2	HSV-2/US/BID-G19083/10883-2001-13347/2005	KR135311	accession_singleton						
+KR135310	HSV-2	HSV-2/US/BID-G19082/44-319857/2007	KR135310	accession_singleton						
+KR135309	HSV-2	HSV-2/US/BID-G19081/44-419851/2007	KR135309	accession_singleton						
+KR135308	HSV-2	HSV-2/US/BID-G19080/44-419851/2007	KR135308	accession_singleton						
+KR135307	HSV-2	HSV-2/UG/BID-G19079/J09622/2008	KR135307	accession_singleton						
+KR135306	HSV-2	HSV-2/UG/BID-G19078/A76191/2008	KR135306	accession_singleton						
+KR135305	HSV-2	HSV-2/UG/BID-G19077/K39924/2007	KR135305	accession_singleton						
+KR135304	HSV-2	HSV-2/UG/BID-G19076/H00066/2007	KR135304	accession_singleton						
+KR135303	HSV-2	HSV-2/UG/BID-G44423/L22861/2007	KR135303	accession_singleton						
+KR135302	HSV-2	HSV-2/UG/BID-G19074/M1119/2007	KR135302	accession_singleton						
+KR135301	HSV-2	HSV-2/UG/BID-G19073/F70764/2007	KR135301	accession_singleton						
+KR135300	HSV-2	HSV-2/UG/BID-G19072/D30613/2007	KR135300	accession_singleton						
+KR135299	HSV-2	HSV-2/UG/BID-G19071/M22987/2007	KR135299	accession_singleton						
+KR135298	HSV-2	HSV-2/US/BID-G19070/8937-1-3336/2003	KR135298	accession_singleton						
+KP334097	HSV-2	CtSF	KP334097	accession_singleton						
+KP334096	HSV-2	COH	KP334096	accession_singleton						
+KP334095	HSV-2	1192	KP334095	accession_singleton						
+KP334094	HSV-2	GSC-56	KP334094	accession_singleton						
+KP334093	HSV-2	CtSF-R	KP334093	accession_singleton						
+KP192856	HSV-2	333	KP192856	accession_singleton						
+KF781518	HSV-2	SD90e	KF781518	accession_singleton		South Africa	1995.0		PRJNA32415	Harvard Medical School, Department of Microbiology and Immunobiology
+JN415125	HSV-2	BA_19026589	JN415125	accession_singleton		Belgium	2009.0			Rega Institute for Medical Research, Microbiology and Immunology
+JN415124	HSV-2	RV_185	JN415124	accession_singleton		Belgium	2011.0			Rega Institute for Medical Research, Microbiology and Immunology
+JN415122	HSV-2	RV_129	JN415122	accession_singleton		Belgium	2010.0			Rega Institute for Medical Research, Microbiology and Immunology
+JN415121	HSV-2	RV_101	JN415121	accession_singleton		Belgium	2010.0			Rega Institute for Medical Research, Microbiology and Immunology
+JN415120	HSV-2	HSV-44	JN415120	accession_singleton		Belgium	1991.0			Rega Institute for Medical Research, Microbiology and Immunology
+JX112656	HSV-2	186	JX112656	accession_singleton						
+JQ352300	HSV-2	247/2010	JQ352300	accession_singleton						
+JQ352299	HSV-2	246/2010	JQ352299	accession_singleton						
+EU018128	HSV-2	333	EU018128	accession_singleton						
+EU018127	HSV-2	333	EU018127	accession_singleton						
+EU018126	HSV-2	333	EU018126	accession_singleton						
+EU018104	HSV-2	333	EU018104	accession_singleton						
+EU018102	HSV-2	333	EU018102	accession_singleton						
+EU018101	HSV-2	333	EU018101	accession_singleton						
+EU018100	HSV-2	333	EU018100	accession_singleton						
+EU018099	HSV-2	333	EU018099	accession_singleton						
+HQ123142	HSV-2	09200631	HQ123142	accession_singleton						
+HQ123141	HSV-2	09130442	HQ123141	accession_singleton						
+HQ123140	HSV-2	08401088	HQ123140	accession_singleton						
+HQ123139	HSV-2	09121229	HQ123139	accession_singleton						
+HQ123138	HSV-2	09040715	HQ123138	accession_singleton						
+HQ123137	HSV-2	08160205	HQ123137	accession_singleton						
+HQ123136	HSV-2	07050655	HQ123136	accession_singleton						
+HQ123135	HSV-2	09510471	HQ123135	accession_singleton						
+HQ123134	HSV-2	08390192	HQ123134	accession_singleton						
+FV537013	HSV-2		FV537013	accession_singleton						
+FV537012	HSV-2		FV537012	accession_singleton						
+FV537011	HSV-2		FV537011	accession_singleton						
+FV537010	HSV-2		FV537010	accession_singleton						
+AY827229	HSV-2	9947	AY827229	accession_singleton						
+AY827228	HSV-2	9946	AY827228	accession_singleton						
+AY827227	HSV-2	9884	AY827227	accession_singleton						
+AY827226	HSV-2	9847	AY827226	accession_singleton						
+AY827225	HSV-2	9542	AY827225	accession_singleton						
+AY827224	HSV-2	9497	AY827224	accession_singleton						
+AY827223	HSV-2	9383	AY827223	accession_singleton						
+AY827222	HSV-2	9373	AY827222	accession_singleton						
+AY827221	HSV-2	9223	AY827221	accession_singleton						
+AY827220	HSV-2	9191	AY827220	accession_singleton						
+AY827219	HSV-2	8988	AY827219	accession_singleton						
+AY827218	HSV-2	8987	AY827218	accession_singleton						
+AY827217	HSV-2	8906	AY827217	accession_singleton						
+AY827216	HSV-2	8905	AY827216	accession_singleton						
+AY827215	HSV-2	8495	AY827215	accession_singleton						
+AY827214	HSV-2	8484	AY827214	accession_singleton						
+AY827213	HSV-2	8458	AY827213	accession_singleton						
+AY827212	HSV-2	8456	AY827212	accession_singleton						
+AY827211	HSV-2	8185	AY827211	accession_singleton						
+AY827210	HSV-2	8184	AY827210	accession_singleton						
+AY827209	HSV-2	8029	AY827209	accession_singleton						
+AY827208	HSV-2	8028	AY827208	accession_singleton						
+AY827207	HSV-2	10669	AY827207	accession_singleton						
+AY827206	HSV-2	10666	AY827206	accession_singleton						
+AY827205	HSV-2	10605	AY827205	accession_singleton						
+AY827204	HSV-2	10352	AY827204	accession_singleton						
+AY827203	HSV-2	10129	AY827203	accession_singleton						
+AY827202	HSV-2	10059	AY827202	accession_singleton						
+AY827201	HSV-2	10045	AY827201	accession_singleton						
+AF141858	HSV-2	VI-453	AF141858	accession_singleton						
+AF141857	HSV-2	VI-4444	AF141857	accession_singleton						
+AF141856	HSV-2	VI-147	AF141856	accession_singleton						
+AF141855	HSV-2	VI-512	AF141855	accession_singleton						
+AF141854	HSV-2	VI-2434	AF141854	accession_singleton						
+Z86099	HSV-2	HG52	HG52	isolate_code						A. Dolan, MRC Virology Unit, Church Street, Glasgow, G11 5JR

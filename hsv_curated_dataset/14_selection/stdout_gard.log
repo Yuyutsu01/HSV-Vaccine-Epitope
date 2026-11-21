@@ -1,0 +1,93 @@
+[2026-11-19 21:48:37] ==============================================================================
+[2026-11-19 21:48:37] STEP 16: GARD recombination screening, PER TYPE, before selection
+[2026-11-19 21:48:38] Docker daemon 29.5.2
+[2026-11-19 21:48:39] HyPhy provenance: HYPHY 2.5.103(MP) for Linux on x86_64 x86 AVX SIMD with FMA3 zlib (v1.3) | image hyphy/hyphy:latest | CPU=2
+[2026-11-19 21:48:39] Running 40 units on 6 workers (HyPhy CPU=2 each)
+[2026-11-19 21:48:39] US6 HSV1: cached
+[2026-11-19 21:48:39] US6 HSV2: cached
+[2026-11-19 21:48:39] UL22 HSV1: discarding unreadable previous output
+[2026-11-19 21:48:39] UL27 HSV1: cached
+[2026-11-19 21:48:39] UL22 HSV1: GARD start (n=148, 2514 nt)
+[2026-11-19 21:48:39] UL22 HSV2: cached
+[2026-11-19 21:48:39] UL27 HSV2: cached
+[2026-11-19 21:48:39] US6 HSV1: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] US6 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL27 HSV1: 1 BREAKPOINT(S) (dAICc=1075.25), 2 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL1 HSV1: cached
+[2026-11-19 21:48:39] UL22 HSV2: 1 BREAKPOINT(S) (dAICc=80.84), 2 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL1 HSV2: cached
+[2026-11-19 21:48:39] UL44 HSV1: cached
+[2026-11-19 21:48:39] UL27 HSV2: 1 BREAKPOINT(S) (dAICc=360.91), 2 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL1 HSV1: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL44 HSV2: cached
+[2026-11-19 21:48:39] UL1 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL10 HSV1: cached
+[2026-11-19 21:48:39] UL10 HSV2: cached
+[2026-11-19 21:48:39] UL44 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL53 HSV1: cached
+[2026-11-19 21:48:39] UL44 HSV1: 1 BREAKPOINT(S) (dAICc=3.7), 2 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL10 HSV1: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL10 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL53 HSV2: cached
+[2026-11-19 21:48:39] UL53 HSV1: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] US4 HSV1: cached
+[2026-11-19 21:48:39] US4 HSV2: cached
+[2026-11-19 21:48:39] US7 HSV1: cached
+[2026-11-19 21:48:39] UL53 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] US7 HSV2: cached
+[2026-11-19 21:48:39] US4 HSV1: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] US7 HSV1: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] US8 HSV1: discarding unreadable previous output
+[2026-11-19 21:48:39] US7 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] US8 HSV2: cached
+[2026-11-19 21:48:39] US8 HSV1: GARD start (n=127, 1650 nt)
+[2026-11-19 21:48:39] UL49A HSV1: cached
+[2026-11-19 21:48:39] US4 HSV2: 1 BREAKPOINT(S) (dAICc=34.16), 2 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL49A HSV2: cached
+[2026-11-19 21:48:39] US8 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL49A HSV1: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL48 HSV1: cached
+[2026-11-19 21:48:39] UL49A HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL48 HSV2: cached
+[2026-11-19 21:48:39] UL54 HSV1: cached
+[2026-11-19 21:48:39] UL48 HSV1: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL54 HSV2: cached
+[2026-11-19 21:48:39] UL48 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] UL54 HSV1: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] RL2 HSV1: discarding unreadable previous output
+[2026-11-19 21:48:39] UL54 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 0.0s
+[2026-11-19 21:48:39] RL2 HSV1: GARD start (n=187, 2325 nt)
+[2026-11-19 21:48:39] RL2 HSV2: discarding unreadable previous output
+[2026-11-19 21:48:39] RL2 HSV2: GARD start (n=75, 2421 nt)
+[2026-11-19 21:48:39] RS1 HSV1: discarding unreadable previous output
+[2026-11-19 21:48:39] RS1 HSV2: discarding unreadable previous output
+[2026-11-19 21:48:39] RS1 HSV1: GARD start (n=215, 3897 nt)
+[2026-11-19 21:48:39] RS1 HSV2: GARD start (n=57, 3948 nt)
+[2026-11-19 23:29:19] RL2 HSV2: 1 BREAKPOINT(S) (dAICc=1211.01), 2 partition(s) exported, 6039.7s
+[2026-11-19 23:29:19] UL46 HSV1: GARD start (n=136, 2151 nt)
+[2026-11-20 00:33:04] US8 HSV1: 1 BREAKPOINT(S) (dAICc=48.75), 2 partition(s) exported, 9864.8s
+[2026-11-20 00:33:04] UL46 HSV2: GARD start (n=116, 2163 nt)
+[2026-11-20 00:53:05] UL46 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 1201.6s
+[2026-11-20 00:53:05] UL47 HSV1: GARD start (n=127, 2079 nt)
+[2026-11-20 01:09:15] RL2 HSV1: 1 BREAKPOINT(S) (dAICc=1769.78), 2 partition(s) exported, 12036.4s
+[2026-11-20 01:09:15] UL47 HSV2: GARD start (n=100, 2088 nt)
+[2026-11-20 01:26:47] UL47 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 1051.8s
+[2026-11-20 01:26:47] UL49 HSV1: GARD start (n=81, 903 nt)
+[2026-11-20 01:34:12] UL49 HSV1: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 445.2s
+[2026-11-20 01:34:12] UL49 HSV2: GARD start (n=119, 906 nt)
+[2026-11-20 01:37:09] UL49 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 176.8s
+[2026-11-20 01:37:09] UL23 HSV1: GARD start (n=108, 1128 nt)
+[2026-11-20 01:51:17] UL23 HSV1: 1 BREAKPOINT(S) (dAICc=40.22), 2 partition(s) exported, 847.5s
+[2026-11-20 01:51:17] UL23 HSV2: GARD start (n=68, 1128 nt)
+[2026-11-20 01:55:44] UL23 HSV2: NO BREAKPOINT DETECTED (dAICc=0.0), 0 partition(s) exported, 267.6s
+[2026-11-20 01:55:44] UL30 HSV1: GARD start (n=167, 3705 nt)
+[2026-11-20 02:08:44] UL22 HSV1: 1 BREAKPOINT(S) (dAICc=48.76), 2 partition(s) exported, 15604.8s
+[2026-11-20 02:08:44] UL30 HSV2: GARD start (n=145, 3720 nt)
+[2026-11-20 02:26:46] UL47 HSV1: 1 BREAKPOINT(S) (dAICc=280.98), 2 partition(s) exported, 5620.8s
+[2026-11-20 02:36:16] UL46 HSV1: 1 BREAKPOINT(S) (dAICc=364.49), 2 partition(s) exported, 11217.0s
+[2026-11-20 04:11:29] RS1 HSV2: 1 BREAKPOINT(S) (dAICc=1649.47), 2 partition(s) exported, 22969.8s
+[2026-11-20 04:12:56] UL30 HSV2: 1 BREAKPOINT(S) (dAICc=192.38), 2 partition(s) exported, 7452.6s
+[2026-11-20 06:12:10] UL30 HSV1: 1 BREAKPOINT(S) (dAICc=773.74), 2 partition(s) exported, 15385.5s
+[2026-11-20 19:39:09] RS1 HSV1: FAILED after 78630.2s -- Check errors.log for execution error details.
+[2026-11-20 19:39:09] GARD complete: 39/40 runs available
+[2026-11-20 19:39:09] Note: no breakpoint detected is not evidence of clonality -- report n per cohort.

@@ -1,0 +1,64 @@
+[2026-11-19 00:24:31] ==============================================================================
+[2026-11-19 00:24:31] STEP 14: IEDB epitope download and curation
+[2026-11-19 00:24:31] Loaded 40 reference proteins for 20 priority genes
+[2026-11-19 00:24:43] taxon 10298: 1507 epitope records to fetch
+[2026-11-19 00:25:00]   fetched 500/1507
+[2026-11-19 00:25:19]   fetched 1000/1507
+[2026-11-19 00:25:42]   fetched 1500/1507
+[2026-11-19 00:26:00]   fetched 1507/1507
+[2026-11-19 00:26:01] HSV1: 1507 fetched -> 298 unique curated peptides (298 gene mappings), 1209 excluded
+[2026-11-19 00:26:01]     excluded 493: no positive assay
+[2026-11-19 00:26:01]     excluded 358: no exact match in a priority-gene reference protein
+[2026-11-19 00:26:01]     excluded 281: non-human host
+[2026-11-19 00:26:01]     excluded 52: no linear sequence
+[2026-11-19 00:26:01]     excluded 25: peptide shorter than 8 aa
+[2026-11-19 00:26:12] taxon 10310: 3299 epitope records to fetch
+[2026-11-19 00:26:31]   fetched 500/3299
+[2026-11-19 00:26:47]   fetched 1000/3299
+[2026-11-19 00:27:02]   fetched 1500/3299
+[2026-11-19 00:27:19]   fetched 2000/3299
+[2026-11-19 00:27:35]   fetched 2500/3299
+[2026-11-19 00:27:54]   fetched 3000/3299
+[2026-11-19 00:28:15]   fetched 3299/3299
+[2026-11-19 00:28:15] HSV2: 3299 fetched -> 317 unique curated peptides (390 gene mappings), 2909 excluded
+[2026-11-19 00:28:15]     excluded 2633: no positive assay
+[2026-11-19 00:28:15]     excluded 155: non-human host
+[2026-11-19 00:28:15]     excluded 84: no exact match in a priority-gene reference protein
+[2026-11-19 00:28:15]     excluded 21: no linear sequence
+[2026-11-19 00:28:15]     excluded 16: peptide shorter than 8 aa
+[2026-11-19 00:28:16] Curated epitopes per gene (unique peptides):
+[2026-11-19 00:28:16]     HSV1 RL2: 6 (T-cell 1, B-cell 0, MHC-ligand 5)
+[2026-11-19 00:28:16]     HSV1 RS1: 13 (T-cell 1, B-cell 1, MHC-ligand 11)
+[2026-11-19 00:28:16]     HSV1 UL1: 3 (T-cell 1, B-cell 0, MHC-ligand 2)
+[2026-11-19 00:28:16]     HSV1 UL10: 11 (T-cell 10, B-cell 1, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV1 UL22: 10 (T-cell 0, B-cell 0, MHC-ligand 10)
+[2026-11-19 00:28:16]     HSV1 UL23: 5 (T-cell 0, B-cell 0, MHC-ligand 5)
+[2026-11-19 00:28:16]     HSV1 UL27: 37 (T-cell 17, B-cell 15, MHC-ligand 5)
+[2026-11-19 00:28:16]     HSV1 UL30: 13 (T-cell 3, B-cell 0, MHC-ligand 10)
+[2026-11-19 00:28:16]     HSV1 UL44: 8 (T-cell 8, B-cell 0, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV1 UL46: 33 (T-cell 28, B-cell 0, MHC-ligand 5)
+[2026-11-19 00:28:16]     HSV1 UL47: 12 (T-cell 9, B-cell 0, MHC-ligand 3)
+[2026-11-19 00:28:16]     HSV1 UL48: 11 (T-cell 3, B-cell 0, MHC-ligand 8)
+[2026-11-19 00:28:16]     HSV1 UL49: 5 (T-cell 3, B-cell 0, MHC-ligand 2)
+[2026-11-19 00:28:16]     HSV1 UL49A: 2 (T-cell 0, B-cell 0, MHC-ligand 2)
+[2026-11-19 00:28:16]     HSV1 UL53: 9 (T-cell 0, B-cell 0, MHC-ligand 9)
+[2026-11-19 00:28:16]     HSV1 UL54: 5 (T-cell 1, B-cell 0, MHC-ligand 4)
+[2026-11-19 00:28:16]     HSV1 US4: 39 (T-cell 0, B-cell 37, MHC-ligand 2)
+[2026-11-19 00:28:16]     HSV1 US6: 59 (T-cell 47, B-cell 12, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV1 US7: 6 (T-cell 3, B-cell 1, MHC-ligand 2)
+[2026-11-19 00:28:16]     HSV1 US8: 11 (T-cell 0, B-cell 3, MHC-ligand 8)
+[2026-11-19 00:28:16]     HSV2 RL2: 20 (T-cell 19, B-cell 0, MHC-ligand 1)
+[2026-11-19 00:28:16]     HSV2 RS1: 13 (T-cell 13, B-cell 0, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV2 UL23: 2 (T-cell 2, B-cell 0, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV2 UL27: 25 (T-cell 14, B-cell 11, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV2 UL44: 9 (T-cell 1, B-cell 8, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV2 UL46: 6 (T-cell 6, B-cell 0, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV2 UL47: 8 (T-cell 8, B-cell 0, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV2 UL48: 21 (T-cell 16, B-cell 0, MHC-ligand 5)
+[2026-11-19 00:28:16]     HSV2 UL49: 19 (T-cell 16, B-cell 0, MHC-ligand 3)
+[2026-11-19 00:28:16]     HSV2 UL54: 9 (T-cell 9, B-cell 0, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV2 US4: 103 (T-cell 0, B-cell 103, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV2 US6: 54 (T-cell 48, B-cell 6, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV2 US7: 15 (T-cell 0, B-cell 15, MHC-ligand 0)
+[2026-11-19 00:28:16]     HSV2 US8: 13 (T-cell 1, B-cell 12, MHC-ligand 0)
+[2026-11-19 00:28:16] Note: excluded records are NOT negatives. Untested regions have no label.

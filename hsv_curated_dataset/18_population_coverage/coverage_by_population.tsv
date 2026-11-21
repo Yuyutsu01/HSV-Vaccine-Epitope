@@ -1,0 +1,718 @@
+epitope_set	population	coverage	average_hits	coverage_HLA-A	coverage_HLA-B	coverage_HLA-C	coverage_HLA-E	coverage_HLA-Cw	coverage_HLA-G
+all_predicted_binders	American Samoa	98.75	2150.66	97.44	51.0	0.0			
+all_predicted_binders	American Samoa Polynesian	98.75	2150.66	97.44	51.0	0.0			
+all_predicted_binders	Amerindian	100.0	3859.45	100.0	59.94	0.0	0.0		
+all_predicted_binders	Arab	98.59	2709.04	96.23	62.64	0.0			
+all_predicted_binders	Argentina	99.77	3424.48	99.67	30.41				
+all_predicted_binders	Argentina Amerindian	99.77	3424.48	99.67	30.41				
+all_predicted_binders	Asian	97.71	2334.75	93.72	63.53	0.0	0.0	0.0	0.0
+all_predicted_binders	Australia	95.68	2165.16	90.53	54.36	0.0			
+all_predicted_binders	Australia Australian Aborigines	87.76	1533.82	82.84	28.68	0.0			
+all_predicted_binders	Australia Caucasoid	99.94	3627.37	99.33	91.59	0.0			
+all_predicted_binders	Australian Aborigines	87.76	1533.82	82.84	28.68	0.0			
+all_predicted_binders	Austria	100.0	3967.18	100.0	84.0				
+all_predicted_binders	Austria Caucasoid	100.0	3967.18	100.0	84.0				
+all_predicted_binders	Austronesian	89.8	1644.46	80.68	47.18	0.0			
+all_predicted_binders	Belgium	99.39	2588.76	98.75	51.42				
+all_predicted_binders	Belgium Caucasoid	99.39	2588.76	98.75	51.42				
+all_predicted_binders	Black	96.32	2246.17	88.69	67.49	0.0	0.0	0.0	0.0
+all_predicted_binders	Brazil	99.27	3094.97	97.94	64.32	0.0			0.0
+all_predicted_binders	Brazil Amerindian	93.24	2566.95	92.87	5.13	0.0			
+all_predicted_binders	Brazil Caucasoid	99.32	3040.53	97.87	68.3				
+all_predicted_binders	Brazil Mixed	97.3	2779.75	92.56	63.76	0.0			0.0
+all_predicted_binders	Brazil Other	0.0	0.0						0.0
+all_predicted_binders	Bulgaria	99.8	3348.13	99.37	67.95	0.0			
+all_predicted_binders	Bulgaria Caucasoid	99.52	3336.4	98.63	64.95				
+all_predicted_binders	Bulgaria Other	99.58	2191.05	99.29	39.94	0.0			
+all_predicted_binders	Burkina Faso	67.18	1090.94	43.37	42.04	0.0			
+all_predicted_binders	Burkina Faso Black	67.18	1090.94	43.37	42.04	0.0			
+all_predicted_binders	Cameroon	93.57	1874.72	79.22	69.08	0.0			
+all_predicted_binders	Cameroon Black	93.57	1874.72	79.22	69.08	0.0			
+all_predicted_binders	Cape Verde	99.18	2691.31	96.0	79.48				
+all_predicted_binders	Cape Verde Black	99.18	2691.31	96.0	79.48				
+all_predicted_binders	Caucasoid	99.81	3557.6	98.88	83.3	0.0	0.0		0.0
+all_predicted_binders	Central Africa	92.97	1947.71	78.08	67.95	0.0			
+all_predicted_binders	Central African Republic	28.02	168.62	7.99	21.77	0.0			
+all_predicted_binders	Central African Republic Black	28.02	168.62	7.99	21.77	0.0			
+all_predicted_binders	Central America	7.76	49.83	3.57	4.35				
+all_predicted_binders	Chile	96.47	2349.32	92.4	53.57	0.0	0.0		
+all_predicted_binders	Chile Amerindian	99.63	2102.34	99.12	58.53	0.0	0.0		
+all_predicted_binders	Chile Mixed	90.09	2104.47	82.19	44.35	0.0			
+all_predicted_binders	China	99.15	2607.5	97.42	67.17	0.0			0.0
+all_predicted_binders	China Oriental	99.15	2607.5	97.42	67.17	0.0			0.0
+all_predicted_binders	Colombia	8.36	208.15	8.36			0.0		
+all_predicted_binders	Colombia Amerindian	0.0	0.0				0.0		
+all_predicted_binders	Colombia Black	3.65	89.53	3.65			0.0		
+all_predicted_binders	Colombia Mestizo	14.07	356.18	14.07			0.0		
+all_predicted_binders	Croatia	99.79	3545.06	99.17	75.1				
+all_predicted_binders	Croatia Caucasoid	99.79	3545.06	99.17	75.1				
+all_predicted_binders	Cuba	98.92	2747.97	95.68	75.07				
+all_predicted_binders	Cuba Caucasoid	99.05	2766.68	96.61	72.02				
+all_predicted_binders	Cuba Mulatto	98.75	2715.83	93.85	79.75				
+all_predicted_binders	Czech Republic	99.08	3395.23	95.55	79.39	0.0			
+all_predicted_binders	Czech Republic Caucasoid	99.08	3395.23	95.55	79.39	0.0			
+all_predicted_binders	Denmark	0.0	0.0						0.0
+all_predicted_binders	Denmark Caucasoid	0.0	0.0						0.0
+all_predicted_binders	East Africa	93.66	1988.3	85.91	55.0	0.0			0.0
+all_predicted_binders	East Asia	99.24	2862.09	97.44	70.23	0.0	0.0		0.0
+all_predicted_binders	Ecuador	96.24	1595.32	96.24					
+all_predicted_binders	Ecuador Amerindian	96.24	1595.32	96.24					
+all_predicted_binders	England	99.94	3794.3	99.24	91.47	0.0	0.0		
+all_predicted_binders	England Caucasoid	99.94	3794.3	99.24	91.47	0.0	0.0		
+all_predicted_binders	England Jew	0.0	0.0			0.0			
+all_predicted_binders	Equatorial Guinea	0.0	0.0			0.0			
+all_predicted_binders	Equatorial Guinea Black	0.0	0.0			0.0			
+all_predicted_binders	Europe	99.84	3563.89	99.11	81.89	0.0	0.0		0.0
+all_predicted_binders	Finland	99.99	4289.78	99.93	91.0	0.0			
+all_predicted_binders	Finland Caucasoid	99.99	4289.78	99.93	91.0	0.0			
+all_predicted_binders	France	99.8	3152.65	99.01	79.46	0.0			
+all_predicted_binders	France Caucasoid	99.8	3152.65	99.01	79.46	0.0			
+all_predicted_binders	Georgia	99.69	3221.02	98.85	73.18	0.0			
+all_predicted_binders	Georgia Caucasoid	99.73	3344.31	99.03	72.51	0.0			
+all_predicted_binders	Georgia Kurd	98.23	2073.5	95.42	61.44	0.0			
+all_predicted_binders	Germany	99.93	3816.52	99.41	88.08	0.0			0.0
+all_predicted_binders	Germany Caucasoid	99.93	3816.52	99.41	88.08	0.0			0.0
+all_predicted_binders	Ghana	0.0	0.0						0.0
+all_predicted_binders	Ghana Black	0.0	0.0						0.0
+all_predicted_binders	Guatemala	7.76	49.83	3.57	4.35				
+all_predicted_binders	Guatemala Amerindian	7.76	49.83	3.57	4.35				
+all_predicted_binders	Guinea-Bissau	96.48	2117.2	87.16	72.54				
+all_predicted_binders	Guinea-Bissau Black	96.48	2117.2	87.16	72.54				
+all_predicted_binders	Hispanic	98.99	2904.5	97.28	62.98	0.0		0.0	
+all_predicted_binders	Hong Kong	96.08	1996.93	91.42	54.3				
+all_predicted_binders	Hong Kong Oriental	96.08	1996.93	91.42	54.3				
+all_predicted_binders	India	97.38	2273.45	92.89	63.17	0.0	0.0		0.0
+all_predicted_binders	India Asian	97.38	2273.45	92.89	63.17	0.0	0.0		0.0
+all_predicted_binders	Indonesia	87.08	1491.0	77.09	43.61				
+all_predicted_binders	Indonesia Austronesian	87.08	1491.0	77.09	43.61				
+all_predicted_binders	Iran	97.5	2613.42	92.6	66.24	0.0			0.0
+all_predicted_binders	Iran Persian	97.5	2613.42	92.6	66.24	0.0			0.0
+all_predicted_binders	Ireland Northern	99.96	3860.95	99.29	93.65	0.0			
+all_predicted_binders	Ireland Northern Caucasoid	99.96	3860.95	99.29	93.65	0.0			
+all_predicted_binders	Ireland South	99.93	3709.44	99.08	92.16	0.0			
+all_predicted_binders	Ireland South Caucasoid	99.93	3709.44	99.08	92.16	0.0			
+all_predicted_binders	Israel	94.52	1955.3	90.0	45.25	0.0			
+all_predicted_binders	Israel Arab	94.42	2229.31	88.44	51.7	0.0			
+all_predicted_binders	Israel Jew	93.76	1718.3	89.5	40.56	0.0			
+all_predicted_binders	Italy	99.1	3014.57	95.46	80.1	0.0			
+all_predicted_binders	Italy Caucasoid	99.1	3014.57	95.46	80.1	0.0			
+all_predicted_binders	Ivory Coast	67.85	694.44		67.85				
+all_predicted_binders	Ivory Coast Black	67.85	694.44		67.85				
+all_predicted_binders	Japan	99.6	2929.08	98.74	67.91	0.0	0.0		0.0
+all_predicted_binders	Japan Oriental	99.6	2929.08	98.74	67.91	0.0	0.0		0.0
+all_predicted_binders	Jew	93.76	1718.3	89.5	40.56	0.0			
+all_predicted_binders	Jordan	90.83	1755.66	86.16	33.74	0.0			
+all_predicted_binders	Jordan Arab	90.83	1755.66	86.16	33.74	0.0			
+all_predicted_binders	Kenya	91.34	1839.1	82.26	51.2	0.0			
+all_predicted_binders	Kenya Black	91.34	1839.1	82.26	51.2	0.0			
+all_predicted_binders	Korea; South	98.4	2790.7	94.0	73.41	0.0	0.0		0.0
+all_predicted_binders	Korea; South Oriental	98.4	2790.7	94.0	73.41	0.0	0.0		0.0
+all_predicted_binders	Kurd	98.23	2073.5	95.42	61.44	0.0			
+all_predicted_binders	Lebanon	0.0	0.0			0.0			
+all_predicted_binders	Lebanon Mixed	0.0	0.0			0.0			
+all_predicted_binders	Macedonia	26.72	263.79	22.91	4.94	0.0			
+all_predicted_binders	Macedonia Caucasoid	26.72	263.79	22.91	4.94	0.0			
+all_predicted_binders	Malaysia	88.33	2057.44	76.54	50.27				
+all_predicted_binders	Malaysia Austronesian	63.18	795.8	32.76	45.24				
+all_predicted_binders	Malaysia Oriental	92.41	2383.5	85.61	47.29				
+all_predicted_binders	Mali	96.02	2183.34	88.44	65.54	0.0			
+all_predicted_binders	Mali Black	96.02	2183.34	88.44	65.54	0.0			
+all_predicted_binders	Martinique	22.56	92.16	22.56					
+all_predicted_binders	Martinique Black	22.56	92.16	22.56					
+all_predicted_binders	Melanesian	98.27	1392.66	97.96	15.3	0.0			
+all_predicted_binders	Mestizo	99.1	2948.34	97.71	60.47	0.0	0.0		
+all_predicted_binders	Mexico	100.0	4027.56	100.0	59.94	0.0	0.0		
+all_predicted_binders	Mexico Amerindian	100.0	4101.65	100.0	58.37	0.0	0.0		
+all_predicted_binders	Mexico Mestizo	99.23	3198.36	98.34	53.75		0.0		
+all_predicted_binders	Mixed	97.37	2457.44	94.13	55.23	0.0			0.0
+all_predicted_binders	Mongolia	95.55	1807.28	95.55	0.0				
+all_predicted_binders	Mongolia Oriental	95.55	1807.28	95.55	0.0				
+all_predicted_binders	Morocco	98.7	2482.48	96.33	64.65	0.0			
+all_predicted_binders	Morocco Arab	99.34	2570.08	97.78	70.19	0.0			
+all_predicted_binders	Morocco Caucasoid	98.02	2417.4	95.03	60.18	0.0			
+all_predicted_binders	Mulatto	98.75	2715.83	93.85	79.75				
+all_predicted_binders	New Caledonia	98.2	1616.15	97.24	34.71	0.0			
+all_predicted_binders	New Caledonia Melanesian	98.2	1616.15	97.24	34.71	0.0			
+all_predicted_binders	North Africa	97.32	2357.78	93.52	58.68	0.0			
+all_predicted_binders	North America	99.59	3259.06	98.39	74.68	0.0	0.0		0.0
+all_predicted_binders	Northeast Asia	98.77	2494.41	96.49	64.87	0.0			0.0
+all_predicted_binders	Oceania	98.36	1904.65	97.06	44.39	0.0			
+all_predicted_binders	Oman	99.69	3120.48	98.77	74.6				
+all_predicted_binders	Oman Arab	99.69	3120.48	98.77	74.6				
+all_predicted_binders	Oriental	98.48	2438.3	95.96	62.39	0.0	0.0		0.0
+all_predicted_binders	Other	99.93	3215.42	99.71	77.14	0.0			0.0
+all_predicted_binders	Pakistan	97.86	1755.87	97.86	0.0	0.0			
+all_predicted_binders	Pakistan Asian	97.63	1796.31	97.63	0.0	0.0			
+all_predicted_binders	Pakistan Mixed	98.25	1670.15	98.25	0.0	0.0			
+all_predicted_binders	Papua New Guinea	98.38	1370.2	98.14	12.69	0.0			
+all_predicted_binders	Papua New Guinea Melanesian	98.38	1370.2	98.14	12.69	0.0			
+all_predicted_binders	Persian	97.5	2613.42	92.6	66.24	0.0			0.0
+all_predicted_binders	Peru	99.99	3872.64	99.99	31.94	0.0			
+all_predicted_binders	Peru Amerindian	99.99	3872.64	99.99	31.94				
+all_predicted_binders	Peru Mestizo	0.0	0.0			0.0			
+all_predicted_binders	Philippines	94.98	2302.7	92.71	31.11	0.0			
+all_predicted_binders	Philippines Austronesian	94.98	2302.7	92.71	31.11	0.0			
+all_predicted_binders	Poland	99.78	3466.14	98.97	78.42	0.0			0.0
+all_predicted_binders	Poland Caucasoid	99.78	3466.14	98.97	78.42	0.0			0.0
+all_predicted_binders	Polynesian	99.7	2909.81	98.56	79.4	0.0			
+all_predicted_binders	Portugal	99.52	3191.83	97.96	76.39	0.0			
+all_predicted_binders	Portugal Caucasoid	99.52	3191.83	97.96	76.39	0.0			
+all_predicted_binders	Romania	99.67	3125.38	98.86	71.59				
+all_predicted_binders	Romania Caucasoid	99.67	3125.38	98.86	71.59				
+all_predicted_binders	Russia	99.83	3086.61	99.4	70.85	0.0			
+all_predicted_binders	Russia Caucasoid	3.96	17.88		3.96	0.0			
+all_predicted_binders	Russia Mixed	5.05	22.89	0.0	5.05	0.0			
+all_predicted_binders	Russia Other	99.98	3200.89	99.96	63.88	0.0			
+all_predicted_binders	Russia Siberian	99.47	2956.8	98.01	73.27	0.0			
+all_predicted_binders	Rwanda	24.87	118.55	13.88	12.76	0.0			
+all_predicted_binders	Rwanda Black	24.87	118.55	13.88	12.76	0.0			
+all_predicted_binders	Sao Tome and Principe	97.02	2528.13	85.56	79.36				
+all_predicted_binders	Sao Tome and Principe Black	97.02	2528.13	85.56	79.36				
+all_predicted_binders	Saudi Arabia	98.36	2991.31	95.72	61.81	0.0			
+all_predicted_binders	Saudi Arabia Arab	98.36	2991.31	95.72	61.81	0.0			
+all_predicted_binders	Scotland	65.34	664.49	25.7	53.35	0.0			
+all_predicted_binders	Scotland Caucasoid	65.34	664.49	25.7	53.35	0.0			
+all_predicted_binders	Senegal	95.61	2022.95	88.91	60.44	0.0			
+all_predicted_binders	Senegal Black	95.61	2022.95	88.91	60.44	0.0			
+all_predicted_binders	Serbia	73.37	1045.89		73.37				
+all_predicted_binders	Serbia Caucasoid	73.37	1045.89		73.37				
+all_predicted_binders	Siberian	99.47	2956.8	98.01	73.27	0.0			
+all_predicted_binders	Singapore	94.31	1950.77	87.79	53.38	0.0			
+all_predicted_binders	Singapore Austronesian	92.04	1693.18	84.34	49.15	0.0			
+all_predicted_binders	Singapore Oriental	95.51	2101.81	89.91	55.5	0.0			
+all_predicted_binders	South Africa	97.11	1998.45	93.0	58.71	0.0			
+all_predicted_binders	South Africa Black	91.96	1645.23	82.36	54.44				
+all_predicted_binders	South Africa Other	97.61	1995.45	94.24	58.53	0.0			
+all_predicted_binders	South America	100.0	3434.5	100.0	56.37	0.0	0.0		0.0
+all_predicted_binders	South Asia	98.55	2401.54	96.06	63.17	0.0	0.0		0.0
+all_predicted_binders	Southeast Asia	96.57	2015.46	91.63	59.05	0.0	0.0		
+all_predicted_binders	Southwest Asia	97.57	2547.39	94.01	59.46	0.0			0.0
+all_predicted_binders	Spain	88.48	2413.54	65.78	66.35	0.0	0.0		0.0
+all_predicted_binders	Spain Caucasoid	88.48	2413.54	65.78	66.35	0.0	0.0		0.0
+all_predicted_binders	Sri Lanka	52.39	673.48	52.39					
+all_predicted_binders	Sri Lanka Asian	52.39	673.48	52.39					
+all_predicted_binders	Sudan	96.08	2356.28	91.68	52.95	0.0			
+all_predicted_binders	Sudan Arab	70.21	1217.94	66.58	10.85	0.0			
+all_predicted_binders	Sudan Black	2.19	21.8	0.0	2.19				
+all_predicted_binders	Sudan Mixed	96.01	2365.87	91.49	53.08	0.0			
+all_predicted_binders	Sweden	100.0	3965.68	99.99	89.79				
+all_predicted_binders	Sweden Caucasoid	100.0	3965.68	99.99	89.79				
+all_predicted_binders	Switzerland	0.0	0.0			0.0			
+all_predicted_binders	Switzerland Caucasoid	0.0	0.0			0.0			
+all_predicted_binders	Taiwan	97.96	2083.07	94.25	64.51	0.0			
+all_predicted_binders	Taiwan Oriental	97.96	2083.07	94.25	64.51	0.0			
+all_predicted_binders	Thailand	92.47	1841.6	81.24	59.86	0.0	0.0		
+all_predicted_binders	Thailand Oriental	92.47	1841.6	81.24	59.86	0.0	0.0		
+all_predicted_binders	Trinidad and Tobago	0.0	0.0			0.0			
+all_predicted_binders	Trinidad and Tobago Asian	0.0	0.0			0.0			
+all_predicted_binders	Tunisia	98.66	2430.88	97.51	45.92	0.0			
+all_predicted_binders	Tunisia Arab	98.66	2430.88	97.51	45.92	0.0			
+all_predicted_binders	Turkey	44.8	1259.81	44.8		0.0			
+all_predicted_binders	Turkey Caucasoid	44.8	1259.81	44.8		0.0			
+all_predicted_binders	Uganda	96.39	2332.63	89.35	66.08	0.0			
+all_predicted_binders	Uganda Black	96.39	2332.63	89.35	66.08	0.0			
+all_predicted_binders	United Arab Emirates	3.37	26.11		3.37				
+all_predicted_binders	United Arab Emirates Arab	3.37	26.11		3.37				
+all_predicted_binders	United Kingdom	0.0	0.0			0.0			
+all_predicted_binders	United Kingdom Caucasoid	0.0	0.0			0.0			
+all_predicted_binders	United States	99.59	3249.45	98.39	74.74	0.0	0.0	0.0	0.0
+all_predicted_binders	United States Amerindian	100.0	3742.4	100.0	63.47	0.0			
+all_predicted_binders	United States Asian	97.51	2329.88	93.16	63.58	0.0		0.0	
+all_predicted_binders	United States Black	97.2	2387.93	90.53	70.41	0.0	0.0	0.0	0.0
+all_predicted_binders	United States Caucasoid	99.83	3604.41	98.72	86.74	0.0			0.0
+all_predicted_binders	United States Hispanic	98.99	2904.5	97.28	62.98	0.0		0.0	
+all_predicted_binders	United States Mestizo	99.27	2964.37	98.12	61.31	0.0			
+all_predicted_binders	United States Polynesian	99.58	2830.77	98.49	72.12	0.0			
+all_predicted_binders	Venezuela	100.0	2995.61	100.0	25.35	0.0			
+all_predicted_binders	Venezuela Amerindian	99.99	2938.86	99.99	25.35	0.0			
+all_predicted_binders	Venezuela Caucasoid	11.45	60.14	11.45	0.0				
+all_predicted_binders	Venezuela Mestizo	9.75	50.76	9.75	0.0				
+all_predicted_binders	Vietnam	91.86	1648.73	84.48	47.58	0.0			
+all_predicted_binders	Vietnam Oriental	91.86	1648.73	84.48	47.58	0.0			
+all_predicted_binders	Wales	1.0	6.27	0.0	1.0				
+all_predicted_binders	Wales Caucasoid	1.0	6.27	0.0	1.0				
+all_predicted_binders	West Africa	97.81	2337.88	91.58	74.04	0.0			0.0
+all_predicted_binders	West Indies	99.09	2760.64	96.34	75.07	0.0			
+all_predicted_binders	World	99.71	3298.14	98.71	77.88	0.0	0.0		0.0
+all_predicted_binders	Zambia	98.14	2390.37	95.72	56.7	0.0			0.0
+all_predicted_binders	Zambia Black	98.14	2390.37	95.72	56.7	0.0			0.0
+all_predicted_binders	Zimbabwe	93.79	1847.5	87.04	52.11	0.0			0.0
+all_predicted_binders	Zimbabwe Black	93.79	1847.5	87.04	52.11	0.0			0.0
+shortlist_primary	American Samoa	98.75	1612.64	97.44	51.0	0.0			
+shortlist_primary	American Samoa Polynesian	98.75	1612.64	97.44	51.0	0.0			
+shortlist_primary	Amerindian	100.0	2840.11	100.0	59.94	0.0	0.0		
+shortlist_primary	Arab	98.59	1973.07	96.23	62.64	0.0			
+shortlist_primary	Argentina	99.77	2491.37	99.67	30.41				
+shortlist_primary	Argentina Amerindian	99.77	2491.37	99.67	30.41				
+shortlist_primary	Asian	97.71	1736.59	93.72	63.53	0.0	0.0	0.0	0.0
+shortlist_primary	Australia	95.68	1590.68	90.53	54.36	0.0			
+shortlist_primary	Australia Australian Aborigines	87.76	1138.66	82.84	28.68	0.0			
+shortlist_primary	Australia Caucasoid	99.94	2632.3	99.33	91.59	0.0			
+shortlist_primary	Australian Aborigines	87.76	1138.66	82.84	28.68	0.0			
+shortlist_primary	Austria	100.0	2866.95	100.0	84.0				
+shortlist_primary	Austria Caucasoid	100.0	2866.95	100.0	84.0				
+shortlist_primary	Austronesian	89.8	1233.36	80.68	47.18	0.0			
+shortlist_primary	Belgium	99.39	1905.53	98.75	51.42				
+shortlist_primary	Belgium Caucasoid	99.39	1905.53	98.75	51.42				
+shortlist_primary	Black	96.32	1643.71	88.69	67.49	0.0	0.0	0.0	0.0
+shortlist_primary	Brazil	99.27	2240.2	97.94	64.32	0.0			0.0
+shortlist_primary	Brazil Amerindian	93.24	1859.59	92.87	5.13	0.0			
+shortlist_primary	Brazil Caucasoid	99.32	2202.49	97.87	68.3				
+shortlist_primary	Brazil Mixed	97.3	2005.02	92.56	63.76	0.0			0.0
+shortlist_primary	Brazil Other	0.0	0.0						0.0
+shortlist_primary	Bulgaria	99.8	2420.92	99.37	67.95	0.0			
+shortlist_primary	Bulgaria Caucasoid	99.52	2406.34	98.63	64.95				
+shortlist_primary	Bulgaria Other	99.58	1639.21	99.29	39.94	0.0			
+shortlist_primary	Burkina Faso	67.18	803.55	43.37	42.04	0.0			
+shortlist_primary	Burkina Faso Black	67.18	803.55	43.37	42.04	0.0			
+shortlist_primary	Cameroon	93.57	1373.29	79.22	69.08	0.0			
+shortlist_primary	Cameroon Black	93.57	1373.29	79.22	69.08	0.0			
+shortlist_primary	Cape Verde	99.18	1985.81	96.0	79.48				
+shortlist_primary	Cape Verde Black	99.18	1985.81	96.0	79.48				
+shortlist_primary	Caucasoid	99.81	2569.64	98.88	83.3	0.0	0.0		0.0
+shortlist_primary	Central Africa	92.97	1419.73	78.08	67.95	0.0			
+shortlist_primary	Central African Republic	28.02	132.39	7.99	21.77	0.0			
+shortlist_primary	Central African Republic Black	28.02	132.39	7.99	21.77	0.0			
+shortlist_primary	Central America	7.76	38.47	3.57	4.35				
+shortlist_primary	Chile	96.47	1709.42	92.4	53.57	0.0	0.0		
+shortlist_primary	Chile Amerindian	99.63	1588.91	99.12	58.53	0.0	0.0		
+shortlist_primary	Chile Mixed	90.09	1517.23	82.19	44.35	0.0			
+shortlist_primary	China	99.15	1951.84	97.42	67.17	0.0			0.0
+shortlist_primary	China Oriental	99.15	1951.84	97.42	67.17	0.0			0.0
+shortlist_primary	Colombia	8.36	147.14	8.36			0.0		
+shortlist_primary	Colombia Amerindian	0.0	0.0				0.0		
+shortlist_primary	Colombia Black	3.65	63.31	3.65			0.0		
+shortlist_primary	Colombia Mestizo	14.07	251.74	14.07			0.0		
+shortlist_primary	Croatia	99.79	2560.98	99.17	75.1				
+shortlist_primary	Croatia Caucasoid	99.79	2560.98	99.17	75.1				
+shortlist_primary	Cuba	98.92	2008.23	95.68	75.07				
+shortlist_primary	Cuba Caucasoid	99.05	2020.33	96.61	72.02				
+shortlist_primary	Cuba Mulatto	98.75	1987.38	93.85	79.75				
+shortlist_primary	Czech Republic	99.08	2429.26	95.55	79.39	0.0			
+shortlist_primary	Czech Republic Caucasoid	99.08	2429.26	95.55	79.39	0.0			
+shortlist_primary	Denmark	0.0	0.0						0.0
+shortlist_primary	Denmark Caucasoid	0.0	0.0						0.0
+shortlist_primary	East Africa	93.66	1465.28	85.91	55.0	0.0			0.0
+shortlist_primary	East Asia	99.24	2122.93	97.44	70.23	0.0	0.0		0.0
+shortlist_primary	Ecuador	96.24	1222.47	96.24					
+shortlist_primary	Ecuador Amerindian	96.24	1222.47	96.24					
+shortlist_primary	England	99.94	2736.66	99.24	91.47	0.0	0.0		
+shortlist_primary	England Caucasoid	99.94	2736.66	99.24	91.47	0.0	0.0		
+shortlist_primary	England Jew	0.0	0.0			0.0			
+shortlist_primary	Equatorial Guinea	0.0	0.0			0.0			
+shortlist_primary	Equatorial Guinea Black	0.0	0.0			0.0			
+shortlist_primary	Europe	99.84	2573.5	99.11	81.89	0.0	0.0		0.0
+shortlist_primary	Finland	99.99	3083.99	99.93	91.0	0.0			
+shortlist_primary	Finland Caucasoid	99.99	3083.99	99.93	91.0	0.0			
+shortlist_primary	France	99.8	2309.98	99.01	79.46	0.0			
+shortlist_primary	France Caucasoid	99.8	2309.98	99.01	79.46	0.0			
+shortlist_primary	Georgia	99.69	2339.23	98.85	73.18	0.0			
+shortlist_primary	Georgia Caucasoid	99.73	2422.88	99.03	72.51	0.0			
+shortlist_primary	Georgia Kurd	98.23	1538.27	95.42	61.44	0.0			
+shortlist_primary	Germany	99.93	2753.41	99.41	88.08	0.0			0.0
+shortlist_primary	Germany Caucasoid	99.93	2753.41	99.41	88.08	0.0			0.0
+shortlist_primary	Ghana	0.0	0.0						0.0
+shortlist_primary	Ghana Black	0.0	0.0						0.0
+shortlist_primary	Guatemala	7.76	38.47	3.57	4.35				
+shortlist_primary	Guatemala Amerindian	7.76	38.47	3.57	4.35				
+shortlist_primary	Guinea-Bissau	96.48	1570.43	87.16	72.54				
+shortlist_primary	Guinea-Bissau Black	96.48	1570.43	87.16	72.54				
+shortlist_primary	Hispanic	98.99	2122.8	97.28	62.98	0.0		0.0	
+shortlist_primary	Hong Kong	96.08	1504.47	91.42	54.3				
+shortlist_primary	Hong Kong Oriental	96.08	1504.47	91.42	54.3				
+shortlist_primary	India	97.38	1695.58	92.89	63.17	0.0	0.0		0.0
+shortlist_primary	India Asian	97.38	1695.58	92.89	63.17	0.0	0.0		0.0
+shortlist_primary	Indonesia	87.08	1118.72	77.09	43.61				
+shortlist_primary	Indonesia Austronesian	87.08	1118.72	77.09	43.61				
+shortlist_primary	Iran	97.5	1907.13	92.6	66.24	0.0			0.0
+shortlist_primary	Iran Persian	97.5	1907.13	92.6	66.24	0.0			0.0
+shortlist_primary	Ireland Northern	99.96	2780.83	99.29	93.65	0.0			
+shortlist_primary	Ireland Northern Caucasoid	99.96	2780.83	99.29	93.65	0.0			
+shortlist_primary	Ireland South	99.93	2680.42	99.08	92.16	0.0			
+shortlist_primary	Ireland South Caucasoid	99.93	2680.42	99.08	92.16	0.0			
+shortlist_primary	Israel	94.52	1433.19	90.0	45.25	0.0			
+shortlist_primary	Israel Arab	94.42	1608.19	88.44	51.7	0.0			
+shortlist_primary	Israel Jew	93.76	1275.57	89.5	40.56	0.0			
+shortlist_primary	Italy	99.1	2184.55	95.46	80.1	0.0			
+shortlist_primary	Italy Caucasoid	99.1	2184.55	95.46	80.1	0.0			
+shortlist_primary	Ivory Coast	67.85	498.73		67.85				
+shortlist_primary	Ivory Coast Black	67.85	498.73		67.85				
+shortlist_primary	Japan	99.6	2170.95	98.74	67.91	0.0	0.0		0.0
+shortlist_primary	Japan Oriental	99.6	2170.95	98.74	67.91	0.0	0.0		0.0
+shortlist_primary	Jew	93.76	1275.57	89.5	40.56	0.0			
+shortlist_primary	Jordan	90.83	1286.3	86.16	33.74	0.0			
+shortlist_primary	Jordan Arab	90.83	1286.3	86.16	33.74	0.0			
+shortlist_primary	Kenya	91.34	1358.25	82.26	51.2	0.0			
+shortlist_primary	Kenya Black	91.34	1358.25	82.26	51.2	0.0			
+shortlist_primary	Korea; South	98.4	2062.6	94.0	73.41	0.0	0.0		0.0
+shortlist_primary	Korea; South Oriental	98.4	2062.6	94.0	73.41	0.0	0.0		0.0
+shortlist_primary	Kurd	98.23	1538.27	95.42	61.44	0.0			
+shortlist_primary	Lebanon	0.0	0.0			0.0			
+shortlist_primary	Lebanon Mixed	0.0	0.0			0.0			
+shortlist_primary	Macedonia	26.72	204.47	22.91	4.94	0.0			
+shortlist_primary	Macedonia Caucasoid	26.72	204.47	22.91	4.94	0.0			
+shortlist_primary	Malaysia	88.33	1494.93	76.54	50.27				
+shortlist_primary	Malaysia Austronesian	63.18	591.48	32.76	45.24				
+shortlist_primary	Malaysia Oriental	92.41	1727.76	85.61	47.29				
+shortlist_primary	Mali	96.02	1593.58	88.44	65.54	0.0			
+shortlist_primary	Mali Black	96.02	1593.58	88.44	65.54	0.0			
+shortlist_primary	Martinique	22.56	77.28	22.56					
+shortlist_primary	Martinique Black	22.56	77.28	22.56					
+shortlist_primary	Melanesian	98.27	1079.48	97.96	15.3	0.0			
+shortlist_primary	Mestizo	99.1	2162.98	97.71	60.47	0.0	0.0		
+shortlist_primary	Mexico	100.0	2951.4	100.0	59.94	0.0	0.0		
+shortlist_primary	Mexico Amerindian	100.0	3008.1	100.0	58.37	0.0	0.0		
+shortlist_primary	Mexico Mestizo	99.23	2334.23	98.34	53.75		0.0		
+shortlist_primary	Mixed	97.37	1796.79	94.13	55.23	0.0			0.0
+shortlist_primary	Mongolia	95.55	1347.66	95.55	0.0				
+shortlist_primary	Mongolia Oriental	95.55	1347.66	95.55	0.0				
+shortlist_primary	Morocco	98.7	1833.66	96.33	64.65	0.0			
+shortlist_primary	Morocco Arab	99.34	1908.77	97.78	70.19	0.0			
+shortlist_primary	Morocco Caucasoid	98.02	1777.86	95.03	60.18	0.0			
+shortlist_primary	Mulatto	98.75	1987.38	93.85	79.75				
+shortlist_primary	New Caledonia	98.2	1247.84	97.24	34.71	0.0			
+shortlist_primary	New Caledonia Melanesian	98.2	1247.84	97.24	34.71	0.0			
+shortlist_primary	North Africa	97.32	1734.37	93.52	58.68	0.0			
+shortlist_primary	North America	99.59	2370.7	98.39	74.68	0.0	0.0		0.0
+shortlist_primary	Northeast Asia	98.77	1869.27	96.49	64.87	0.0			0.0
+shortlist_primary	Oceania	98.36	1435.42	97.06	44.39	0.0			
+shortlist_primary	Oman	99.69	2278.52	98.77	74.6				
+shortlist_primary	Oman Arab	99.69	2278.52	98.77	74.6				
+shortlist_primary	Oriental	98.48	1829.13	95.96	62.39	0.0	0.0		0.0
+shortlist_primary	Other	99.93	2354.09	99.71	77.14	0.0			0.0
+shortlist_primary	Pakistan	97.86	1311.12	97.86	0.0	0.0			
+shortlist_primary	Pakistan Asian	97.63	1339.64	97.63	0.0	0.0			
+shortlist_primary	Pakistan Mixed	98.25	1250.44	98.25	0.0	0.0			
+shortlist_primary	Papua New Guinea	98.38	1062.46	98.14	12.69	0.0			
+shortlist_primary	Papua New Guinea Melanesian	98.38	1062.46	98.14	12.69	0.0			
+shortlist_primary	Persian	97.5	1907.13	92.6	66.24	0.0			0.0
+shortlist_primary	Peru	99.99	2802.74	99.99	31.94	0.0			
+shortlist_primary	Peru Amerindian	99.99	2802.74	99.99	31.94				
+shortlist_primary	Peru Mestizo	0.0	0.0			0.0			
+shortlist_primary	Philippines	94.98	1691.0	92.71	31.11	0.0			
+shortlist_primary	Philippines Austronesian	94.98	1691.0	92.71	31.11	0.0			
+shortlist_primary	Poland	99.78	2503.12	98.97	78.42	0.0			0.0
+shortlist_primary	Poland Caucasoid	99.78	2503.12	98.97	78.42	0.0			0.0
+shortlist_primary	Polynesian	99.7	2184.5	98.56	79.4	0.0			
+shortlist_primary	Portugal	99.52	2321.43	97.96	76.39	0.0			
+shortlist_primary	Portugal Caucasoid	99.52	2321.43	97.96	76.39	0.0			
+shortlist_primary	Romania	99.67	2275.41	98.86	71.59				
+shortlist_primary	Romania Caucasoid	99.67	2275.41	98.86	71.59				
+shortlist_primary	Russia	99.83	2266.42	99.4	70.85	0.0			
+shortlist_primary	Russia Caucasoid	3.96	13.36		3.96	0.0			
+shortlist_primary	Russia Mixed	5.05	17.1	0.0	5.05	0.0			
+shortlist_primary	Russia Other	99.98	2329.59	99.96	63.88	0.0			
+shortlist_primary	Russia Siberian	99.47	2177.76	98.01	73.27	0.0			
+shortlist_primary	Rwanda	24.87	95.11	13.88	12.76	0.0			
+shortlist_primary	Rwanda Black	24.87	95.11	13.88	12.76	0.0			
+shortlist_primary	Sao Tome and Principe	97.02	1834.38	85.56	79.36				
+shortlist_primary	Sao Tome and Principe Black	97.02	1834.38	85.56	79.36				
+shortlist_primary	Saudi Arabia	98.36	2147.75	95.72	61.81	0.0			
+shortlist_primary	Saudi Arabia Arab	98.36	2147.75	95.72	61.81	0.0			
+shortlist_primary	Scotland	65.34	512.83	25.7	53.35	0.0			
+shortlist_primary	Scotland Caucasoid	65.34	512.83	25.7	53.35	0.0			
+shortlist_primary	Senegal	95.61	1488.93	88.91	60.44	0.0			
+shortlist_primary	Senegal Black	95.61	1488.93	88.91	60.44	0.0			
+shortlist_primary	Serbia	73.37	747.48		73.37				
+shortlist_primary	Serbia Caucasoid	73.37	747.48		73.37				
+shortlist_primary	Siberian	99.47	2177.76	98.01	73.27	0.0			
+shortlist_primary	Singapore	94.31	1467.73	87.79	53.38	0.0			
+shortlist_primary	Singapore Austronesian	92.04	1278.96	84.34	49.15	0.0			
+shortlist_primary	Singapore Oriental	95.51	1577.98	89.91	55.5	0.0			
+shortlist_primary	South Africa	97.11	1492.24	93.0	58.71	0.0			
+shortlist_primary	South Africa Black	91.96	1226.29	82.36	54.44				
+shortlist_primary	South Africa Other	97.61	1499.1	94.24	58.53	0.0			
+shortlist_primary	South America	100.0	2521.5	100.0	56.37	0.0	0.0		0.0
+shortlist_primary	South Asia	98.55	1787.06	96.06	63.17	0.0	0.0		0.0
+shortlist_primary	Southeast Asia	96.57	1520.73	91.63	59.05	0.0	0.0		
+shortlist_primary	Southwest Asia	97.57	1853.0	94.01	59.46	0.0			0.0
+shortlist_primary	Spain	88.48	1733.92	65.78	66.35	0.0	0.0		0.0
+shortlist_primary	Spain Caucasoid	88.48	1733.92	65.78	66.35	0.0	0.0		0.0
+shortlist_primary	Sri Lanka	52.39	504.35	52.39					
+shortlist_primary	Sri Lanka Asian	52.39	504.35	52.39					
+shortlist_primary	Sudan	96.08	1733.27	91.68	52.95	0.0			
+shortlist_primary	Sudan Arab	70.21	911.23	66.58	10.85	0.0			
+shortlist_primary	Sudan Black	2.19	16.83	0.0	2.19				
+shortlist_primary	Sudan Mixed	96.01	1738.14	91.49	53.08	0.0			
+shortlist_primary	Sweden	100.0	2859.97	99.99	89.79				
+shortlist_primary	Sweden Caucasoid	100.0	2859.97	99.99	89.79				
+shortlist_primary	Switzerland	0.0	0.0			0.0			
+shortlist_primary	Switzerland Caucasoid	0.0	0.0			0.0			
+shortlist_primary	Taiwan	97.96	1576.24	94.25	64.51	0.0			
+shortlist_primary	Taiwan Oriental	97.96	1576.24	94.25	64.51	0.0			
+shortlist_primary	Thailand	92.47	1382.16	81.24	59.86	0.0	0.0		
+shortlist_primary	Thailand Oriental	92.47	1382.16	81.24	59.86	0.0	0.0		
+shortlist_primary	Trinidad and Tobago	0.0	0.0			0.0			
+shortlist_primary	Trinidad and Tobago Asian	0.0	0.0			0.0			
+shortlist_primary	Tunisia	98.66	1789.09	97.51	45.92	0.0			
+shortlist_primary	Tunisia Arab	98.66	1789.09	97.51	45.92	0.0			
+shortlist_primary	Turkey	44.8	889.73	44.8		0.0			
+shortlist_primary	Turkey Caucasoid	44.8	889.73	44.8		0.0			
+shortlist_primary	Uganda	96.39	1711.27	89.35	66.08	0.0			
+shortlist_primary	Uganda Black	96.39	1711.27	89.35	66.08	0.0			
+shortlist_primary	United Arab Emirates	3.37	20.97		3.37				
+shortlist_primary	United Arab Emirates Arab	3.37	20.97		3.37				
+shortlist_primary	United Kingdom	0.0	0.0			0.0			
+shortlist_primary	United Kingdom Caucasoid	0.0	0.0			0.0			
+shortlist_primary	United States	99.59	2363.6	98.39	74.74	0.0	0.0	0.0	0.0
+shortlist_primary	United States Amerindian	100.0	2751.14	100.0	63.47	0.0			
+shortlist_primary	United States Asian	97.51	1732.86	93.16	63.58	0.0		0.0	
+shortlist_primary	United States Black	97.2	1742.12	90.53	70.41	0.0	0.0	0.0	0.0
+shortlist_primary	United States Caucasoid	99.83	2605.83	98.72	86.74	0.0			0.0
+shortlist_primary	United States Hispanic	98.99	2122.8	97.28	62.98	0.0		0.0	
+shortlist_primary	United States Mestizo	99.27	2176.13	98.12	61.31	0.0			
+shortlist_primary	United States Polynesian	99.58	2129.72	98.49	72.12	0.0			
+shortlist_primary	Venezuela	100.0	2250.83	100.0	25.35	0.0			
+shortlist_primary	Venezuela Amerindian	99.99	2203.84	99.99	25.35	0.0			
+shortlist_primary	Venezuela Caucasoid	11.45	49.8	11.45	0.0				
+shortlist_primary	Venezuela Mestizo	9.75	42.04	9.75	0.0				
+shortlist_primary	Vietnam	91.86	1260.92	84.48	47.58	0.0			
+shortlist_primary	Vietnam Oriental	91.86	1260.92	84.48	47.58	0.0			
+shortlist_primary	Wales	1.0	4.95	0.0	1.0				
+shortlist_primary	Wales Caucasoid	1.0	4.95	0.0	1.0				
+shortlist_primary	West Africa	97.81	1727.13	91.58	74.04	0.0			0.0
+shortlist_primary	West Indies	99.09	2018.85	96.34	75.07	0.0			
+shortlist_primary	World	99.71	2399.78	98.71	77.88	0.0	0.0		0.0
+shortlist_primary	Zambia	98.14	1757.33	95.72	56.7	0.0			0.0
+shortlist_primary	Zambia Black	98.14	1757.33	95.72	56.7	0.0			0.0
+shortlist_primary	Zimbabwe	93.79	1366.5	87.04	52.11	0.0			0.0
+shortlist_primary	Zimbabwe Black	93.79	1366.5	87.04	52.11	0.0			0.0
+shortlist_cross_protective	American Samoa	98.75	450.48	97.44	51.0	0.0			
+shortlist_cross_protective	American Samoa Polynesian	98.75	450.48	97.44	51.0	0.0			
+shortlist_cross_protective	Amerindian	100.0	761.15	100.0	59.94	0.0	0.0		
+shortlist_cross_protective	Arab	98.59	520.24	96.23	62.64	0.0			
+shortlist_cross_protective	Argentina	99.77	654.18	99.67	30.41				
+shortlist_cross_protective	Argentina Amerindian	99.77	654.18	99.67	30.41				
+shortlist_cross_protective	Asian	97.71	474.8	93.72	63.53	0.0	0.0	0.0	0.0
+shortlist_cross_protective	Australia	95.68	433.36	90.53	54.36	0.0			
+shortlist_cross_protective	Australia Australian Aborigines	87.76	316.01	82.84	28.68	0.0			
+shortlist_cross_protective	Australia Caucasoid	99.94	699.14	99.33	91.59	0.0			
+shortlist_cross_protective	Australian Aborigines	87.76	316.01	82.84	28.68	0.0			
+shortlist_cross_protective	Austria	100.0	749.15	100.0	84.0				
+shortlist_cross_protective	Austria Caucasoid	100.0	749.15	100.0	84.0				
+shortlist_cross_protective	Austronesian	89.8	339.15	80.68	47.18	0.0			
+shortlist_cross_protective	Belgium	99.39	513.68	98.75	51.42				
+shortlist_cross_protective	Belgium Caucasoid	99.39	513.68	98.75	51.42				
+shortlist_cross_protective	Black	96.32	436.85	88.69	67.49	0.0	0.0	0.0	0.0
+shortlist_cross_protective	Brazil	99.27	591.23	97.94	64.32	0.0			0.0
+shortlist_cross_protective	Brazil Amerindian	93.24	492.89	92.87	5.13	0.0			
+shortlist_cross_protective	Brazil Caucasoid	99.32	582.26	97.87	68.3				
+shortlist_cross_protective	Brazil Mixed	97.3	523.8	92.56	63.76	0.0			0.0
+shortlist_cross_protective	Brazil Other	0.0	0.0						0.0
+shortlist_cross_protective	Bulgaria	99.8	629.33	99.37	67.95	0.0			
+shortlist_cross_protective	Bulgaria Caucasoid	99.52	623.73	98.63	64.95				
+shortlist_cross_protective	Bulgaria Other	99.58	442.79	99.29	39.94	0.0			
+shortlist_cross_protective	Burkina Faso	67.18	209.52	43.37	42.04	0.0			
+shortlist_cross_protective	Burkina Faso Black	67.18	209.52	43.37	42.04	0.0			
+shortlist_cross_protective	Cameroon	93.57	369.77	79.22	69.08	0.0			
+shortlist_cross_protective	Cameroon Black	93.57	369.77	79.22	69.08	0.0			
+shortlist_cross_protective	Cape Verde	99.18	539.03	96.0	79.48				
+shortlist_cross_protective	Cape Verde Black	99.18	539.03	96.0	79.48				
+shortlist_cross_protective	Caucasoid	99.81	677.75	98.88	83.3	0.0	0.0		0.0
+shortlist_cross_protective	Central Africa	92.97	377.91	78.08	67.95	0.0			
+shortlist_cross_protective	Central African Republic	28.02	37.24	7.99	21.77	0.0			
+shortlist_cross_protective	Central African Republic Black	28.02	37.24	7.99	21.77	0.0			
+shortlist_cross_protective	Central America	7.76	10.67	3.57	4.35				
+shortlist_cross_protective	Chile	96.47	457.93	92.4	53.57	0.0	0.0		
+shortlist_cross_protective	Chile Amerindian	99.63	453.09	99.12	58.53	0.0	0.0		
+shortlist_cross_protective	Chile Mixed	90.09	398.93	82.19	44.35	0.0			
+shortlist_cross_protective	China	99.15	544.29	97.42	67.17	0.0			0.0
+shortlist_cross_protective	China Oriental	99.15	544.29	97.42	67.17	0.0			0.0
+shortlist_cross_protective	Colombia	8.36	36.41	8.36			0.0		
+shortlist_cross_protective	Colombia Amerindian	0.0	0.0				0.0		
+shortlist_cross_protective	Colombia Black	3.65	15.67	3.65			0.0		
+shortlist_cross_protective	Colombia Mestizo	14.07	62.28	14.07			0.0		
+shortlist_cross_protective	Croatia	99.79	676.03	99.17	75.1				
+shortlist_cross_protective	Croatia Caucasoid	99.79	676.03	99.17	75.1				
+shortlist_cross_protective	Cuba	98.92	535.47	95.68	75.07				
+shortlist_cross_protective	Cuba Caucasoid	99.05	538.39	96.61	72.02				
+shortlist_cross_protective	Cuba Mulatto	98.75	530.42	93.85	79.75				
+shortlist_cross_protective	Czech Republic	99.08	630.35	95.55	79.39	0.0			
+shortlist_cross_protective	Czech Republic Caucasoid	99.08	630.35	95.55	79.39	0.0			
+shortlist_cross_protective	Denmark	0.0	0.0						0.0
+shortlist_cross_protective	Denmark Caucasoid	0.0	0.0						0.0
+shortlist_cross_protective	East Africa	93.66	387.38	85.91	55.0	0.0			0.0
+shortlist_cross_protective	East Asia	99.24	584.55	97.44	70.23	0.0	0.0		0.0
+shortlist_cross_protective	Ecuador	96.24	358.94	96.24					
+shortlist_cross_protective	Ecuador Amerindian	96.24	358.94	96.24					
+shortlist_cross_protective	England	99.94	718.49	99.24	91.47	0.0	0.0		
+shortlist_cross_protective	England Caucasoid	99.94	718.49	99.24	91.47	0.0	0.0		
+shortlist_cross_protective	England Jew	0.0	0.0			0.0			
+shortlist_cross_protective	Equatorial Guinea	0.0	0.0			0.0			
+shortlist_cross_protective	Equatorial Guinea Black	0.0	0.0			0.0			
+shortlist_cross_protective	Europe	99.84	678.36	99.11	81.89	0.0	0.0		0.0
+shortlist_cross_protective	Finland	99.99	819.71	99.93	91.0	0.0			
+shortlist_cross_protective	Finland Caucasoid	99.99	819.71	99.93	91.0	0.0			
+shortlist_cross_protective	France	99.8	618.15	99.01	79.46	0.0			
+shortlist_cross_protective	France Caucasoid	99.8	618.15	99.01	79.46	0.0			
+shortlist_cross_protective	Georgia	99.69	623.67	98.85	73.18	0.0			
+shortlist_cross_protective	Georgia Caucasoid	99.73	643.42	99.03	72.51	0.0			
+shortlist_cross_protective	Georgia Kurd	98.23	421.9	95.42	61.44	0.0			
+shortlist_cross_protective	Germany	99.93	726.83	99.41	88.08	0.0			0.0
+shortlist_cross_protective	Germany Caucasoid	99.93	726.83	99.41	88.08	0.0			0.0
+shortlist_cross_protective	Ghana	0.0	0.0						0.0
+shortlist_cross_protective	Ghana Black	0.0	0.0						0.0
+shortlist_cross_protective	Guatemala	7.76	10.67	3.57	4.35				
+shortlist_cross_protective	Guatemala Amerindian	7.76	10.67	3.57	4.35				
+shortlist_cross_protective	Guinea-Bissau	96.48	422.31	87.16	72.54				
+shortlist_cross_protective	Guinea-Bissau Black	96.48	422.31	87.16	72.54				
+shortlist_cross_protective	Hispanic	98.99	565.85	97.28	62.98	0.0		0.0	
+shortlist_cross_protective	Hong Kong	96.08	418.19	91.42	54.3				
+shortlist_cross_protective	Hong Kong Oriental	96.08	418.19	91.42	54.3				
+shortlist_cross_protective	India	97.38	464.15	92.89	63.17	0.0	0.0		0.0
+shortlist_cross_protective	India Asian	97.38	464.15	92.89	63.17	0.0	0.0		0.0
+shortlist_cross_protective	Indonesia	87.08	307.03	77.09	43.61				
+shortlist_cross_protective	Indonesia Austronesian	87.08	307.03	77.09	43.61				
+shortlist_cross_protective	Iran	97.5	502.87	92.6	66.24	0.0			0.0
+shortlist_cross_protective	Iran Persian	97.5	502.87	92.6	66.24	0.0			0.0
+shortlist_cross_protective	Ireland Northern	99.96	728.89	99.29	93.65	0.0			
+shortlist_cross_protective	Ireland Northern Caucasoid	99.96	728.89	99.29	93.65	0.0			
+shortlist_cross_protective	Ireland South	99.93	703.26	99.08	92.16	0.0			
+shortlist_cross_protective	Ireland South Caucasoid	99.93	703.26	99.08	92.16	0.0			
+shortlist_cross_protective	Israel	94.52	381.42	90.0	45.25	0.0			
+shortlist_cross_protective	Israel Arab	94.42	422.38	88.44	51.7	0.0			
+shortlist_cross_protective	Israel Jew	93.76	343.14	89.5	40.56	0.0			
+shortlist_cross_protective	Italy	99.1	573.07	95.46	80.1	0.0			
+shortlist_cross_protective	Italy Caucasoid	99.1	573.07	95.46	80.1	0.0			
+shortlist_cross_protective	Ivory Coast	67.85	126.42		67.85				
+shortlist_cross_protective	Ivory Coast Black	67.85	126.42		67.85				
+shortlist_cross_protective	Japan	99.6	598.27	98.74	67.91	0.0	0.0		0.0
+shortlist_cross_protective	Japan Oriental	99.6	598.27	98.74	67.91	0.0	0.0		0.0
+shortlist_cross_protective	Jew	93.76	343.14	89.5	40.56	0.0			
+shortlist_cross_protective	Jordan	90.83	339.9	86.16	33.74	0.0			
+shortlist_cross_protective	Jordan Arab	90.83	339.9	86.16	33.74	0.0			
+shortlist_cross_protective	Kenya	91.34	356.24	82.26	51.2	0.0			
+shortlist_cross_protective	Kenya Black	91.34	356.24	82.26	51.2	0.0			
+shortlist_cross_protective	Korea; South	98.4	562.1	94.0	73.41	0.0	0.0		0.0
+shortlist_cross_protective	Korea; South Oriental	98.4	562.1	94.0	73.41	0.0	0.0		0.0
+shortlist_cross_protective	Kurd	98.23	421.9	95.42	61.44	0.0			
+shortlist_cross_protective	Lebanon	0.0	0.0			0.0			
+shortlist_cross_protective	Lebanon Mixed	0.0	0.0			0.0			
+shortlist_cross_protective	Macedonia	26.72	57.66	22.91	4.94	0.0			
+shortlist_cross_protective	Macedonia Caucasoid	26.72	57.66	22.91	4.94	0.0			
+shortlist_cross_protective	Malaysia	88.33	390.55	76.54	50.27				
+shortlist_cross_protective	Malaysia Austronesian	63.18	157.52	32.76	45.24				
+shortlist_cross_protective	Malaysia Oriental	92.41	450.59	85.61	47.29				
+shortlist_cross_protective	Mali	96.02	422.01	88.44	65.54	0.0			
+shortlist_cross_protective	Mali Black	96.02	422.01	88.44	65.54	0.0			
+shortlist_cross_protective	Martinique	22.56	25.68	22.56					
+shortlist_cross_protective	Martinique Black	22.56	25.68	22.56					
+shortlist_cross_protective	Melanesian	98.27	325.34	97.96	15.3	0.0			
+shortlist_cross_protective	Mestizo	99.1	577.98	97.71	60.47	0.0	0.0		
+shortlist_cross_protective	Mexico	100.0	780.61	100.0	59.94	0.0	0.0		
+shortlist_cross_protective	Mexico Amerindian	100.0	795.59	100.0	58.37	0.0	0.0		
+shortlist_cross_protective	Mexico Mestizo	99.23	617.41	98.34	53.75		0.0		
+shortlist_cross_protective	Mixed	97.37	476.48	94.13	55.23	0.0			0.0
+shortlist_cross_protective	Mongolia	95.55	366.09	95.55	0.0				
+shortlist_cross_protective	Mongolia Oriental	95.55	366.09	95.55	0.0				
+shortlist_cross_protective	Morocco	98.7	489.82	96.33	64.65	0.0			
+shortlist_cross_protective	Morocco Arab	99.34	515.02	97.78	70.19	0.0			
+shortlist_cross_protective	Morocco Caucasoid	98.02	471.08	95.03	60.18	0.0			
+shortlist_cross_protective	Mulatto	98.75	530.42	93.85	79.75				
+shortlist_cross_protective	New Caledonia	98.2	373.14	97.24	34.71	0.0			
+shortlist_cross_protective	New Caledonia Melanesian	98.2	373.14	97.24	34.71	0.0			
+shortlist_cross_protective	North Africa	97.32	461.19	93.52	58.68	0.0			
+shortlist_cross_protective	North America	99.59	628.63	98.39	74.68	0.0	0.0		0.0
+shortlist_cross_protective	Northeast Asia	98.77	521.6	96.49	64.87	0.0			0.0
+shortlist_cross_protective	Oceania	98.36	407.72	97.06	44.39	0.0			
+shortlist_cross_protective	Oman	99.69	599.72	98.77	74.6				
+shortlist_cross_protective	Oman Arab	99.69	599.72	98.77	74.6				
+shortlist_cross_protective	Oriental	98.48	510.17	95.96	62.39	0.0	0.0		0.0
+shortlist_cross_protective	Other	99.93	631.68	99.71	77.14	0.0			0.0
+shortlist_cross_protective	Pakistan	97.86	360.73	97.86	0.0	0.0			
+shortlist_cross_protective	Pakistan Asian	97.63	367.37	97.63	0.0	0.0			
+shortlist_cross_protective	Pakistan Mixed	98.25	346.48	98.25	0.0	0.0			
+shortlist_cross_protective	Papua New Guinea	98.38	320.49	98.14	12.69	0.0			
+shortlist_cross_protective	Papua New Guinea Melanesian	98.38	320.49	98.14	12.69	0.0			
+shortlist_cross_protective	Persian	97.5	502.87	92.6	66.24	0.0			0.0
+shortlist_cross_protective	Peru	99.99	738.47	99.99	31.94	0.0			
+shortlist_cross_protective	Peru Amerindian	99.99	738.47	99.99	31.94				
+shortlist_cross_protective	Peru Mestizo	0.0	0.0			0.0			
+shortlist_cross_protective	Philippines	94.98	455.08	92.71	31.11	0.0			
+shortlist_cross_protective	Philippines Austronesian	94.98	455.08	92.71	31.11	0.0			
+shortlist_cross_protective	Poland	99.78	659.38	98.97	78.42	0.0			0.0
+shortlist_cross_protective	Poland Caucasoid	99.78	659.38	98.97	78.42	0.0			0.0
+shortlist_cross_protective	Polynesian	99.7	614.56	98.56	79.4	0.0			
+shortlist_cross_protective	Portugal	99.52	614.98	97.96	76.39	0.0			
+shortlist_cross_protective	Portugal Caucasoid	99.52	614.98	97.96	76.39	0.0			
+shortlist_cross_protective	Romania	99.67	604.05	98.86	71.59				
+shortlist_cross_protective	Romania Caucasoid	99.67	604.05	98.86	71.59				
+shortlist_cross_protective	Russia	99.83	610.34	99.4	70.85	0.0			
+shortlist_cross_protective	Russia Caucasoid	3.96	4.04		3.96	0.0			
+shortlist_cross_protective	Russia Mixed	5.05	5.17	0.0	5.05	0.0			
+shortlist_cross_protective	Russia Other	99.98	627.02	99.96	63.88	0.0			
+shortlist_cross_protective	Russia Siberian	99.47	586.86	98.01	73.27	0.0			
+shortlist_cross_protective	Rwanda	24.87	28.5	13.88	12.76	0.0			
+shortlist_cross_protective	Rwanda Black	24.87	28.5	13.88	12.76	0.0			
+shortlist_cross_protective	Sao Tome and Principe	97.02	475.77	85.56	79.36				
+shortlist_cross_protective	Sao Tome and Principe Black	97.02	475.77	85.56	79.36				
+shortlist_cross_protective	Saudi Arabia	98.36	554.26	95.72	61.81	0.0			
+shortlist_cross_protective	Saudi Arabia Arab	98.36	554.26	95.72	61.81	0.0			
+shortlist_cross_protective	Scotland	65.34	148.21	25.7	53.35	0.0			
+shortlist_cross_protective	Scotland Caucasoid	65.34	148.21	25.7	53.35	0.0			
+shortlist_cross_protective	Senegal	95.61	403.62	88.91	60.44	0.0			
+shortlist_cross_protective	Senegal Black	95.61	403.62	88.91	60.44	0.0			
+shortlist_cross_protective	Serbia	73.37	192.91		73.37				
+shortlist_cross_protective	Serbia Caucasoid	73.37	192.91		73.37				
+shortlist_cross_protective	Siberian	99.47	586.86	98.01	73.27	0.0			
+shortlist_cross_protective	Singapore	94.31	405.87	87.79	53.38	0.0			
+shortlist_cross_protective	Singapore Austronesian	92.04	356.73	84.34	49.15	0.0			
+shortlist_cross_protective	Singapore Oriental	95.51	434.99	89.91	55.5	0.0			
+shortlist_cross_protective	South Africa	97.11	407.08	93.0	58.71	0.0			
+shortlist_cross_protective	South Africa Black	91.96	334.67	82.36	54.44				
+shortlist_cross_protective	South Africa Other	97.61	411.17	94.24	58.53	0.0			
+shortlist_cross_protective	South America	100.0	679.61	100.0	56.37	0.0	0.0		0.0
+shortlist_cross_protective	South Asia	98.55	487.32	96.06	63.17	0.0	0.0		0.0
+shortlist_cross_protective	Southeast Asia	96.57	425.63	91.63	59.05	0.0	0.0		
+shortlist_cross_protective	Southwest Asia	97.57	487.62	94.01	59.46	0.0			0.0
+shortlist_cross_protective	Spain	88.48	442.52	65.78	66.35	0.0	0.0		0.0
+shortlist_cross_protective	Spain Caucasoid	88.48	442.52	65.78	66.35	0.0	0.0		0.0
+shortlist_cross_protective	Sri Lanka	52.39	133.72	52.39					
+shortlist_cross_protective	Sri Lanka Asian	52.39	133.72	52.39					
+shortlist_cross_protective	Sudan	96.08	458.7	91.68	52.95	0.0			
+shortlist_cross_protective	Sudan Arab	70.21	250.58	66.58	10.85	0.0			
+shortlist_cross_protective	Sudan Black	2.19	4.22	0.0	2.19				
+shortlist_cross_protective	Sudan Mixed	96.01	458.73	91.49	53.08	0.0			
+shortlist_cross_protective	Sweden	100.0	772.02	99.99	89.79				
+shortlist_cross_protective	Sweden Caucasoid	100.0	772.02	99.99	89.79				
+shortlist_cross_protective	Switzerland	0.0	0.0			0.0			
+shortlist_cross_protective	Switzerland Caucasoid	0.0	0.0			0.0			
+shortlist_cross_protective	Taiwan	97.96	445.26	94.25	64.51	0.0			
+shortlist_cross_protective	Taiwan Oriental	97.96	445.26	94.25	64.51	0.0			
+shortlist_cross_protective	Thailand	92.47	379.74	81.24	59.86	0.0	0.0		
+shortlist_cross_protective	Thailand Oriental	92.47	379.74	81.24	59.86	0.0	0.0		
+shortlist_cross_protective	Trinidad and Tobago	0.0	0.0			0.0			
+shortlist_cross_protective	Trinidad and Tobago Asian	0.0	0.0			0.0			
+shortlist_cross_protective	Tunisia	98.66	475.46	97.51	45.92	0.0			
+shortlist_cross_protective	Tunisia Arab	98.66	475.46	97.51	45.92	0.0			
+shortlist_cross_protective	Turkey	44.8	219.99	44.8		0.0			
+shortlist_cross_protective	Turkey Caucasoid	44.8	219.99	44.8		0.0			
+shortlist_cross_protective	Uganda	96.39	453.52	89.35	66.08	0.0			
+shortlist_cross_protective	Uganda Black	96.39	453.52	89.35	66.08	0.0			
+shortlist_cross_protective	United Arab Emirates	3.37	7.17		3.37				
+shortlist_cross_protective	United Arab Emirates Arab	3.37	7.17		3.37				
+shortlist_cross_protective	United Kingdom	0.0	0.0			0.0			
+shortlist_cross_protective	United Kingdom Caucasoid	0.0	0.0			0.0			
+shortlist_cross_protective	United States	99.59	626.66	98.39	74.74	0.0	0.0	0.0	0.0
+shortlist_cross_protective	United States Amerindian	100.0	738.5	100.0	63.47	0.0			
+shortlist_cross_protective	United States Asian	97.51	473.91	93.16	63.58	0.0		0.0	
+shortlist_cross_protective	United States Black	97.2	462.29	90.53	70.41	0.0	0.0	0.0	0.0
+shortlist_cross_protective	United States Caucasoid	99.83	687.64	98.72	86.74	0.0			0.0
+shortlist_cross_protective	United States Hispanic	98.99	565.85	97.28	62.98	0.0		0.0	
+shortlist_cross_protective	United States Mestizo	99.27	581.65	98.12	61.31	0.0			
+shortlist_cross_protective	United States Polynesian	99.58	598.6	98.49	72.12	0.0			
+shortlist_cross_protective	Venezuela	100.0	612.7	100.0	25.35	0.0			
+shortlist_cross_protective	Venezuela Amerindian	99.99	597.8	99.99	25.35	0.0			
+shortlist_cross_protective	Venezuela Caucasoid	11.45	15.79	11.45	0.0				
+shortlist_cross_protective	Venezuela Mestizo	9.75	13.34	9.75	0.0				
+shortlist_cross_protective	Vietnam	91.86	355.0	84.48	47.58	0.0			
+shortlist_cross_protective	Vietnam Oriental	91.86	355.0	84.48	47.58	0.0			
+shortlist_cross_protective	Wales	1.0	1.29	0.0	1.0				
+shortlist_cross_protective	Wales Caucasoid	1.0	1.29	0.0	1.0				
+shortlist_cross_protective	West Africa	97.81	466.89	91.58	74.04	0.0			0.0
+shortlist_cross_protective	West Indies	99.09	539.0	96.34	75.07	0.0			
+shortlist_cross_protective	World	99.71	639.09	98.71	77.88	0.0	0.0		0.0
+shortlist_cross_protective	Zambia	98.14	471.64	95.72	56.7	0.0			0.0
+shortlist_cross_protective	Zambia Black	98.14	471.64	95.72	56.7	0.0			0.0
+shortlist_cross_protective	Zimbabwe	93.79	366.51	87.04	52.11	0.0			0.0
+shortlist_cross_protective	Zimbabwe Black	93.79	366.51	87.04	52.11	0.0			0.0
