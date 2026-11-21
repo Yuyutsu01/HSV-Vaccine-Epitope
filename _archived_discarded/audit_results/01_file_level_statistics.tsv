@@ -1,3 +1,0 @@
-File_Name	Virus_Type	Sequence_Count	Total_Residues	Min_Length	Median_Length	Mean_Length	Max_Length	Non_Standard_AA_Sequences	Non_Standard_AA_Pct	Exact_Duplicate_Sequences
-non_redundant.fasta	HSV-1	12170	7122516	1	417.0	585.25	3397	1814	14.91	0
-HSV2_non_redundant (2).fasta	HSV-2	10540	6347743	1	467.0	602.25	6165	5667	53.77	0
