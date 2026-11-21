@@ -593,3 +593,49 @@ files in `02_filtered_genomes/`, which had been described as "five FASTA files"
 without naming them or distinguishing `_filtered` from `_flagged` from
 `_filtered_tier2`. A passing audit that cannot fail is worse than no audit, and
 this one passed for a while before it could.
+
+---
+
+## Addendum — 2026-11-21, three Windows line-ending defects
+
+Recorded here because all three were silent: each returned success while doing
+the wrong thing, and none would have been noticed by reading output alone.
+
+### 1. Corrupted allele-frequency data
+
+`18_population_coverage/population_genotype_map.p` could not be loaded; `step23`
+aborted. Git's heuristic did not classify the pickle as binary, so LF became CRLF
+on checkout and 380,776 CRLF pairs were written into it — 4,000,753 bytes on disk
+against 3,619,977 committed, a difference of exactly the CRLF count. The `GLOBAL`
+opcode read `collections\r` / `OrderedDict\r`.
+
+Restored from the committed blob (SHA-256 verified identical) and confirmed by
+regeneration: every coverage number reproduces exactly as previously published.
+All 136 other binary files were checked and are intact. `.gitattributes` now pins
+the binary formats.
+
+### 2. Figure 4 was not reproducible
+
+`step27_figures.py` seeded its jitter with `hash((verdict, cohort))` under a
+comment reading "deterministic jitter". Python randomises string hashing per
+process (`PYTHONHASHSEED`), so the seed changed on every run and the figure's
+point positions moved each time it was regenerated — a reviewer regenerating
+Figure 4 would get a different picture. Now seeded from `zlib.crc32`; verified by
+running the script twice in separate processes and comparing SHA-256 of the PNG.
+
+### 3. Git's stdin, during the staged upload
+
+While splitting the initial push into size-bounded commits, `subprocess.run(...,
+text=True)` translated `\n` to `\r\n` on stdin, so every path handed to
+`git update-index --index-info` arrived with a trailing carriage return and
+matched nothing. Git printed `Ignoring path ...` to stderr and **returned exit
+code 0**, so the first attempt produced ten commits whose trees were byte-identical
+to the base. It was caught only by comparing the final tree SHA against the
+intended one. Fixed by passing raw bytes.
+
+**The common thread is that exit code 0 meant nothing in all three cases.** The
+same mistake appeared twice more in shell: `if git push ... | tail -4` tests
+`tail`'s status, not git's, and so reported a failed push as successful — once on
+the first push attempt and again in the staged-upload loop, which printed
+"push 5 OK" directly beneath push 5's own error. Check the artifact, not the
+status code.
