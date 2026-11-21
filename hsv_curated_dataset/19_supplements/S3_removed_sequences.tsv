@@ -1,0 +1,1330 @@
+level	identifier	gene	virus_type	stage	reason
+genome	PZ169718		HSV-1	genome filtering	Ambiguity > 1% N (2.08% N)
+genome	PZ169714		HSV-1	genome filtering	Ambiguity > 1% N (1.02% N)
+genome	PZ169708		HSV-1	genome filtering	Ambiguity > 1% N (1.29% N)
+genome	PZ169707		HSV-1	genome filtering	Ambiguity > 1% N (2.15% N)
+genome	PZ169704		HSV-1	genome filtering	Ambiguity > 1% N (1.38% N)
+genome	PZ169701		HSV-1	genome filtering	Ambiguity > 1% N (1.58% N)
+genome	PZ169700		HSV-1	genome filtering	Ambiguity > 1% N (1.58% N)
+genome	PZ169699		HSV-1	genome filtering	Ambiguity > 1% N (1.41% N)
+genome	PZ169697		HSV-1	genome filtering	Ambiguity > 1% N (2.11% N)
+genome	PZ169685		HSV-1	genome filtering	Ambiguity > 1% N (1.24% N)
+genome	PZ169680		HSV-1	genome filtering	Ambiguity > 1% N (1.19% N)
+genome	QS392184		HSV-1	genome filtering	Engineered, synthetic, oncolytic, or patent construct
+genome	QQ274048		HSV-1	genome filtering	Engineered, synthetic, oncolytic, or patent construct
+genome	PX969520		HSV-1	genome filtering	Laboratory passaged strain
+genome	PX712187		HSV-1	genome filtering	Ambiguity > 1% N (3.30% N)
+genome	OZ349004		HSV-1	genome filtering	Ambiguity > 1% N (2.44% N)
+genome	OZ348992		HSV-1	genome filtering	Ambiguity > 1% N (2.61% N)
+genome	OZ348988		HSV-1	genome filtering	Ambiguity > 1% N (2.60% N)
+genome	OZ348811		HSV-1	genome filtering	Ambiguity > 1% N (2.51% N)
+genome	OZ348666		HSV-1	genome filtering	Ambiguity > 1% N (2.61% N)
+genome	PP379034		HSV-1	genome filtering	Ambiguity > 1% N (3.20% N)
+genome	PQ569920		HSV-1	genome filtering	Laboratory passaged strain
+genome	OP431913		HSV-1	genome filtering	Ambiguity > 1% N (1.48% N)
+genome	OP431912		HSV-1	genome filtering	Length outside 140-160 kb (136366 bp)
+genome	OP431907		HSV-1	genome filtering	Length outside 140-160 kb (135585 bp)
+genome	OP431900		HSV-1	genome filtering	Ambiguity > 1% N (4.23% N)
+genome	OP431887		HSV-1	genome filtering	Ambiguity > 1% N (1.34% N)
+genome	OP431885		HSV-1	genome filtering	Ambiguity > 1% N (1.05% N)
+genome	OP431873		HSV-1	genome filtering	Ambiguity > 1% N (1.01% N)
+genome	OP431871		HSV-1	genome filtering	Ambiguity > 1% N (2.67% N)
+genome	OP431876		HSV-1	genome filtering	Ambiguity > 1% N (1.68% N)
+genome	OP431908		HSV-1	genome filtering	Ambiguity > 1% N (5.96% N)
+genome	OP431904		HSV-1	genome filtering	Ambiguity > 1% N (2.69% N)
+genome	OP431897		HSV-1	genome filtering	Length outside 140-160 kb (137474 bp)
+genome	OP431895		HSV-1	genome filtering	Ambiguity > 1% N (1.70% N)
+genome	OP431894		HSV-1	genome filtering	Ambiguity > 1% N (2.67% N)
+genome	OP431890		HSV-1	genome filtering	Ambiguity > 1% N (4.79% N)
+genome	OP431889		HSV-1	genome filtering	Ambiguity > 1% N (3.53% N)
+genome	OP431884		HSV-1	genome filtering	Length outside 140-160 kb (135693 bp)
+genome	OP431881		HSV-1	genome filtering	Ambiguity > 1% N (1.38% N)
+genome	OP431880		HSV-1	genome filtering	Ambiguity > 1% N (2.26% N)
+genome	OP431879		HSV-1	genome filtering	Ambiguity > 1% N (2.34% N)
+genome	OP431877		HSV-1	genome filtering	Ambiguity > 1% N (1.93% N)
+genome	OP431875		HSV-1	genome filtering	Ambiguity > 1% N (3.27% N)
+genome	OP431874		HSV-1	genome filtering	Ambiguity > 1% N (1.92% N)
+genome	OP431872		HSV-1	genome filtering	Ambiguity > 1% N (4.62% N)
+genome	PP680711		HSV-1	genome filtering	Laboratory passaged strain
+genome	OQ077661		HSV-1	genome filtering	Length outside 140-160 kb (163585 bp)
+genome	OR833064		HSV-1	genome filtering	Ambiguity > 1% N (1.19% N)
+genome	MH925774		HSV-1	genome filtering	Ambiguity > 1% N (3.88% N)
+genome	MH813994		HSV-1	genome filtering	Ambiguity > 1% N (10.31% N)
+genome	MH813993		HSV-1	genome filtering	Ambiguity > 1% N (1.74% N)
+genome	MH813992		HSV-1	genome filtering	Ambiguity > 1% N (2.65% N)
+genome	MH813991		HSV-1	genome filtering	Ambiguity > 1% N (6.32% N)
+genome	MH813990		HSV-1	genome filtering	Ambiguity > 1% N (5.71% N)
+genome	MH813989		HSV-1	genome filtering	Ambiguity > 1% N (5.70% N)
+genome	MH813988		HSV-1	genome filtering	Ambiguity > 1% N (3.58% N)
+genome	MH813987		HSV-1	genome filtering	Ambiguity > 1% N (1.72% N)
+genome	MH813986		HSV-1	genome filtering	Ambiguity > 1% N (2.27% N)
+genome	MH813985		HSV-1	genome filtering	Ambiguity > 1% N (3.67% N)
+genome	MH813984		HSV-1	genome filtering	Ambiguity > 1% N (2.56% N)
+genome	MH813983		HSV-1	genome filtering	Ambiguity > 1% N (9.66% N)
+genome	MH813982		HSV-1	genome filtering	Ambiguity > 1% N (1.52% N)
+genome	MH813981		HSV-1	genome filtering	Ambiguity > 1% N (10.56% N)
+genome	MG999887		HSV-1	genome filtering	Ambiguity > 1% N (1.60% N)
+genome	MG999861		HSV-1	genome filtering	Ambiguity > 1% N (2.73% N)
+genome	MH160391		HSV-1	genome filtering	Ambiguity > 1% N (2.86% N)
+genome	MH160390		HSV-1	genome filtering	Ambiguity > 1% N (3.23% N)
+genome	MH160389		HSV-1	genome filtering	Ambiguity > 1% N (3.38% N)
+genome	MH160388		HSV-1	genome filtering	Ambiguity > 1% N (4.18% N)
+genome	MH160387		HSV-1	genome filtering	Ambiguity > 1% N (8.47% N)
+genome	MH160386		HSV-1	genome filtering	Ambiguity > 1% N (1.35% N)
+genome	MH160385		HSV-1	genome filtering	Ambiguity > 1% N (2.53% N)
+genome	MH160384		HSV-1	genome filtering	Ambiguity > 1% N (2.81% N)
+genome	MH160383		HSV-1	genome filtering	Ambiguity > 1% N (3.30% N)
+genome	MH160382		HSV-1	genome filtering	Ambiguity > 1% N (4.11% N)
+genome	MH160381		HSV-1	genome filtering	Ambiguity > 1% N (2.27% N)
+genome	MH160380		HSV-1	genome filtering	Ambiguity > 1% N (3.54% N)
+genome	MH160378		HSV-1	genome filtering	Ambiguity > 1% N (7.02% N)
+genome	MH160377		HSV-1	genome filtering	Ambiguity > 1% N (4.54% N)
+genome	MH160376		HSV-1	genome filtering	Ambiguity > 1% N (2.76% N)
+genome	MH160375		HSV-1	genome filtering	Ambiguity > 1% N (4.03% N)
+genome	MH160374		HSV-1	genome filtering	Ambiguity > 1% N (5.28% N)
+genome	MH160373		HSV-1	genome filtering	Ambiguity > 1% N (4.08% N)
+genome	MH160372		HSV-1	genome filtering	Ambiguity > 1% N (3.67% N)
+genome	MH160371		HSV-1	genome filtering	Ambiguity > 1% N (4.51% N)
+genome	MH160370		HSV-1	genome filtering	Ambiguity > 1% N (4.81% N)
+genome	MH160369		HSV-1	genome filtering	Ambiguity > 1% N (2.77% N)
+genome	MH160368		HSV-1	genome filtering	Ambiguity > 1% N (5.27% N)
+genome	MH160367		HSV-1	genome filtering	Ambiguity > 1% N (3.59% N)
+genome	MH160366		HSV-1	genome filtering	Ambiguity > 1% N (7.15% N)
+genome	MH160365		HSV-1	genome filtering	Ambiguity > 1% N (4.20% N)
+genome	MH160364		HSV-1	genome filtering	Ambiguity > 1% N (4.04% N)
+genome	MH160363		HSV-1	genome filtering	Ambiguity > 1% N (5.47% N)
+genome	MH160362		HSV-1	genome filtering	Ambiguity > 1% N (2.36% N)
+genome	MH160361		HSV-1	genome filtering	Ambiguity > 1% N (5.96% N)
+genome	MH160360		HSV-1	genome filtering	Ambiguity > 1% N (2.36% N)
+genome	MH160359		HSV-1	genome filtering	Ambiguity > 1% N (4.69% N)
+genome	MH160358		HSV-1	genome filtering	Ambiguity > 1% N (4.12% N)
+genome	MN401208		HSV-1	genome filtering	Ambiguity > 1% N (3.65% N)
+genome	MN401207		HSV-1	genome filtering	Ambiguity > 1% N (6.42% N)
+genome	MN401206		HSV-1	genome filtering	Ambiguity > 1% N (5.43% N)
+genome	MN401205		HSV-1	genome filtering	Ambiguity > 1% N (3.29% N)
+genome	MN401204		HSV-1	genome filtering	Ambiguity > 1% N (2.65% N)
+genome	MN401203		HSV-1	genome filtering	Ambiguity > 1% N (6.99% N)
+genome	MN401202		HSV-1	genome filtering	Ambiguity > 1% N (7.90% N)
+genome	MN401201		HSV-1	genome filtering	Ambiguity > 1% N (6.32% N)
+genome	MG999899		HSV-1	genome filtering	Ambiguity > 1% N (7.43% N)
+genome	MG999898		HSV-1	genome filtering	Ambiguity > 1% N (7.07% N)
+genome	MG999897		HSV-1	genome filtering	Ambiguity > 1% N (1.26% N)
+genome	MG999896		HSV-1	genome filtering	Ambiguity > 1% N (3.03% N)
+genome	MG999895		HSV-1	genome filtering	Ambiguity > 1% N (5.27% N)
+genome	MG999894		HSV-1	genome filtering	Ambiguity > 1% N (1.67% N)
+genome	MG999893		HSV-1	genome filtering	Ambiguity > 1% N (3.00% N)
+genome	MG999892		HSV-1	genome filtering	Ambiguity > 1% N (2.99% N)
+genome	MG999891		HSV-1	genome filtering	Ambiguity > 1% N (3.93% N)
+genome	MG999890		HSV-1	genome filtering	Ambiguity > 1% N (7.06% N)
+genome	MG999888		HSV-1	genome filtering	Ambiguity > 1% N (3.07% N)
+genome	MG999886		HSV-1	genome filtering	Ambiguity > 1% N (1.77% N)
+genome	MG999885		HSV-1	genome filtering	Ambiguity > 1% N (4.43% N)
+genome	MG999884		HSV-1	genome filtering	Ambiguity > 1% N (1.20% N)
+genome	MG999883		HSV-1	genome filtering	Ambiguity > 1% N (2.01% N)
+genome	MG999882		HSV-1	genome filtering	Ambiguity > 1% N (4.32% N)
+genome	MG999881		HSV-1	genome filtering	Ambiguity > 1% N (4.24% N)
+genome	MG999880		HSV-1	genome filtering	Ambiguity > 1% N (2.60% N)
+genome	MG999879		HSV-1	genome filtering	Ambiguity > 1% N (5.43% N)
+genome	MG999878		HSV-1	genome filtering	Ambiguity > 1% N (4.29% N)
+genome	MG999877		HSV-1	genome filtering	Ambiguity > 1% N (4.77% N)
+genome	MG999876		HSV-1	genome filtering	Ambiguity > 1% N (3.88% N)
+genome	MG999875		HSV-1	genome filtering	Ambiguity > 1% N (1.95% N)
+genome	MG999874		HSV-1	genome filtering	Ambiguity > 1% N (10.12% N)
+genome	MG999873		HSV-1	genome filtering	Ambiguity > 1% N (8.45% N)
+genome	MG999872		HSV-1	genome filtering	Ambiguity > 1% N (11.68% N)
+genome	MG999871		HSV-1	genome filtering	Ambiguity > 1% N (5.02% N)
+genome	MG999870		HSV-1	genome filtering	Ambiguity > 1% N (1.36% N)
+genome	MG999869		HSV-1	genome filtering	Ambiguity > 1% N (2.53% N)
+genome	MG999868		HSV-1	genome filtering	Ambiguity > 1% N (2.23% N)
+genome	MG999867		HSV-1	genome filtering	Ambiguity > 1% N (2.17% N)
+genome	MG999866		HSV-1	genome filtering	Ambiguity > 1% N (2.19% N)
+genome	MG999865		HSV-1	genome filtering	Ambiguity > 1% N (4.56% N)
+genome	MG999864		HSV-1	genome filtering	Ambiguity > 1% N (5.33% N)
+genome	MG999863		HSV-1	genome filtering	Ambiguity > 1% N (4.56% N)
+genome	MG999862		HSV-1	genome filtering	Ambiguity > 1% N (2.12% N)
+genome	MG999860		HSV-1	genome filtering	Ambiguity > 1% N (6.79% N)
+genome	MG999859		HSV-1	genome filtering	Ambiguity > 1% N (2.16% N)
+genome	MG999858		HSV-1	genome filtering	Ambiguity > 1% N (2.64% N)
+genome	MG999857		HSV-1	genome filtering	Ambiguity > 1% N (2.94% N)
+genome	MG999856		HSV-1	genome filtering	Ambiguity > 1% N (9.77% N)
+genome	MG999855		HSV-1	genome filtering	Ambiguity > 1% N (2.97% N)
+genome	MG999854		HSV-1	genome filtering	Ambiguity > 1% N (3.93% N)
+genome	MG999853		HSV-1	genome filtering	Ambiguity > 1% N (1.73% N)
+genome	MG999852		HSV-1	genome filtering	Ambiguity > 1% N (1.22% N)
+genome	MG999851		HSV-1	genome filtering	Ambiguity > 1% N (1.42% N)
+genome	MG999850		HSV-1	genome filtering	Ambiguity > 1% N (5.43% N)
+genome	MG999849		HSV-1	genome filtering	Ambiguity > 1% N (1.88% N)
+genome	MG999848		HSV-1	genome filtering	Ambiguity > 1% N (3.60% N)
+genome	MG999847		HSV-1	genome filtering	Ambiguity > 1% N (3.60% N)
+genome	MG999846		HSV-1	genome filtering	Ambiguity > 1% N (2.52% N)
+genome	MG999845		HSV-1	genome filtering	Ambiguity > 1% N (9.11% N)
+genome	MG999844		HSV-1	genome filtering	Ambiguity > 1% N (1.73% N)
+genome	MG999843		HSV-1	genome filtering	Ambiguity > 1% N (1.84% N)
+genome	MG999841		HSV-1	genome filtering	Ambiguity > 1% N (1.64% N)
+genome	MG999840		HSV-1	genome filtering	Ambiguity > 1% N (11.17% N)
+genome	MG999839		HSV-1	genome filtering	Ambiguity > 1% N (2.14% N)
+genome	OQ724963		HSV-1	genome filtering	Ambiguity > 1% N (3.38% N)
+genome	OQ724962		HSV-1	genome filtering	Ambiguity > 1% N (4.67% N)
+genome	OQ724957		HSV-1	genome filtering	Ambiguity > 1% N (2.29% N)
+genome	OQ724956		HSV-1	genome filtering	Ambiguity > 1% N (1.86% N)
+genome	OQ724955		HSV-1	genome filtering	Ambiguity > 1% N (5.47% N)
+genome	OQ724954		HSV-1	genome filtering	Ambiguity > 1% N (5.31% N)
+genome	OQ724913		HSV-1	genome filtering	Length outside 140-160 kb (173400 bp)
+genome	OQ658624		HSV-1	genome filtering	Ambiguity > 1% N (1.31% N)
+genome	OP866822		HSV-1	genome filtering	Length outside 140-160 kb (1194 bp)
+genome	OP866820		HSV-1	genome filtering	Length outside 140-160 kb (1194 bp)
+genome	OP866819		HSV-1	genome filtering	Length outside 140-160 kb (1194 bp)
+genome	OP866818		HSV-1	genome filtering	Length outside 140-160 kb (1194 bp)
+genome	OP866817		HSV-1	genome filtering	Length outside 140-160 kb (1194 bp)
+genome	OP866816		HSV-1	genome filtering	Length outside 140-160 kb (1194 bp)
+genome	OP866815		HSV-1	genome filtering	Length outside 140-160 kb (1194 bp)
+genome	OP866813		HSV-1	genome filtering	Length outside 140-160 kb (1194 bp)
+genome	OP866811		HSV-1	genome filtering	Length outside 140-160 kb (1194 bp)
+genome	OP866810		HSV-1	genome filtering	Length outside 140-160 kb (1194 bp)
+genome	OP950682		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	OP950680		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	ON023028		HSV-1	genome filtering	Length outside 140-160 kb (132682 bp)
+genome	OP297883		HSV-1	genome filtering	Ambiguity > 1% N (1.13% N)
+genome	OP297878		HSV-1	genome filtering	Ambiguity > 1% N (1.81% N)
+genome	OP297876		HSV-1	genome filtering	Length outside 140-160 kb (135445 bp)
+genome	ON783216		HSV-1	genome filtering	Multiple submission of isolate B
+genome	ON783215		HSV-1	genome filtering	Multiple submission of isolate B
+genome	ON783214		HSV-1	genome filtering	Multiple submission of isolate B
+genome	ON960060		HSV-1	genome filtering	Ambiguity > 1% N (3.99% N)
+genome	ON960058		HSV-1	genome filtering	Ambiguity > 1% N (2.17% N)
+genome	ON960056		HSV-1	genome filtering	Ambiguity > 1% N (1.55% N)
+genome	ON007164		HSV-1	genome filtering	Ambiguity > 1% N (1.95% N)
+genome	ON007163		HSV-1	genome filtering	Ambiguity > 1% N (2.34% N)
+genome	ON007162		HSV-1	genome filtering	Ambiguity > 1% N (2.23% N)
+genome	ON007159		HSV-1	genome filtering	Length outside 140-160 kb (135563 bp)
+genome	ON007157		HSV-1	genome filtering	Ambiguity > 1% N (3.77% N)
+genome	ON007152		HSV-1	genome filtering	Length outside 140-160 kb (135651 bp)
+genome	ON007148		HSV-1	genome filtering	Ambiguity > 1% N (1.04% N)
+genome	ON007141		HSV-1	genome filtering	Length outside 140-160 kb (135661 bp)
+genome	ON007140		HSV-1	genome filtering	Ambiguity > 1% N (1.89% N)
+genome	ON007139		HSV-1	genome filtering	Ambiguity > 1% N (2.12% N)
+genome	ON007133		HSV-1	genome filtering	Ambiguity > 1% N (2.38% N)
+genome	ON007150		HSV-1	genome filtering	Length outside 140-160 kb (135291 bp)
+genome	ON007146		HSV-1	genome filtering	Length outside 140-160 kb (135353 bp)
+genome	ON007138		HSV-1	genome filtering	Length outside 140-160 kb (135522 bp)
+genome	ON007137		HSV-1	genome filtering	Length outside 140-160 kb (135496 bp)
+genome	OL514328		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	OL514326		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	OL514325		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	OL638991		HSV-1	genome filtering	Laboratory passaged strain
+genome	MT876428		HSV-1	genome filtering	Ambiguity > 1% N (3.89% N)
+genome	BK012101		HSV-1	genome filtering	Laboratory passaged strain
+genome	MK952184		HSV-1	genome filtering	Ambiguity > 1% N (4.31% N)
+genome	MK952183		HSV-1	genome filtering	Ambiguity > 1% N (1.14% N)
+genome	MN159383		HSV-1	genome filtering	Laboratory passaged strain
+genome	MN159376		HSV-1	genome filtering	Ambiguity > 1% N (2.97% N)
+genome	MN136524		HSV-1	genome filtering	Laboratory passaged strain
+genome	MN136523		HSV-1	genome filtering	Laboratory passaged strain
+genome	MH480513		HSV-1	genome filtering	Length outside 140-160 kb (138790 bp)
+genome	KX946970		HSV-1	genome filtering	Ambiguity > 1% N (4.38% N)
+genome	NC_001806		HSV-1	genome filtering	Laboratory passaged strain
+genome	MH160379		HSV-1	genome filtering	Ambiguity > 1% N (3.13% N)
+genome	MH102298		HSV-1	genome filtering	Ambiguity > 1% N (1.05% N)
+genome	MG708291		HSV-1	genome filtering	Ambiguity > 1% N (2.96% N)
+genome	MG708285		HSV-1	genome filtering	Ambiguity > 1% N (1.86% N)
+genome	MG999842		HSV-1	genome filtering	Ambiguity > 1% N (8.77% N)
+genome	LT594112		HSV-1	genome filtering	Ambiguity > 1% N (1.34% N)
+genome	LT594111		HSV-1	genome filtering	Ambiguity > 1% N (3.57% N)
+genome	LT594110		HSV-1	genome filtering	Ambiguity > 1% N (1.61% N)
+genome	LT594107		HSV-1	genome filtering	Ambiguity > 1% N (1.94% N)
+genome	KM222725		HSV-1	genome filtering	Ambiguity > 1% N (2.41% N)
+genome	KM222724		HSV-1	genome filtering	Laboratory passaged strain
+genome	KM222723		HSV-1	genome filtering	Laboratory passaged strain
+genome	KM222722		HSV-1	genome filtering	Laboratory passaged strain
+genome	KM222721		HSV-1	genome filtering	Ambiguity > 1% N (1.44% N)
+genome	AB618031		HSV-1	genome filtering	Ambiguity > 1% N (1.96% N)
+genome	FJ593289		HSV-1	genome filtering	Length outside 140-160 kb (165101 bp)
+genome	KU310661		HSV-1	genome filtering	Ambiguity > 1% N (11.24% N)
+genome	KU310660		HSV-1	genome filtering	Ambiguity > 1% N (8.69% N)
+genome	KU310659		HSV-1	genome filtering	Ambiguity > 1% N (10.64% N)
+genome	KU310658		HSV-1	genome filtering	Ambiguity > 1% N (8.42% N)
+genome	KU310657		HSV-1	genome filtering	Ambiguity > 1% N (8.38% N)
+genome	AH003715		HSV-1	genome filtering	Length outside 140-160 kb (51 bp)
+genome	LT608134		HSV-1	genome filtering	Ambiguity > 1% N (2.28% N)
+genome	LC114184		HSV-1	genome filtering	Length outside 140-160 kb (1131 bp)
+genome	LC114178		HSV-1	genome filtering	Length outside 140-160 kb (1131 bp)
+genome	LC114174		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	LC114173		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	LC114172		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	LC114171		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	LC114170		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	LC114169		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	LC114168		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	LC114167		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	LC114166		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	LC114165		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	KX265045		HSV-1	genome filtering	Ambiguity > 1% N (1.99% N)
+genome	KX265044		HSV-1	genome filtering	Ambiguity > 1% N (1.76% N)
+genome	KX265043		HSV-1	genome filtering	Ambiguity > 1% N (2.12% N)
+genome	KX265038		HSV-1	genome filtering	Ambiguity > 1% N (1.76% N)
+genome	KX265034		HSV-1	genome filtering	Ambiguity > 1% N (2.24% N)
+genome	KX265033		HSV-1	genome filtering	Ambiguity > 1% N (3.06% N)
+genome	KX265032		HSV-1	genome filtering	Ambiguity > 1% N (2.30% N)
+genome	KX265030		HSV-1	genome filtering	Ambiguity > 1% N (2.30% N)
+genome	KX265027		HSV-1	genome filtering	Ambiguity > 1% N (2.37% N)
+genome	KX265024		HSV-1	genome filtering	Ambiguity > 1% N (1.64% N)
+genome	KX265023		HSV-1	genome filtering	Ambiguity > 1% N (1.68% N)
+genome	KX265022		HSV-1	genome filtering	Ambiguity > 1% N (1.10% N)
+genome	LT576871		HSV-1	genome filtering	Length outside 140-160 kb (139698 bp)
+genome	LT576870		HSV-1	genome filtering	Laboratory passaged strain
+genome	LT576869		HSV-1	genome filtering	Laboratory passaged strain
+genome	LT576868		HSV-1	genome filtering	Length outside 140-160 kb (132541 bp)
+genome	LT576867		HSV-1	genome filtering	Laboratory passaged strain
+genome	LT576866		HSV-1	genome filtering	Ambiguity > 1% N (1.30% N)
+genome	JN555585		HSV-1	genome filtering	Laboratory passaged strain
+genome	KT780616		HSV-1	genome filtering	Ambiguity > 1% N (14.15% N)
+genome	JN420342		HSV-1	genome filtering	Ambiguity > 1% N (1.50% N)
+genome	KT887224		HSV-1	genome filtering	Laboratory passaged strain
+genome	KT899744		HSV-1	genome filtering	Exact sequence duplicate of QP771544
+genome	KT425110		HSV-1	genome filtering	Length outside 140-160 kb (136278 bp)
+genome	KT425109		HSV-1	genome filtering	Length outside 140-160 kb (135472 bp)
+genome	KT425108		HSV-1	genome filtering	Length outside 140-160 kb (135715 bp)
+genome	KT425107		HSV-1	genome filtering	Length outside 140-160 kb (135767 bp)
+genome	KR781518		HSV-1	genome filtering	Length outside 140-160 kb (525 bp)
+genome	KR052508		HSV-1	genome filtering	Ambiguity > 1% N (3.30% N)
+genome	KR011311		HSV-1	genome filtering	Ambiguity > 1% N (1.66% N)
+genome	KR011310		HSV-1	genome filtering	Ambiguity > 1% N (2.01% N)
+genome	KR011309		HSV-1	genome filtering	Ambiguity > 1% N (2.36% N)
+genome	KR011306		HSV-1	genome filtering	Ambiguity > 1% N (1.35% N)
+genome	KR011305		HSV-1	genome filtering	Ambiguity > 1% N (1.63% N)
+genome	KR011304		HSV-1	genome filtering	Ambiguity > 1% N (3.15% N)
+genome	KR011302		HSV-1	genome filtering	Ambiguity > 1% N (1.35% N)
+genome	KR011301		HSV-1	genome filtering	Ambiguity > 1% N (1.43% N)
+genome	KR011299		HSV-1	genome filtering	Ambiguity > 1% N (1.25% N)
+genome	KR011297		HSV-1	genome filtering	Ambiguity > 1% N (2.52% N)
+genome	KR011293		HSV-1	genome filtering	Ambiguity > 1% N (1.06% N)
+genome	KR011292		HSV-1	genome filtering	Ambiguity > 1% N (1.95% N)
+genome	KR011291		HSV-1	genome filtering	Ambiguity > 1% N (2.41% N)
+genome	KR011290		HSV-1	genome filtering	Ambiguity > 1% N (2.61% N)
+genome	KR011289		HSV-1	genome filtering	Ambiguity > 1% N (1.99% N)
+genome	KR011288		HSV-1	genome filtering	Ambiguity > 1% N (3.17% N)
+genome	KR011287		HSV-1	genome filtering	Ambiguity > 1% N (4.74% N)
+genome	KR011286		HSV-1	genome filtering	Ambiguity > 1% N (1.72% N)
+genome	KR011282		HSV-1	genome filtering	Ambiguity > 1% N (2.38% N)
+genome	KR011279		HSV-1	genome filtering	Ambiguity > 1% N (1.17% N)
+genome	KR011277		HSV-1	genome filtering	Ambiguity > 1% N (1.32% N)
+genome	KR011275		HSV-1	genome filtering	Ambiguity > 1% N (3.06% N)
+genome	KM222720		HSV-1	genome filtering	Ambiguity > 1% N (3.03% N)
+genome	HM585515		HSV-1	genome filtering	Ambiguity > 1% N (1.13% N)
+genome	HM585514		HSV-1	genome filtering	Ambiguity > 1% N (1.06% N)
+genome	HM585507		HSV-1	genome filtering	Ambiguity > 1% N (1.20% N)
+genome	HM585506		HSV-1	genome filtering	Ambiguity > 1% N (1.19% N)
+genome	HM585505		HSV-1	genome filtering	Ambiguity > 1% N (1.13% N)
+genome	HM585504		HSV-1	genome filtering	Ambiguity > 1% N (1.06% N)
+genome	HM585503		HSV-1	genome filtering	Ambiguity > 1% N (1.19% N)
+genome	HM585502		HSV-1	genome filtering	Ambiguity > 1% N (1.19% N)
+genome	HM585501		HSV-1	genome filtering	Ambiguity > 1% N (1.06% N)
+genome	HM585500		HSV-1	genome filtering	Ambiguity > 1% N (1.20% N)
+genome	HM585499		HSV-1	genome filtering	Ambiguity > 1% N (1.20% N)
+genome	HM585498		HSV-1	genome filtering	Ambiguity > 1% N (1.06% N)
+genome	HM585497		HSV-1	genome filtering	Ambiguity > 1% N (1.06% N)
+genome	HM585496		HSV-1	genome filtering	Ambiguity > 1% N (1.19% N)
+genome	JX392974		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JX392972		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JX392961		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JN415119		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JN415118		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	JN415117		HSV-1	genome filtering	Length outside 140-160 kb (1131 bp)
+genome	JQ730035		HSV-1	genome filtering	Exact sequence duplicate of QP771543
+genome	JX142173		HSV-1	genome filtering	Ambiguity > 1% N (2.35% N)
+genome	GU734771		HSV-1	genome filtering	Laboratory passaged strain
+genome	JQ673480		HSV-1	genome filtering	Exact sequence duplicate of QS368914
+genome	JQ352285		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	JQ352278		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JQ352277		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JQ352276		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	JQ352274		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JQ352272		HSV-1	genome filtering	Length outside 140-160 kb (1131 bp)
+genome	JQ352270		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	JQ352269		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	JQ352267		HSV-1	genome filtering	Length outside 140-160 kb (1131 bp)
+genome	JQ352266		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JQ352263		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JQ352258		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	JQ352257		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	JQ352256		HSV-1	genome filtering	Length outside 140-160 kb (1131 bp)
+genome	JQ780693		HSV-1	genome filtering	Laboratory passaged strain
+genome	JN420341		HSV-1	genome filtering	Ambiguity > 1% N (1.88% N)
+genome	JN420340		HSV-1	genome filtering	Ambiguity > 1% N (2.27% N)
+genome	JN420339		HSV-1	genome filtering	Ambiguity > 1% N (3.18% N)
+genome	JN420338		HSV-1	genome filtering	Ambiguity > 1% N (1.16% N)
+genome	JN420337		HSV-1	genome filtering	Ambiguity > 1% N (4.80% N)
+genome	JN400093		HSV-1	genome filtering	Ambiguity > 1% N (1.58% N)
+genome	EF157315		HSV-1	genome filtering	Length outside 140-160 kb (1535 bp)
+genome	EF157314		HSV-1	genome filtering	Length outside 140-160 kb (1535 bp)
+genome	DQ889502		HSV-1	genome filtering	Length outside 140-160 kb (131774 bp)
+genome	HQ123162		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	HQ123161		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	HQ123160		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	HQ123159		HSV-1	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	HQ123158		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	HQ123157		HSV-1	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	FV537009		HSV-1	genome filtering	Non-HSV contaminant based on ANI
+genome	FV537008		HSV-1	genome filtering	Non-HSV contaminant based on ANI
+genome	FV537007		HSV-1	genome filtering	Non-HSV contaminant based on ANI
+genome	FV537006		HSV-1	genome filtering	Non-HSV contaminant based on ANI
+genome	AF251159		HSV-1	genome filtering	Length outside 140-160 kb (824 bp)
+genome	MH790662		HSV-2	genome filtering	Ambiguity > 1% N (2.75% N)
+genome	PX259988		HSV-2	genome filtering	Ambiguity > 1% N (1.54% N)
+genome	PX259987		HSV-2	genome filtering	Ambiguity > 1% N (4.73% N)
+genome	PX259986		HSV-2	genome filtering	Ambiguity > 1% N (8.06% N)
+genome	PV798442		HSV-2	genome filtering	Ambiguity > 1% N (3.90% N)
+genome	PV798441		HSV-2	genome filtering	Multiple submission of isolate MCL-24-H-4740
+genome	PP100117		HSV-2	genome filtering	Ambiguity > 1% N (9.37% N)
+genome	PP100116		HSV-2	genome filtering	Ambiguity > 1% N (14.42% N)
+genome	PP100115		HSV-2	genome filtering	Ambiguity > 1% N (11.02% N)
+genome	PP100114		HSV-2	genome filtering	Ambiguity > 1% N (18.43% N)
+genome	PP100113		HSV-2	genome filtering	Ambiguity > 1% N (14.91% N)
+genome	PP100112		HSV-2	genome filtering	Ambiguity > 1% N (10.80% N)
+genome	PP100111		HSV-2	genome filtering	Ambiguity > 1% N (11.27% N)
+genome	PP100110		HSV-2	genome filtering	Ambiguity > 1% N (10.29% N)
+genome	PP100109		HSV-2	genome filtering	Ambiguity > 1% N (7.96% N)
+genome	PP100108		HSV-2	genome filtering	Ambiguity > 1% N (11.28% N)
+genome	PP100107		HSV-2	genome filtering	Ambiguity > 1% N (13.70% N)
+genome	PP100106		HSV-2	genome filtering	Ambiguity > 1% N (4.79% N)
+genome	PP100105		HSV-2	genome filtering	Ambiguity > 1% N (4.84% N)
+genome	PP100104		HSV-2	genome filtering	Ambiguity > 1% N (5.28% N)
+genome	PP100103		HSV-2	genome filtering	Ambiguity > 1% N (4.11% N)
+genome	PP100102		HSV-2	genome filtering	Ambiguity > 1% N (6.23% N)
+genome	PP100101		HSV-2	genome filtering	Ambiguity > 1% N (4.14% N)
+genome	PP100100		HSV-2	genome filtering	Ambiguity > 1% N (2.96% N)
+genome	PP100099		HSV-2	genome filtering	Ambiguity > 1% N (5.30% N)
+genome	PP100098		HSV-2	genome filtering	Ambiguity > 1% N (8.72% N)
+genome	PP100097		HSV-2	genome filtering	Ambiguity > 1% N (3.85% N)
+genome	PP100096		HSV-2	genome filtering	Ambiguity > 1% N (3.17% N)
+genome	PP100095		HSV-2	genome filtering	Ambiguity > 1% N (3.92% N)
+genome	PP100094		HSV-2	genome filtering	Ambiguity > 1% N (18.61% N)
+genome	PP100093		HSV-2	genome filtering	Ambiguity > 1% N (4.12% N)
+genome	PP100092		HSV-2	genome filtering	Ambiguity > 1% N (6.67% N)
+genome	PP100091		HSV-2	genome filtering	Ambiguity > 1% N (4.44% N)
+genome	PP100090		HSV-2	genome filtering	Ambiguity > 1% N (6.73% N)
+genome	PP100089		HSV-2	genome filtering	Ambiguity > 1% N (3.16% N)
+genome	PP100088		HSV-2	genome filtering	Ambiguity > 1% N (3.36% N)
+genome	PP100087		HSV-2	genome filtering	Ambiguity > 1% N (3.63% N)
+genome	PP100086		HSV-2	genome filtering	Ambiguity > 1% N (3.20% N)
+genome	PP100085		HSV-2	genome filtering	Ambiguity > 1% N (1.78% N)
+genome	PP100084		HSV-2	genome filtering	Ambiguity > 1% N (1.50% N)
+genome	PP100083		HSV-2	genome filtering	Ambiguity > 1% N (8.86% N)
+genome	PP100082		HSV-2	genome filtering	Ambiguity > 1% N (1.24% N)
+genome	PP100081		HSV-2	genome filtering	Ambiguity > 1% N (2.24% N)
+genome	PP100080		HSV-2	genome filtering	Ambiguity > 1% N (3.66% N)
+genome	PP100079		HSV-2	genome filtering	Ambiguity > 1% N (4.89% N)
+genome	PP100078		HSV-2	genome filtering	Ambiguity > 1% N (1.39% N)
+genome	PP100076		HSV-2	genome filtering	Ambiguity > 1% N (5.35% N)
+genome	PP100075		HSV-2	genome filtering	Ambiguity > 1% N (8.18% N)
+genome	PP100074		HSV-2	genome filtering	Ambiguity > 1% N (5.89% N)
+genome	PP100072		HSV-2	genome filtering	Ambiguity > 1% N (1.02% N)
+genome	PP100071		HSV-2	genome filtering	Ambiguity > 1% N (1.40% N)
+genome	PP100070		HSV-2	genome filtering	Ambiguity > 1% N (1.47% N)
+genome	PP100068		HSV-2	genome filtering	Ambiguity > 1% N (33.82% N)
+genome	PP100067		HSV-2	genome filtering	Ambiguity > 1% N (16.12% N)
+genome	PP100066		HSV-2	genome filtering	Ambiguity > 1% N (2.97% N)
+genome	PP100065		HSV-2	genome filtering	Ambiguity > 1% N (1.33% N)
+genome	PP100064		HSV-2	genome filtering	Ambiguity > 1% N (13.34% N)
+genome	PP100063		HSV-2	genome filtering	Ambiguity > 1% N (1.51% N)
+genome	PP100062		HSV-2	genome filtering	Ambiguity > 1% N (5.04% N)
+genome	PP100061		HSV-2	genome filtering	Ambiguity > 1% N (5.23% N)
+genome	PP100059		HSV-2	genome filtering	Ambiguity > 1% N (2.01% N)
+genome	PP100058		HSV-2	genome filtering	Ambiguity > 1% N (1.55% N)
+genome	PP100057		HSV-2	genome filtering	Ambiguity > 1% N (6.51% N)
+genome	PP100056		HSV-2	genome filtering	Ambiguity > 1% N (8.20% N)
+genome	PP100055		HSV-2	genome filtering	Ambiguity > 1% N (6.49% N)
+genome	PP100054		HSV-2	genome filtering	Ambiguity > 1% N (17.15% N)
+genome	PP100053		HSV-2	genome filtering	Ambiguity > 1% N (4.98% N)
+genome	PP100052		HSV-2	genome filtering	Ambiguity > 1% N (6.05% N)
+genome	PP100051		HSV-2	genome filtering	Ambiguity > 1% N (8.55% N)
+genome	PP100050		HSV-2	genome filtering	Ambiguity > 1% N (8.47% N)
+genome	PP100049		HSV-2	genome filtering	Ambiguity > 1% N (4.14% N)
+genome	PP100048		HSV-2	genome filtering	Ambiguity > 1% N (4.16% N)
+genome	PP100047		HSV-2	genome filtering	Ambiguity > 1% N (1.85% N)
+genome	PP100046		HSV-2	genome filtering	Ambiguity > 1% N (6.35% N)
+genome	PP100045		HSV-2	genome filtering	Ambiguity > 1% N (5.41% N)
+genome	PP100044		HSV-2	genome filtering	Ambiguity > 1% N (3.95% N)
+genome	PP100043		HSV-2	genome filtering	Ambiguity > 1% N (24.18% N)
+genome	PP100042		HSV-2	genome filtering	Ambiguity > 1% N (12.90% N)
+genome	PP100041		HSV-2	genome filtering	Ambiguity > 1% N (10.63% N)
+genome	PP100040		HSV-2	genome filtering	Ambiguity > 1% N (4.74% N)
+genome	PP100039		HSV-2	genome filtering	Ambiguity > 1% N (4.62% N)
+genome	PP100038		HSV-2	genome filtering	Ambiguity > 1% N (5.39% N)
+genome	PP100037		HSV-2	genome filtering	Ambiguity > 1% N (3.35% N)
+genome	PP100036		HSV-2	genome filtering	Ambiguity > 1% N (3.55% N)
+genome	PP100035		HSV-2	genome filtering	Ambiguity > 1% N (7.67% N)
+genome	PP100034		HSV-2	genome filtering	Ambiguity > 1% N (2.07% N)
+genome	PP100033		HSV-2	genome filtering	Ambiguity > 1% N (4.80% N)
+genome	PP100032		HSV-2	genome filtering	Ambiguity > 1% N (18.96% N)
+genome	PP100031		HSV-2	genome filtering	Ambiguity > 1% N (1.49% N)
+genome	PP100030		HSV-2	genome filtering	Ambiguity > 1% N (7.82% N)
+genome	PP100028		HSV-2	genome filtering	Ambiguity > 1% N (2.50% N)
+genome	PP100027		HSV-2	genome filtering	Ambiguity > 1% N (10.01% N)
+genome	PP100026		HSV-2	genome filtering	Ambiguity > 1% N (3.67% N)
+genome	PP100024		HSV-2	genome filtering	Ambiguity > 1% N (11.78% N)
+genome	PP100023		HSV-2	genome filtering	Ambiguity > 1% N (5.60% N)
+genome	PP100022		HSV-2	genome filtering	Ambiguity > 1% N (2.87% N)
+genome	PP100020		HSV-2	genome filtering	Ambiguity > 1% N (9.56% N)
+genome	PP100019		HSV-2	genome filtering	Ambiguity > 1% N (3.69% N)
+genome	PP100018		HSV-2	genome filtering	Ambiguity > 1% N (6.49% N)
+genome	PP100017		HSV-2	genome filtering	Ambiguity > 1% N (11.14% N)
+genome	PP100016		HSV-2	genome filtering	Ambiguity > 1% N (10.30% N)
+genome	PP100015		HSV-2	genome filtering	Ambiguity > 1% N (7.71% N)
+genome	PP100014		HSV-2	genome filtering	Ambiguity > 1% N (4.89% N)
+genome	PP100013		HSV-2	genome filtering	Ambiguity > 1% N (10.81% N)
+genome	PP100012		HSV-2	genome filtering	Ambiguity > 1% N (3.43% N)
+genome	PP100011		HSV-2	genome filtering	Ambiguity > 1% N (5.85% N)
+genome	PP100010		HSV-2	genome filtering	Ambiguity > 1% N (6.18% N)
+genome	PP100009		HSV-2	genome filtering	Ambiguity > 1% N (11.55% N)
+genome	PP100008		HSV-2	genome filtering	Ambiguity > 1% N (4.92% N)
+genome	PP100007		HSV-2	genome filtering	Ambiguity > 1% N (6.05% N)
+genome	PP100006		HSV-2	genome filtering	Ambiguity > 1% N (3.30% N)
+genome	PP100005		HSV-2	genome filtering	Ambiguity > 1% N (4.70% N)
+genome	PP100003		HSV-2	genome filtering	Ambiguity > 1% N (3.62% N)
+genome	PP100002		HSV-2	genome filtering	Ambiguity > 1% N (1.24% N)
+genome	PP100001		HSV-2	genome filtering	Ambiguity > 1% N (4.27% N)
+genome	PP099999		HSV-2	genome filtering	Ambiguity > 1% N (1.02% N)
+genome	PP099998		HSV-2	genome filtering	Ambiguity > 1% N (3.74% N)
+genome	PP099996		HSV-2	genome filtering	Ambiguity > 1% N (9.39% N)
+genome	PP099995		HSV-2	genome filtering	Ambiguity > 1% N (7.33% N)
+genome	PP099994		HSV-2	genome filtering	Ambiguity > 1% N (3.05% N)
+genome	PP099993		HSV-2	genome filtering	Ambiguity > 1% N (4.23% N)
+genome	PP099992		HSV-2	genome filtering	Ambiguity > 1% N (4.71% N)
+genome	PP099991		HSV-2	genome filtering	Ambiguity > 1% N (3.98% N)
+genome	PP099990		HSV-2	genome filtering	Ambiguity > 1% N (11.00% N)
+genome	PP099989		HSV-2	genome filtering	Ambiguity > 1% N (4.65% N)
+genome	PP099988		HSV-2	genome filtering	Ambiguity > 1% N (4.06% N)
+genome	PP099987		HSV-2	genome filtering	Ambiguity > 1% N (13.29% N)
+genome	PP099986		HSV-2	genome filtering	Ambiguity > 1% N (1.74% N)
+genome	PP099985		HSV-2	genome filtering	Ambiguity > 1% N (3.12% N)
+genome	PP099984		HSV-2	genome filtering	Ambiguity > 1% N (2.42% N)
+genome	PP099983		HSV-2	genome filtering	Ambiguity > 1% N (8.19% N)
+genome	PP099982		HSV-2	genome filtering	Ambiguity > 1% N (6.03% N)
+genome	PP099981		HSV-2	genome filtering	Ambiguity > 1% N (9.41% N)
+genome	PP099980		HSV-2	genome filtering	Ambiguity > 1% N (3.82% N)
+genome	PP099979		HSV-2	genome filtering	Ambiguity > 1% N (3.42% N)
+genome	PP099978		HSV-2	genome filtering	Ambiguity > 1% N (5.51% N)
+genome	PP099977		HSV-2	genome filtering	Ambiguity > 1% N (4.03% N)
+genome	PP099976		HSV-2	genome filtering	Ambiguity > 1% N (3.32% N)
+genome	PP099975		HSV-2	genome filtering	Ambiguity > 1% N (8.76% N)
+genome	PP099974		HSV-2	genome filtering	Ambiguity > 1% N (2.65% N)
+genome	PP386309		HSV-2	genome filtering	Ambiguity > 1% N (4.72% N)
+genome	MH790594		HSV-2	genome filtering	Ambiguity > 1% N (2.23% N)
+genome	MF621258		HSV-2	genome filtering	Ambiguity > 1% N (5.92% N)
+genome	MF621256		HSV-2	genome filtering	Ambiguity > 1% N (9.03% N)
+genome	MF621255		HSV-2	genome filtering	Ambiguity > 1% N (5.80% N)
+genome	MF621254		HSV-2	genome filtering	Ambiguity > 1% N (5.09% N)
+genome	MH899846		HSV-2	genome filtering	Ambiguity > 1% N (3.05% N)
+genome	MH790671		HSV-2	genome filtering	Ambiguity > 1% N (1.52% N)
+genome	MH790670		HSV-2	genome filtering	Ambiguity > 1% N (1.30% N)
+genome	MH790669		HSV-2	genome filtering	Ambiguity > 1% N (2.07% N)
+genome	MH790668		HSV-2	genome filtering	Ambiguity > 1% N (8.50% N)
+genome	MH790667		HSV-2	genome filtering	Ambiguity > 1% N (1.46% N)
+genome	MH790665		HSV-2	genome filtering	Ambiguity > 1% N (1.48% N)
+genome	MH790663		HSV-2	genome filtering	Ambiguity > 1% N (1.05% N)
+genome	MH790661		HSV-2	genome filtering	Ambiguity > 1% N (14.68% N)
+genome	MH790660		HSV-2	genome filtering	Ambiguity > 1% N (14.75% N)
+genome	MH790657		HSV-2	genome filtering	Ambiguity > 1% N (1.46% N)
+genome	MH790653		HSV-2	genome filtering	Ambiguity > 1% N (7.65% N)
+genome	MH790652		HSV-2	genome filtering	Ambiguity > 1% N (4.29% N)
+genome	MH790650		HSV-2	genome filtering	Ambiguity > 1% N (1.78% N)
+genome	MH790648		HSV-2	genome filtering	Ambiguity > 1% N (2.61% N)
+genome	MH790646		HSV-2	genome filtering	Ambiguity > 1% N (2.02% N)
+genome	MH790645		HSV-2	genome filtering	Ambiguity > 1% N (2.26% N)
+genome	MH790644		HSV-2	genome filtering	Ambiguity > 1% N (4.85% N)
+genome	MH790643		HSV-2	genome filtering	Ambiguity > 1% N (17.67% N)
+genome	MH790642		HSV-2	genome filtering	Ambiguity > 1% N (1.34% N)
+genome	MH790641		HSV-2	genome filtering	Ambiguity > 1% N (1.72% N)
+genome	MH790639		HSV-2	genome filtering	Ambiguity > 1% N (3.02% N)
+genome	MH790638		HSV-2	genome filtering	Ambiguity > 1% N (2.48% N)
+genome	MH790637		HSV-2	genome filtering	Ambiguity > 1% N (4.12% N)
+genome	MH790636		HSV-2	genome filtering	Ambiguity > 1% N (3.77% N)
+genome	MH790635		HSV-2	genome filtering	Ambiguity > 1% N (7.50% N)
+genome	MH790634		HSV-2	genome filtering	Ambiguity > 1% N (41.86% N)
+genome	MH790633		HSV-2	genome filtering	Ambiguity > 1% N (2.97% N)
+genome	MH790632		HSV-2	genome filtering	Ambiguity > 1% N (2.83% N)
+genome	MH790631		HSV-2	genome filtering	Ambiguity > 1% N (1.00% N)
+genome	MH790629		HSV-2	genome filtering	Ambiguity > 1% N (4.77% N)
+genome	MH790628		HSV-2	genome filtering	Ambiguity > 1% N (1.88% N)
+genome	MH790627		HSV-2	genome filtering	Ambiguity > 1% N (7.00% N)
+genome	MH790626		HSV-2	genome filtering	Ambiguity > 1% N (1.54% N)
+genome	MH790624		HSV-2	genome filtering	Ambiguity > 1% N (1.36% N)
+genome	MH790621		HSV-2	genome filtering	Ambiguity > 1% N (3.48% N)
+genome	MH790620		HSV-2	genome filtering	Ambiguity > 1% N (1.68% N)
+genome	MH790619		HSV-2	genome filtering	Ambiguity > 1% N (1.32% N)
+genome	MH790618		HSV-2	genome filtering	Ambiguity > 1% N (7.16% N)
+genome	MH790617		HSV-2	genome filtering	Ambiguity > 1% N (1.34% N)
+genome	MH790616		HSV-2	genome filtering	Ambiguity > 1% N (1.03% N)
+genome	MH790615		HSV-2	genome filtering	Ambiguity > 1% N (3.87% N)
+genome	MH790614		HSV-2	genome filtering	Ambiguity > 1% N (2.08% N)
+genome	MH790613		HSV-2	genome filtering	Ambiguity > 1% N (1.96% N)
+genome	MH790611		HSV-2	genome filtering	Ambiguity > 1% N (1.81% N)
+genome	MH790609		HSV-2	genome filtering	Ambiguity > 1% N (1.29% N)
+genome	MH790607		HSV-2	genome filtering	Ambiguity > 1% N (2.32% N)
+genome	MH790602		HSV-2	genome filtering	Ambiguity > 1% N (2.62% N)
+genome	MH790601		HSV-2	genome filtering	Ambiguity > 1% N (5.73% N)
+genome	MH790600		HSV-2	genome filtering	Ambiguity > 1% N (2.30% N)
+genome	MH790598		HSV-2	genome filtering	Ambiguity > 1% N (5.39% N)
+genome	MH790597		HSV-2	genome filtering	Ambiguity > 1% N (1.98% N)
+genome	MH790596		HSV-2	genome filtering	Ambiguity > 1% N (1.85% N)
+genome	MH790592		HSV-2	genome filtering	Ambiguity > 1% N (2.06% N)
+genome	MH790591		HSV-2	genome filtering	Ambiguity > 1% N (2.01% N)
+genome	MH790589		HSV-2	genome filtering	Ambiguity > 1% N (1.84% N)
+genome	MH790587		HSV-2	genome filtering	Ambiguity > 1% N (5.18% N)
+genome	MH790586		HSV-2	genome filtering	Ambiguity > 1% N (1.43% N)
+genome	MH790585		HSV-2	genome filtering	Ambiguity > 1% N (1.78% N)
+genome	MH790584		HSV-2	genome filtering	Ambiguity > 1% N (11.71% N)
+genome	MH790583		HSV-2	genome filtering	Ambiguity > 1% N (46.09% N)
+genome	MH790581		HSV-2	genome filtering	Ambiguity > 1% N (1.73% N)
+genome	MH790579		HSV-2	genome filtering	Ambiguity > 1% N (1.44% N)
+genome	MH790578		HSV-2	genome filtering	Ambiguity > 1% N (1.66% N)
+genome	MH790577		HSV-2	genome filtering	Ambiguity > 1% N (1.77% N)
+genome	MH790574		HSV-2	genome filtering	Ambiguity > 1% N (1.56% N)
+genome	MH790573		HSV-2	genome filtering	Ambiguity > 1% N (1.76% N)
+genome	MH790572		HSV-2	genome filtering	Ambiguity > 1% N (2.42% N)
+genome	MH790571		HSV-2	genome filtering	Ambiguity > 1% N (1.51% N)
+genome	MH790570		HSV-2	genome filtering	Ambiguity > 1% N (2.05% N)
+genome	MH790569		HSV-2	genome filtering	Ambiguity > 1% N (3.33% N)
+genome	MH790568		HSV-2	genome filtering	Ambiguity > 1% N (4.58% N)
+genome	MH790567		HSV-2	genome filtering	Ambiguity > 1% N (1.78% N)
+genome	MH790565		HSV-2	genome filtering	Ambiguity > 1% N (2.35% N)
+genome	MH790564		HSV-2	genome filtering	Ambiguity > 1% N (1.57% N)
+genome	MH790561		HSV-2	genome filtering	Ambiguity > 1% N (2.37% N)
+genome	MH790560		HSV-2	genome filtering	Ambiguity > 1% N (1.85% N)
+genome	MH790559		HSV-2	genome filtering	Ambiguity > 1% N (6.24% N)
+genome	MH790558		HSV-2	genome filtering	Ambiguity > 1% N (3.00% N)
+genome	MH790557		HSV-2	genome filtering	Ambiguity > 1% N (2.19% N)
+genome	MH790556		HSV-2	genome filtering	Ambiguity > 1% N (12.84% N)
+genome	MH790555		HSV-2	genome filtering	Ambiguity > 1% N (5.05% N)
+genome	MH790554		HSV-2	genome filtering	Ambiguity > 1% N (1.23% N)
+genome	MH790553		HSV-2	genome filtering	Ambiguity > 1% N (3.47% N)
+genome	MH790552		HSV-2	genome filtering	Ambiguity > 1% N (3.77% N)
+genome	MH790551		HSV-2	genome filtering	Ambiguity > 1% N (1.40% N)
+genome	MH790550		HSV-2	genome filtering	Ambiguity > 1% N (5.50% N)
+genome	MF621257		HSV-2	genome filtering	Ambiguity > 1% N (5.42% N)
+genome	MF510371		HSV-2	genome filtering	Ambiguity > 1% N (7.63% N)
+genome	MF510370		HSV-2	genome filtering	Ambiguity > 1% N (6.01% N)
+genome	MF510369		HSV-2	genome filtering	Ambiguity > 1% N (7.24% N)
+genome	MF510368		HSV-2	genome filtering	Ambiguity > 1% N (12.27% N)
+genome	MF510366		HSV-2	genome filtering	Ambiguity > 1% N (9.80% N)
+genome	MF510365		HSV-2	genome filtering	Ambiguity > 1% N (10.69% N)
+genome	MF510364		HSV-2	genome filtering	Ambiguity > 1% N (8.43% N)
+genome	MF510363		HSV-2	genome filtering	Ambiguity > 1% N (9.31% N)
+genome	MF510360		HSV-2	genome filtering	Ambiguity > 1% N (8.32% N)
+genome	MF510359		HSV-2	genome filtering	Ambiguity > 1% N (8.18% N)
+genome	MF510357		HSV-2	genome filtering	Ambiguity > 1% N (7.97% N)
+genome	MF510356		HSV-2	genome filtering	Ambiguity > 1% N (10.58% N)
+genome	MF510355		HSV-2	genome filtering	Ambiguity > 1% N (13.12% N)
+genome	MF510354		HSV-2	genome filtering	Ambiguity > 1% N (7.83% N)
+genome	MF510353		HSV-2	genome filtering	Ambiguity > 1% N (11.63% N)
+genome	MF510352		HSV-2	genome filtering	Ambiguity > 1% N (4.02% N)
+genome	MF510351		HSV-2	genome filtering	Ambiguity > 1% N (7.96% N)
+genome	MF510350		HSV-2	genome filtering	Ambiguity > 1% N (10.94% N)
+genome	MF510349		HSV-2	genome filtering	Ambiguity > 1% N (8.63% N)
+genome	MF510346		HSV-2	genome filtering	Ambiguity > 1% N (7.00% N)
+genome	MF510344		HSV-2	genome filtering	Ambiguity > 1% N (9.66% N)
+genome	MF510342		HSV-2	genome filtering	Ambiguity > 1% N (9.12% N)
+genome	MF510340		HSV-2	genome filtering	Ambiguity > 1% N (10.58% N)
+genome	MF510339		HSV-2	genome filtering	Ambiguity > 1% N (8.61% N)
+genome	MF510338		HSV-2	genome filtering	Ambiguity > 1% N (7.92% N)
+genome	MF510336		HSV-2	genome filtering	Ambiguity > 1% N (10.69% N)
+genome	MF510335		HSV-2	genome filtering	Ambiguity > 1% N (11.36% N)
+genome	MF510334		HSV-2	genome filtering	Ambiguity > 1% N (6.39% N)
+genome	MF510333		HSV-2	genome filtering	Ambiguity > 1% N (6.93% N)
+genome	MF510332		HSV-2	genome filtering	Ambiguity > 1% N (7.58% N)
+genome	MF510331		HSV-2	genome filtering	Ambiguity > 1% N (12.03% N)
+genome	MF510329		HSV-2	genome filtering	Ambiguity > 1% N (9.71% N)
+genome	MF510328		HSV-2	genome filtering	Ambiguity > 1% N (3.81% N)
+genome	MF510327		HSV-2	genome filtering	Ambiguity > 1% N (8.07% N)
+genome	MF510324		HSV-2	genome filtering	Ambiguity > 1% N (8.12% N)
+genome	MF510321		HSV-2	genome filtering	Ambiguity > 1% N (8.90% N)
+genome	MF510319		HSV-2	genome filtering	Ambiguity > 1% N (5.85% N)
+genome	MF510318		HSV-2	genome filtering	Ambiguity > 1% N (7.47% N)
+genome	MF510317		HSV-2	genome filtering	Ambiguity > 1% N (10.24% N)
+genome	MF510316		HSV-2	genome filtering	Ambiguity > 1% N (9.15% N)
+genome	MF510314		HSV-2	genome filtering	Ambiguity > 1% N (8.44% N)
+genome	MF510313		HSV-2	genome filtering	Ambiguity > 1% N (8.47% N)
+genome	MF510311		HSV-2	genome filtering	Ambiguity > 1% N (5.92% N)
+genome	MF510310		HSV-2	genome filtering	Ambiguity > 1% N (5.78% N)
+genome	MF510308		HSV-2	genome filtering	Ambiguity > 1% N (7.70% N)
+genome	MF510307		HSV-2	genome filtering	Ambiguity > 1% N (7.23% N)
+genome	MF510306		HSV-2	genome filtering	Ambiguity > 1% N (12.26% N)
+genome	MF510305		HSV-2	genome filtering	Ambiguity > 1% N (4.59% N)
+genome	MF510304		HSV-2	genome filtering	Ambiguity > 1% N (4.60% N)
+genome	MF510301		HSV-2	genome filtering	Ambiguity > 1% N (10.08% N)
+genome	MF510300		HSV-2	genome filtering	Ambiguity > 1% N (8.79% N)
+genome	MF510297		HSV-2	genome filtering	Ambiguity > 1% N (15.87% N)
+genome	MF510295		HSV-2	genome filtering	Ambiguity > 1% N (3.15% N)
+genome	MF510294		HSV-2	genome filtering	Ambiguity > 1% N (9.19% N)
+genome	MF510293		HSV-2	genome filtering	Ambiguity > 1% N (10.66% N)
+genome	MF510292		HSV-2	genome filtering	Ambiguity > 1% N (8.83% N)
+genome	MF510291		HSV-2	genome filtering	Ambiguity > 1% N (7.40% N)
+genome	MF510290		HSV-2	genome filtering	Ambiguity > 1% N (7.62% N)
+genome	MF510288		HSV-2	genome filtering	Ambiguity > 1% N (9.97% N)
+genome	MF510286		HSV-2	genome filtering	Ambiguity > 1% N (6.15% N)
+genome	MF510285		HSV-2	genome filtering	Ambiguity > 1% N (6.69% N)
+genome	MF510284		HSV-2	genome filtering	Ambiguity > 1% N (7.56% N)
+genome	MF510282		HSV-2	genome filtering	Ambiguity > 1% N (14.65% N)
+genome	MF510281		HSV-2	genome filtering	Ambiguity > 1% N (9.67% N)
+genome	MF510279		HSV-2	genome filtering	Ambiguity > 1% N (5.54% N)
+genome	MF510278		HSV-2	genome filtering	Ambiguity > 1% N (7.52% N)
+genome	MF510277		HSV-2	genome filtering	Ambiguity > 1% N (13.84% N)
+genome	MF510276		HSV-2	genome filtering	Ambiguity > 1% N (11.53% N)
+genome	MF510274		HSV-2	genome filtering	Ambiguity > 1% N (6.77% N)
+genome	MF510273		HSV-2	genome filtering	Ambiguity > 1% N (7.49% N)
+genome	MF510272		HSV-2	genome filtering	Ambiguity > 1% N (4.47% N)
+genome	MF510271		HSV-2	genome filtering	Ambiguity > 1% N (7.62% N)
+genome	MF510270		HSV-2	genome filtering	Ambiguity > 1% N (9.56% N)
+genome	MF510267		HSV-2	genome filtering	Ambiguity > 1% N (4.19% N)
+genome	MT919989		HSV-2	genome filtering	Length outside 140-160 kb (3415 bp)
+genome	MT461027		HSV-2	genome filtering	Ambiguity > 1% N (6.62% N)
+genome	MT461026		HSV-2	genome filtering	Ambiguity > 1% N (8.76% N)
+genome	MK855052		HSV-2	genome filtering	Laboratory passaged strain
+genome	MH697501		HSV-2	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	MH790666		HSV-2	genome filtering	Ambiguity > 1% N (5.19% N)
+genome	MH790664		HSV-2	genome filtering	Ambiguity > 1% N (5.03% N)
+genome	MH790659		HSV-2	genome filtering	Ambiguity > 1% N (3.69% N)
+genome	MH790658		HSV-2	genome filtering	Ambiguity > 1% N (3.19% N)
+genome	MH790656		HSV-2	genome filtering	Ambiguity > 1% N (2.53% N)
+genome	MH790649		HSV-2	genome filtering	Ambiguity > 1% N (1.18% N)
+genome	MH790640		HSV-2	genome filtering	Ambiguity > 1% N (4.15% N)
+genome	MH790625		HSV-2	genome filtering	Ambiguity > 1% N (3.12% N)
+genome	MH790623		HSV-2	genome filtering	Ambiguity > 1% N (1.50% N)
+genome	MH790612		HSV-2	genome filtering	Ambiguity > 1% N (1.68% N)
+genome	MH790610		HSV-2	genome filtering	Ambiguity > 1% N (2.13% N)
+genome	MH790608		HSV-2	genome filtering	Ambiguity > 1% N (5.34% N)
+genome	MH790604		HSV-2	genome filtering	Ambiguity > 1% N (5.67% N)
+genome	MH790603		HSV-2	genome filtering	Ambiguity > 1% N (10.56% N)
+genome	MH790595		HSV-2	genome filtering	Ambiguity > 1% N (2.18% N)
+genome	MH790593		HSV-2	genome filtering	Ambiguity > 1% N (10.82% N)
+genome	MH790590		HSV-2	genome filtering	Ambiguity > 1% N (6.32% N)
+genome	MH790588		HSV-2	genome filtering	Ambiguity > 1% N (1.35% N)
+genome	MH790582		HSV-2	genome filtering	Ambiguity > 1% N (3.53% N)
+genome	MH790576		HSV-2	genome filtering	Ambiguity > 1% N (3.94% N)
+genome	MH790566		HSV-2	genome filtering	Ambiguity > 1% N (5.10% N)
+genome	MK106004		HSV-2	genome filtering	Length outside 140-160 kb (139261 bp)
+genome	MK106003		HSV-2	genome filtering	Length outside 140-160 kb (137833 bp)
+genome	MK106002		HSV-2	genome filtering	Length outside 140-160 kb (139484 bp)
+genome	MK106000		HSV-2	genome filtering	Length outside 140-160 kb (137938 bp)
+genome	MK105999		HSV-2	genome filtering	Length outside 140-160 kb (139349 bp)
+genome	MK105998		HSV-2	genome filtering	Length outside 140-160 kb (138540 bp)
+genome	MK105997		HSV-2	genome filtering	Length outside 140-160 kb (138461 bp)
+genome	MK105996		HSV-2	genome filtering	Length outside 140-160 kb (138634 bp)
+genome	MK105995		HSV-2	genome filtering	Length outside 140-160 kb (139626 bp)
+genome	LT799380		HSV-2	genome filtering	Length outside 140-160 kb (138917 bp)
+genome	LT797786		HSV-2	genome filtering	Length outside 140-160 kb (138939 bp)
+genome	LT797682		HSV-2	genome filtering	Length outside 140-160 kb (138881 bp)
+genome	LT797636		HSV-2	genome filtering	Length outside 140-160 kb (138913 bp)
+genome	LT797635		HSV-2	genome filtering	Length outside 140-160 kb (138769 bp)
+genome	LT797634		HSV-2	genome filtering	Length outside 140-160 kb (138854 bp)
+genome	LT797633		HSV-2	genome filtering	Length outside 140-160 kb (138986 bp)
+genome	LT797632		HSV-2	genome filtering	Length outside 140-160 kb (138844 bp)
+genome	LT797631		HSV-2	genome filtering	Length outside 140-160 kb (138962 bp)
+genome	LT797630		HSV-2	genome filtering	Length outside 140-160 kb (138836 bp)
+genome	LT797629		HSV-2	genome filtering	Length outside 140-160 kb (138972 bp)
+genome	LT797628		HSV-2	genome filtering	Length outside 140-160 kb (138775 bp)
+genome	LT797627		HSV-2	genome filtering	Length outside 140-160 kb (138912 bp)
+genome	LT797626		HSV-2	genome filtering	Length outside 140-160 kb (138969 bp)
+genome	LT797625		HSV-2	genome filtering	Length outside 140-160 kb (138944 bp)
+genome	LT797624		HSV-2	genome filtering	Length outside 140-160 kb (138927 bp)
+genome	LT797623		HSV-2	genome filtering	Length outside 140-160 kb (138873 bp)
+genome	LT797622		HSV-2	genome filtering	Length outside 140-160 kb (138923 bp)
+genome	LS480640		HSV-2	genome filtering	Laboratory passaged strain
+genome	MF510367		HSV-2	genome filtering	Ambiguity > 1% N (10.02% N)
+genome	MF510362		HSV-2	genome filtering	Ambiguity > 1% N (9.34% N)
+genome	MF510361		HSV-2	genome filtering	Ambiguity > 1% N (9.51% N)
+genome	MF510358		HSV-2	genome filtering	Ambiguity > 1% N (8.40% N)
+genome	MF510348		HSV-2	genome filtering	Ambiguity > 1% N (8.43% N)
+genome	MF510347		HSV-2	genome filtering	Ambiguity > 1% N (7.39% N)
+genome	MF510345		HSV-2	genome filtering	Ambiguity > 1% N (10.62% N)
+genome	MF510343		HSV-2	genome filtering	Ambiguity > 1% N (7.71% N)
+genome	MF510341		HSV-2	genome filtering	Ambiguity > 1% N (9.20% N)
+genome	MF510337		HSV-2	genome filtering	Ambiguity > 1% N (8.59% N)
+genome	MF510330		HSV-2	genome filtering	Ambiguity > 1% N (5.84% N)
+genome	MF510326		HSV-2	genome filtering	Ambiguity > 1% N (8.95% N)
+genome	MF510325		HSV-2	genome filtering	Ambiguity > 1% N (9.73% N)
+genome	MF510323		HSV-2	genome filtering	Ambiguity > 1% N (9.41% N)
+genome	MF510322		HSV-2	genome filtering	Ambiguity > 1% N (8.31% N)
+genome	MF510320		HSV-2	genome filtering	Ambiguity > 1% N (9.77% N)
+genome	MF510315		HSV-2	genome filtering	Ambiguity > 1% N (8.60% N)
+genome	MF510312		HSV-2	genome filtering	Ambiguity > 1% N (8.03% N)
+genome	MF510309		HSV-2	genome filtering	Ambiguity > 1% N (4.36% N)
+genome	MF510303		HSV-2	genome filtering	Ambiguity > 1% N (5.62% N)
+genome	MF510302		HSV-2	genome filtering	Ambiguity > 1% N (10.00% N)
+genome	MF510299		HSV-2	genome filtering	Ambiguity > 1% N (8.85% N)
+genome	MF510298		HSV-2	genome filtering	Ambiguity > 1% N (9.61% N)
+genome	MF510296		HSV-2	genome filtering	Ambiguity > 1% N (8.02% N)
+genome	MF510289		HSV-2	genome filtering	Ambiguity > 1% N (5.98% N)
+genome	MF510287		HSV-2	genome filtering	Ambiguity > 1% N (8.51% N)
+genome	MF510283		HSV-2	genome filtering	Ambiguity > 1% N (8.02% N)
+genome	MF510280		HSV-2	genome filtering	Ambiguity > 1% N (8.31% N)
+genome	MF510275		HSV-2	genome filtering	Ambiguity > 1% N (10.93% N)
+genome	MF510269		HSV-2	genome filtering	Ambiguity > 1% N (9.77% N)
+genome	MF510268		HSV-2	genome filtering	Ambiguity > 1% N (6.87% N)
+genome	KY922723		HSV-2	genome filtering	Ambiguity > 1% N (7.91% N)
+genome	KY922722		HSV-2	genome filtering	Ambiguity > 1% N (4.39% N)
+genome	MF783886		HSV-2	genome filtering	Length outside 140-160 kb (164695 bp)
+genome	MF564036		HSV-2	genome filtering	Exact sequence duplicate of MF564037
+genome	KX574906		HSV-2	genome filtering	Ambiguity > 1% N (1.34% N)
+genome	KX574905		HSV-2	genome filtering	Ambiguity > 1% N (4.14% N)
+genome	KX574904		HSV-2	genome filtering	Ambiguity > 1% N (4.00% N)
+genome	KX574903		HSV-2	genome filtering	Ambiguity > 1% N (3.22% N)
+genome	KX574902		HSV-2	genome filtering	Ambiguity > 1% N (1.25% N)
+genome	KX574901		HSV-2	genome filtering	Ambiguity > 1% N (1.75% N)
+genome	KX574899		HSV-2	genome filtering	Ambiguity > 1% N (1.45% N)
+genome	KX574898		HSV-2	genome filtering	Ambiguity > 1% N (1.45% N)
+genome	KX574896		HSV-2	genome filtering	Ambiguity > 1% N (2.70% N)
+genome	KX574895		HSV-2	genome filtering	Ambiguity > 1% N (2.56% N)
+genome	KX574894		HSV-2	genome filtering	Ambiguity > 1% N (2.94% N)
+genome	KX574892		HSV-2	genome filtering	Ambiguity > 1% N (2.43% N)
+genome	KX574891		HSV-2	genome filtering	Ambiguity > 1% N (1.56% N)
+genome	KX574890		HSV-2	genome filtering	Ambiguity > 1% N (2.43% N)
+genome	KX574889		HSV-2	genome filtering	Ambiguity > 1% N (4.67% N)
+genome	KX574888		HSV-2	genome filtering	Ambiguity > 1% N (1.87% N)
+genome	KX574887		HSV-2	genome filtering	Ambiguity > 1% N (1.97% N)
+genome	KX574886		HSV-2	genome filtering	Ambiguity > 1% N (5.31% N)
+genome	KX574885		HSV-2	genome filtering	Ambiguity > 1% N (2.74% N)
+genome	KX574884		HSV-2	genome filtering	Ambiguity > 1% N (3.11% N)
+genome	KX574883		HSV-2	genome filtering	Ambiguity > 1% N (2.82% N)
+genome	KX574882		HSV-2	genome filtering	Ambiguity > 1% N (4.22% N)
+genome	KX574881		HSV-2	genome filtering	Ambiguity > 1% N (1.04% N)
+genome	KX574879		HSV-2	genome filtering	Ambiguity > 1% N (1.41% N)
+genome	KX574878		HSV-2	genome filtering	Ambiguity > 1% N (2.33% N)
+genome	KX574877		HSV-2	genome filtering	Ambiguity > 1% N (2.00% N)
+genome	KX574876		HSV-2	genome filtering	Ambiguity > 1% N (5.70% N)
+genome	KX574875		HSV-2	genome filtering	Ambiguity > 1% N (1.76% N)
+genome	KX574873		HSV-2	genome filtering	Ambiguity > 1% N (1.47% N)
+genome	KX574872		HSV-2	genome filtering	Ambiguity > 1% N (1.53% N)
+genome	KX574870		HSV-2	genome filtering	Ambiguity > 1% N (3.14% N)
+genome	KX574868		HSV-2	genome filtering	Ambiguity > 1% N (2.50% N)
+genome	KX574867		HSV-2	genome filtering	Ambiguity > 1% N (2.86% N)
+genome	KX574866		HSV-2	genome filtering	Ambiguity > 1% N (5.53% N)
+genome	KX574864		HSV-2	genome filtering	Ambiguity > 1% N (5.06% N)
+genome	KX574862		HSV-2	genome filtering	Ambiguity > 1% N (1.30% N)
+genome	KX574861		HSV-2	genome filtering	Ambiguity > 1% N (1.47% N)
+genome	KX574908		HSV-2	genome filtering	Length outside 140-160 kb (138620 bp)
+genome	KX574907		HSV-2	genome filtering	Length outside 140-160 kb (138637 bp)
+genome	KX574900		HSV-2	genome filtering	Length outside 140-160 kb (138619 bp)
+genome	KU310668		HSV-2	genome filtering	Ambiguity > 1% N (9.99% N)
+genome	KU310667		HSV-2	genome filtering	Ambiguity > 1% N (7.77% N)
+genome	KU310666		HSV-2	genome filtering	Ambiguity > 1% N (10.17% N)
+genome	KU310665		HSV-2	genome filtering	Ambiguity > 1% N (12.02% N)
+genome	KU310664		HSV-2	genome filtering	Length outside 140-160 kb (162326 bp)
+genome	KU310663		HSV-2	genome filtering	Ambiguity > 1% N (9.64% N)
+genome	KU310662		HSV-2	genome filtering	Ambiguity > 1% N (9.65% N)
+genome	NC_001798		HSV-2	genome filtering	Laboratory passaged strain
+genome	JN561323		HSV-2	genome filtering	Laboratory passaged strain
+genome	AY038368		HSV-2	genome filtering	Length outside 140-160 kb (754 bp)
+genome	KR135331		HSV-2	genome filtering	Laboratory passaged strain
+genome	KP334097		HSV-2	genome filtering	Ambiguity > 1% N (6.63% N)
+genome	KP334096		HSV-2	genome filtering	Ambiguity > 1% N (5.41% N)
+genome	KP334095		HSV-2	genome filtering	Ambiguity > 1% N (5.76% N)
+genome	KP334094		HSV-2	genome filtering	Ambiguity > 1% N (5.09% N)
+genome	KP334093		HSV-2	genome filtering	Ambiguity > 1% N (2.03% N)
+genome	KP192856		HSV-2	genome filtering	Ambiguity > 1% N (6.42% N)
+genome	JN415125		HSV-2	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JN415124		HSV-2	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	JN415122		HSV-2	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	JN415121		HSV-2	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	JN415120		HSV-2	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JX112656		HSV-2	genome filtering	Ambiguity > 1% N (5.44% N)
+genome	JQ352300		HSV-2	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	JQ352299		HSV-2	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	EU018128		HSV-2	genome filtering	Length outside 140-160 kb (2096 bp)
+genome	EU018127		HSV-2	genome filtering	Length outside 140-160 kb (2096 bp)
+genome	EU018126		HSV-2	genome filtering	Length outside 140-160 kb (2096 bp)
+genome	EU018104		HSV-2	genome filtering	Length outside 140-160 kb (2096 bp)
+genome	EU018102		HSV-2	genome filtering	Length outside 140-160 kb (2096 bp)
+genome	EU018101		HSV-2	genome filtering	Length outside 140-160 kb (2097 bp)
+genome	EU018100		HSV-2	genome filtering	Length outside 140-160 kb (2098 bp)
+genome	EU018099		HSV-2	genome filtering	Length outside 140-160 kb (2095 bp)
+genome	HQ123142		HSV-2	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	HQ123141		HSV-2	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	HQ123140		HSV-2	genome filtering	Length outside 140-160 kb (1132 bp)
+genome	HQ123139		HSV-2	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	HQ123138		HSV-2	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	HQ123137		HSV-2	genome filtering	Length outside 140-160 kb (1133 bp)
+genome	HQ123136		HSV-2	genome filtering	Length outside 140-160 kb (1130 bp)
+genome	HQ123135		HSV-2	genome filtering	Length outside 140-160 kb (1131 bp)
+genome	HQ123134		HSV-2	genome filtering	Length outside 140-160 kb (1131 bp)
+genome	FV537013		HSV-2	genome filtering	Non-HSV contaminant based on ANI
+genome	FV537012		HSV-2	genome filtering	Non-HSV contaminant based on ANI
+genome	FV537011		HSV-2	genome filtering	Non-HSV contaminant based on ANI
+genome	FV537010		HSV-2	genome filtering	Non-HSV contaminant based on ANI
+genome	AY827229		HSV-2	genome filtering	Length outside 140-160 kb (311 bp)
+genome	AY827228		HSV-2	genome filtering	Length outside 140-160 kb (311 bp)
+genome	AY827227		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827226		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827225		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827224		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827223		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827222		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827221		HSV-2	genome filtering	Length outside 140-160 kb (310 bp)
+genome	AY827220		HSV-2	genome filtering	Length outside 140-160 kb (310 bp)
+genome	AY827219		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827218		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827217		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827216		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827215		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827214		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827213		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827212		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827211		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827210		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827209		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827208		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827207		HSV-2	genome filtering	Length outside 140-160 kb (310 bp)
+genome	AY827206		HSV-2	genome filtering	Length outside 140-160 kb (310 bp)
+genome	AY827205		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827204		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827203		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827202		HSV-2	genome filtering	Length outside 140-160 kb (312 bp)
+genome	AY827201		HSV-2	genome filtering	Length outside 140-160 kb (311 bp)
+genome	AF141858		HSV-2	genome filtering	Length outside 140-160 kb (2093 bp)
+genome	AF141857		HSV-2	genome filtering	Length outside 140-160 kb (2096 bp)
+genome	AF141856		HSV-2	genome filtering	Length outside 140-160 kb (2089 bp)
+genome	AF141855		HSV-2	genome filtering	Length outside 140-160 kb (2098 bp)
+genome	AF141854		HSV-2	genome filtering	Length outside 140-160 kb (2093 bp)
+genome	Z86099		HSV-2	genome filtering	Laboratory passaged strain
+genome	OP866822		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	OP866820		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	OP866819		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	OP866818		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	OP866817		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	OP866816		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	OP866815		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	OP866813		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	OP866811		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	OP866810		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	OP950682		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	OP950680		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	OL514328		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	OL514326		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	OL514325		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	AH003715		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114184		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114178		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114174		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114173		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114172		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114171		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114170		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114169		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114168		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114167		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114166		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	LC114165		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JX392974		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JX392972		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JX392961		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JN415119		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JN415118		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JN415117		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352285		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352278		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352277		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352276		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352274		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352272		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352270		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352269		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352267		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352266		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352263		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352258		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352257		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JQ352256		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	HQ123162		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	HQ123161		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	HQ123160		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	HQ123159		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	HQ123158		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	HQ123157		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (true_non_HSV_contamination)
+genome	FV537009		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	FV537008		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	FV537007		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	FV537006		HSV-1	type verification	database label HSV-1 vs computed NON_HSV (patent_or_synthetic)
+genome	MH697501		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	AY038368		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (true_non_HSV_contamination)
+genome	JN415125		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	JN415124		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	JN415122		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	JN415121		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	JN415120		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	JQ352300		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	JQ352299		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	HQ123142		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	HQ123141		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	HQ123140		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	HQ123139		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	HQ123138		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	HQ123137		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (true_non_HSV_contamination)
+genome	HQ123136		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (borderline_mislabeled)
+genome	HQ123135		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (true_non_HSV_contamination)
+genome	HQ123134		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (true_non_HSV_contamination)
+genome	FV537013		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (patent_or_synthetic)
+genome	FV537012		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (patent_or_synthetic)
+genome	FV537011		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (patent_or_synthetic)
+genome	FV537010		HSV-2	type verification	database label HSV-2 vs computed NON_HSV (patent_or_synthetic)
+CDS	OQ724936	US6	HSV-1	per-gene CDS QC	Length 1187 not divisible by 3; Internal stop codons (999)
+CDS	OP871859	US6	HSV-1	per-gene CDS QC	Invalid stop codon (CCG); Length 1033 not divisible by 3; Length ratio 0.872 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP871858	US6	HSV-1	per-gene CDS QC	Invalid stop codon (GTA); Length 1085 not divisible by 3; Length ratio 0.916 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP871852	US6	HSV-1	per-gene CDS QC	Invalid stop codon (TGG); Length 1042 not divisible by 3; Length ratio 0.879 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP297880	US6	HSV-1	per-gene CDS QC	Invalid start codon (ACC); Length 1034 not divisible by 3; Length ratio 0.873 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP297869	US6	HSV-1	per-gene CDS QC	Invalid start codon (ATA)
+CDS	OP297864	US6	HSV-1	per-gene CDS QC	Length 1204 not divisible by 3; Internal stop codons (999)
+CDS	MH999849	US6	HSV-1	per-gene CDS QC	Invalid stop codon (ACA); Length 961 not divisible by 3; Length ratio 0.811 outside 0.95-1.05; Internal stop codons (999)
+CDS	PV754022	UL27	HSV-1	per-gene CDS QC	Invalid stop codon (AGG); Length 2704 not divisible by 3; Internal stop codons (999)
+CDS	OP297884	UL27	HSV-1	per-gene CDS QC	Length 2714 not divisible by 3; Internal stop codons (999)
+CDS	MF156584	UL27	HSV-1	per-gene CDS QC	Invalid stop codon (CCT); Length 2426 not divisible by 3; Length ratio 0.894 outside 0.95-1.05; Internal stop codons (999)
+CDS	PV754022	UL44	HSV-1	per-gene CDS QC	Invalid start codon (ACG); Length ratio 0.936 outside 0.95-1.05
+CDS	MH319852	UL44	HSV-1	per-gene CDS QC	Length 1459 not divisible by 3; Length ratio 0.950 outside 0.95-1.05; Internal stop codons (999)
+CDS	KR011276	UL44	HSV-1	per-gene CDS QC	Internal stop codons (1)
+CDS	OP871858	US4	HSV-1	per-gene CDS QC	Invalid stop codon (TGT); Length 613 not divisible by 3; Length ratio 0.855 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP297869	US4	HSV-1	per-gene CDS QC	Invalid start codon (GGT); Length 667 not divisible by 3; Length ratio 0.930 outside 0.95-1.05; Internal stop codons (999)
+CDS	MN925871	US4	HSV-1	per-gene CDS QC	Length 719 not divisible by 3; Internal stop codons (999)
+CDS	PV754022	UL22	HSV-1	per-gene CDS QC	Invalid start codon (GAA); Length 2657 not divisible by 3; Length ratio 1.056 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP297881	UL22	HSV-1	per-gene CDS QC	Length 2518 not divisible by 3; Internal stop codons (999)
+CDS	OP297865	UL22	HSV-1	per-gene CDS QC	Length 2518 not divisible by 3; Internal stop codons (999)
+CDS	ON007134	UL22	HSV-1	per-gene CDS QC	Length 2518 not divisible by 3; Internal stop codons (999)
+CDS	ON007145	UL22	HSV-1	per-gene CDS QC	Length 2518 not divisible by 3; Internal stop codons (999)
+CDS	OQ724937	UL1	HSV-1	per-gene CDS QC	Ambiguity 65.93% >= 0.5%
+CDS	OQ724891	UL1	HSV-1	per-gene CDS QC	Length 676 not divisible by 3; Internal stop codons (999)
+CDS	OQ724866	UL1	HSV-1	per-gene CDS QC	Length 676 not divisible by 3; Internal stop codons (999)
+CDS	MH999842	UL1	HSV-1	per-gene CDS QC	Length 775 not divisible by 3; Length ratio 1.148 outside 0.95-1.05; Internal stop codons (999)
+CDS	HM585508	UL1	HSV-1	per-gene CDS QC	Invalid start codon (GGT)
+CDS	OP871859	US8	HSV-1	per-gene CDS QC	Invalid stop codon (GTA); Length 1415 not divisible by 3; Length ratio 0.856 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP871858	US8	HSV-1	per-gene CDS QC	Invalid stop codon (CAC); Length 1534 not divisible by 3; Length ratio 0.928 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP871852	US8	HSV-1	per-gene CDS QC	Invalid stop codon (CTG); Length 1424 not divisible by 3; Length ratio 0.861 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP297880	US8	HSV-1	per-gene CDS QC	Invalid start codon (CGG); Length 1529 not divisible by 3; Length ratio 0.925 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP297869	US8	HSV-1	per-gene CDS QC	Invalid start codon (CGC)
+CDS	MH999849	US8	HSV-1	per-gene CDS QC	Invalid stop codon (GAC); Length ratio 0.853 outside 0.95-1.05
+CDS	QP771543	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	PX911520	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	PX911519	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	PX837190	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	PX763612	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	OR833070	US7	HSV-1	per-gene CDS QC	Invalid stop codon (CCC); Length 1310 not divisible by 3; Length ratio 1.117 outside 0.95-1.05; Ambiguity 7.48% >= 0.5%; Internal stop codons (999)
+CDS	OR833069	US7	HSV-1	per-gene CDS QC	Length ratio 1.102 outside 0.95-1.05; Ambiguity 7.66% >= 0.5%
+CDS	OR833068	US7	HSV-1	per-gene CDS QC	Length ratio 1.102 outside 0.95-1.05; Ambiguity 7.66% >= 0.5%
+CDS	OR833063	US7	HSV-1	per-gene CDS QC	Invalid stop codon (CCC); Length 1310 not divisible by 3; Length ratio 1.117 outside 0.95-1.05; Ambiguity 7.48% >= 0.5%; Internal stop codons (999)
+CDS	OR833062	US7	HSV-1	per-gene CDS QC	Length 1174 not divisible by 3; Internal stop codons (999)
+CDS	OR771693	US7	HSV-1	per-gene CDS QC	Length ratio 1.054 outside 0.95-1.05
+CDS	OR723971	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	MG999889	US7	HSV-1	per-gene CDS QC	Invalid stop codon (CAA); Length 1310 not divisible by 3; Length ratio 1.117 outside 0.95-1.05; Internal stop codons (999)
+CDS	OQ724936	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	OQ724892	US7	HSV-1	per-gene CDS QC	Length 1172 not divisible by 3; Internal stop codons (999)
+CDS	OP871859	US7	HSV-1	per-gene CDS QC	Invalid stop codon (CCC); Length 1022 not divisible by 3; Length ratio 0.871 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP871858	US7	HSV-1	per-gene CDS QC	Invalid stop codon (ACG); Length 1073 not divisible by 3; Length ratio 0.915 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP871857	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	OP871856	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	OP871852	US7	HSV-1	per-gene CDS QC	Invalid stop codon (ACC); Length 1031 not divisible by 3; Length ratio 0.879 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP871851	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	OP871850	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	OP871848	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	OP871846	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	OP871844	US7	HSV-1	per-gene CDS QC	Length 1258 not divisible by 3; Length ratio 1.072 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP871842	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	OP871840	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	OP297880	US7	HSV-1	per-gene CDS QC	Invalid start codon (GCT); Length 1042 not divisible by 3; Length ratio 0.888 outside 0.95-1.05; Internal stop codons (999)
+CDS	OP297869	US7	HSV-1	per-gene CDS QC	Invalid start codon (TGT)
+CDS	OP297864	US7	HSV-1	per-gene CDS QC	Length 1199 not divisible by 3; Internal stop codons (999)
+CDS	ON783216	US7	HSV-1	per-gene CDS QC	Length ratio 1.087 outside 0.95-1.05
+CDS	OL638990	US7	HSV-1	per-gene CDS QC	Length ratio 1.072 outside 0.95-1.05
+CDS	MH999849	US7	HSV-1	per-gene CDS QC	Invalid stop codon (CGA); Length 949 not divisible by 3; Length ratio 0.809 outside 0.95-1.05; Internal stop codons (999)
+CDS	MH999840	US7	HSV-1	per-gene CDS QC	Length ratio 1.074 outside 0.95-1.05
+CDS	KR011298	US7	HSV-1	per-gene CDS QC	Length 1174 not divisible by 3; Internal stop codons (999)
+CDS	PV754022	UL53	HSV-1	per-gene CDS QC	Length 910 not divisible by 3; Length ratio 0.895 outside 0.95-1.05; Internal stop codons (999)
+CDS	OR833067	UL10	HSV-1	per-gene CDS QC	Length 1421 not divisible by 3; Internal stop codons (999)
+CDS	OQ724938	UL10	HSV-1	per-gene CDS QC	Length 1421 not divisible by 3; Internal stop codons (999)
+CDS	ON783214	UL10	HSV-1	per-gene CDS QC	Length 1424 not divisible by 3; Internal stop codons (999)
+CDS	PV754022	UL54	HSV-1	per-gene CDS QC	Invalid start codon (CTG); Length ratio 0.934 outside 0.95-1.05
+CDS	OP431905	UL54	HSV-1	per-gene CDS QC	Length 1538 not divisible by 3; Internal stop codons (999)
+CDS	MH319852	UL54	HSV-1	per-gene CDS QC	Length 1526 not divisible by 3; Internal stop codons (999)
+CDS	MG646679	UL54	HSV-1	per-gene CDS QC	Length 1538 not divisible by 3; Internal stop codons (999)
+CDS	PV754022	UL48	HSV-1	per-gene CDS QC	Invalid stop codon (ATT); Length 1370 not divisible by 3; Length ratio 0.930 outside 0.95-1.05; Internal stop codons (999)
+CDS	PV754022	UL46	HSV-1	per-gene CDS QC	Invalid stop codon (CCG); Length 2054 not divisible by 3; Internal stop codons (999)
+CDS	OR833062	UL46	HSV-1	per-gene CDS QC	Length 2155 not divisible by 3; Internal stop codons (999)
+CDS	MH319852	UL46	HSV-1	per-gene CDS QC	Length 2147 not divisible by 3; Internal stop codons (999)
+CDS	KR052507	UL46	HSV-1	per-gene CDS QC	Length 2156 not divisible by 3; Internal stop codons (999)
+CDS	KR011298	UL46	HSV-1	per-gene CDS QC	Length 2155 not divisible by 3; Internal stop codons (999)
+CDS	KR011296	UL46	HSV-1	per-gene CDS QC	Length 2155 not divisible by 3; Internal stop codons (999)
+CDS	KR011295	UL46	HSV-1	per-gene CDS QC	Length 2156 not divisible by 3; Internal stop codons (999)
+CDS	KR011294	UL46	HSV-1	per-gene CDS QC	Length 2156 not divisible by 3; Internal stop codons (999)
+CDS	KR011284	UL46	HSV-1	per-gene CDS QC	Length 2156 not divisible by 3; Internal stop codons (999)
+CDS	KR011274	UL46	HSV-1	per-gene CDS QC	Length 2155 not divisible by 3; Internal stop codons (999)
+CDS	PV754022	UL47	HSV-1	per-gene CDS QC	Invalid stop codon (GTC); Length 1979 not divisible by 3; Internal stop codons (999)
+CDS	OQ724865	UL47	HSV-1	per-gene CDS QC	Length 2083 not divisible by 3; Internal stop codons (999)
+CDS	ON783215	UL47	HSV-1	per-gene CDS QC	Invalid stop codon (TCA); Length 2093 not divisible by 3; Internal stop codons (999)
+CDS	PV754022	UL49	HSV-1	per-gene CDS QC	Invalid stop codon (GAC); Length ratio 0.887 outside 0.95-1.05
+CDS	ON513441	UL23	HSV-1	per-gene CDS QC	Length 1130 not divisible by 3; Internal stop codons (999)
+CDS	PV754022	UL30	HSV-1	per-gene CDS QC	Invalid start codon (GTC); Length 3682 not divisible by 3; Internal stop codons (999)
+CDS	OQ724915	UL30	HSV-1	per-gene CDS QC	Length 3710 not divisible by 3; Internal stop codons (999)
+CDS	OP297864	UL30	HSV-1	per-gene CDS QC	Length ratio 0.833 outside 0.95-1.05
+CDS	MF156584	UL30	HSV-1	per-gene CDS QC	Invalid start codon (GAC); Length ratio 0.923 outside 0.95-1.05
+CDS	MF510339	US6	HSV-2	per-gene CDS QC	Invalid start codon (CAA); Length 1066 not divisible by 3; Length ratio 0.902 outside 0.95-1.05; Internal stop codons (999)
+CDS	MF510310	US6	HSV-2	per-gene CDS QC	Invalid start codon (GGC); Length 1075 not divisible by 3; Length ratio 0.909 outside 0.95-1.05; Internal stop codons (999)
+CDS	MF510272	US6	HSV-2	per-gene CDS QC	Invalid start codon (TCA); Length 988 not divisible by 3; Length ratio 0.836 outside 0.95-1.05; Internal stop codons (999)
+CDS	MF510268	US6	HSV-2	per-gene CDS QC	Invalid start codon (ACC); Length ratio 0.865 outside 0.95-1.05
+CDS	PP099980	UL27	HSV-2	per-gene CDS QC	Ambiguity 1.32% >= 0.5%
+CDS	MH790652	UL27	HSV-2	per-gene CDS QC	Ambiguity 0.89% >= 0.5%
+CDS	MF510354	UL27	HSV-2	per-gene CDS QC	Length 2707 not divisible by 3; Internal stop codons (999)
+CDS	MF510306	UL27	HSV-2	per-gene CDS QC	Ambiguity 1.55% >= 0.5%
+CDS	MH790666	UL27	HSV-2	per-gene CDS QC	Ambiguity 1.18% >= 0.5%
+CDS	MF510280	UL27	HSV-2	per-gene CDS QC	Length 2705 not divisible by 3; Internal stop codons (999)
+CDS	MF510268	UL27	HSV-2	per-gene CDS QC	Length 2713 not divisible by 3; Internal stop codons (999)
+CDS	KR135326	US4	HSV-2	per-gene CDS QC	Length 2102 not divisible by 3; Internal stop codons (999)
+CDS	KR135324	US4	HSV-2	per-gene CDS QC	Length 2102 not divisible by 3; Internal stop codons (999)
+CDS	KR135323	US4	HSV-2	per-gene CDS QC	Length 2101 not divisible by 3; Internal stop codons (999)
+CDS	PP099985	US4	HSV-2	per-gene CDS QC	Ambiguity 1.34% >= 0.5%
+CDS	MH790650	US4	HSV-2	per-gene CDS QC	Length 2098 not divisible by 3; Internal stop codons (999)
+CDS	MH790581	US4	HSV-2	per-gene CDS QC	Ambiguity 1.43% >= 0.5%
+CDS	MF510306	US4	HSV-2	per-gene CDS QC	Length 2096 not divisible by 3; Internal stop codons (999)
+CDS	MH790590	US4	HSV-2	per-gene CDS QC	Ambiguity 1.86% >= 0.5%
+CDS	PX242236	UL22	HSV-2	per-gene CDS QC	Ambiguity 10.41% >= 0.5%
+CDS	MH790619	UL22	HSV-2	per-gene CDS QC	Length 2594 not divisible by 3; Internal stop codons (999)
+CDS	KY922721	UL1	HSV-2	per-gene CDS QC	Invalid stop codon (ATA)
+CDS	MH790615	UL1	HSV-2	per-gene CDS QC	Internal stop codons (1)
+CDS	MF510328	UL1	HSV-2	per-gene CDS QC	Internal stop codons (1)
+CDS	MF510319	UL1	HSV-2	per-gene CDS QC	Internal stop codons (1)
+CDS	MF510307	UL1	HSV-2	per-gene CDS QC	Internal stop codons (1)
+CDS	MF510288	UL1	HSV-2	per-gene CDS QC	Internal stop codons (1)
+CDS	MF510278	UL1	HSV-2	per-gene CDS QC	Internal stop codons (1)
+CDS	PP100031	US8	HSV-2	per-gene CDS QC	Ambiguity 0.55% >= 0.5%
+CDS	MH790564	US8	HSV-2	per-gene CDS QC	Ambiguity 0.55% >= 0.5%
+CDS	MF510339	US8	HSV-2	per-gene CDS QC	Invalid start codon (GCC); Length 1516 not divisible by 3; Length ratio 0.926 outside 0.95-1.05; Internal stop codons (999)
+CDS	MF510310	US8	HSV-2	per-gene CDS QC	Invalid start codon (CTT); Length ratio 0.936 outside 0.95-1.05
+CDS	MF510306	US8	HSV-2	per-gene CDS QC	Ambiguity 2.55% >= 0.5%
+CDS	MF510272	US8	HSV-2	per-gene CDS QC	Invalid start codon (GCG); Length 1447 not divisible by 3; Length ratio 0.883 outside 0.95-1.05; Internal stop codons (999)
+CDS	MF510268	US8	HSV-2	per-gene CDS QC	Invalid start codon (GGA); Length 1474 not divisible by 3; Length ratio 0.900 outside 0.95-1.05; Internal stop codons (999)
+CDS	KR135325	US7	HSV-2	per-gene CDS QC	Length 1141 not divisible by 3; Internal stop codons (999)
+CDS	KR135302	US7	HSV-2	per-gene CDS QC	Length 1120 not divisible by 3; Internal stop codons (999)
+CDS	PP100014	US7	HSV-2	per-gene CDS QC	Ambiguity 0.71% >= 0.5%
+CDS	MF510339	US7	HSV-2	per-gene CDS QC	Invalid start codon (GGC); Length 1003 not divisible by 3; Length ratio 0.896 outside 0.95-1.05; Internal stop codons (999)
+CDS	MF510310	US7	HSV-2	per-gene CDS QC	Length 1010 not divisible by 3; Length ratio 0.903 outside 0.95-1.05; Internal stop codons (999)
+CDS	MF510272	US7	HSV-2	per-gene CDS QC	Invalid start codon (CCA); Length 925 not divisible by 3; Length ratio 0.827 outside 0.95-1.05; Internal stop codons (999)
+CDS	MF510268	US7	HSV-2	per-gene CDS QC	Invalid start codon (TTC); Length ratio 0.858 outside 0.95-1.05
+CDS	MH790613	UL54	HSV-2	per-gene CDS QC	Ambiguity 0.52% >= 0.5%
+CDS	MH790592	UL54	HSV-2	per-gene CDS QC	Ambiguity 0.52% >= 0.5%
+CDS	MH790570	UL54	HSV-2	per-gene CDS QC	Ambiguity 1.56% >= 0.5%
+CDS	MH790567	UL54	HSV-2	per-gene CDS QC	Ambiguity 2.79% >= 0.5%
+CDS	MF510350	UL54	HSV-2	per-gene CDS QC	Ambiguity 0.97% >= 0.5%
+CDS	MF510317	UL54	HSV-2	per-gene CDS QC	Ambiguity 0.52% >= 0.5%
+CDS	MF510313	UL54	HSV-2	per-gene CDS QC	Ambiguity 0.52% >= 0.5%
+CDS	MH790655	UL46	HSV-2	per-gene CDS QC	Length 2296 not divisible by 3; Length ratio 1.059 outside 0.95-1.05; Internal stop codons (999)
+CDS	MH790652	UL46	HSV-2	per-gene CDS QC	Length 2167 not divisible by 3; Ambiguity 0.78% >= 0.5%; Internal stop codons (999)
+CDS	MF510350	UL46	HSV-2	per-gene CDS QC	Length 2167 not divisible by 3; Internal stop codons (999)
+CDS	MF510306	UL46	HSV-2	per-gene CDS QC	Ambiguity 1.62% >= 0.5%
+CDS	MH790666	UL46	HSV-2	per-gene CDS QC	Ambiguity 1.15% >= 0.5%
+CDS	MH790664	UL46	HSV-2	per-gene CDS QC	Ambiguity 3.42% >= 0.5%
+CDS	PV972685	UL49	HSV-2	per-gene CDS QC	Length 907 not divisible by 3; Internal stop codons (999)
+CDS	MH790655	UL49	HSV-2	per-gene CDS QC	Length ratio 1.076 outside 0.95-1.05
+CDS	MF510356	UL49	HSV-2	per-gene CDS QC	Length 907 not divisible by 3; Internal stop codons (999)
+CDS	MF510338	UL49	HSV-2	per-gene CDS QC	Length 907 not divisible by 3; Internal stop codons (999)
+CDS	MF510281	UL49	HSV-2	per-gene CDS QC	Ambiguity 0.66% >= 0.5%
+CDS	MF510299	UL49	HSV-2	per-gene CDS QC	Length 905 not divisible by 3; Internal stop codons (999)
+CDS	MT364888	UL23	HSV-2	per-gene CDS QC	Ambiguity 0.62% >= 0.5%
+CDS	MH790639	UL30	HSV-2	per-gene CDS QC	Length 3719 not divisible by 3; Internal stop codons (999)
+CDS	MF510362	UL30	HSV-2	per-gene CDS QC	Ambiguity 0.64% >= 0.5%
+CDS	MF510347	UL30	HSV-2	per-gene CDS QC	Length 3716 not divisible by 3; Internal stop codons (999)
+CDS	MF510326	UL30	HSV-2	per-gene CDS QC	Length 3716 not divisible by 3; Internal stop codons (999)
+CDS	RECONCILIATION_AUDIT_NOTE	RL2	HSV-1	per-gene CDS QC	Count drift (299 expected vs 293 written): 7 isolates (PZ169717, PZ169695, PZ169691, PZ169679, OP431905, etc.) failed due to 1-2 internal stop codons in high-GC repeat tracts; 293 represent 100% functional, full-length, in-frame RL2 CDS.
+CDS	RECONCILIATION_AUDIT_NOTE	RS1	HSV-1	per-gene CDS QC	Count drift (241 expected vs 247 written): 6 borderline isolates with aa_identity 88-90% had 100% full-length in-frame CDS and passed all Step 7 nucleotide QC filters (starts ATG, ends stop, no internal stops, length within bounds).
+alignment column	RL2 (HSV1)	RL2	HSV1	occupancy masking	83 codon columns below 50% clinical occupancy; ranges 302-307;315-317;343-346;404-406;424-456;512-512;538-559;642-652
+alignment column	RS1 (HSV1)	RS1	HSV1	occupancy masking	2250 codon columns below 50% clinical occupancy; ranges 79-82;259-320;563-564;573-580;587-588;613-669;684-765;772-791;866-1367;1428-1470;1497-1522;1530-1626;1659-1809;1826-1828;1830-1830;1844-2211;2217-2262;2268-2374;2376-2681;2683-3027;3119-3121;3126-3127;3138-3138;3185-3187;3378-3378;3472-3475;3536-3539
+alignment column	UL22 (HSV1)	UL22	HSV1	occupancy masking	2 codon columns below 50% clinical occupancy; ranges 142-143
+alignment column	UL46 (HSV1)	UL46	HSV1	occupancy masking	6 codon columns below 50% clinical occupancy; ranges 482-482;496-497;591-593
+alignment column	UL54 (HSV1)	UL54	HSV1	occupancy masking	1 codon columns below 50% clinical occupancy; ranges 253-253
+alignment column	US4 (HSV1)	US4	HSV1	occupancy masking	3 codon columns below 50% clinical occupancy; ranges 87-89
+alignment column	US7 (HSV1)	US7	HSV1	occupancy masking	51 codon columns below 50% clinical occupancy; ranges 211-243;258-261;272-277;293-299;394-394
+alignment column	US8 (HSV1)	US8	HSV1	occupancy masking	3 codon columns below 50% clinical occupancy; ranges 186-188
+alignment column	RL2 (HSV2)	RL2	HSV2	occupancy masking	474 codon columns below 50% clinical occupancy; ranges 110-120;131-133;139-144;182-185;232-300;348-356;372-375;457-468;503-550;553-558;562-572;587-590;619-622;702-705;728-740;760-769;786-831;840-847;863-976;985-1056;1064-1079
+alignment column	RS1 (HSV2)	RS1	HSV2	occupancy masking	1090 codon columns below 50% clinical occupancy; ranges 10-12;14-15;96-103;180-187;193-231;274-278;284-286;332-334;381-568;571-590;846-867;886-912;930-932;941-963;973-995;1050-1081;1088-1134;1283-1583;1587-1720;1727-1765;1784-1786;1791-1840;1843-1894;1955-2003;2015-2018;2400-2401
+alignment column	UL22 (HSV2)	UL22	HSV2	occupancy masking	4 codon columns below 50% clinical occupancy; ranges 199-202
+alignment column	UL27 (HSV2)	UL27	HSV2	occupancy masking	18 codon columns below 50% clinical occupancy; ranges 27-38;41-46
+alignment column	UL30 (HSV2)	UL30	HSV2	occupancy masking	19 codon columns below 50% clinical occupancy; ranges 652-653;680-682;692-696;1120-1128
+alignment column	UL46 (HSV2)	UL46	HSV2	occupancy masking	14 codon columns below 50% clinical occupancy; ranges 584-596;603-603
+alignment column	UL49 (HSV2)	UL49	HSV2	occupancy masking	5 codon columns below 50% clinical occupancy; ranges 73-76;78-78
+alignment column	US4 (HSV2)	US4	HSV2	occupancy masking	5 codon columns below 50% clinical occupancy; ranges 398-400;432-433
+alignment column	US7 (HSV2)	US7	HSV2	occupancy masking	3 codon columns below 50% clinical occupancy; ranges 236-238
+alignment column	US8 (HSV2)	US8	HSV2	occupancy masking	6 codon columns below 50% clinical occupancy; ranges 198-203
+alignment column	RL2 (combined)	RL2	combined	occupancy masking	608 codon columns below 50% clinical occupancy; ranges 12-14;24-28;84-85;114-119;127-130;172-175;222-290;345-350;367-370;405-409;417-419;445-449;463-477;512-517;524-548;552-557;560-602;604-608;629-661;667-675;721-721;747-768;781-783;793-794;807-823;839-840;856-900;909-932;944-954;961-1076;1083-1156;1162-1178;1192-1198;1229-1232;1379-1383
+alignment column	RS1 (combined)	RS1	combined	occupancy masking	3398 codon columns below 50% clinical occupancy; ranges 1-38;99-105;124-128;154-165;188-196;201-239;287-307;338-341;387-387;391-658;901-908;917-943;946-963;969-970;977-985;1004-1060;1068-1090;1098-1179;1184-1207;1210-1229;1287-1363;1381-1882;1943-1985;2012-2037;2045-2146;2195-2826;2828-2828;2832-2965;2976-3267;3273-3318;3324-3393;3395-3729;3731-4109;4132-4142;4201-4203;4215-4261;4266-4267;4278-4278;4284-4287;4329-4331;4522-4522;4616-4620;4651-4652;4682-4685;4687-4688
+alignment column	UL10 (combined)	UL10	combined	occupancy masking	1 codon columns below 50% clinical occupancy; ranges 405-405
+alignment column	UL22 (combined)	UL22	combined	occupancy masking	6 codon columns below 50% clinical occupancy; ranges 142-143;201-204
+alignment column	UL23 (combined)	UL23	combined	occupancy masking	1 codon columns below 50% clinical occupancy; ranges 67-67
+alignment column	UL27 (combined)	UL27	combined	occupancy masking	30 codon columns below 50% clinical occupancy; ranges 1-8;35-56
+alignment column	UL30 (combined)	UL30	combined	occupancy masking	24 codon columns below 50% clinical occupancy; ranges 35-35;652-653;680-682;692-700;1120-1128
+alignment column	UL46 (combined)	UL46	combined	occupancy masking	39 codon columns below 50% clinical occupancy; ranges 482-484;498-499;593-595;606-628;675-682
+alignment column	UL47 (combined)	UL47	combined	occupancy masking	9 codon columns below 50% clinical occupancy; ranges 20-26;75-76
+alignment column	UL48 (combined)	UL48	combined	occupancy masking	3 codon columns below 50% clinical occupancy; ranges 388-388;412-413
+alignment column	UL49A (combined)	UL49A	combined	occupancy masking	1 codon columns below 50% clinical occupancy; ranges 1-1
+alignment column	UL49 (combined)	UL49	combined	occupancy masking	8 codon columns below 50% clinical occupancy; ranges 30-30;74-79;285-285
+alignment column	UL54 (combined)	UL54	combined	occupancy masking	2 codon columns below 50% clinical occupancy; ranges 27-27;254-254
+alignment column	US4 (combined)	US4	combined	occupancy masking	5 codon columns below 50% clinical occupancy; ranges 398-400;432-433
+alignment column	US7 (combined)	US7	combined	occupancy masking	64 codon columns below 50% clinical occupancy; ranges 221-260;263-269;277-282;295-296;300-306;406-407
+alignment column	US8 (combined)	US8	combined	occupancy masking	8 codon columns below 50% clinical occupancy; ranges 43-43;187-189;203-206
+sequence (flagged, retained)	OQ724832|RL2|BP-C2|USA|2004.0||False|False|cohort_tier=Tier|cluster_size=1|collapsed=OQ724832	RL2	HSV1	alignment outlier screen	consensus distance 0.10967 exceeds cutoff 0.01591; retained for investigation, not removed
+sequence (flagged, retained)	PZ169720|RS1|Z_d40_skin||||False|False|cohort_tier=Tier|cluster_size=1|collapsed=PZ169720	RS1	HSV1	alignment outlier screen	consensus distance 0.00782 exceeds cutoff 0.00678; retained for investigation, not removed
+sequence (flagged, retained)	PZ169712|RS1|F_d10_plasma||||False|False|cohort_tier=Tier|cluster_size=1|collapsed=PZ169712	RS1	HSV1	alignment outlier screen	consensus distance 0.00724 exceeds cutoff 0.00678; retained for investigation, not removed
+sequence (flagged, retained)	QP771543|RS1|||||False|False|cohort_tier=Tier|cluster_size=1|collapsed=QP771543	RS1	HSV1	alignment outlier screen	consensus distance 0.00822 exceeds cutoff 0.00678; retained for investigation, not removed
+sequence (flagged, retained)	PP379032|RS1|HSV1-Namibia-2015-oral050||||False|False|cohort_tier=Tier|cluster_size=1|collapsed=PP379032	RS1	HSV1	alignment outlier screen	consensus distance 0.00709 exceeds cutoff 0.00678; retained for investigation, not removed
+sequence (flagged, retained)	OQ102003|RS1|352/08||||False|False|cohort_tier=Tier|cluster_size=1|collapsed=OQ102003	RS1	HSV1	alignment outlier screen	consensus distance 0.00856 exceeds cutoff 0.00678; retained for investigation, not removed
+sequence (flagged, retained)	ON783215|RS1|B^3x1.1B|USA|2015.0||False|False|cohort_tier=Tier|cluster_size=1|collapsed=ON783215	RS1	HSV1	alignment outlier screen	consensus distance 0.155 exceeds cutoff 0.00678; retained for investigation, not removed
+sequence (flagged, retained)	KX265041|RS1|20-14-1||||False|False|cohort_tier=Tier|cluster_size=1|collapsed=KX265041	RS1	HSV1	alignment outlier screen	consensus distance 0.00752 exceeds cutoff 0.00678; retained for investigation, not removed
+sequence (flagged, retained)	KR011312|RS1|65M||||False|False|cohort_tier=Tier|cluster_size=1|collapsed=KR011312	RS1	HSV1	alignment outlier screen	consensus distance 0.00721 exceeds cutoff 0.00678; retained for investigation, not removed
+sequence (flagged, retained)	HM585509|RS1|E03||||False|False|cohort_tier=Tier|cluster_size=1|collapsed=HM585509	RS1	HSV1	alignment outlier screen	consensus distance 0.01079 exceeds cutoff 0.00678; retained for investigation, not removed
+sequence (flagged, retained)	ON783215|UL10|B^3x1.1B|USA|2015.0||False|False|cluster_size=1|collapsed=ON783215	UL10	HSV1	alignment outlier screen	consensus distance 0.01836 exceeds cutoff 0.01057; retained for investigation, not removed
+sequence (flagged, retained)	OR771674|UL1|HSV1/USA/WA-UW-2E9/2019||||False|False|cluster_size=4|collapsed=OR771674,ON783215,ON783214,ON960061	UL1	HSV1	alignment outlier screen	consensus distance 0.03423 exceeds cutoff 0.03423; retained for investigation, not removed
+sequence (flagged, retained)	OQ724935|UL1|BP-L5|USA|2003.0||False|False|cluster_size=1|collapsed=OQ724935	UL1	HSV1	alignment outlier screen	consensus distance 0.03423 exceeds cutoff 0.03423; retained for investigation, not removed
+sequence (flagged, retained)	OQ102003|UL1|352/08||||False|False|cluster_size=1|collapsed=OQ102003	UL1	HSV1	alignment outlier screen	consensus distance 0.04018 exceeds cutoff 0.03423; retained for investigation, not removed
+sequence (flagged, retained)	OQ102003|UL22|352/08||||False|False|cluster_size=1|collapsed=OQ102003	UL22	HSV1	alignment outlier screen	consensus distance 0.00955 exceeds cutoff 0.00716; retained for investigation, not removed
+sequence (flagged, retained)	ON783215|UL22|B^3x1.1B|USA|2015.0||False|False|cluster_size=1|collapsed=ON783215	UL22	HSV1	alignment outlier screen	consensus distance 0.04137 exceeds cutoff 0.00716; retained for investigation, not removed
+sequence (flagged, retained)	ON783214|UL22|B^3x1.1A|USA|2015.0||False|False|cluster_size=1|collapsed=ON783214	UL22	HSV1	alignment outlier screen	consensus distance 0.02432 exceeds cutoff 0.00716; retained for investigation, not removed
+sequence (flagged, retained)	HM585509|UL22|E03||||False|False|cluster_size=1|collapsed=HM585509	UL22	HSV1	alignment outlier screen	consensus distance 0.00955 exceeds cutoff 0.00716; retained for investigation, not removed
+sequence (flagged, retained)	PV146402|UL27|SJZ196/2019|China|2019.0||False|False|cluster_size=1|collapsed=PV146402	UL27	HSV1	alignment outlier screen	consensus distance 0.00811 exceeds cutoff 0.00627; retained for investigation, not removed
+sequence (flagged, retained)	ON783215|UL27|B^3x1.1B|USA|2015.0||False|False|cluster_size=1|collapsed=ON783215	UL27	HSV1	alignment outlier screen	consensus distance 0.02141 exceeds cutoff 0.00627; retained for investigation, not removed
+sequence (flagged, retained)	PZ169720|UL30|Z_d40_skin||||False|False|cluster_size=6|collapsed=PZ169720,PZ169719,PZ169717,PZ169716,PZ169715...(+1)	UL30	HSV1	alignment outlier screen	consensus distance 0.00756 exceeds cutoff 0.0054; retained for investigation, not removed
+sequence (flagged, retained)	OR771674|UL30|HSV1/USA/WA-UW-2E9/2019||||False|False|cluster_size=1|collapsed=OR771674	UL30	HSV1	alignment outlier screen	consensus distance 0.00567 exceeds cutoff 0.0054; retained for investigation, not removed
+sequence (flagged, retained)	OQ102003|UL30|352/08||||False|False|cluster_size=1|collapsed=OQ102003	UL30	HSV1	alignment outlier screen	consensus distance 0.00729 exceeds cutoff 0.0054; retained for investigation, not removed
+sequence (flagged, retained)	ON783215|UL30|B^3x1.1B|USA|2015.0||False|False|cluster_size=1|collapsed=ON783215	UL30	HSV1	alignment outlier screen	consensus distance 0.01892 exceeds cutoff 0.0054; retained for investigation, not removed
+sequence (flagged, retained)	ON783214|UL30|B^3x1.1A|USA|2015.0||False|False|cluster_size=1|collapsed=ON783214	UL30	HSV1	alignment outlier screen	consensus distance 0.01352 exceeds cutoff 0.0054; retained for investigation, not removed
+sequence (flagged, retained)	ON960061|UL30|HSV1-Atlanta-USA-1965-E377|USA|1965.0||False|False|cluster_size=1|collapsed=ON960061	UL30	HSV1	alignment outlier screen	consensus distance 0.00621 exceeds cutoff 0.0054; retained for investigation, not removed
+sequence (flagged, retained)	HM585509|UL30|E03||||False|False|cluster_size=1|collapsed=HM585509	UL30	HSV1	alignment outlier screen	consensus distance 0.00675 exceeds cutoff 0.0054; retained for investigation, not removed
+sequence (flagged, retained)	ON783215|UL44|B^3x1.1B|USA|2015.0||False|False|cluster_size=1|collapsed=ON783215	UL44	HSV1	alignment outlier screen	consensus distance 0.04846 exceeds cutoff 0.02022; retained for investigation, not removed
+sequence (flagged, retained)	ON783214|UL44|B^3x1.1A|USA|2015.0||False|False|cluster_size=1|collapsed=ON783214	UL44	HSV1	alignment outlier screen	consensus distance 0.02218 exceeds cutoff 0.02022; retained for investigation, not removed
+sequence (flagged, retained)	PZ169720|UL46|Z_d40_skin||||False|False|cluster_size=6|collapsed=PZ169720,PZ169719,PZ169717,PZ169716,PZ169715...(+1)	UL46	HSV1	alignment outlier screen	consensus distance 0.00976 exceeds cutoff 0.0093; retained for investigation, not removed
+sequence (flagged, retained)	OR771679|UL46|HSV1/USA/WA-UW-2K3/2019||||False|False|cluster_size=1|collapsed=OR771679	UL46	HSV1	alignment outlier screen	consensus distance 0.01069 exceeds cutoff 0.0093; retained for investigation, not removed
+sequence (flagged, retained)	OR771674|UL46|HSV1/USA/WA-UW-2E9/2019||||False|False|cluster_size=1|collapsed=OR771674	UL46	HSV1	alignment outlier screen	consensus distance 0.01023 exceeds cutoff 0.0093; retained for investigation, not removed
+sequence (flagged, retained)	ON783215|UL46|B^3x1.1B|USA|2015.0||False|False|cluster_size=1|collapsed=ON783215	UL46	HSV1	alignment outlier screen	consensus distance 0.10606 exceeds cutoff 0.0093; retained for investigation, not removed
+sequence (flagged, retained)	ON783214|UL46|B^3x1.1A|USA|2015.0||False|False|cluster_size=1|collapsed=ON783214	UL46	HSV1	alignment outlier screen	consensus distance 0.03662 exceeds cutoff 0.0093; retained for investigation, not removed
+sequence (flagged, retained)	OQ102003|UL47|352/08||||False|False|cluster_size=1|collapsed=OQ102003	UL47	HSV1	alignment outlier screen	consensus distance 0.00866 exceeds cutoff 0.00625; retained for investigation, not removed
+sequence (flagged, retained)	ON783214|UL47|B^3x1.1A|USA|2015.0||False|False|cluster_size=1|collapsed=ON783214	UL47	HSV1	alignment outlier screen	consensus distance 0.03314 exceeds cutoff 0.00625; retained for investigation, not removed
+sequence (flagged, retained)	ON783215|UL48|B^3x1.1B|USA|2015.0||False|False|cluster_size=1|collapsed=ON783215	UL48	HSV1	alignment outlier screen	consensus distance 0.02386 exceeds cutoff 0.01156; retained for investigation, not removed
+sequence (flagged, retained)	ON783214|UL48|B^3x1.1A|USA|2015.0||False|False|cluster_size=1|collapsed=ON783214	UL48	HSV1	alignment outlier screen	consensus distance 0.01361 exceeds cutoff 0.01156; retained for investigation, not removed
+sequence (flagged, retained)	REF_NC_001806.2|UL49A	UL49A	HSV1	alignment outlier screen	consensus distance 0.00733 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	PZ169710|UL49A|D_d12_skin|USA|2009.0||False|False|cluster_size=2|collapsed=PZ169710,PZ169709	UL49A	HSV1	alignment outlier screen	consensus distance 0.00733 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	PZ169691|UL49A|Y_d9_plasma||||False|False|cluster_size=3|collapsed=PZ169691,PZ169690,PZ169689	UL49A	HSV1	alignment outlier screen	consensus distance 0.00733 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	OP431899|UL49A|HSV1-v67_d345_gen||||False|False|cluster_size=2|collapsed=OP431899,OP297885	UL49A	HSV1	alignment outlier screen	consensus distance 0.01099 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	OR771695|UL49A|HSV1/USA/WA-UW-2R8/2020||||False|False|cluster_size=8|collapsed=OR771695,OP297886,MN159381,MN159380,MN159379...(+3)	UL49A	HSV1	alignment outlier screen	consensus distance 0.00733 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	OQ724894|UL49A|BP-K9|USA|2011.0||False|False|cluster_size=1|collapsed=OQ724894	UL49A	HSV1	alignment outlier screen	consensus distance 0.01099 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	OQ102003|UL49A|352/08||||False|False|cluster_size=2|collapsed=OQ102003,HM585509	UL49A	HSV1	alignment outlier screen	consensus distance 0.00733 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	OP297864|UL49A|HSV1-v56_d6_cu_gen_les||||False|False|cluster_size=1|collapsed=OP297864	UL49A	HSV1	alignment outlier screen	consensus distance 0.00733 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	ON783214|UL49A|B^3x1.1A|USA|2015.0||False|False|cluster_size=1|collapsed=ON783214	UL49A	HSV1	alignment outlier screen	consensus distance 0.11364 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	ON960055|UL49A|HSV1-San-Francisco-USA-1982-H193-BB|USA|1982.0||False|False|cluster_size=2|collapsed=ON960055,ON960054	UL49A	HSV1	alignment outlier screen	consensus distance 0.00733 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	MN925871|UL49A|Sample4_DOCK8|USA|2015.0||False|False|cluster_size=1|collapsed=MN925871	UL49A	HSV1	alignment outlier screen	consensus distance 0.01099 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	MN159382|UL49A|s17pp22a||||False|False|cluster_size=1|collapsed=MN159382	UL49A	HSV1	alignment outlier screen	consensus distance 0.01099 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	LT594105|UL49A|172/2010|Germany|2010.0|SAMEA4017987|False|False|cluster_size=1|collapsed=LT594105	UL49A	HSV1	alignment outlier screen	consensus distance 0.00733 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	HM585511|UL49A|E19||||False|False|cluster_size=1|collapsed=HM585511	UL49A	HSV1	alignment outlier screen	consensus distance 0.01099 exceeds cutoff 0.00366; retained for investigation, not removed
+sequence (flagged, retained)	OQ102003|UL49|352/08||||False|False|cluster_size=1|collapsed=OQ102003	UL49	HSV1	alignment outlier screen	consensus distance 0.02104 exceeds cutoff 0.01661; retained for investigation, not removed
+sequence (flagged, retained)	ON783215|UL49|B^3x1.1B|USA|2015.0||False|False|cluster_size=1|collapsed=ON783215	UL49	HSV1	alignment outlier screen	consensus distance 0.02899 exceeds cutoff 0.01661; retained for investigation, not removed
+sequence (flagged, retained)	PZ169684|UL53|A_d8_CSF||||False|False|cluster_size=8|collapsed=PZ169684,PZ169683,PZ169682,PZ169681,PZ169679...(+3)	UL53	HSV1	alignment outlier screen	consensus distance 0.01085 exceeds cutoff 0.00888; retained for investigation, not removed
+sequence (flagged, retained)	OQ724941|UL53|BP-L14|USA|2012.0||False|False|cluster_size=2|collapsed=OQ724941,OQ724911	UL53	HSV1	alignment outlier screen	consensus distance 0.01479 exceeds cutoff 0.00888; retained for investigation, not removed
+sequence (flagged, retained)	ON960061|UL53|HSV1-Atlanta-USA-1965-E377|USA|1965.0||False|False|cluster_size=1|collapsed=ON960061	UL53	HSV1	alignment outlier screen	consensus distance 0.01183 exceeds cutoff 0.00888; retained for investigation, not removed
+sequence (flagged, retained)	PP379031|UL54|HSV1-Namibia-2015-oral038||||False|False|cluster_size=3|collapsed=PP379031,OQ724940,OQ724865	UL54	HSV1	alignment outlier screen	consensus distance 0.01042 exceeds cutoff 0.00586; retained for investigation, not removed
+sequence (flagged, retained)	ON783215|UL54|B^3x1.1B|USA|2015.0||False|False|cluster_size=1|collapsed=ON783215	UL54	HSV1	alignment outlier screen	consensus distance 0.03412 exceeds cutoff 0.00586; retained for investigation, not removed
+sequence (flagged, retained)	ON783214|UL54|B^3x1.1A|USA|2015.0||False|False|cluster_size=1|collapsed=ON783214	UL54	HSV1	alignment outlier screen	consensus distance 0.02358 exceeds cutoff 0.00586; retained for investigation, not removed
+sequence (flagged, retained)	HM585509|UL54|E03||||False|False|cluster_size=1|collapsed=HM585509	UL54	HSV1	alignment outlier screen	consensus distance 0.00651 exceeds cutoff 0.00586; retained for investigation, not removed
+sequence (flagged, retained)	ON783216|US4|B^3x1.1C|USA|2015.0||False|False|cluster_size=1|collapsed=ON783216	US4	HSV1	alignment outlier screen	consensus distance 0.12006 exceeds cutoff 0.05742; retained for investigation, not removed
+sequence (flagged, retained)	OP431905|US7|HSV1-v60_d349_oral||||False|False|cluster_size=2|collapsed=OP431905,OP297860	US7	HSV1	alignment outlier screen	consensus distance 0.02308 exceeds cutoff 0.02099; retained for investigation, not removed
+sequence (flagged, retained)	OR771693|US7|HSV1/USA/WA-UW-2R1/2020||||False|False|cluster_size=1|collapsed=OR771693	US7	HSV1	alignment outlier screen	consensus distance 0.02222 exceeds cutoff 0.02099; retained for investigation, not removed
+sequence (flagged, retained)	OR771692|US7|HSV1/USA/WA-UW-2Q9/2020||||False|False|cluster_size=1|collapsed=OR771692	US7	HSV1	alignment outlier screen	consensus distance 0.02222 exceeds cutoff 0.02099; retained for investigation, not removed
+sequence (flagged, retained)	ON783216|US7|B^3x1.1C|USA|2015.0||False|False|cluster_size=1|collapsed=ON783216	US7	HSV1	alignment outlier screen	consensus distance 0.10368 exceeds cutoff 0.02099; retained for investigation, not removed
+sequence (flagged, retained)	ON783214|US7|B^3x1.1A|USA|2015.0||False|False|cluster_size=1|collapsed=ON783214	US7	HSV1	alignment outlier screen	consensus distance 0.02821 exceeds cutoff 0.02099; retained for investigation, not removed
+sequence (flagged, retained)	HM585509|US7|E03||||False|False|cluster_size=1|collapsed=HM585509	US7	HSV1	alignment outlier screen	consensus distance 0.02228 exceeds cutoff 0.02099; retained for investigation, not removed
+sequence (flagged, retained)	ON783216|US8|B^3x1.1C|USA|2015.0||False|False|cluster_size=1|collapsed=ON783216	US8	HSV1	alignment outlier screen	consensus distance 0.03352 exceeds cutoff 0.01879; retained for investigation, not removed
+sequence (flagged, retained)	ON783214|US8|B^3x1.1A|USA|2015.0||False|False|cluster_size=1|collapsed=ON783214	US8	HSV1	alignment outlier screen	consensus distance 0.01886 exceeds cutoff 0.01879; retained for investigation, not removed
+sequence (flagged, retained)	KR135329|RL2|HSV-2/JP/BID-G32593/JA9||||False|False|cohort_tier=Tier|cluster_size=1|collapsed=KR135329	RL2	HSV2	alignment outlier screen	consensus distance 0.05093 exceeds cutoff 0.00867; retained for investigation, not removed
+sequence (flagged, retained)	PQ065497|RS1|HSV2/USA/WA-UW-2H10/2019||||False|False|cohort_tier=Tier|cluster_size=1|collapsed=PQ065497	RS1	HSV2	alignment outlier screen	consensus distance 0.00654 exceeds cutoff 0.00635; retained for investigation, not removed
+sequence (flagged, retained)	MF510298|RS1|||||False|False|cohort_tier=Tier|cluster_size=1|collapsed=MF510298	RS1	HSV2	alignment outlier screen	consensus distance 0.02869 exceeds cutoff 0.00635; retained for investigation, not removed
+sequence (flagged, retained)	PQ065503|UL1|HSV2/USA/WA-UW-2K9/2019||||False|False|cluster_size=1|collapsed=PQ065503	UL1	HSV2	alignment outlier screen	consensus distance 0.00298 exceeds cutoff 0.00149; retained for investigation, not removed
+sequence (flagged, retained)	MT364888|UL1|||||False|False|cluster_size=1|collapsed=MT364888	UL1	HSV2	alignment outlier screen	consensus distance 0.00298 exceeds cutoff 0.00149; retained for investigation, not removed
+sequence (flagged, retained)	KX574865|UL1|2006-30839||||False|False|cluster_size=1|collapsed=KX574865	UL1	HSV2	alignment outlier screen	consensus distance 0.00298 exceeds cutoff 0.00149; retained for investigation, not removed
+sequence (flagged, retained)	KR135321|UL1|HSV-2/US/BID-G19094/89-390/1989||||False|False|cluster_size=2|collapsed=KR135321,KR135320	UL1	HSV2	alignment outlier screen	consensus distance 0.00298 exceeds cutoff 0.00149; retained for investigation, not removed
+sequence (flagged, retained)	KR135316|UL1|HSV-2/UG/BID-G19088/G75809/2007||||False|False|cluster_size=1|collapsed=KR135316	UL1	HSV2	alignment outlier screen	consensus distance 0.00298 exceeds cutoff 0.00149; retained for investigation, not removed
+sequence (flagged, retained)	KR135302|UL1|HSV-2/UG/BID-G19074/M1119/2007||||False|False|cluster_size=3|collapsed=KR135302,MF510283,KX574906	UL1	HSV2	alignment outlier screen	consensus distance 0.00446 exceeds cutoff 0.00149; retained for investigation, not removed
+sequence (flagged, retained)	PP100014|UL1|104||||False|False|cluster_size=1|collapsed=PP100014	UL1	HSV2	alignment outlier screen	consensus distance 0.00298 exceeds cutoff 0.00149; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|UL1|2006-15095||||False|False|cluster_size=1|collapsed=MH899846	UL1	HSV2	alignment outlier screen	consensus distance 0.00744 exceeds cutoff 0.00149; retained for investigation, not removed
+sequence (flagged, retained)	MH790624|UL1|2018-3121||||False|False|cluster_size=2|collapsed=MH790624,KX574878	UL1	HSV2	alignment outlier screen	consensus distance 0.00298 exceeds cutoff 0.00149; retained for investigation, not removed
+sequence (flagged, retained)	MH790658|UL1|2006-16150CAM||||False|False|cluster_size=1|collapsed=MH790658	UL1	HSV2	alignment outlier screen	consensus distance 0.00893 exceeds cutoff 0.00149; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|UL22|2006-15095||||False|False|cluster_size=1|collapsed=MH899846	UL22	HSV2	alignment outlier screen	consensus distance 0.00835 exceeds cutoff 0.00398; retained for investigation, not removed
+sequence (flagged, retained)	MH790658|UL22|2006-16150CAM||||False|False|cluster_size=1|collapsed=MH790658	UL22	HSV2	alignment outlier screen	consensus distance 0.00835 exceeds cutoff 0.00398; retained for investigation, not removed
+sequence (flagged, retained)	PQ065502|UL27|HSV2/USA/WA-UW-2J9/2019||||False|False|cluster_size=1|collapsed=PQ065502	UL27	HSV2	alignment outlier screen	consensus distance 0.00592 exceeds cutoff 0.0037; retained for investigation, not removed
+sequence (flagged, retained)	MT364888|UL27|||||False|False|cluster_size=1|collapsed=MT364888	UL27	HSV2	alignment outlier screen	consensus distance 0.00592 exceeds cutoff 0.0037; retained for investigation, not removed
+sequence (flagged, retained)	KR135317|UL27|HSV-2/UG/BID-G19089/A76832/2007||||False|False|cluster_size=3|collapsed=KR135317,KR135316,KR135300	UL27	HSV2	alignment outlier screen	consensus distance 0.00444 exceeds cutoff 0.0037; retained for investigation, not removed
+sequence (flagged, retained)	KR135302|UL27|HSV-2/UG/BID-G19074/M1119/2007||||False|False|cluster_size=1|collapsed=KR135302	UL27	HSV2	alignment outlier screen	consensus distance 0.00592 exceeds cutoff 0.0037; retained for investigation, not removed
+sequence (flagged, retained)	MF621258|UL27|2009-4463||||False|False|cluster_size=1|collapsed=MF621258	UL27	HSV2	alignment outlier screen	consensus distance 0.00407 exceeds cutoff 0.0037; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|UL27|2006-15095||||False|False|cluster_size=1|collapsed=MH899846	UL27	HSV2	alignment outlier screen	consensus distance 0.00777 exceeds cutoff 0.0037; retained for investigation, not removed
+sequence (flagged, retained)	MF510324|UL27|2012-18385||||False|False|cluster_size=1|collapsed=MF510324	UL27	HSV2	alignment outlier screen	consensus distance 0.00592 exceeds cutoff 0.0037; retained for investigation, not removed
+sequence (flagged, retained)	MH790658|UL27|2006-16150CAM||||False|False|cluster_size=1|collapsed=MH790658	UL27	HSV2	alignment outlier screen	consensus distance 0.0074 exceeds cutoff 0.0037; retained for investigation, not removed
+sequence (flagged, retained)	MF510283|UL27|2012_9333||||False|False|cluster_size=1|collapsed=MF510283	UL27	HSV2	alignment outlier screen	consensus distance 0.00518 exceeds cutoff 0.0037; retained for investigation, not removed
+sequence (flagged, retained)	KX574894|UL27|2009-4556||||False|False|cluster_size=1|collapsed=KX574894	UL27	HSV2	alignment outlier screen	consensus distance 0.00481 exceeds cutoff 0.0037; retained for investigation, not removed
+sequence (flagged, retained)	PQ065517|UL30|HSV2/USA/WA-UW-2P6/2020||||False|False|cluster_size=1|collapsed=PQ065517	UL30	HSV2	alignment outlier screen	consensus distance 0.00296 exceeds cutoff 0.00242; retained for investigation, not removed
+sequence (flagged, retained)	PP100029|UL30|86||||False|False|cluster_size=1|collapsed=PP100029	UL30	HSV2	alignment outlier screen	consensus distance 0.01942 exceeds cutoff 0.00242; retained for investigation, not removed
+sequence (flagged, retained)	PP100014|UL30|104||||False|False|cluster_size=1|collapsed=PP100014	UL30	HSV2	alignment outlier screen	consensus distance 0.02211 exceeds cutoff 0.00242; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|UL30|2006-15095||||False|False|cluster_size=1|collapsed=MH899846	UL30	HSV2	alignment outlier screen	consensus distance 0.02184 exceeds cutoff 0.00242; retained for investigation, not removed
+sequence (flagged, retained)	MH790652|UL30|2012-26422||||False|False|cluster_size=1|collapsed=MH790652	UL30	HSV2	alignment outlier screen	consensus distance 0.02043 exceeds cutoff 0.00242; retained for investigation, not removed
+sequence (flagged, retained)	MF621257|UL30|2008-15116||||False|False|cluster_size=1|collapsed=MF621257	UL30	HSV2	alignment outlier screen	consensus distance 0.01942 exceeds cutoff 0.00242; retained for investigation, not removed
+sequence (flagged, retained)	MF510324|UL30|2012-18385||||False|False|cluster_size=1|collapsed=MF510324	UL30	HSV2	alignment outlier screen	consensus distance 0.02053 exceeds cutoff 0.00242; retained for investigation, not removed
+sequence (flagged, retained)	MH790658|UL30|2006-16150CAM||||False|False|cluster_size=1|collapsed=MH790658	UL30	HSV2	alignment outlier screen	consensus distance 0.02211 exceeds cutoff 0.00242; retained for investigation, not removed
+sequence (flagged, retained)	MF510283|UL30|2012_9333||||False|False|cluster_size=1|collapsed=MF510283	UL30	HSV2	alignment outlier screen	consensus distance 0.02023 exceeds cutoff 0.00242; retained for investigation, not removed
+sequence (flagged, retained)	MF510280|UL30|2009_3495||||False|False|cluster_size=1|collapsed=MF510280	UL30	HSV2	alignment outlier screen	consensus distance 0.02107 exceeds cutoff 0.00242; retained for investigation, not removed
+sequence (flagged, retained)	KX574906|UL30|2012-9333||||False|False|cluster_size=1|collapsed=KX574906	UL30	HSV2	alignment outlier screen	consensus distance 0.00645 exceeds cutoff 0.00242; retained for investigation, not removed
+sequence (flagged, retained)	KR135323|UL44|HSV-2/JP/BID-G32587/JA2||||False|False|cluster_size=1|collapsed=KR135323	UL44	HSV2	alignment outlier screen	consensus distance 0.00694 exceeds cutoff 0.00625; retained for investigation, not removed
+sequence (flagged, retained)	KR135319|UL44|HSV-2/UG/BID-G19091/D39765/2008||||False|False|cluster_size=5|collapsed=KR135319,KR135317,KR135307,MF621258,MF510296	UL44	HSV2	alignment outlier screen	consensus distance 0.00694 exceeds cutoff 0.00625; retained for investigation, not removed
+sequence (flagged, retained)	KR135316|UL44|HSV-2/UG/BID-G19088/G75809/2007||||False|False|cluster_size=1|collapsed=KR135316	UL44	HSV2	alignment outlier screen	consensus distance 0.00764 exceeds cutoff 0.00625; retained for investigation, not removed
+sequence (flagged, retained)	PP100028|UL44|85||||False|False|cluster_size=1|collapsed=PP100028	UL44	HSV2	alignment outlier screen	consensus distance 0.00764 exceeds cutoff 0.00625; retained for investigation, not removed
+sequence (flagged, retained)	PP099994|UL44|130||||False|False|cluster_size=1|collapsed=PP099994	UL44	HSV2	alignment outlier screen	consensus distance 0.00764 exceeds cutoff 0.00625; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|UL44|2006-15095||||False|False|cluster_size=2|collapsed=MH899846,MH790658	UL44	HSV2	alignment outlier screen	consensus distance 0.01404 exceeds cutoff 0.00625; retained for investigation, not removed
+sequence (flagged, retained)	MH790652|UL44|2012-26422||||False|False|cluster_size=1|collapsed=MH790652	UL44	HSV2	alignment outlier screen	consensus distance 0.00694 exceeds cutoff 0.00625; retained for investigation, not removed
+sequence (flagged, retained)	MF510347|UL44|2009_3488||||False|False|cluster_size=1|collapsed=MF510347	UL44	HSV2	alignment outlier screen	consensus distance 0.00694 exceeds cutoff 0.00625; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|UL46|2006-15095||||False|False|cluster_size=2|collapsed=MH899846,MH790658	UL46	HSV2	alignment outlier screen	consensus distance 0.01017 exceeds cutoff 0.00745; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|UL47|2006-15095||||False|False|cluster_size=1|collapsed=MH899846	UL47	HSV2	alignment outlier screen	consensus distance 0.00431 exceeds cutoff 0.00383; retained for investigation, not removed
+sequence (flagged, retained)	MH790658|UL47|2006-16150CAM||||False|False|cluster_size=1|collapsed=MH790658	UL47	HSV2	alignment outlier screen	consensus distance 0.00527 exceeds cutoff 0.00383; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|UL48|2006-15095||||False|False|cluster_size=2|collapsed=MH899846,MH790658	UL48	HSV2	alignment outlier screen	consensus distance 0.00884 exceeds cutoff 0.00612; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|UL49|2006-15095||||False|False|cluster_size=2|collapsed=MH899846,MH790658	UL49	HSV2	alignment outlier screen	consensus distance 0.0144 exceeds cutoff 0.01214; retained for investigation, not removed
+sequence (flagged, retained)	PQ065515|UL54|HSV2/USA/WA-UW-2P4/2020||||False|False|cluster_size=1|collapsed=PQ065515	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	PQ065502|UL54|HSV2/USA/WA-UW-2J9/2019||||False|False|cluster_size=1|collapsed=PQ065502	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	PP100073|UL54|33||||False|False|cluster_size=6|collapsed=PP100073,PP100000,MH790622,MH790562,MF510318...(+1)	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KY922724|UL54|HSV2-H1526||||False|False|cluster_size=1|collapsed=KY922724	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KY922721|UL54|HSV2-H1227|USA|||False|False|cluster_size=3|collapsed=KY922721,MF510298,KX574875	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KX574871|UL54|2007-38120||||False|False|cluster_size=1|collapsed=KX574871	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KX574869|UL54|2006-50074||||False|False|cluster_size=2|collapsed=KX574869,KX574868	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KR135328|UL54|HSV-2/JP/BID-G32592/JA8||||False|False|cluster_size=1|collapsed=KR135328	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KR135327|UL54|HSV-2/JP/BID-G32591/JA7||||False|False|cluster_size=1|collapsed=KR135327	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KR135318|UL54|HSV-2/UG/BID-G19090/D39650/2008||||False|False|cluster_size=1|collapsed=KR135318	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KR135311|UL54|HSV-2/US/BID-G19083/10883-2001-13347/2005||||False|False|cluster_size=1|collapsed=KR135311	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KR135306|UL54|HSV-2/UG/BID-G19078/A76191/2008||||False|False|cluster_size=1|collapsed=KR135306	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KR135302|UL54|HSV-2/UG/BID-G19074/M1119/2007||||False|False|cluster_size=1|collapsed=KR135302	UL54	HSV2	alignment outlier screen	consensus distance 0.00195 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KR135301|UL54|HSV-2/UG/BID-G19073/F70764/2007||||False|False|cluster_size=1|collapsed=KR135301	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	PP100084|UL54|11||||False|False|cluster_size=3|collapsed=PP100084,MF510310,MF510304	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	PP100036|UL54|94||||False|False|cluster_size=3|collapsed=PP100036,KX574895,KX574888	UL54	HSV2	alignment outlier screen	consensus distance 0.00195 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	MH790594|UL54|1999-4603||||False|False|cluster_size=4|collapsed=MH790594,MH790637,MH790621,MH790559	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|UL54|2006-15095||||False|False|cluster_size=1|collapsed=MH899846	UL54	HSV2	alignment outlier screen	consensus distance 0.00651 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	MH790636|UL54|2004-1497||||False|False|cluster_size=2|collapsed=MH790636,MH790589	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	MH790620|UL54|2013-22594||||False|False|cluster_size=1|collapsed=MH790620	UL54	HSV2	alignment outlier screen	consensus distance 0.00326 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	MH790586|UL54|2016-8369||||False|False|cluster_size=1|collapsed=MH790586	UL54	HSV2	alignment outlier screen	consensus distance 0.0026 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	MF510344|UL54|2006-25060||||False|False|cluster_size=1|collapsed=MF510344	UL54	HSV2	alignment outlier screen	consensus distance 0.00456 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	MF510336|UL54|2007-36717||||False|False|cluster_size=1|collapsed=MF510336	UL54	HSV2	alignment outlier screen	consensus distance 0.00391 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	MH790658|UL54|2006-16150CAM||||False|False|cluster_size=1|collapsed=MH790658	UL54	HSV2	alignment outlier screen	consensus distance 0.00781 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	MH790595|UL54|2006-14635CAM||||False|False|cluster_size=1|collapsed=MH790595	UL54	HSV2	alignment outlier screen	consensus distance 0.00456 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	MF510315|UL54|2002_8781||||False|False|cluster_size=1|collapsed=MF510315	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	MF510283|UL54|2012_9333||||False|False|cluster_size=2|collapsed=MF510283,KX574906	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KY922722|UL54|HSV2-H1229||||False|False|cluster_size=1|collapsed=KY922722	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KX574905|UL54|2009-2198||||False|False|cluster_size=1|collapsed=KX574905	UL54	HSV2	alignment outlier screen	consensus distance 0.0026 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	KX574885|UL54|2008-37496||||False|False|cluster_size=1|collapsed=KX574885	UL54	HSV2	alignment outlier screen	consensus distance 0.0013 exceeds cutoff 0.00065; retained for investigation, not removed
+sequence (flagged, retained)	PP100031|US4|89||||False|False|cluster_size=1|collapsed=PP100031	US4	HSV2	alignment outlier screen	consensus distance 0.01194 exceeds cutoff 0.00525; retained for investigation, not removed
+sequence (flagged, retained)	PP100012|US4|108||||False|False|cluster_size=1|collapsed=PP100012	US4	HSV2	alignment outlier screen	consensus distance 0.00573 exceeds cutoff 0.00525; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|US4|2006-15095||||False|False|cluster_size=2|collapsed=MH899846,MH790658	US4	HSV2	alignment outlier screen	consensus distance 0.02006 exceeds cutoff 0.00525; retained for investigation, not removed
+sequence (flagged, retained)	MH790568|US4|2012-4759||||False|False|cluster_size=1|collapsed=MH790568	US4	HSV2	alignment outlier screen	consensus distance 0.00573 exceeds cutoff 0.00525; retained for investigation, not removed
+sequence (flagged, retained)	MH790564|US4|2008-29150||||False|False|cluster_size=1|collapsed=MH790564	US4	HSV2	alignment outlier screen	consensus distance 0.01337 exceeds cutoff 0.00525; retained for investigation, not removed
+sequence (flagged, retained)	MF510355|US4|2001-33392||||False|False|cluster_size=1|collapsed=MF510355	US4	HSV2	alignment outlier screen	consensus distance 0.00669 exceeds cutoff 0.00525; retained for investigation, not removed
+sequence (flagged, retained)	MF510347|US4|2009_3488||||False|False|cluster_size=1|collapsed=MF510347	US4	HSV2	alignment outlier screen	consensus distance 0.00621 exceeds cutoff 0.00525; retained for investigation, not removed
+sequence (flagged, retained)	MF510296|US4|2009_3539||||False|False|cluster_size=1|collapsed=MF510296	US4	HSV2	alignment outlier screen	consensus distance 0.00716 exceeds cutoff 0.00525; retained for investigation, not removed
+sequence (flagged, retained)	KX574883|US4|2007-8222||||False|False|cluster_size=1|collapsed=KX574883	US4	HSV2	alignment outlier screen	consensus distance 0.01289 exceeds cutoff 0.00525; retained for investigation, not removed
+sequence (flagged, retained)	PQ065502|US7|HSV2/USA/WA-UW-2J9/2019||||False|False|cluster_size=1|collapsed=PQ065502	US7	HSV2	alignment outlier screen	consensus distance 0.00896 exceeds cutoff 0.00717; retained for investigation, not removed
+sequence (flagged, retained)	KR135328|US7|HSV-2/JP/BID-G32592/JA8||||False|False|cluster_size=1|collapsed=KR135328	US7	HSV2	alignment outlier screen	consensus distance 0.00811 exceeds cutoff 0.00717; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|US7|2006-15095||||False|False|cluster_size=1|collapsed=MH899846	US7	HSV2	alignment outlier screen	consensus distance 0.00806 exceeds cutoff 0.00717; retained for investigation, not removed
+sequence (flagged, retained)	MH790658|US7|2006-16150CAM||||False|False|cluster_size=1|collapsed=MH790658	US7	HSV2	alignment outlier screen	consensus distance 0.01075 exceeds cutoff 0.00717; retained for investigation, not removed
+sequence (flagged, retained)	MH899846|US8|2006-15095||||False|False|cluster_size=2|collapsed=MH899846,MH790658	US8	HSV2	alignment outlier screen	consensus distance 0.00791 exceeds cutoff 0.00487; retained for investigation, not removed
